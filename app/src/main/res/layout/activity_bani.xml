@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <dev.oneuiproject.oneui.layout.ToolbarLayout
+        android:id="@+id/toolbarLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:expanded="false"
+        app:showNavButtonAsBack="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ProgressBar
+                android:id="@+id/progressBar"
+                style="@android:style/Widget.ProgressBar.Horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="3dp"
+                android:max="100"
+                android:progress="0"
+                android:progressDrawable="@drawable/progress_bar_drawable" />
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+
+                <androidx.core.widget.NestedScrollView
+                    android:id="@+id/scrollView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:fillViewport="true">
+
+                    <LinearLayout
+                        android:id="@+id/contentContainer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="@dimen/content_padding" />
+
+                </androidx.core.widget.NestedScrollView>
+
+                <!-- Resume reading card (SuggestionCard style) -->
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/resumeCard"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:layout_margin="@dimen/content_padding"
+                    android:layout_marginBottom="72dp"
+                    android:visibility="gone"
+                    app:cardCornerRadius="16dp"
+                    app:cardElevation="4dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="@dimen/content_padding">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/resume_title"
+                            android:textAppearance="?attr/textAppearanceTitleMedium" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="4dp"
+                            android:text="@string/resume_summary"
+                            android:textAppearance="?attr/textAppearanceBodySmall"
+                            android:textColor="?attr/colorOnSurfaceVariant" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="8dp"
+                            android:gravity="end"
+                            android:orientation="horizontal">
+
+                            <com.google.android.material.button.MaterialButton
+                                android:id="@+id/resumeDismiss"
+                                style="@style/Widget.Material3.Button.TextButton"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@android:string/cancel" />
+
+                            <com.google.android.material.button.MaterialButton
+                                android:id="@+id/resumeButton"
+                                style="@style/Widget.Material3.Button.TextButton"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/resume_action" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                </com.google.android.material.card.MaterialCardView>
+
+                <!-- Auto-scroll FABs -->
+                <com.google.android.material.floatingactionbutton.FloatingActionButton
+                    android:id="@+id/fabSpeedDown"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|end"
+                    android:layout_marginEnd="@dimen/fab_margin"
+                    android:layout_marginBottom="112dp"
+                    android:contentDescription="@string/auto_scroll_slower"
+                    android:visibility="gone"
+                    app:fabCustomSize="@dimen/fab_size_small"
+                    app:maxImageSize="20dp" />
+
+                <com.google.android.material.floatingactionbutton.FloatingActionButton
+                    android:id="@+id/fabPlay"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|end"
+                    android:layout_margin="@dimen/fab_margin"
+                    android:contentDescription="@string/auto_scroll_play"
+                    app:fabCustomSize="@dimen/fab_size_small" />
+
+                <com.google.android.material.floatingactionbutton.FloatingActionButton
+                    android:id="@+id/fabSpeedUp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|end"
+                    android:layout_marginEnd="64dp"
+                    android:layout_marginBottom="@dimen/fab_margin"
+                    android:contentDescription="@string/auto_scroll_faster"
+                    android:visibility="gone"
+                    app:fabCustomSize="@dimen/fab_size_small"
+                    app:maxImageSize="20dp" />
+
+            </FrameLayout>
+
+            <!-- Section tabs for Sukhmani Sahib astpadis -->
+            <HorizontalScrollView
+                android:id="@+id/sectionTabsContainer"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/section_tab_height"
+                android:background="?attr/colorSurface"
+                android:elevation="4dp"
+                android:scrollbars="none"
+                android:visibility="gone">
+
+                <com.google.android.material.tabs.TabLayout
+                    android:id="@+id/sectionTabs"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    app:tabMode="scrollable"
+                    app:tabGravity="start" />
+
+            </HorizontalScrollView>
+
+        </LinearLayout>
+
+    </dev.oneuiproject.oneui.layout.ToolbarLayout>
+
+</FrameLayout>

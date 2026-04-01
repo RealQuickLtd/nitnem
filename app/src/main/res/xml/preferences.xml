@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/pref_category_general">
+
+        <DropDownPreference
+            app:key="transliteration_language"
+            app:title="@string/pref_transliteration_title"
+            app:entries="@array/transliteration_entries"
+            app:entryValues="@array/transliteration_values"
+            app:defaultValue="en"
+            app:useSimpleSummaryProvider="true" />
+
+        <SwitchPreferenceCompat
+            app:key="center_align"
+            app:title="@string/pref_center_align_title"
+            app:summary="@string/pref_center_align_summary"
+            app:defaultValue="false" />
+
+        <SwitchPreferenceCompat
+            app:key="keep_screen_on"
+            app:title="@string/pref_keep_screen_on_title"
+            app:summary="@string/pref_keep_screen_on_summary"
+            app:defaultValue="true" />
+
+        <SwitchPreferenceCompat
+            app:key="remember_position"
+            app:title="@string/pref_remember_position_title"
+            app:summary="@string/pref_remember_position_summary"
+            app:defaultValue="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/pref_category_advanced">
+
+        <SwitchPreferenceCompat
+            app:key="per_bani_speed"
+            app:title="@string/pref_per_bani_speed_title"
+            app:summary="@string/pref_per_bani_speed_summary"
+            app:defaultValue="false" />
+
+        <SwitchPreferenceCompat
+            app:key="per_bani_font_size"
+            app:title="@string/pref_per_bani_font_title"
+            app:summary="@string/pref_per_bani_font_summary"
+            app:defaultValue="false" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

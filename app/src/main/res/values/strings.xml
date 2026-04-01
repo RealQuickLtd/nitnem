@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nitnem Sahib</string>
+
+    <!-- Search -->
+    <string name="search_hint">Search banis</string>
+
+    <!-- Menu -->
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+
+    <!-- Bani Screen -->
+    <string name="action_fullscreen">Fullscreen</string>
+    <string name="action_decrease_font">Decrease font size</string>
+    <string name="action_increase_font">Increase font size</string>
+
+    <!-- Auto-scroll -->
+    <string name="auto_scroll_play">Start auto-scroll</string>
+    <string name="auto_scroll_pause">Pause auto-scroll</string>
+    <string name="auto_scroll_faster">Increase speed</string>
+    <string name="auto_scroll_slower">Decrease speed</string>
+
+    <!-- Resume card -->
+    <string name="resume_title">Continue Reading?</string>
+    <string name="resume_summary">You were reading this bani earlier. Pick up where you left off.</string>
+    <string name="resume_action">Continue</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="pref_category_general">General</string>
+    <string name="pref_category_advanced">Advanced</string>
+
+    <string name="pref_transliteration_title">Transliteration</string>
+    <string name="pref_transliteration_summary">Display language for bani text</string>
+
+    <string name="pref_center_align_title">Center Align</string>
+    <string name="pref_center_align_summary">Center align bani text on reading screen</string>
+
+    <string name="pref_keep_screen_on_title">Keep Screen On</string>
+    <string name="pref_keep_screen_on_summary">Prevent screen from turning off while reading</string>
+
+    <string name="pref_remember_position_title">Remember Reading Position</string>
+    <string name="pref_remember_position_summary">Resume from where you left off</string>
+
+    <string name="pref_per_bani_speed_title">Per Bani Speed</string>
+    <string name="pref_per_bani_speed_summary">Remember auto-scroll speed separately for each bani</string>
+
+    <string name="pref_per_bani_font_title">Per Bani Font Size</string>
+    <string name="pref_per_bani_font_summary">Remember font size separately for each bani</string>
+
+    <!-- About -->
+    <string name="about_title">About</string>
+    <string name="about_github">GitHub</string>
+    <string name="about_licenses">Open-Source Licenses</string>
+    <string name="licenses_title">Open-Source Licenses</string>
+
+    <!-- Transliteration options -->
+    <string-array name="transliteration_entries">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Punjabi</item>
+    </string-array>
+    <string-array name="transliteration_values">
+        <item>en</item>
+        <item>hi</item>
+        <item>pn</item>
+    </string-array>
+</resources>

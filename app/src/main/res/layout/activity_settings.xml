@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dev.oneuiproject.oneui.layout.ToolbarLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbarLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:title="@string/settings_title"
+    app:expanded="false"
+    app:showNavButtonAsBack="true">
+
+    <dev.oneuiproject.oneui.widget.RoundedFrameLayout
+        android:id="@+id/settingsContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</dev.oneuiproject.oneui.layout.ToolbarLayout>

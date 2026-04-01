@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paragraph_spacing">16dp</dimen>
+    <dimen name="content_padding">20dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_size_small">40dp</dimen>
+    <dimen name="section_tab_height">48dp</dimen>
+</resources>

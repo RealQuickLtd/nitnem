@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_font_decrease"
+        android:title="@string/action_decrease_font"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_font_increase"
+        android:title="@string/action_increase_font"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_fullscreen"
+        android:title="@string/action_fullscreen"
+        app:showAsAction="always" />
+
+</menu>

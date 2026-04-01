@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dev.oneuiproject.oneui.layout.AppInfoLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/appInfoLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/githubButton"
+        android:theme="@style/OneUI.ContainedButtonTheme"
+        style="@style/OneUI.ContainedButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/about_github" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/licensesButton"
+        android:theme="@style/OneUI.ContainedButtonTheme"
+        style="@style/OneUI.ContainedButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/about_licenses" />
+
+</dev.oneuiproject.oneui.layout.AppInfoLayout>
