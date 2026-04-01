@@ -20,6 +20,12 @@ class PrefsManager(context: Context) {
     val rememberPosition: Boolean
         get() = prefs.getBoolean(KEY_REMEMBER_POSITION, true)
 
+    val autoScrollEnabled: Boolean
+        get() = prefs.getBoolean(KEY_AUTO_SCROLL_ENABLED, true)
+
+    val backToTopEnabled: Boolean
+        get() = prefs.getBoolean(KEY_BACK_TO_TOP_ENABLED, false)
+
     val perBaniSpeed: Boolean
         get() = prefs.getBoolean(KEY_PER_BANI_SPEED, false)
 
@@ -62,6 +68,8 @@ class PrefsManager(context: Context) {
         const val KEY_CENTER_ALIGN = "center_align"
         const val KEY_KEEP_SCREEN_ON = "keep_screen_on"
         const val KEY_REMEMBER_POSITION = "remember_position"
+        const val KEY_AUTO_SCROLL_ENABLED = "auto_scroll_enabled"
+        const val KEY_BACK_TO_TOP_ENABLED = "back_to_top_enabled"
         const val KEY_PER_BANI_SPEED = "per_bani_speed"
         const val KEY_PER_BANI_FONT_SIZE = "per_bani_font_size"
         const val KEY_FONT_SIZE = "font_size"
@@ -71,11 +79,10 @@ class PrefsManager(context: Context) {
         const val DEFAULT_FONT_SIZE = 18f
         const val MIN_FONT_SIZE = 12f
         const val MAX_FONT_SIZE = 32f
-        const val FONT_SIZE_STEP = 2f
+        const val FONT_SIZE_STEP = 1f
 
-        const val DEFAULT_SCROLL_SPEED = 60 // px per second
-        const val MIN_SCROLL_SPEED = 15
-        const val MAX_SCROLL_SPEED = 200
-        const val SCROLL_SPEED_STEP = 15
+        const val DEFAULT_SCROLL_SPEED = 100 // percentage of current text line height per second
+        const val MIN_SCROLL_SPEED = 60
+        const val MAX_SCROLL_SPEED = 160
     }
 }

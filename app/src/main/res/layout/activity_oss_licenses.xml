@@ -6,13 +6,22 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:title="@string/licenses_title"
-    app:expanded="false"
+    app:expanded="true"
     app:showNavButtonAsBack="true">
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerView"
+    <dev.oneuiproject.oneui.widget.RoundedFrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:clipToPadding="false" />
+        android:layout_marginHorizontal="@dimen/page_edge_margin"
+        android:background="?android:colorBackground"
+        app:roundedCorners="top_left|top_right">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipToPadding="false" />
+
+    </dev.oneuiproject.oneui.widget.RoundedFrameLayout>
 
 </dev.oneuiproject.oneui.layout.ToolbarLayout>

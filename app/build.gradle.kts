@@ -46,11 +46,17 @@ android {
     }
 }
 
+configurations.all {
+    resolutionStrategy {
+        force("androidx.activity:activity:1.9.3")
+        force("androidx.activity:activity-ktx:1.9.3")
+    }
+}
+
 dependencies {
     implementation(libs.oneui.design)
     implementation(libs.bundles.sesl.androidx)
     implementation(libs.sesl.material)
     implementation(libs.oneui.icons)
     implementation(libs.activity.ktx)
-    implementation(libs.rikka.refine.runtime)
 }

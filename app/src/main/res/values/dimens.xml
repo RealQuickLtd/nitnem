@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="paragraph_spacing">16dp</dimen>
+    <dimen name="page_edge_margin">10dp</dimen>
+    <dimen name="paragraph_spacing">17dp</dimen>
     <dimen name="content_padding">20dp</dimen>
-    <dimen name="fab_margin">16dp</dimen>
-    <dimen name="fab_size_small">40dp</dimen>
     <dimen name="section_tab_height">48dp</dimen>
+    <dimen name="reader_control_button_size">48dp</dimen>
+    <dimen name="reader_control_spacing">12dp</dimen>
+    <dimen name="reader_controls_margin">16dp</dimen>
+    <dimen name="reader_content_bottom_padding">112dp</dimen>
+    <dimen name="resume_card_spacing">16dp</dimen>
 </resources>

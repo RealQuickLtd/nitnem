@@ -2,6 +2,8 @@ package ltd.realquick.nitnem
 
 import android.content.Intent
 import android.os.Bundle
+import android.view.Menu
+import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.SearchView
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -22,6 +24,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        title = getString(R.string.app_name)
+        binding.toolbarLayout.setTitle(getString(R.string.app_name))
 
         adapter = BaniAdapter { bani ->
             startActivity(
@@ -35,28 +39,28 @@ class MainActivity : AppCompatActivity() {
         binding.recyclerView.layoutManager = LinearLayoutManager(this)
         binding.recyclerView.adapter = adapter
         adapter.submitList(BaniRepository.BANI_LIST)
-
-        setupToolbar()
     }
 
-    private fun setupToolbar() {
-        binding.toolbarLayout.toolbar.inflateMenu(R.menu.menu_main)
-        binding.toolbarLayout.toolbar.setOnMenuItemClickListener { item ->
-            when (item.itemId) {
-                R.id.action_search -> {
-                    binding.toolbarLayout.startSearchMode(searchModeListener)
-                    true
-                }
-                R.id.action_settings -> {
-                    startActivity(Intent(this, SettingsActivity::class.java))
-                    true
-                }
-                R.id.action_about -> {
-                    startActivity(Intent(this, AboutActivity::class.java))
-                    true
-                }
-                else -> false
+    override fun onCreateOptionsMenu(menu: Menu): Boolean {
+        menuInflater.inflate(R.menu.menu_main, menu)
+        return true
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        return when (item.itemId) {
+            R.id.action_search -> {
+                binding.toolbarLayout.startSearchMode(searchModeListener)
+                true
             }
+            R.id.action_settings -> {
+                startActivity(Intent(this, SettingsActivity::class.java))
+                true
+            }
+            R.id.action_about -> {
+                startActivity(Intent(this, AboutActivity::class.java))
+                true
+            }
+            else -> super.onOptionsItemSelected(item)
         }
     }
 
@@ -69,7 +73,9 @@ class MainActivity : AppCompatActivity() {
         }
 
         override fun onSearchModeToggle(searchView: SearchView, visible: Boolean) {
-            if (!visible) {
+            if (visible) {
+                searchView.queryHint = getString(R.string.search_hint)
+            } else {
                 adapter.filter("")
             }
         }

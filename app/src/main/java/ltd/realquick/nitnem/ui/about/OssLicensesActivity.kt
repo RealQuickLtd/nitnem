@@ -19,8 +19,7 @@ class OssLicensesActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityOssLicensesBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
-        binding.toolbarLayout.setNavigationButtonOnClickListener {
+        binding.toolbarLayout.toolbar.setNavigationOnClickListener {
             onBackPressedDispatcher.onBackPressed()
         }
 
@@ -48,9 +47,10 @@ class OssLicensesActivity : AppCompatActivity() {
 
         override fun onBindViewHolder(holder: ViewHolder, position: Int) {
             val item = items[position]
-            holder.binding.licenseName.text = item.name
-            holder.binding.licenseInfo.text = item.license
-            holder.itemView.setOnClickListener { onClick(item.url) }
+            holder.binding.cardItem.title = item.name
+            holder.binding.cardItem.summary = item.license
+            holder.binding.cardItem.showTopDivider = position != 0
+            holder.binding.cardItem.setOnClickListener { onClick(item.url) }
         }
 
         override fun getItemCount(): Int = items.size
@@ -75,13 +75,8 @@ class OssLicensesActivity : AppCompatActivity() {
             ),
             License(
                 "BaniDB API",
-                "GPL-3.0",
-                "https://github.com/KhalisFoundation/banidb-api"
-            ),
-            License(
-                "Rikka Refine",
                 "MIT License",
-                "https://github.com/ArcticFoxPro/RikkaX"
+                "https://github.com/KhalisFoundation/banidb-api"
             )
         )
     }

@@ -1,48 +1,29 @@
 # Nitnem Sahib
 
-A Sikh daily prayer (Nitnem) app for Android, built with Samsung OneUI design.
+Gurbani daily prayer app for Android, built with One UI design.
 
-## Features
+10 banis bundled offline from [BaniDB](https://github.com/KhalisFoundation/banidb-api). No network needed at runtime.
 
-- **10 Banis**: Japji Sahib, Jaap Sahib, Sukhmani Sahib, Shabad Hazare, Chaupai Sahib, Rehras Sahib, Kirtan Sohila, Anand Sahib, and both Tavprasad Savaiye
-- **Transliteration**: English, Hindi, and Punjabi — switch in settings
-- **Auto-scroll**: Smooth auto-scroll with adjustable speed
-- **Sukhmani Sahib**: Scrollable Astpadi tabs with auto-switching
-- **Resume reading**: Pick up where you left off with a suggestion card
-- **Fullscreen mode**: Immersive reading with system bars hidden
-- **Adjustable font size**: A-/A+ controls in the toolbar
-- **Per-bani settings**: Optional per-bani font size and scroll speed
-- **Samsung OneUI**: Native OneUI look and feel with collapsing toolbar, search mode, and themed icons
+## Building
 
-## Screenshots
-
-*Coming soon*
-
-## Build
-
-Requires JDK 17+ and a GitHub token for SESL Maven packages.
+Needs Java 21 and Gradle 8.12. For local builds, you need GitHub package credentials for the One UI / SESL artifacts (set `gpr.user` and `gpr.token` in `gradle.properties` or export `GITHUB_ACTOR` / `GITHUB_TOKEN`). CI gets this automatically.
 
 ```bash
-# Set credentials (or use GITHUB_ACTOR / GITHUB_TOKEN env vars)
-echo "gpr.user=YOUR_GITHUB_USERNAME" >> gradle.properties
-echo "gpr.token=YOUR_GITHUB_TOKEN" >> gradle.properties
-
-# Build
 gradle assembleDebug
+gradle assembleRelease
+gradle bundleRelease
 ```
 
-## Data
-
-Bani text is sourced from the [BaniDB API](https://github.com/KhalisFoundation/banidb-api) and stored as static JSON files in the app assets.
+To refresh the bundled bani JSON from BaniDB:
 
 ```bash
-# Refresh bani data
 python3 scripts/fetch_bani_data.py
 ```
 
-## License
+## CI
 
-This project is open source. Bani data is sourced from BaniDB (GPL-3.0).
+- **dev.yml** -- builds debug APK on push/PR to `main`
+- **release.yml** -- builds release APK + AAB on `v*` tags, creates a GitHub release
 
 ## Credits
 

@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<dev.oneuiproject.oneui.widget.CardItemView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardItem"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="?attr/selectableItemBackground"
-    android:clickable="true"
-    android:focusable="true"
-    android:gravity="center_vertical"
-    android:minHeight="56dp"
-    android:orientation="horizontal"
-    android:paddingStart="24dp"
-    android:paddingEnd="24dp">
-
-    <TextView
-        android:id="@+id/baniName"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textAppearance="?attr/textAppearanceBodyLarge" />
-
-</LinearLayout>
+    app:drawableEnd="@drawable/ic_oui_keyboard_arrow_right"
+    app:title="" />

@@ -1,64 +1,91 @@
 # Nitnem Sahib
 
-Sikh daily prayer (Nitnem) Android app built with Samsung OneUI design libraries.
+Sikh daily prayer Android app. Samsung One UI design via SESL libraries.
 
 ## Build
 
-No local Android Studio needed. CI handles builds via GitHub Actions.
-
 ```bash
-# Local build (requires JDK 17+ and Gradle 8.7+)
+# requires Java 21, Gradle 8.12, GitHub package creds for SESL artifacts
 gradle assembleDebug
 gradle assembleRelease
+gradle bundleRelease
 
-# Update bani data from BaniDB API
+# refresh bani JSON from BaniDB API
 python3 scripts/fetch_bani_data.py
 ```
 
-## Architecture
+## Stack
 
-- **Language**: Kotlin
-- **Min SDK**: 26 (Android 8.0)
-- **Target/Compile SDK**: 35
-- **UI**: Samsung OneUI via [sesl-material-components-android](https://github.com/tribalfs/sesl-material-components-android) and [sesl-androidx](https://github.com/tribalfs/sesl-androidx)
-- **Data**: Static JSON files in `app/src/main/assets/banis/`, generated from [BaniDB API](https://github.com/KhalisFoundation/banidb-api)
+- Kotlin, min SDK 26, target/compile SDK 35
+- One UI via [sesl-material-components-android](https://github.com/tribalfs/sesl-material-components-android) and [sesl-androidx](https://github.com/tribalfs/sesl-androidx)
+- Static JSON in `app/src/main/assets/banis/` -- no network at runtime
 
-## Project Structure
+## Structure
 
 ```
 app/src/main/java/ltd/realquick/nitnem/
-├── NitnemApp.kt              # Application class
-├── MainActivity.kt           # Home screen with bani list
+├── NitnemApp.kt
+├── MainActivity.kt
 ├── ui/
-│   ├── bani/BaniActivity.kt  # Bani reading screen
-│   ├── home/BaniAdapter.kt   # RecyclerView adapter
+│   ├── bani/BaniActivity.kt
+│   ├── bani/ScrollSpeedDialogFragment.kt
+│   ├── home/BaniAdapter.kt
 │   ├── settings/SettingsActivity.kt
 │   └── about/
 │       ├── AboutActivity.kt
 │       └── OssLicensesActivity.kt
 ├── data/
-│   ├── model/                # Data classes
-│   ├── BaniRepository.kt     # Loads JSON from assets
-│   └── PrefsManager.kt       # SharedPreferences wrapper
-└── util/                     # Extensions, AutoScroller
+│   ├── model/Bani.kt
+│   ├── BaniRepository.kt
+│   └── PrefsManager.kt
+└── util/
+    └── AutoScroller.kt
 ```
 
-## Data Pipeline
+## How the reader works
 
-1. `scripts/fetch_bani_data.py` fetches from `https://api.banidb.com/v2/banis/{id}`
-2. Outputs JSON files to `app/src/main/assets/banis/`
-3. App reads these at runtime — no network calls needed
+One `BaniActivity` handles all banis, loaded by slug from assets. Sukhmani Sahib gets extra Astpadi tab handling inside the same activity.
 
-## Key Conventions
+Script display: `pn` = Gurmukhi only, `en`/`hi` = transliteration only.
 
-- Reuse single BaniActivity for all banis; load data by bani slug
-- Sukhmani Sahib gets special handling (Astpadi tabs) via same activity with conditional UI
-- Transliteration-only display (no Gurmukhi dual view) — one language at a time
-- Settings: English/Hindi/Punjabi transliteration toggle
-- All font size and scroll speed settings stored in SharedPreferences
-- Per-bani overrides gated behind Advanced settings toggles
+### Controls
 
-## CI/CD
+- Titlebar action: play/pause auto-scroll (starting scroll collapses titlebar)
+- Overflow menu: font size up/down, fullscreen toggle
+- Bottom FAB: speed control, only visible while auto-scrolling
 
-- `dev.yml`: On push to main — builds debug APK, uploads as artifact
-- `release.yml`: On tag push (v*) — builds release APK + AAB, creates GitHub release
+### Speed
+
+- Stored as % of current line height per second
+- Range 60..160, default 100
+- Configured via `ScrollSpeedDialogFragment` (PreferenceFragmentCompat with SeekBarPreferencePro + EditTextPreference)
+
+### Font size
+
+- Range 12sp..32sp, default 18sp, step 1sp
+
+### Resume
+
+- Card shown only when saved position is 5%..85%
+
+### Per-bani overrides
+
+Speed and font size can be set per bani, but only take effect when their Advanced toggles are on in settings.
+
+## Settings
+
+- General: transliteration, center align, keep screen on, remember position
+- Features: auto-scroll, back-to-top
+- Advanced: per-bani speed, per-bani font size
+
+## Gotchas
+
+- Auto-scroll uses `Choreographer` with fractional pixel accumulation for smoothness
+- Back-to-top uses reflection to call `seslSetGoToTopEnabled(boolean)` on the scroll host -- fragile compared to the SESL RecyclerView path
+- Keep-screen-on flag only applies on the reader screen
+- About screen GitHub link: `https://github.com/RealQuickLtd/nitnem`
+
+## CI
+
+- `dev.yml`: debug APK on push/PR to `main`
+- `release.yml`: release APK + AAB on `v*` tags, creates GitHub release

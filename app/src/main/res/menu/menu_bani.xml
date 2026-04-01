@@ -3,18 +3,24 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:id="@+id/action_font_decrease"
-        android:title="@string/action_decrease_font"
+        android:id="@+id/action_auto_scroll"
+        android:icon="@drawable/ic_oui_control_play"
+        android:title="@string/auto_scroll_play"
         app:showAsAction="always" />
 
     <item
         android:id="@+id/action_font_increase"
         android:title="@string/action_increase_font"
-        app:showAsAction="always" />
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_font_decrease"
+        android:title="@string/action_decrease_font"
+        app:showAsAction="never" />
 
     <item
         android:id="@+id/action_fullscreen"
-        android:title="@string/action_fullscreen"
-        app:showAsAction="always" />
+        android:title="@string/action_enter_fullscreen"
+        app:showAsAction="never" />
 
 </menu>

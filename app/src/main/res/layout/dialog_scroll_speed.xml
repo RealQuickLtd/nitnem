@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dev.oneuiproject.oneui.widget.RoundedLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/reader_toolbar_surface"
+    android:orientation="vertical"
+    android:paddingTop="15dp"
+    app:roundedCorners="all">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.fragment.app.FragmentContainerView
+            android:id="@+id/speedPreferencesContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btnDone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_margin="@dimen/content_padding"
+            android:text="@string/action_done" />
+
+    </FrameLayout>
+
+</dev.oneuiproject.oneui.widget.RoundedLinearLayout>

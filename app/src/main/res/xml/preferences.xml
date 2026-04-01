@@ -31,6 +31,22 @@
 
     </PreferenceCategory>
 
+    <PreferenceCategory app:title="@string/pref_category_features">
+
+        <SwitchPreferenceCompat
+            app:key="auto_scroll_enabled"
+            app:title="@string/pref_auto_scroll_title"
+            app:summary="@string/pref_auto_scroll_summary"
+            app:defaultValue="true" />
+
+        <SwitchPreferenceCompat
+            app:key="back_to_top_enabled"
+            app:title="@string/pref_back_to_top_title"
+            app:summary="@string/pref_back_to_top_summary"
+            app:defaultValue="false" />
+
+    </PreferenceCategory>
+
     <PreferenceCategory app:title="@string/pref_category_advanced">
 
         <SwitchPreferenceCompat

@@ -4,6 +4,7 @@ import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import dev.oneuiproject.oneui.layout.AppInfoLayout
 import ltd.realquick.nitnem.R
 import ltd.realquick.nitnem.databinding.ActivityAboutBinding
 
@@ -20,8 +21,7 @@ class AboutActivity : AppCompatActivity() {
             onBackPressedDispatcher.onBackPressed()
         }
 
-        val versionName = packageManager.getPackageInfo(packageName, 0).versionName ?: ""
-        binding.appInfoLayout.setStatus(versionName)
+        binding.appInfoLayout.updateStatus = AppInfoLayout.Status.NotUpdatable
 
         binding.githubButton.setOnClickListener {
             startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(GITHUB_URL)))
@@ -33,6 +33,6 @@ class AboutActivity : AppCompatActivity() {
     }
 
     companion object {
-        private const val GITHUB_URL = "https://github.com/nicholasgasior/nitnem"
+        private const val GITHUB_URL = "https://github.com/RealQuickLtd/nitnem"
     }
 }

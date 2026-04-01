@@ -5,16 +5,14 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 plugins {
     alias(libs.plugins.android.application) apply false
     alias(libs.plugins.kotlin.android) apply false
-    alias(libs.plugins.rikka.refine) apply false
 }
 
 subprojects {
     plugins.withId("com.android.application") {
-        plugins.apply("dev.rikka.tools.refine")
         extensions.findByType(BaseExtension::class.java)?.apply {
             compileOptions {
-                sourceCompatibility = JavaVersion.VERSION_17
-                targetCompatibility = JavaVersion.VERSION_17
+                sourceCompatibility = JavaVersion.VERSION_21
+                targetCompatibility = JavaVersion.VERSION_21
             }
             configurations.all {
                 exclude(group = "androidx.core", module = "core")
@@ -37,7 +35,7 @@ subprojects {
 
     tasks.withType<KotlinCompile>().configureEach {
         compilerOptions {
-            jvmTarget.set(JvmTarget.JVM_17)
+            jvmTarget.set(JvmTarget.JVM_21)
         }
     }
 }

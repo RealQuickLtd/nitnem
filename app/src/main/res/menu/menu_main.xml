@@ -4,7 +4,9 @@
 
     <item
         android:id="@+id/action_search"
+        android:icon="@drawable/oui_des_ic_ab_search"
         android:title="@string/search_hint"
+        app:iconTint="?actionMenuTextColor"
         app:showAsAction="always" />
 
     <item

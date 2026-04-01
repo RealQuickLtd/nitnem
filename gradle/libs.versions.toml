@@ -1,7 +1,6 @@
 [versions]
 agp = "8.7.3"
-kotlin = "2.0.21"
-rikka-refine = "4.4.0"
+kotlin = "2.2.0"
 
 sesl-core = "1.17.0+1.0.7-sesl8+rev1"
 sesl-coreKtx = "1.17.0+1.0.0-sesl8+rev0"
@@ -42,8 +41,6 @@ oneui-icons = { group = "io.github.oneuiproject", name = "icons", version.ref = 
 
 activity-ktx = { group = "androidx.activity", name = "activity-ktx", version.ref = "activity" }
 
-rikka-refine-runtime = { group = "dev.rikka.tools.refine", name = "runtime", version.ref = "rikka-refine" }
-
 [bundles]
 sesl-androidx = [
     "sesl-core", "sesl-coreKtx", "sesl-appcompat", "sesl-fragment",
@@ -55,4 +52,3 @@ sesl-androidx = [
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
 kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
-rikka-refine = { id = "dev.rikka.tools.refine", version.ref = "rikka-refine" }
