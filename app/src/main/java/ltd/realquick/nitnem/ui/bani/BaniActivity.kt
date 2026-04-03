@@ -13,7 +13,6 @@ import androidx.core.content.ContextCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.core.view.WindowInsetsControllerCompat
 import androidx.recyclerview.widget.LinearLayoutManager
-import androidx.recyclerview.widget.LinearSmoothScroller
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.tabs.TabLayout
 import dev.oneuiproject.oneui.R as iconsR
@@ -309,7 +308,7 @@ class BaniActivity : AppCompatActivity() {
     private fun scrollToSection(index: Int) {
         val paragraphIndex = sectionParagraphIndices.getOrNull(index) ?: return
         stopAutoScroll()
-        smoothScrollToAdapterPosition(readerAdapter.headerOffset + paragraphIndex)
+        jumpToAdapterPosition(readerAdapter.headerOffset + paragraphIndex)
     }
 
     private fun updateCurrentSection() {
@@ -533,13 +532,15 @@ class BaniActivity : AppCompatActivity() {
         binding.recyclerView.scrollBy(0, clampedScrollY - getCurrentScrollY())
     }
 
-    private fun smoothScrollToAdapterPosition(position: Int) {
+    private fun jumpToAdapterPosition(position: Int) {
         if (readerAdapter.itemCount == 0) return
-        val smoothScroller = object : LinearSmoothScroller(this) {
-            override fun getVerticalSnapPreference(): Int = SNAP_TO_START
+        binding.recyclerView.stopScroll()
+        layoutManager.scrollToPositionWithOffset(position, 0)
+        binding.recyclerView.post {
+            val scrollY = getCurrentScrollY()
+            updateProgress(scrollY)
+            updateCurrentSection()
         }
-        smoothScroller.targetPosition = position
-        layoutManager.startSmoothScroll(smoothScroller)
     }
 
     private fun normalizeSection(section: String?): String {
