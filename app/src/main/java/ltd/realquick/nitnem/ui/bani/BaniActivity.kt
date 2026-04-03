@@ -478,7 +478,14 @@ class BaniActivity : AppCompatActivity() {
         }
 
         resumeScrollFraction = savedFraction
-        readerAdapter.setResumeCardVisible(true)
+        readerAdapter.setResumeCardVisible(true) {
+            binding.recyclerView.post {
+                binding.recyclerView.stopScroll()
+                layoutManager.scrollToPositionWithOffset(0, 0)
+                updateProgress(0)
+                updateCurrentSection()
+            }
+        }
     }
 
     private fun resumeReading() {
