@@ -265,7 +265,11 @@ class BaniActivity : AppCompatActivity() {
             }
 
             ASA_DI_VAAR_SLUG -> paragraphs.mapIndexedNotNull { index, paragraph ->
-                if (normalizeSection(paragraph.section) == ASA_DI_VAAR_SECTION_MARKER) index else null
+                if (normalizeSection(paragraph.section) == ASA_DI_VAAR_SECTION_MARKER) {
+                    (index + 1).takeIf { it < paragraphs.size }
+                } else {
+                    null
+                }
             }.mapIndexed { order, paragraphIndex ->
                 getString(R.string.pauri_tab_title, order + 1) to paragraphIndex
             }
