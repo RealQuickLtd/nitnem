@@ -32,6 +32,16 @@ class ReaderAdapter(
     val headerOffset: Int
         get() = if (showResumeCard) 1 else 0
 
+    fun getParagraphId(adapterPosition: Int): Int? {
+        val paragraphIndex = adapterPosition - headerOffset
+        return paragraphs.getOrNull(paragraphIndex)?.id
+    }
+
+    fun findParagraphAdapterPosition(paragraphId: Int): Int? {
+        val paragraphIndex = paragraphs.indexOfFirst { it.id == paragraphId }
+        return paragraphIndex.takeIf { it >= 0 }?.plus(headerOffset)
+    }
+
     fun submitParagraphs(paragraphs: List<ReaderParagraph>, onCommitted: (() -> Unit)? = null) {
         this.paragraphs = paragraphs
         rebuildItems(onCommitted)

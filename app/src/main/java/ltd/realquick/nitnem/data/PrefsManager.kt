@@ -71,13 +71,42 @@ class PrefsManager(context: Context) {
             .apply()
     }
 
+    fun getScrollAnchor(slug: String): ScrollAnchor? {
+        val paragraphId = prefs.getInt("${KEY_SCROLL_PARAGRAPH_ID}_$slug", -1)
+        if (paragraphId < 0) return null
+        return ScrollAnchor(
+            paragraphId = paragraphId,
+            offsetFraction = prefs.getFloat("${KEY_SCROLL_PARAGRAPH_OFFSET}_$slug", 0f)
+                .coerceIn(0f, 1f)
+        )
+    }
+
+    fun setScrollAnchor(slug: String, anchor: ScrollAnchor) {
+        prefs.edit()
+            .putInt("${KEY_SCROLL_PARAGRAPH_ID}_$slug", anchor.paragraphId)
+            .putFloat(
+                "${KEY_SCROLL_PARAGRAPH_OFFSET}_$slug",
+                anchor.offsetFraction.coerceIn(0f, 1f)
+            )
+            .apply()
+    }
+
     fun clearScrollPositions() {
         prefs.edit().apply {
             prefs.all.keys
-                .filter { it.startsWith("${KEY_SCROLL_FRACTION}_") }
+                .filter {
+                    it.startsWith("${KEY_SCROLL_FRACTION}_") ||
+                        it.startsWith("${KEY_SCROLL_PARAGRAPH_ID}_") ||
+                        it.startsWith("${KEY_SCROLL_PARAGRAPH_OFFSET}_")
+                }
                 .forEach { remove(it) }
         }.apply()
     }
+
+    data class ScrollAnchor(
+        val paragraphId: Int,
+        val offsetFraction: Float
+    )
 
     companion object {
         const val KEY_TRANSLITERATION = "transliteration_language"
@@ -92,6 +121,8 @@ class PrefsManager(context: Context) {
         const val KEY_FONT_SIZE = "font_size"
         const val KEY_SCROLL_SPEED = "scroll_speed"
         const val KEY_SCROLL_FRACTION = "scroll_fraction"
+        const val KEY_SCROLL_PARAGRAPH_ID = "scroll_paragraph_id"
+        const val KEY_SCROLL_PARAGRAPH_OFFSET = "scroll_paragraph_offset"
 
         const val DEFAULT_FONT_SIZE = 18f
         const val MIN_FONT_SIZE = 12f

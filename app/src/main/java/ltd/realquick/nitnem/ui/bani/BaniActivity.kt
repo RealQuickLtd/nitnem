@@ -468,7 +468,11 @@ class BaniActivity : AppCompatActivity() {
 
     private fun saveScrollPosition() {
         if (!prefs.rememberPosition) return
-        prefs.setScrollPosition(slug, getScrollFraction(getCurrentScrollY()))
+        if (readerAdapter.headerOffset > 0) return
+
+        val scrollY = getCurrentScrollY()
+        prefs.setScrollPosition(slug, getScrollFraction(scrollY))
+        captureResumeAnchor()?.let { prefs.setScrollAnchor(slug, it) }
     }
 
     private fun checkResumePosition() {
@@ -493,15 +497,57 @@ class BaniActivity : AppCompatActivity() {
 
     private fun resumeReading() {
         val targetFraction = resumeScrollFraction ?: prefs.getScrollPosition(slug)
+        val targetAnchor = prefs.getScrollAnchor(slug)
         hideResumeCard {
             binding.recyclerView.post {
-                val targetScrollY = getScrollYForFraction(targetFraction)
-                scrollToOffset(targetScrollY)
-                updateProgress(targetScrollY)
-                updateCurrentSection()
-                binding.toolbarLayout.setExpanded(false, true)
+                if (!restoreResumeAnchor(targetAnchor)) {
+                    val targetScrollY = getScrollYForFraction(targetFraction)
+                    scrollToOffset(targetScrollY)
+                    updateProgress(targetScrollY)
+                    updateCurrentSection()
+                    binding.toolbarLayout.setExpanded(false, true)
+                }
             }
         }
+    }
+
+    private fun captureResumeAnchor(): PrefsManager.ScrollAnchor? {
+        val adapterPosition = layoutManager.findFirstVisibleItemPosition()
+        if (adapterPosition == RecyclerView.NO_POSITION) return null
+
+        val paragraphId = readerAdapter.getParagraphId(adapterPosition) ?: return null
+        val itemView = layoutManager.findViewByPosition(adapterPosition) ?: return null
+        val hiddenTop = (binding.recyclerView.paddingTop - itemView.top).coerceAtLeast(0)
+        val itemHeight = itemView.height
+
+        return PrefsManager.ScrollAnchor(
+            paragraphId = paragraphId,
+            offsetFraction = if (itemHeight > 0) {
+                (hiddenTop.toFloat() / itemHeight).coerceIn(0f, 1f)
+            } else {
+                0f
+            }
+        )
+    }
+
+    private fun restoreResumeAnchor(anchor: PrefsManager.ScrollAnchor?): Boolean {
+        anchor ?: return false
+
+        val adapterPosition = readerAdapter.findParagraphAdapterPosition(anchor.paragraphId) ?: return false
+        binding.recyclerView.stopScroll()
+        layoutManager.scrollToPositionWithOffset(adapterPosition, 0)
+        binding.recyclerView.post {
+            val itemView = layoutManager.findViewByPosition(adapterPosition)
+            val hiddenTop = itemView?.height?.let { (it * anchor.offsetFraction).roundToInt() } ?: 0
+            if (hiddenTop > 0) {
+                binding.recyclerView.scrollBy(0, hiddenTop)
+            }
+            val scrollY = getCurrentScrollY()
+            updateProgress(scrollY)
+            updateCurrentSection()
+            binding.toolbarLayout.setExpanded(false, true)
+        }
+        return true
     }
 
     private fun getCurrentScrollY(): Int = binding.recyclerView.computeVerticalScrollOffset()
