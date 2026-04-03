@@ -71,6 +71,14 @@ class PrefsManager(context: Context) {
             .apply()
     }
 
+    fun clearScrollPositions() {
+        prefs.edit().apply {
+            prefs.all.keys
+                .filter { it.startsWith("${KEY_SCROLL_FRACTION}_") }
+                .forEach { remove(it) }
+        }.apply()
+    }
+
     companion object {
         const val KEY_TRANSLITERATION = "transliteration_language"
         const val KEY_BANI_LENGTH = "bani_length"

@@ -14,10 +14,10 @@
         <DropDownPreference
             app:key="bani_length"
             app:title="@string/pref_bani_length_title"
-            app:summary="@string/pref_bani_length_summary"
             app:entries="@array/bani_length_entries"
             app:entryValues="@array/bani_length_values"
-            app:defaultValue="m" />
+            app:defaultValue="m"
+            app:useSimpleSummaryProvider="true" />
 
         <SwitchPreferenceCompat
             app:key="center_align"
