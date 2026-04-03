@@ -473,7 +473,7 @@ class BaniActivity : AppCompatActivity() {
 
         val savedFraction = prefs.getScrollPosition(slug)
         if (savedFraction <= 0f) return
-        if (savedFraction !in MIN_RESUME_FRACTION until MAX_RESUME_FRACTION) {
+        if (savedFraction < MIN_RESUME_FRACTION || savedFraction >= MAX_RESUME_FRACTION) {
             return
         }
 

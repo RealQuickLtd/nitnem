@@ -109,7 +109,7 @@ class ReaderAdapter(
         )
     }
 
-    private sealed interface Item {
+    sealed interface Item {
         val stableId: Long
 
         data object ResumeCard : Item {
