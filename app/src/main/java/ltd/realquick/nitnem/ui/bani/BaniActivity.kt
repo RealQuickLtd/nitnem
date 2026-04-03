@@ -266,7 +266,7 @@ class BaniActivity : AppCompatActivity() {
 
             ASA_DI_VAAR_SLUG -> paragraphs.mapIndexedNotNull { index, paragraph ->
                 if (normalizeSection(paragraph.section) == ASA_DI_VAAR_SECTION_MARKER) {
-                    (index + 1).takeIf { it < paragraphs.size }
+                    findAsaDiVaarAnchor(paragraphs, index)
                 } else {
                     null
                 }
@@ -555,6 +555,22 @@ class BaniActivity : AppCompatActivity() {
             .orEmpty()
     }
 
+    private fun findAsaDiVaarAnchor(paragraphs: List<ReaderParagraph>, markerIndex: Int): Int? {
+        var firstContentIndex: Int? = null
+        for (index in markerIndex + 1 until paragraphs.size) {
+            val paragraph = paragraphs[index]
+            val section = normalizeSection(paragraph.section)
+            if (section == ASA_DI_VAAR_SECTION_MARKER) break
+            if (section == ASA_DI_VAAR_SEPARATOR_MARKER || paragraph.text.isBlank()) continue
+            if (firstContentIndex == null) {
+                firstContentIndex = index
+                continue
+            }
+            return index
+        }
+        return firstContentIndex
+    }
+
     companion object {
         const val EXTRA_SLUG = "slug"
         const val EXTRA_TITLE = "title"
@@ -563,6 +579,7 @@ class BaniActivity : AppCompatActivity() {
         private const val ASA_DI_VAAR_SLUG = "asa-di-vaar"
         private const val SUKHMANI_SECTION_MARKER = "salok ||"
         private const val ASA_DI_VAAR_SECTION_MARKER = "pauree ||"
+        private const val ASA_DI_VAAR_SEPARATOR_MARKER = "❁"
         private const val MIN_RESUME_FRACTION = 0.05f
         private const val MAX_RESUME_FRACTION = 0.85f
         private val SECTION_WHITESPACE_REGEX = "\\s+".toRegex()
