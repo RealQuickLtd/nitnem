@@ -1,277 +1,268 @@
 {
   "id": 7,
-  "nameEn": "tavprasad-savaiye-deenan-kee",
+  "nameEn": "tavai prasaadh sava'ye (dheenan kee)",
   "slug": "tavprasad-savaiye-deenan-kee",
-  "paragraphs": [
+  "verses": [
     {
-      "lines": [
-        {
-          "pn": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
-          "en": "ikOankaar satigur prasaadh ||",
-          "hi": "ੴ सतिगुर प्रसादि ॥"
-        }
-      ],
-      "section": "ikOankaar satigur prasaadh ||"
+      "p": 1,
+      "pn": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+      "en": "ikOankaar satigur prasaadh ||",
+      "hi": "ੴ सतिगुर प्रसादि ॥",
+      "s": "ikOankaar satigur prasaadh ||"
     },
     {
-      "lines": [
-        {
-          "pn": "ਪਾਤਿਸ਼ਾਹੀ ੧੦ ॥",
-          "en": "paatishaahee 10 ||",
-          "hi": "पातिशाही १० ॥"
-        }
-      ],
-      "section": "paatishaahee 10 ||"
+      "p": 2,
+      "pn": "ਪਾਤਿਸ਼ਾਹੀ ੧੦ ॥",
+      "en": "paatishaahee 10 ||",
+      "hi": "पातिशाही १० ॥",
+      "s": "paatishaahee 10 ||"
     },
     {
-      "lines": [
-        {
-          "pn": "ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥ ਸ੍ਵੱਯੇ ॥",
-          "en": "tavai prasaadh || savai'ye ||",
-          "hi": "त्व प्रसादि ॥ स्वय्ये ॥"
-        }
-      ],
-      "section": "tavai prasaadh || savai'ye ||"
+      "p": 3,
+      "pn": "ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥ ਸ੍ਵੱਯੇ ॥",
+      "en": "tavai prasaadh || savai'ye ||",
+      "hi": "त्व प्रसादि ॥ स्वय्ये ॥",
+      "s": "tavai prasaadh || savai'ye ||"
     },
     {
-      "lines": [
-        {
-          "pn": "ਦੀਨਨ ਕੀ ਪ੍ਰਤਿਪਾਲ ਕਰੈ ਨਿਤ ਸੰਤ ਉਬਾਰਿ ਗਨੀਮਨ ਗਾਰੈ ॥",
-          "en": "dheenan kee pratipaal karai nit sa(n)t ubaar ganeeman gaarai ||",
-          "hi": "दीनन की प्रतिपाल करै नित संत उबारि गनीमन गारै ॥"
-        },
-        {
-          "pn": "ਪੱਛ ਪਸੂ ਨਗ ਨਾਗ ਨਰਾਧਪ ਸਰਬ ਸਮੈ ਸਭ ਕੋ ਪ੍ਰਤਿਪਾਰੈ ॥",
-          "en": "pa'chh pasoo nag naag naraadhap sarab samai sabh ko pratipaarai ||",
-          "hi": "पच्छ पसू नग नाग नराधप सरब समै सभ को प्रतिपारै ॥"
-        },
-        {
-          "pn": "ਪੋਖਤ ਹੈ ਜਲ ਮੈ ਥਲ ਮੈ ਪਲ ਮੈ ਕਲਿ ਕੇ ਨਹੀਂ ਕਰਮ ਬਿਚਾਰੈ ॥",
-          "en": "pokhat hai jal mai thal mai pal mai kal ke nahee(n) karam bichaarai ||",
-          "hi": "पोखत है जल मै थल मै पल मै कलि के नहीं करम बिचारै ॥"
-        },
-        {
-          "pn": "ਦੀਨ ਦਇਆਲ ਦਇਆ ਨਿਧਿ ਦੋਖਨ ਦੇਖਤ ਹੈ ਪਰੁ ਦੇਤ ਨ ਹਾਰੈ ॥੧॥੨੪੩॥",
-          "en": "dheen dhiaal dhiaa nidh dhokhan dhekhat hai par dhet na haarai ||1||243||",
-          "hi": "दीन दइआल दइआ निधि दोखन देखत है परु देत न हारै ॥१॥२४३॥"
-        }
-      ]
+      "p": 4,
+      "pn": "ਦੀਨਨ ਕੀ ਪ੍ਰਤਿਪਾਲ ਕਰੈ ਨਿਤ ਸੰਤ ਉਬਾਰਿ ਗਨੀਮਨ ਗਾਰੈ ॥",
+      "en": "dheenan kee pratipaal karai nit sa(n)t ubaar ganeeman gaarai ||",
+      "hi": "दीनन की प्रतिपाल करै नित संत उबारि गनीमन गारै ॥"
     },
     {
-      "lines": [
-        {
-          "pn": "ਦਾਹਤ ਹੈ ਦੁਖ ਦੋਖਨ ਕੌ ਦਲ ਦੁੱਜਨ ਕੇ ਪਲ ਮੈ ਦਲ ਡਾਰੈ ॥",
-          "en": "dhaahat hai dhukh dhokhan kau dhal dhu'jan ke pal mai dhal ddaarai ||",
-          "hi": "दाहत है दुख दोखन कौ दल दुज्जन के पल मै दल डारै ॥"
-        },
-        {
-          "pn": "ਖੰਡ ਅਖੰਡ ਪ੍ਰਚੰਡ ਪਹਾਰਨ ਪੂਰਨ ਪ੍ਰੇਮ ਕੀ ਪ੍ਰੀਤ ਸੰਭਾਰੈ ॥",
-          "en": "kha(n)dd akha(n)dd pracha(n)dd pahaaran pooran prem kee preet sa(n)bhaarai ||",
-          "hi": "खंड अखंड प्रचंड पहारन पूरन प्रेम की प्रीत संभारै ॥"
-        },
-        {
-          "pn": "ਪਾਰ ਨ ਪਾਇ ਸਕੈ ਪਦਮਾ ਪਤਿ ਬੇਦ ਕਤੇਬ ਅਭੇਦ ਉਚਾਰੈ ॥",
-          "en": "paar na pai sakai padhamaa pat bedh kateb abhedh uchaarai ||",
-          "hi": "पार न पाइ सकै पदमा पति बेद कतेब अभेद उचारै ॥"
-        },
-        {
-          "pn": "ਰੋਜੀ ਹੀ ਰਾਜ ਬਿਲੋਕਤ ਰਾਜਕ ਰੋਖ ਰੂਹਾਨ ਕੀ ਰੋਜੀ ਨ ਟਾਰੈ ॥੨॥੨੪੪॥",
-          "en": "rojee hee raaj bilokat raajak rokh roohaan kee rojee na Taarai ||2||244||",
-          "hi": "रोजी ही राज बिलोकत राजक रोख रूहान की रोजी न टारै ॥२॥२४४॥"
-        }
-      ]
+      "p": 4,
+      "pn": "ਪੱਛ ਪਸੂ ਨਗ ਨਾਗ ਨਰਾਧਪ ਸਰਬ ਸਮੈ ਸਭ ਕੋ ਪ੍ਰਤਿਪਾਰੈ ॥",
+      "en": "pa'chh pasoo nag naag naraadhap sarab samai sabh ko pratipaarai ||",
+      "hi": "पच्छ पसू नग नाग नराधप सरब समै सभ को प्रतिपारै ॥"
     },
     {
-      "lines": [
-        {
-          "pn": "ਕੀਟ ਪਤੰਗ ਕੁਰੰਗ ਭੁਜੰਗਮ ਭੂਤ ਭਵਿੱਖ ਭਵਾਨ ਬਨਾਏ ॥",
-          "en": "keeT pata(n)g kura(n)g bhuja(n)gam bhoot bhavi'kh bhavaan banaae ||",
-          "hi": "कीट पतंग कुरंग भुजंगम भूत भविक्ख भवान बनाए ॥"
-        },
-        {
-          "pn": "ਦੇਵ ਅਦੇਵ ਖਪੇ ਅਹੰਮੇਵ ਨ ਭੇਵ ਲਖਿਓ ਭ੍ਰਮ ਸਿਉ ਭਰਮਾਏ ॥",
-          "en": "dhev adhev khape aha(n)mev na bhev lakhio bhram siau bharamaae ||",
-          "hi": "देव अदेव खपे अहंमेव न भेव लखिओ भ्रम सिउ भरमाए ॥"
-        },
-        {
-          "pn": "ਬੇਦ ਪੁਰਾਨ ਕਤੇਬ ਕੁਰਾਨ ਹਸੇਬ ਥਕੇ ਕਰ ਹਾਥ ਨ ਆਏ ॥",
-          "en": "bedh puraan kateb kuraan haseb thake kar haath na aae ||",
-          "hi": "बेद पुरान कतेब कुरान हसेब थके कर हाथ न आए ॥"
-        },
-        {
-          "pn": "ਪੂਰਨ ਪ੍ਰੇਮ ਪ੍ਰਭਾਉ ਬਿਨਾ ਪਤਿ ਸਿਉ ਕਿਨ ਸ੍ਰੀ ਪਦਮਾ ਪਤਿ ਪਾਏ ॥੩॥੨੪੫॥",
-          "en": "pooran prem prabhaau binaa pat siau kin sree padhamaa pat paae ||3||245||",
-          "hi": "पूरन प्रेम प्रभाउ बिना पति सिउ किन स्री पदमा पति पाए ॥३॥२४५॥"
-        }
-      ]
+      "p": 4,
+      "pn": "ਪੋਖਤ ਹੈ ਜਲ ਮੈ ਥਲ ਮੈ ਪਲ ਮੈ ਕਲਿ ਕੇ ਨਹੀਂ ਕਰਮ ਬਿਚਾਰੈ ॥",
+      "en": "pokhat hai jal mai thal mai pal mai kal ke nahee(n) karam bichaarai ||",
+      "hi": "पोखत है जल मै थल मै पल मै कलि के नहीं करम बिचारै ॥"
     },
     {
-      "lines": [
-        {
-          "pn": "ਆਦਿ ਅਨੰਤ ਅਗਾਧ ਅਦ੍ਵੈਖ ਸੁ ਭੂਤ ਭਵਿੱਖ ਭਵਾਨ ਅਭੈ ਹੈ ॥",
-          "en": "aadh ana(n)t agaadh adhavaikh su bhoot bhavi'kh bhavaan abhai hai ||",
-          "hi": "आदि अनंत अगाध अद्वैख सु भूत भविक्ख भवान अभै है ॥"
-        },
-        {
-          "pn": "ਅੰਤਿ ਬਿਹੀਨ ਅਨਾਤਮ ਆਪ ਅਦਾਗ ਅਦੋਖ ਅਛਿੱਦ੍ਰ ਅਛੈ ਹੈ ॥",
-          "en": "a(n)t biheen anaatam aap adhaag adhokh achhi'dhr achhai hai ||",
-          "hi": "अंति बिहीन अनातम आप अदाग अदोख अछिद्द्र अछै है ॥"
-        },
-        {
-          "pn": "ਲੋਗਨ ਕੇ ਕਰਤਾ ਹਰਤਾ ਜਲ ਮੈ ਥਲ ਮੈ ਭਰਤਾ ਪ੍ਰਭ ਵੈ ਹੈ ॥",
-          "en": "logan ke karataa harataa jal mai thal mai bharataa prabh vai hai ||",
-          "hi": "लोगन के करता हरता जल मै थल मै भरता प्रभ वै है ॥"
-        },
-        {
-          "pn": "ਦੀਨ ਦਇਆਲ ਦਇਆ ਕਰ ਸ੍ਰੀ ਪਤਿ ਸੁੰਦਰ ਸ੍ਰੀ ਪਦਮਾ ਪਤਿ ਏਹੈ ॥੪॥੨੪੬॥",
-          "en": "dheen dhiaal dhiaa kar sree pat su(n)dhar sree padhamaa pat ehai ||4||246||",
-          "hi": "दीन दइआल दइआ कर स्री पति सुँदर स्री पदमा पति एहै ॥४॥२४६॥"
-        }
-      ]
+      "p": 4,
+      "pn": "ਦੀਨ ਦਇਆਲ ਦਇਆ ਨਿਧਿ ਦੋਖਨ ਦੇਖਤ ਹੈ ਪਰੁ ਦੇਤ ਨ ਹਾਰੈ ॥੧॥੨੪੩॥",
+      "en": "dheen dhiaal dhiaa nidh dhokhan dhekhat hai par dhet na haarai ||1||243||",
+      "hi": "दीन दइआल दइआ निधि दोखन देखत है परु देत न हारै ॥१॥२४३॥"
     },
     {
-      "lines": [
-        {
-          "pn": "ਕਾਮ ਨ ਕ੍ਰੋਧ ਨ ਲੋਭ ਨ ਮੋਹ ਨ ਰੋਗ ਨ ਸੋਗ ਨ ਭੋਗ ਨ ਭੈ ਹੈ ॥",
-          "en": "kaam na krodh na lobh na moh na rog na sog na bhog na bhai hai ||",
-          "hi": "काम न क्रोध न लोभ न मोह न रोग न सोग न भोग न भै है ॥"
-        },
-        {
-          "pn": "ਦੇਹ ਬਿਹੀਨ ਸਨੇਹ ਸਭੋ ਤਨ ਨੇਹ ਬਿਰਕਤ ਅਗੇਹ ਅਛੈ ਹੈ ॥",
-          "en": "dheh biheen saneh sabho tan neh birakat ageh achhai hai ||",
-          "hi": "देह बिहीन सनेह सभो तन नेह बिरकत अगेह अछै है ॥"
-        },
-        {
-          "pn": "ਜਾਨ ਕੋ ਦੇਤ ਅਜਾਨ ਕੋ ਦੇਤ ਜਮੀਨ ਕੋ ਦੇਤ ਜਮਾਨ ਕੋ ਦੈ ਹੈ ॥",
-          "en": "jaan ko dhet ajaan ko dhet jameen ko dhet jamaan ko dhai hai ||",
-          "hi": "जान को देत अजान को देत जमीन को देत जमान को दै है ॥"
-        },
-        {
-          "pn": "ਕਾਹੇ ਕੋ ਡੋਲਤ ਹੈ ਤੁਮਰੀ ਸੁਧ ਸੁੰਦਰ ਸ੍ਰੀ ਪਦਮਾ ਪਤਿ ਲੈਹੈ ॥੫॥੨੪੭॥",
-          "en": "kaahe ko ddolat hai tumaree sudh su(n)dhar sree padhamaa pat laihai ||5||247||",
-          "hi": "काहे को डोलत है तुमरी सुध सुँदर स्री पदमा पति लैहै ॥५॥२४७॥"
-        }
-      ]
+      "p": 5,
+      "pn": "ਦਾਹਤ ਹੈ ਦੁਖ ਦੋਖਨ ਕੌ ਦਲ ਦੁੱਜਨ ਕੇ ਪਲ ਮੈ ਦਲ ਡਾਰੈ ॥",
+      "en": "dhaahat hai dhukh dhokhan kau dhal dhu'jan ke pal mai dhal ddaarai ||",
+      "hi": "दाहत है दुख दोखन कौ दल दुज्जन के पल मै दल डारै ॥"
     },
     {
-      "lines": [
-        {
-          "pn": "ਰੋਗਨ ਤੇ ਅਰ ਸੋਗਨ ਤੇ ਜਲ ਜੋਗਨ ਤੇ ਬਹੁ ਭਾਂਤਿ ਬਚਾਵੈ ॥",
-          "en": "rogan te ar sogan te jal jogan te bahu bhaa(n)t bachaavai ||",
-          "hi": "रोगन ते अर सोगन ते जल जोगन ते बहु भाँति बचावै ॥"
-        },
-        {
-          "pn": "ਸੱਤ੍ਰ ਅਨੇਕ ਚਲਾਵਤ ਘਾਵ ਤਊ ਤਨ ਏਕੁ ਨ ਲਾਗਨ ਪਾਵੈ ॥",
-          "en": "sa'tr anek chalaavat ghaav tuoo tan ek na laagan paavai ||",
-          "hi": "सत्त्र अनेक चलावत घाव तऊ तन एकु न लागन पावै ॥"
-        },
-        {
-          "pn": "ਰਾਖਤ ਹੈ ਅਪਨੋ ਕਰੁ ਦੈ ਕਰ ਪਾਪ ਸੰਬੂਹ ਨ ਭੇਟਨ ਪਾਵੈ ॥",
-          "en": "raakhat hai apano kar dhai kar paap sa(n)booh na bheTan paavai ||",
-          "hi": "राखत है अपनो करु दै कर पाप संबूह न भेटन पावै ॥"
-        },
-        {
-          "pn": "ਔਰ ਕੀ ਬਾਤ ਕਹਾ ਕਹ ਤੋ ਸੌਂ ਸੁ ਪੇਟ ਹੀ ਕੇ ਪਟ ਬੀਚ ਬਚਾਵੈ ॥੬॥੨੪੮॥",
-          "en": "aauar kee baat kahaa keh to saua(n) su peT hee ke paT beech bachaavai ||6||248||",
-          "hi": "और की बात कहा कह तो सौं सु पेट ही के पट बीच बचावै ॥६॥२४८॥"
-        }
-      ]
+      "p": 5,
+      "pn": "ਖੰਡ ਅਖੰਡ ਪ੍ਰਚੰਡ ਪਹਾਰਨ ਪੂਰਨ ਪ੍ਰੇਮ ਕੀ ਪ੍ਰੀਤ ਸੰਭਾਰੈ ॥",
+      "en": "kha(n)dd akha(n)dd pracha(n)dd pahaaran pooran prem kee preet sa(n)bhaarai ||",
+      "hi": "खंड अखंड प्रचंड पहारन पूरन प्रेम की प्रीत संभारै ॥"
     },
     {
-      "lines": [
-        {
-          "pn": "ਜੱਛ ਭੁਜੰਗ ਸੁ ਦਾਨਵ ਦੇਵ ਅਭੇਵ ਤੁਮੈ ਸਭ ਹੀ ਕਰਿ ਧਿਆਵੈਂ ॥",
-          "en": "ja'chh bhuja(n)g su dhaanav dhev abhev tumai sabh hee kar dhiaavai(n) ||",
-          "hi": "जच्छ भुजंग सु दानव देव अभेव तुमै सभ ही करि धिआवैं ॥"
-        },
-        {
-          "pn": "ਭੂਮਿ ਅਕਾਸ ਪਤਾਲ ਰਸਾਤਲ ਜੱਛ ਭੁਜੰਗ ਸਭੈ ਸਿਰ ਨਿਆਵੈਂ ॥",
-          "en": "bhoom akaas pataal rasaatal ja'chh bhuja(n)g sabhai sir niaavai(n) ||",
-          "hi": "भूमि अकास पताल रसातल जच्छ भुजंग सभै सिर निआवैं ॥"
-        },
-        {
-          "pn": "ਪਾਇ ਸਕੈ ਨਹੀ ਪਾਰ ਪ੍ਰਭਾ ਹੂ ਕੋ ਨੇਤ ਹੀ ਨੇਤਹ ਬੇਦ ਬਤਾਵੈਂ ॥",
-          "en": "pai sakai nahee paar prabhaa hoo ko net hee neteh bedh bataavai(n) ||",
-          "hi": "पाइ सकै नही पार प्रभा हू को नेत ही नेतह बेद बतावैं ॥"
-        },
-        {
-          "pn": "ਖੋਜ ਥਕੇ ਸਭ ਹੀ ਖੁਜੀਆ ਸੁਰ ਹਾਰ ਪਰੇ ਹਰਿ ਹਾਥ ਨ ਆਵੈ ॥੭॥੨੪੯॥",
-          "en": "khoj thake sabh hee khujeeaa sur haar pare har haath na aavai ||7||249||",
-          "hi": "खोज थके सभ ही खुजीआ सुर हार परे हरि हाथ न आवै ॥७॥२४९॥"
-        }
-      ]
+      "p": 5,
+      "pn": "ਪਾਰ ਨ ਪਾਇ ਸਕੈ ਪਦਮਾ ਪਤਿ ਬੇਦ ਕਤੇਬ ਅਭੇਦ ਉਚਾਰੈ ॥",
+      "en": "paar na pai sakai padhamaa pat bedh kateb abhedh uchaarai ||",
+      "hi": "पार न पाइ सकै पदमा पति बेद कतेब अभेद उचारै ॥"
     },
     {
-      "lines": [
-        {
-          "pn": "ਨਾਰਦ ਸੇ ਚਤੁਰਾਨਨ ਸੇ ਰੁਮਨਾ ਰਿਖ ਸੇ ਸਭ ਹੂੰ ਮਿਲਿ ਗਾਇਓ ॥",
-          "en": "naaradh se chaturaanan se rumanaa rikh se sabh hoo(n) mil gaio ||",
-          "hi": "नारद से चतुरानन से रुमना रिख से सभ हूँ मिलि गाइओ ॥"
-        },
-        {
-          "pn": "ਬੇਦ ਕਤੇਬ ਨ ਭੇਦ ਲਖਿਓ ਸਭ ਹਾਰ ਪਰੇ ਹਰਿ ਹਾਥਿ ਨ ਆਇਓ ॥",
-          "en": "bedh kateb na bhedh lakhio sabh haar pare har haath na aaio ||",
-          "hi": "बेद कतेब न भेद लखिओ सभ हार परे हरि हाथि न आइओ ॥"
-        },
-        {
-          "pn": "ਪਾਇ ਸਕੈ ਨਹੀ ਪਾਰ ਉਮਾਪਤਿ ਸਿੱਧ ਸਨਾਥ ਸਨੰਤਨ ਧਿਆਇਓ ॥",
-          "en": "pai sakai nahee paar umaapat si'dh sanaath sana(n)tan dhiaaio ||",
-          "hi": "पाइ सकै नही पार उमापति सिद्ध सनाथ सनंतन धिआइओ ॥"
-        },
-        {
-          "pn": "ਧਿਆਨ ਧਰੋ ਤਿਹ ਕੋ ਮਨ ਮੈਂ ਜਿਹ ਕੋ ਅਮਿਤੋਜਿ ਸਭੈ ਜਗੁ ਛਾਇਓ ॥੮॥੨੫੦॥",
-          "en": "dhiaan dharo teh ko man mai(n) jeh ko amitoj sabhai jag chhaio ||8||250||",
-          "hi": "धिआन धरो तिह को मन मैं जिह को अमितोजि सभै जगु छाइओ ॥८॥२५०॥"
-        }
-      ]
+      "p": 5,
+      "pn": "ਰੋਜੀ ਹੀ ਰਾਜ ਬਿਲੋਕਤ ਰਾਜਕ ਰੋਖ ਰੂਹਾਨ ਕੀ ਰੋਜੀ ਨ ਟਾਰੈ ॥੨॥੨੪੪॥",
+      "en": "rojee hee raaj bilokat raajak rokh roohaan kee rojee na Taarai ||2||244||",
+      "hi": "रोजी ही राज बिलोकत राजक रोख रूहान की रोजी न टारै ॥२॥२४४॥"
     },
     {
-      "lines": [
-        {
-          "pn": "ਬੇਦ ਪੁਰਾਨ ਕਤੇਬ ਕੁਰਾਨ ਅਭੇਦ ਨ੍ਰਿਪਾਨ ਸਭੈ ਪਚ ਹਾਰੇ ॥",
-          "en": "bedh puraan kateb kuraan abhedh nirapaan sabhai pach haare ||",
-          "hi": "बेद पुरान कतेब कुरान अभेद नृपान सभै पच हारे ॥"
-        },
-        {
-          "pn": "ਭੇਦ ਨ ਪਾਇ ਸਕਿਓ ਅਨਭੇਦ ਕੋ ਖੇਦਤ ਹੈ ਅਨਛੇਦ ਪੁਕਾਰੇ ॥",
-          "en": "bhedh na pai sakio anabhedh ko khedhat hai anachhedh pukaare ||",
-          "hi": "भेद न पाइ सकिओ अनभेद को खेदत है अनछेद पुकारे ॥"
-        },
-        {
-          "pn": "ਰਾਗ ਨ ਰੂਪ ਨ ਰੇਖ ਨ ਰੰਗ ਨ ਸਾਕ ਨ ਸੋਗ ਨ ਸੰਗਿ ਤਿਹਾਰੇ ॥",
-          "en": "raag na roop na rekh na ra(n)g na saak na sog na sa(n)g tihaare ||",
-          "hi": "राग न रूप न रेख न रंग न साक न सोग न संगि तिहारे ॥"
-        },
-        {
-          "pn": "ਆਦਿ ਅਨਾਦਿ ਅਗਾਧ ਅਭੇਖ ਅਦ੍ਵੈਖ ਜਪਿਓ ਤਿਨ ਹੀ ਕੁਲ ਤਾਰੇ ॥੯॥੨੫੧॥",
-          "en": "aadh anaadh agaadh abhekh adhavaikh japio tin hee kul taare ||9||251||",
-          "hi": "आदि अनादि अगाध अभेख अद्वैख जपिओ तिन ही कुल तारे ॥९॥२५१॥"
-        }
-      ]
+      "p": 6,
+      "pn": "ਕੀਟ ਪਤੰਗ ਕੁਰੰਗ ਭੁਜੰਗਮ ਭੂਤ ਭਵਿੱਖ ਭਵਾਨ ਬਨਾਏ ॥",
+      "en": "keeT pata(n)g kura(n)g bhuja(n)gam bhoot bhavi'kh bhavaan banaae ||",
+      "hi": "कीट पतंग कुरंग भुजंगम भूत भविक्ख भवान बनाए ॥"
     },
     {
-      "lines": [
-        {
-          "pn": "ਤੀਰਥ ਕੋਟ ਕੀਏ ਇਸਨਾਨ ਦੀਏ ਬਹੁ ਦਾਨ ਮਹਾ ਬ੍ਰਤ ਧਾਰੇ ॥",
-          "en": "teerath koT ke'ee isanaan dhe'ee bahu dhaan mahaa brat dhaare ||",
-          "hi": "तीरथ कोट कीए इसनान दीए बहु दान महा ब्रत धारे ॥"
-        },
-        {
-          "pn": "ਦੇਸ ਫਿਰਿਓ ਕਰ ਭੇਸ ਤਪੋਧਨ ਕੇਸ ਧਰੇ ਨ ਮਿਲੇ ਹਰਿ ਪਿਆਰੇ ॥",
-          "en": "dhes firio kar bhes tapodhan kes dhare na mile har piaare ||",
-          "hi": "देस फिरिओ कर भेस तपोधन केस धरे न मिले हरि पिआरे ॥"
-        },
-        {
-          "pn": "ਆਸਨ ਕੋਟ ਕਰੇ ਅਸਟਾਂਗ ਧਰੇ ਬਹੁ ਨਿਆਸ ਕਰੇ ਮੁਖ ਕਾਰੇ ॥",
-          "en": "aasan koT kare asaTaa(n)g dhare bahu niaas kare mukh kaare ||",
-          "hi": "आसन कोट करे असटाँग धरे बहु निआस करे मुख कारे ॥"
-        },
-        {
-          "pn": "ਦੀਨ ਦਇਆਲ ਅਕਾਲ ਭਜੇ ਬਿਨੁ ਅੰਤ ਕੋ ਅੰਤ ਕੇ ਧਾਮ ਸਿਧਾਰੇ ॥੧੦॥੨੫੨॥",
-          "en": "dheen dhiaal akaal bhaje bin a(n)t ko a(n)t ke dhaam sidhaare ||10||252||",
-          "hi": "दीन दइआल अकाल भजे बिनु अंत को अंत के धाम सिधारे ॥१०॥२५२॥"
-        }
-      ]
+      "p": 6,
+      "pn": "ਦੇਵ ਅਦੇਵ ਖਪੇ ਅਹੰਮੇਵ ਨ ਭੇਵ ਲਖਿਓ ਭ੍ਰਮ ਸਿਉ ਭਰਮਾਏ ॥",
+      "en": "dhev adhev khape aha(n)mev na bhev lakhio bhram siau bharamaae ||",
+      "hi": "देव अदेव खपे अहंमेव न भेव लखिओ भ्रम सिउ भरमाए ॥"
+    },
+    {
+      "p": 6,
+      "pn": "ਬੇਦ ਪੁਰਾਨ ਕਤੇਬ ਕੁਰਾਨ ਹਸੇਬ ਥਕੇ ਕਰ ਹਾਥ ਨ ਆਏ ॥",
+      "en": "bedh puraan kateb kuraan haseb thake kar haath na aae ||",
+      "hi": "बेद पुरान कतेब कुरान हसेब थके कर हाथ न आए ॥"
+    },
+    {
+      "p": 6,
+      "pn": "ਪੂਰਨ ਪ੍ਰੇਮ ਪ੍ਰਭਾਉ ਬਿਨਾ ਪਤਿ ਸਿਉ ਕਿਨ ਸ੍ਰੀ ਪਦਮਾ ਪਤਿ ਪਾਏ ॥੩॥੨੪੫॥",
+      "en": "pooran prem prabhaau binaa pat siau kin sree padhamaa pat paae ||3||245||",
+      "hi": "पूरन प्रेम प्रभाउ बिना पति सिउ किन स्री पदमा पति पाए ॥३॥२४५॥"
+    },
+    {
+      "p": 7,
+      "pn": "ਆਦਿ ਅਨੰਤ ਅਗਾਧ ਅਦ੍ਵੈਖ ਸੁ ਭੂਤ ਭਵਿੱਖ ਭਵਾਨ ਅਭੈ ਹੈ ॥",
+      "en": "aadh ana(n)t agaadh adhavaikh su bhoot bhavi'kh bhavaan abhai hai ||",
+      "hi": "आदि अनंत अगाध अद्वैख सु भूत भविक्ख भवान अभै है ॥"
+    },
+    {
+      "p": 7,
+      "pn": "ਅੰਤਿ ਬਿਹੀਨ ਅਨਾਤਮ ਆਪ ਅਦਾਗ ਅਦੋਖ ਅਛਿੱਦ੍ਰ ਅਛੈ ਹੈ ॥",
+      "en": "a(n)t biheen anaatam aap adhaag adhokh achhi'dhr achhai hai ||",
+      "hi": "अंति बिहीन अनातम आप अदाग अदोख अछिद्द्र अछै है ॥"
+    },
+    {
+      "p": 7,
+      "pn": "ਲੋਗਨ ਕੇ ਕਰਤਾ ਹਰਤਾ ਜਲ ਮੈ ਥਲ ਮੈ ਭਰਤਾ ਪ੍ਰਭ ਵੈ ਹੈ ॥",
+      "en": "logan ke karataa harataa jal mai thal mai bharataa prabh vai hai ||",
+      "hi": "लोगन के करता हरता जल मै थल मै भरता प्रभ वै है ॥"
+    },
+    {
+      "p": 7,
+      "pn": "ਦੀਨ ਦਇਆਲ ਦਇਆ ਕਰ ਸ੍ਰੀ ਪਤਿ ਸੁੰਦਰ ਸ੍ਰੀ ਪਦਮਾ ਪਤਿ ਏਹੈ ॥੪॥੨੪੬॥",
+      "en": "dheen dhiaal dhiaa kar sree pat su(n)dhar sree padhamaa pat ehai ||4||246||",
+      "hi": "दीन दइआल दइआ कर स्री पति सुँदर स्री पदमा पति एहै ॥४॥२४६॥"
+    },
+    {
+      "p": 8,
+      "pn": "ਕਾਮ ਨ ਕ੍ਰੋਧ ਨ ਲੋਭ ਨ ਮੋਹ ਨ ਰੋਗ ਨ ਸੋਗ ਨ ਭੋਗ ਨ ਭੈ ਹੈ ॥",
+      "en": "kaam na krodh na lobh na moh na rog na sog na bhog na bhai hai ||",
+      "hi": "काम न क्रोध न लोभ न मोह न रोग न सोग न भोग न भै है ॥"
+    },
+    {
+      "p": 8,
+      "pn": "ਦੇਹ ਬਿਹੀਨ ਸਨੇਹ ਸਭੋ ਤਨ ਨੇਹ ਬਿਰਕਤ ਅਗੇਹ ਅਛੈ ਹੈ ॥",
+      "en": "dheh biheen saneh sabho tan neh birakat ageh achhai hai ||",
+      "hi": "देह बिहीन सनेह सभो तन नेह बिरकत अगेह अछै है ॥"
+    },
+    {
+      "p": 8,
+      "pn": "ਜਾਨ ਕੋ ਦੇਤ ਅਜਾਨ ਕੋ ਦੇਤ ਜਮੀਨ ਕੋ ਦੇਤ ਜਮਾਨ ਕੋ ਦੈ ਹੈ ॥",
+      "en": "jaan ko dhet ajaan ko dhet jameen ko dhet jamaan ko dhai hai ||",
+      "hi": "जान को देत अजान को देत जमीन को देत जमान को दै है ॥"
+    },
+    {
+      "p": 8,
+      "pn": "ਕਾਹੇ ਕੋ ਡੋਲਤ ਹੈ ਤੁਮਰੀ ਸੁਧ ਸੁੰਦਰ ਸ੍ਰੀ ਪਦਮਾ ਪਤਿ ਲੈਹੈ ॥੫॥੨੪੭॥",
+      "en": "kaahe ko ddolat hai tumaree sudh su(n)dhar sree padhamaa pat laihai ||5||247||",
+      "hi": "काहे को डोलत है तुमरी सुध सुँदर स्री पदमा पति लैहै ॥५॥२४७॥"
+    },
+    {
+      "p": 9,
+      "pn": "ਰੋਗਨ ਤੇ ਅਰ ਸੋਗਨ ਤੇ ਜਲ ਜੋਗਨ ਤੇ ਬਹੁ ਭਾਂਤਿ ਬਚਾਵੈ ॥",
+      "en": "rogan te ar sogan te jal jogan te bahu bhaa(n)t bachaavai ||",
+      "hi": "रोगन ते अर सोगन ते जल जोगन ते बहु भाँति बचावै ॥"
+    },
+    {
+      "p": 9,
+      "pn": "ਸੱਤ੍ਰ ਅਨੇਕ ਚਲਾਵਤ ਘਾਵ ਤਊ ਤਨ ਏਕੁ ਨ ਲਾਗਨ ਪਾਵੈ ॥",
+      "en": "sa'tr anek chalaavat ghaav tuoo tan ek na laagan paavai ||",
+      "hi": "सत्त्र अनेक चलावत घाव तऊ तन एकु न लागन पावै ॥"
+    },
+    {
+      "p": 9,
+      "pn": "ਰਾਖਤ ਹੈ ਅਪਨੋ ਕਰੁ ਦੈ ਕਰ ਪਾਪ ਸੰਬੂਹ ਨ ਭੇਟਨ ਪਾਵੈ ॥",
+      "en": "raakhat hai apano kar dhai kar paap sa(n)booh na bheTan paavai ||",
+      "hi": "राखत है अपनो करु दै कर पाप संबूह न भेटन पावै ॥"
+    },
+    {
+      "p": 9,
+      "pn": "ਔਰ ਕੀ ਬਾਤ ਕਹਾ ਕਹ ਤੋ ਸੌਂ ਸੁ ਪੇਟ ਹੀ ਕੇ ਪਟ ਬੀਚ ਬਚਾਵੈ ॥੬॥੨੪੮॥",
+      "en": "aauar kee baat kahaa keh to saua(n) su peT hee ke paT beech bachaavai ||6||248||",
+      "hi": "और की बात कहा कह तो सौं सु पेट ही के पट बीच बचावै ॥६॥२४८॥"
+    },
+    {
+      "p": 10,
+      "pn": "ਜੱਛ ਭੁਜੰਗ ਸੁ ਦਾਨਵ ਦੇਵ ਅਭੇਵ ਤੁਮੈ ਸਭ ਹੀ ਕਰਿ ਧਿਆਵੈਂ ॥",
+      "en": "ja'chh bhuja(n)g su dhaanav dhev abhev tumai sabh hee kar dhiaavai(n) ||",
+      "hi": "जच्छ भुजंग सु दानव देव अभेव तुमै सभ ही करि धिआवैं ॥"
+    },
+    {
+      "p": 10,
+      "pn": "ਭੂਮਿ ਅਕਾਸ ਪਤਾਲ ਰਸਾਤਲ ਜੱਛ ਭੁਜੰਗ ਸਭੈ ਸਿਰ ਨਿਆਵੈਂ ॥",
+      "en": "bhoom akaas pataal rasaatal ja'chh bhuja(n)g sabhai sir niaavai(n) ||",
+      "hi": "भूमि अकास पताल रसातल जच्छ भुजंग सभै सिर निआवैं ॥"
+    },
+    {
+      "p": 10,
+      "pn": "ਪਾਇ ਸਕੈ ਨਹੀ ਪਾਰ ਪ੍ਰਭਾ ਹੂ ਕੋ ਨੇਤ ਹੀ ਨੇਤਹ ਬੇਦ ਬਤਾਵੈਂ ॥",
+      "en": "pai sakai nahee paar prabhaa hoo ko net hee neteh bedh bataavai(n) ||",
+      "hi": "पाइ सकै नही पार प्रभा हू को नेत ही नेतह बेद बतावैं ॥"
+    },
+    {
+      "p": 10,
+      "pn": "ਖੋਜ ਥਕੇ ਸਭ ਹੀ ਖੁਜੀਆ ਸੁਰ ਹਾਰ ਪਰੇ ਹਰਿ ਹਾਥ ਨ ਆਵੈ ॥੭॥੨੪੯॥",
+      "en": "khoj thake sabh hee khujeeaa sur haar pare har haath na aavai ||7||249||",
+      "hi": "खोज थके सभ ही खुजीआ सुर हार परे हरि हाथ न आवै ॥७॥२४९॥"
+    },
+    {
+      "p": 11,
+      "pn": "ਨਾਰਦ ਸੇ ਚਤੁਰਾਨਨ ਸੇ ਰੁਮਨਾ ਰਿਖ ਸੇ ਸਭ ਹੂੰ ਮਿਲਿ ਗਾਇਓ ॥",
+      "en": "naaradh se chaturaanan se rumanaa rikh se sabh hoo(n) mil gaio ||",
+      "hi": "नारद से चतुरानन से रुमना रिख से सभ हूँ मिलि गाइओ ॥"
+    },
+    {
+      "p": 11,
+      "pn": "ਬੇਦ ਕਤੇਬ ਨ ਭੇਦ ਲਖਿਓ ਸਭ ਹਾਰ ਪਰੇ ਹਰਿ ਹਾਥਿ ਨ ਆਇਓ ॥",
+      "en": "bedh kateb na bhedh lakhio sabh haar pare har haath na aaio ||",
+      "hi": "बेद कतेब न भेद लखिओ सभ हार परे हरि हाथि न आइओ ॥"
+    },
+    {
+      "p": 11,
+      "pn": "ਪਾਇ ਸਕੈ ਨਹੀ ਪਾਰ ਉਮਾਪਤਿ ਸਿੱਧ ਸਨਾਥ ਸਨੰਤਨ ਧਿਆਇਓ ॥",
+      "en": "pai sakai nahee paar umaapat si'dh sanaath sana(n)tan dhiaaio ||",
+      "hi": "पाइ सकै नही पार उमापति सिद्ध सनाथ सनंतन धिआइओ ॥"
+    },
+    {
+      "p": 11,
+      "pn": "ਧਿਆਨ ਧਰੋ ਤਿਹ ਕੋ ਮਨ ਮੈਂ ਜਿਹ ਕੋ ਅਮਿਤੋਜਿ ਸਭੈ ਜਗੁ ਛਾਇਓ ॥੮॥੨੫੦॥",
+      "en": "dhiaan dharo teh ko man mai(n) jeh ko amitoj sabhai jag chhaio ||8||250||",
+      "hi": "धिआन धरो तिह को मन मैं जिह को अमितोजि सभै जगु छाइओ ॥८॥२५०॥"
+    },
+    {
+      "p": 12,
+      "pn": "ਬੇਦ ਪੁਰਾਨ ਕਤੇਬ ਕੁਰਾਨ ਅਭੇਦ ਨ੍ਰਿਪਾਨ ਸਭੈ ਪਚ ਹਾਰੇ ॥",
+      "en": "bedh puraan kateb kuraan abhedh nirapaan sabhai pach haare ||",
+      "hi": "बेद पुरान कतेब कुरान अभेद नृपान सभै पच हारे ॥"
+    },
+    {
+      "p": 12,
+      "pn": "ਭੇਦ ਨ ਪਾਇ ਸਕਿਓ ਅਨਭੇਦ ਕੋ ਖੇਦਤ ਹੈ ਅਨਛੇਦ ਪੁਕਾਰੇ ॥",
+      "en": "bhedh na pai sakio anabhedh ko khedhat hai anachhedh pukaare ||",
+      "hi": "भेद न पाइ सकिओ अनभेद को खेदत है अनछेद पुकारे ॥"
+    },
+    {
+      "p": 12,
+      "pn": "ਰਾਗ ਨ ਰੂਪ ਨ ਰੇਖ ਨ ਰੰਗ ਨ ਸਾਕ ਨ ਸੋਗ ਨ ਸੰਗਿ ਤਿਹਾਰੇ ॥",
+      "en": "raag na roop na rekh na ra(n)g na saak na sog na sa(n)g tihaare ||",
+      "hi": "राग न रूप न रेख न रंग न साक न सोग न संगि तिहारे ॥"
+    },
+    {
+      "p": 12,
+      "pn": "ਆਦਿ ਅਨਾਦਿ ਅਗਾਧ ਅਭੇਖ ਅਦ੍ਵੈਖ ਜਪਿਓ ਤਿਨ ਹੀ ਕੁਲ ਤਾਰੇ ॥੯॥੨੫੧॥",
+      "en": "aadh anaadh agaadh abhekh adhavaikh japio tin hee kul taare ||9||251||",
+      "hi": "आदि अनादि अगाध अभेख अद्वैख जपिओ तिन ही कुल तारे ॥९॥२५१॥"
+    },
+    {
+      "p": 13,
+      "pn": "ਤੀਰਥ ਕੋਟ ਕੀਏ ਇਸਨਾਨ ਦੀਏ ਬਹੁ ਦਾਨ ਮਹਾ ਬ੍ਰਤ ਧਾਰੇ ॥",
+      "en": "teerath koT ke'ee isanaan dhe'ee bahu dhaan mahaa brat dhaare ||",
+      "hi": "तीरथ कोट कीए इसनान दीए बहु दान महा ब्रत धारे ॥"
+    },
+    {
+      "p": 13,
+      "pn": "ਦੇਸ ਫਿਰਿਓ ਕਰ ਭੇਸ ਤਪੋਧਨ ਕੇਸ ਧਰੇ ਨ ਮਿਲੇ ਹਰਿ ਪਿਆਰੇ ॥",
+      "en": "dhes firio kar bhes tapodhan kes dhare na mile har piaare ||",
+      "hi": "देस फिरिओ कर भेस तपोधन केस धरे न मिले हरि पिआरे ॥"
+    },
+    {
+      "p": 13,
+      "pn": "ਆਸਨ ਕੋਟ ਕਰੇ ਅਸਟਾਂਗ ਧਰੇ ਬਹੁ ਨਿਆਸ ਕਰੇ ਮੁਖ ਕਾਰੇ ॥",
+      "en": "aasan koT kare asaTaa(n)g dhare bahu niaas kare mukh kaare ||",
+      "hi": "आसन कोट करे असटाँग धरे बहु निआस करे मुख कारे ॥"
+    },
+    {
+      "p": 13,
+      "pn": "ਦੀਨ ਦਇਆਲ ਅਕਾਲ ਭਜੇ ਬਿਨੁ ਅੰਤ ਕੋ ਅੰਤ ਕੇ ਧਾਮ ਸਿਧਾਰੇ ॥੧੦॥੨੫੨॥",
+      "en": "dheen dhiaal akaal bhaje bin a(n)t ko a(n)t ke dhaam sidhaare ||10||252||",
+      "hi": "दीन दइआल अकाल भजे बिनु अंत को अंत के धाम सिधारे ॥१०॥२५२॥"
     }
   ]
 }

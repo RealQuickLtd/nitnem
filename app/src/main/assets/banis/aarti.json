@@ -1,0 +1,2144 @@
+{
+  "id": 22,
+  "nameEn": "aaratee",
+  "slug": "aarti",
+  "verses": [
+    {
+      "p": 1,
+      "pn": "ਆਰਤੀ-ਆਰਤਾ",
+      "en": "aaratee-aarataa",
+      "hi": "आरती-आरता",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "aaratee-aarataa"
+    },
+    {
+      "p": 2,
+      "pn": "ਦੋਹਰਾ ॥",
+      "en": "dhoharaa ||",
+      "hi": "दोहरा ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "dhoharaa ||"
+    },
+    {
+      "p": 3,
+      "pn": "ਲੋਪ ਚੰਡਕਾ ਹੋਇ ਗਈ ਸੁਰਪਤਿ ਕੌ ਦੇ ਰਾਜ ॥",
+      "en": "lop cha(n)ddakaa hoi giee surapat kau dhe raaj ||",
+      "hi": "लोप चंडका होइ गई सुरपति कौ दे राज ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 3,
+      "pn": "ਦਾਨਵ ਮਾਰਿ ਅਭੇਖ ਕਰਿ ਕੀਨੇ ਸੰਤਨ ਕਾਜ ॥੫੩॥",
+      "en": "dhaanav maar abhekh kar keene sa(n)tan kaaj ||53||",
+      "hi": "दानव मारि अभेख करि कीने संतन काज ॥५३॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 4,
+      "pn": "ਸ੍ਵੈਯਾ ॥",
+      "en": "savaiyaa ||",
+      "hi": "स्वैया ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "savaiyaa ||"
+    },
+    {
+      "p": 5,
+      "pn": "ਯਾ ਤੇ ਪ੍ਰਸੰਨ ਭਏ ਹੈ ਮਹਾ ਮੁਨ ਦੇਵਨ ਕੇ ਤਪ ਮੈ ਸੁਖ ਪਾਵੈ ॥",
+      "en": "yaa te prasa(n)n bhe hai mahaa mun dhevan ke tap mai sukh paavai ||",
+      "hi": "या ते प्रसंन भए है महा मुन देवन के तप मै सुख पावै ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 5,
+      "pn": "ਜਗ੍ਯ ਕਰੈ ਇਕ ਬੇਦ ਰਰੈ ਭਵ ਤਾਪ ਹਰੈ ਮਿਲਿ ਧਿਆਨਹਿ ਲਾਵੈ ॥",
+      "en": "jagay karai ik bedh rarai bhav taap harai mil dhiaaneh laavai ||",
+      "hi": "जग्य करै इक बेद ररै भव ताप हरै मिलि धिआनहि लावै ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 5,
+      "pn": "ਝਾਲਰ ਤਾਲ ਮ੍ਰਿਦੰਗ ਉਪੰਗ ਰਬਾਬ ਲੀਏ ਸੁਰ ਸਾਜ ਮਿਲਾਵੈ ॥",
+      "en": "jhaalar taal miradha(n)g upa(n)g rabaab le'ee sur saaj milaavai ||",
+      "hi": "झालर ताल मृदंग उपंग रबाब लीए सुर साज मिलावै ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 5,
+      "pn": "ਕਿੰਨਰ ਗੰਧ੍ਰਬ ਗਾਨ ਕਰੈ ਗਨਿ ਜਛ ਅਪਛਰ ਨਿਰਤ ਦਿਖਾਵੈ ॥੫੪॥",
+      "en": "ki(n)nar ga(n)dhrab gaan karai gan jachh apachhar nirat dhikhaavai ||54||",
+      "hi": "किंनर गंध्रब गान करै गनि जछ अपछर निरत दिखावै ॥५४॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 6,
+      "pn": "ਸੰਖਨ ਕੀ ਧੁਨ ਘੰਟਨਿ ਕੀ ਕਰਿ ਫੂਲਨ ਕੀ ਬਰਖਾ ਬਰਖਾਵੈ ॥",
+      "en": "sa(n)khan kee dhun gha(n)Tan kee kar foolan kee barakhaa barakhaavai ||",
+      "hi": "संखन की धुन घंटनि की करि फूलन की बरखा बरखावै ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 6,
+      "pn": "ਆਰਤੀ ਕੋਟਿ ਕਰੈ ਸੁਰ ਸੁੰਦਰਿ ਪੇਖ ਪੁਰੰਦਰ ਕੇ ਬਲਿ ਜਾਵੈ ॥",
+      "en": "aaratee koT karai sur su(n)dhar pekh pura(n)dhar ke bal jaavai ||",
+      "hi": "आरती कोटि करै सुर सुँदरि पेख पुरंदर के बलि जावै ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 6,
+      "pn": "ਦਾਨਤ ਦਛਨ ਦੈ ਕੈ ਪ੍ਰਦਛਨ ਭਾਲ ਮੈ ਕੁੰਕਮ ਅਛਤ ਲਾਵੈ ॥",
+      "en": "dhaanat dhachhan dhai kai pradhachhan bhaal mai ku(n)kam achhat laavai ||",
+      "hi": "दानत दछन दै कै प्रदछन भाल मै कुँकम अछत लावै ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 6,
+      "pn": "ਹੋਤ ਕੁਲਾਹਲ ਦੇਵਪੁਰੀ ਮਿਲ ਦੇਵਨ ਕੇ ਕੁਲਿ ਮੰਗਲ ਗਾਵੈ ॥੫੫॥",
+      "en": "hot kulaahal dhevapuree mil dhevan ke kul ma(n)gal gaavai ||55||",
+      "hi": "होत कुलाहल देवपुरी मिल देवन के कुलि मंगल गावै ॥५५॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 7,
+      "pn": "ਦੋਹਰਾ ॥",
+      "en": "dhoharaa ||",
+      "hi": "दोहरा ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "dhoharaa ||"
+    },
+    {
+      "p": 8,
+      "pn": "ਐਸੇ ਚੰਡ ਪ੍ਰਤਾਪ ਤੇ ਦੇਵਨ ਬਢਿਓ ਪ੍ਰਤਾਪ ॥",
+      "en": "aaise cha(n)dd prataap te dhevan baddio prataap ||",
+      "hi": "ऐसे चंड प्रताप ते देवन बढिओ प्रताप ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 8,
+      "pn": "ਤੀਨ ਲੋਕ ਜੈ ਜੈ ਕਰੈ ਰਰੈ ਨਾਮੁ ਸਤਿ ਜਾਪ ॥੫੬॥",
+      "en": "teen lok jai jai karai rarai naam sat jaap ||56||",
+      "hi": "तीन लोक जै जै करै ररै नामु सति जाप ॥५६॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 9,
+      "pn": "ਸਵੈਯਾ ॥",
+      "en": "savaiyaa ||",
+      "hi": "सवैया ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "savaiyaa ||"
+    },
+    {
+      "p": 10,
+      "pn": "ਹੇ ਰਵਿ ਹੇ ਸਸਿ ਹੇ ਕਰੁਨਾਨਿਧਿ ਮੇਰੀ ਅਬੈ ਬਿਨਤੀ ਸੁਨਿ ਲੀਜੈ ॥",
+      "en": "he rav he sas he karunaanidh meree abai binatee sun leejai ||",
+      "hi": "हे रवि हे ससि हे करुनानिधि मेरी अबै बिनती सुनि लीजै ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 10,
+      "pn": "ਅਉਰ ਨ ਮਾਗਤ ਹਉ ਤੁਮ ਤੇ ਕਛੁ ਚਾਹਤ ਹਉ ਚਿਤ ਮੈ ਸੋਈ ਕੀਜੈ ॥",
+      "en": "aaur na maagat hau tum te kachh chaahat hau chit mai soiee keejai ||",
+      "hi": "अउर न मागत हउ तुम ते कछु चाहत हउ चित मै सोई कीजै ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 10,
+      "pn": "ਸਸਤ੍ਰਨ ਸੋ ਅਤਿ ਹੀ ਰਨ ਭੀਤਰ ਜੂਝਿ ਮਰੋ ਕਹਿ ਸਾਚ ਪਤੀਜੈ ॥",
+      "en": "sasatran so at hee ran bheetar joojh maro keh saach pateejai ||",
+      "hi": "ससत्रन सो अति ही रन भीतर जूझि मरो कहि साच पतीजै ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 10,
+      "pn": "ਸੰਤ ਸਹਾਇ ਸਦਾ ਜਗ ਮਾਇ ਕ੍ਰਿਪਾ ਕਰ ਸ੍ਯਾਮ ਇਹੈ ਵਰੁ ਦੀਜੈ ॥੧੯੦੦॥",
+      "en": "sa(n)t sahai sadhaa jag mai kirapaa kar sayaam ihai var dheejai ||1900||",
+      "hi": "संत सहाइ सदा जग माइ कृपा कर स्याम इहै वरु दीजै ॥१९००॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 11,
+      "pn": "ਕਬਿਤੁ ॥",
+      "en": "kabit ||",
+      "hi": "कबितु ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "kabit ||"
+    },
+    {
+      "p": 12,
+      "pn": "ਸੰਕਟ ਹਰਨ ਸਭ ਸਿਧਿ ਕੀ ਕਰਨ ਚੰਡ ਤਾਰਨ ਤਰਨ ਅਰੁ ਲੋਚਨ ਬਿਸਾਲ ਹੈ ॥",
+      "en": "sa(n)kaT haran sabh sidh kee karan cha(n)dd taaran taran ar lochan bisaal hai ||",
+      "hi": "संकट हरन सभ सिधि की करन चंड तारन तरन अरु लोचन बिसाल है ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 12,
+      "pn": "ਆਦਿ ਜਾ ਕੈ ਆਹਮ ਹੈ ਅੰਤ ਕੋ ਨ ਪਾਰਾਵਾਰ ਸਰਨਿ ਉਬਾਰਨ ਕਰਨ ਪ੍ਰਤਿਪਾਲ ਹੈ ॥",
+      "en": "aadh jaa kai aaham hai a(n)t ko na paaraavaar saran ubaaran karan pratipaal hai ||",
+      "hi": "आदि जा कै आहम है अंत को न पारावार सरनि उबारन करन प्रतिपाल है ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 12,
+      "pn": "ਅਸੁਰ ਸੰਘਾਰਨ ਅਨਿਕ ਦੁਖ ਜਾਰਨ ਸੋ ਪਤਿਤ ਉਧਾਰਨ ਛਡਾਏ ਜਮ ਜਾਲ ਹੈ ॥",
+      "en": "asur sa(n)ghaaran anik dhukh jaaran so patit udhaaran chhaddaae jam jaal hai ||",
+      "hi": "असुर संघारन अनिक दुख जारन सो पतित उधारन छडाए जम जाल है ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 12,
+      "pn": "ਦੇਵੀ ਬਰੁ ਲਾਇਕ ਸੁਬੁਧਿ ਹੂ ਕੀ ਦਾਇਕ ਸੁ ਦੇਹ ਬਰੁ ਪਾਇਕ ਬਨਾਵੈ ਗ੍ਰੰਥ ਹਾਲ ਹੈ ॥੭॥",
+      "en": "dhevee bar laik subudh hoo kee dhaik su dheh bar paik banaavai gra(n)th haal hai ||7||",
+      "hi": "देवी बरु लाइक सुबुधि हू की दाइक सु देह बरु पाइक बनावै ग्रंथ हाल है ॥७॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 13,
+      "pn": "ਕਬਿਤੁ ॥",
+      "en": "kabit ||",
+      "hi": "कबितु ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "kabit ||"
+    },
+    {
+      "p": 14,
+      "pn": "ਮਿਲਿ ਕੇ ਸੁ ਦੇਵਨ ਬਡਾਈ ਕਰੀ ਕਾਲਿਕਾ ਕੀ ਏਹੋ ਜਗ ਮਾਤ ਤੈ ਤੋ ਕਟਿਓ ਬਡੋ ਪਾਪੁ ਹੈ ॥",
+      "en": "mil ke su dhevan baddaiee karee kaalikaa kee eho jag maat tai to kaTio baddo paap hai ||",
+      "hi": "मिलि के सु देवन बडाई करी कालिका की एहो जग मात तै तो कटिओ बडो पापु है ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 14,
+      "pn": "ਦੈਤਨ ਕੇ ਮਾਰ ਰਾਜ ਦੀਨੋ ਤੈ ਸੁਰੇਸ ਹੂੰ ਕੋ ਬਡੋ ਜਸੁ ਲੀਨੇ ਜਗਿ ਤੇਰੋ ਈ ਪ੍ਰਤਾਪੁ ਹੈ ॥",
+      "en": "dhaitan ke maar raaj dheeno tai sures hoo(n) ko baddo jas leene jag tero iee prataap hai ||",
+      "hi": "दैतन के मार राज दीनो तै सुरेस हूँ को बडो जसु लीने जगि तेरो ई प्रतापु है ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 14,
+      "pn": "ਦੇਤ ਹੈ ਅਸੀਸ ਦਿਜ ਰਾਜ ਰਿਖਿ ਬਾਰਿ ਬਾਰਿ ਤਹਾ ਹੀ ਪੜਿਓ ਹੈ ਬ੍ਰਹਮ ਕਉਚ ਹੂੰ ਕੋ ਜਾਪ ਹੈ ॥",
+      "en": "dhet hai asees dhij raaj rikh baar baar tahaa hee paRio hai braham kauch hoo(n) ko jaap hai ||",
+      "hi": "देत है असीस दिज राज रिखि बारि बारि तहा ही पड़िओ है ब्रहम कउच हूँ को जाप है ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 14,
+      "pn": "ਐਸੇ ਜਸੁ ਪੂਰ ਰਹਿਓ ਚੰਡਿਕਾ ਕੋ ਤੀਨ ਲੋਕਿ ਜੈਸੇ ਧਾਰ ਸਾਗਰ ਮੈ ਗੰਗਾ ਜੀ ਕੋ ਆਪੁ ਹੈ ॥੨੨੭॥",
+      "en": "aaise jas poor rahio cha(n)ddikaa ko teen lok jaise dhaar saagar mai ga(n)gaa jee ko aap hai ||227||",
+      "hi": "ऐसे जसु पूर रहिओ चंडिका को तीन लोकि जैसे धार सागर मै गंगा जी को आपु है ॥२२७॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 15,
+      "pn": "ਸ੍ਵੈਯਾ ॥",
+      "en": "savaiyaa ||",
+      "hi": "स्वैया ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "savaiyaa ||"
+    },
+    {
+      "p": 16,
+      "pn": "ਤਾਰਨ ਲੋਕ ਉਧਾਰਨ ਭੂਮਹਿ ਦੈਤ ਸੰਘਾਰਨ ਚੰਡ ਤੁਹੀ ਹੈ ॥",
+      "en": "taaran lok udhaaran bhoomeh dhait sa(n)ghaaran cha(n)dd tuhee hai ||",
+      "hi": "तारन लोक उधारन भूमहि दैत संघारन चंड तुही है ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 16,
+      "pn": "ਕਾਰਨ ਈਸ ਕਲਾ ਕਮਲਾ ਹਰਿ ਅਦ੍ਰਸੁਤਾ ਜਹ ਦੇਖੇ ਉਹੀ ਹੈ ॥",
+      "en": "kaaran iees kalaa kamalaa har adhrasutaa jeh dhekhe uhee hai ||",
+      "hi": "कारन ईस कला कमला हरि अद्रसुता जह देखे उही है ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 16,
+      "pn": "ਤਾਮਸਤਾ ਮਮਤਾ ਨਮਤਾ ਕਵਿਤਾ ਕਵਿ ਕੇ ਮਨ ਮੱਧਿ ਗੁਹੀ ਹੈ ॥",
+      "en": "taamasataa mamataa namataa kavitaa kav ke man ma'dh guhee hai ||",
+      "hi": "तामसता ममता नमता कविता कवि के मन मद्धि गुही है ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 16,
+      "pn": "ਕੀਨੋ ਹੈ ਕੰਚਨ ਲੋਹ ਜਗਤ੍ਰ ਮੈ ਪਾਰਸ ਮੂਰਤ ਜਾਇ ਛੁਹੀ ਹੈ ॥੪॥",
+      "en": "keeno hai ka(n)chan loh jagatr mai paaras moorat jai chhuhee hai ||4||",
+      "hi": "कीनो है कंचन लोह जगत्र मै पारस मूरत जाइ छुही है ॥४॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 17,
+      "pn": "ਸਵੈਯਾ ॥",
+      "en": "savaiyaa ||",
+      "hi": "सवैया ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "savaiyaa ||"
+    },
+    {
+      "p": 18,
+      "pn": "ਕਾਲ ਹੀ ਪਾਇ ਭਯੋ ਭਗਵਾਨ ਸੁ ਜਾਗਤ ਯਾ ਜਗ ਜਾ ਕੀ ਕਲਾ ਹੈ ॥",
+      "en": "kaal hee pai bhayo bhagavaan su jaagat yaa jag jaa kee kalaa hai ||",
+      "hi": "काल ही पाइ भयो भगवान सु जागत या जग जा की कला है ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 18,
+      "pn": "ਕਾਲ ਹੀ ਪਾਇ ਭਯੋ ਬ੍ਰਹਮਾ ਸਿਵ ਕਾਲ ਹੀ ਪਾਇ ਭਯੋ ਜੁਗੀਆ ਹੈ ॥",
+      "en": "kaal hee pai bhayo brahamaa siv kaal hee pai bhayo jugeeaa hai ||",
+      "hi": "काल ही पाइ भयो ब्रहमा सिव काल ही पाइ भयो जुगीआ है ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 18,
+      "pn": "ਕਾਲ ਹੀ ਪਾਇ ਸੁਰਾਸੁਰ ਗੰਧ੍ਰਬ ਜੱਛ ਭੁਜੰਗ ਦਿਸਾ ਬਿਦਿਸਾ ਹੈ ॥",
+      "en": "kaal hee pai suraasur ga(n)dhrab ja'chh bhuja(n)g dhisaa bidhisaa hai ||",
+      "hi": "काल ही पाइ सुरासुर गंध्रब जच्छ भुजंग दिसा बिदिसा है ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 18,
+      "pn": "ਔਰ ਸੁਕਾਲ ਸਭੈ ਬਸ ਕਾਲ ਕੇ ਏਕ ਹੀ ਕਾਲ ਅਕਾਲ ਸਦਾ ਹੈ ॥੮੪॥",
+      "en": "aauar sukaal sabhai bas kaal ke ek hee kaal akaal sadhaa hai ||84||",
+      "hi": "और सुकाल सभै बस काल के एक ही काल अकाल सदा है ॥८४॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 19,
+      "pn": "ਸਵੈਯਾ ॥",
+      "en": "savaiyaa ||",
+      "hi": "सवैया ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "savaiyaa ||"
+    },
+    {
+      "p": 20,
+      "pn": "ਮੇਰੁ ਕਰੋ ਤ੍ਰਿਣ ਤੇ ਮੁਹਿ ਜਾਹਿ ਗਰੀਬ ਨਿਵਾਜ ਨ ਦੂਸਰ ਤੋ ਸੋ ॥",
+      "en": "mer karo tiran te muh jaeh gareeb nivaaj na dhoosar to so ||",
+      "hi": "मेरु करो तृण ते मुहि जाहि गरीब निवाज न दूसर तो सो ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 20,
+      "pn": "ਭੂਲ ਛਿਮੋ ਹਮਰੀ ਪ੍ਰਭ ਆਪਨ ਭੂਲਨਹਾਰ ਕਹੂੰ ਕੋਊ ਮੋ ਸੋ ॥",
+      "en": "bhool chhimo hamaree prabh aapan bhoolanahaar kahoo(n) kouoo mo so ||",
+      "hi": "भूल छिमो हमरी प्रभ आपन भूलनहार कहूँ कोऊ मो सो ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 20,
+      "pn": "ਸੇਵ ਕਰੀ ਤੁਮਰੀ ਤਿਨ ਕੇ ਸਭ ਹੀ ਗ੍ਰਿਹ ਦੇਖੀਅਤ ਦ੍ਰਬ ਭਰੋ ਸੋ ॥",
+      "en": "sev karee tumaree tin ke sabh hee gireh dhekheeat dhrab bharo so ||",
+      "hi": "सेव करी तुमरी तिन के सभ ही गृह देखीअत द्रब भरो सो ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 20,
+      "pn": "ਯਾ ਕਲ ਮੈਂ ਸਭ ਕਾਲ ਕ੍ਰਿਪਾਨ ਕੇ ਭਾਰੀ ਭੁਜਾਨ ਕੋ ਭਾਰੀ ਭਰੋਸੋ ॥੯੨॥",
+      "en": "yaa kal mai(n) sabh kaal kirapaan ke bhaaree bhujaan ko bhaaree bharoso ||92||",
+      "hi": "या कल मैं सभ काल कृपान के भारी भुजान को भारी भरोसो ॥९२॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 21,
+      "pn": "ਸ੍ਵੈਯਾ ॥",
+      "en": "savaiyaa ||",
+      "hi": "स्वैया ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "savaiyaa ||"
+    },
+    {
+      "p": 22,
+      "pn": "ਭਾਜਿ ਗਇਓ ਮਘਵਾ ਜਿਨ ਕੇ ਡਰ ਬ੍ਰਹਮ ਤੇ ਆਦਿ ਸਭੈ ਭੈ ਭੀਤੇ ॥",
+      "en": "bhaaj gio maghavaa jin ke ddar braham te aadh sabhai bhai bheete ||",
+      "hi": "भाजि गइओ मघवा जिन के डर ब्रहम ते आदि सभै भै भीते ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 22,
+      "pn": "ਤੇਈ ਵੈ ਦੈਤ ਪਰਾਇ ਗਏ ਰਨਿ ਹਾਰ ਨਿਹਾਰ ਭਏ ਬਲੁ ਰੀਤੇ ॥",
+      "en": "teiee vai dhait parai ge ran haar nihaar bhe bal reete ||",
+      "hi": "तेई वै दैत पराइ गए रनि हार निहार भए बलु रीते ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 22,
+      "pn": "ਜੰਬੁਕ ਗ੍ਰਿਝ ਨਿਰਾਸ ਭਏ ਬਨ ਬਾਸ ਗਏ ਜੁਗ ਜਾਮਨ ਬੀਤੇ ॥",
+      "en": "ja(n)buk girajh niraas bhe ban baas ge jug jaaman beete ||",
+      "hi": "जंबुक गृझ निरास भए बन बास गए जुग जामन बीते ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 22,
+      "pn": "ਸੰਤ ਸਹਾਇ ਸਦਾ ਜਗ ਮਾਇ ਸੁ ਸੁੰਭ ਨਿਸੁੰਭ ਬਡੇ ਅਰਿ ਜੀਤੇ ॥੨੨੫॥",
+      "en": "sa(n)t sahai sadhaa jag mai su su(n)bh nisu(n)bh badde ar jeete ||225||",
+      "hi": "संत सहाइ सदा जग माइ सु सुँभ निसुँभ बडे अरि जीते ॥२२५॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 23,
+      "pn": "ਦੇਵ ਸਭੈ ਮਿਲਿ ਕੈ ਇਕ ਠਉਰ ਸੁ ਅਛਤ ਕੁੰਕਮ ਚੰਦਨ ਲੀਨੋ ॥",
+      "en": "dhev sabhai mil kai ik Thaur su achhat ku(n)kam cha(n)dhan leeno ||",
+      "hi": "देव सभै मिलि कै इक ठउर सु अछत कुँकम चंदन लीनो ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 23,
+      "pn": "ਤਛਨ ਲਛਨ ਦੈ ਕੈ ਪ੍ਰਦਛਨ ਟੀਕਾ ਸੁ ਚੰਡਿ ਕੇ ਭਾਲ ਮੈ ਦੀਨੋ ॥",
+      "en": "tachhan lachhan dhai kai pradhachhan Teekaa su cha(n)dd ke bhaal mai dheeno ||",
+      "hi": "तछन लछन दै कै प्रदछन टीका सु चंडि के भाल मै दीनो ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 23,
+      "pn": "ਤਾ ਛਬਿ ਕੋ ਉਪਜ੍ਯੋ ਤਹ ਭਾਵ ਇਹੈ ਕਵਿ ਨੇ ਮਨ ਮੈ ਲਖਿ ਲੀਨੋ ॥",
+      "en": "taa chhab ko upajayo teh bhaav ihai kav ne man mai lakh leeno ||",
+      "hi": "ता छबि को उपज्यो तह भाव इहै कवि ने मन मै लखि लीनो ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 23,
+      "pn": "ਮਾਨਹੁ ਚੰਦ ਕੈ ਮੰਡਲ ਮੈ ਸੁਭ ਮੰਗਲ ਆਨਿ ਪ੍ਰਵੇਸਹਿ ਕੀਨੋ ॥੨੨੬॥",
+      "en": "maanahu cha(n)dh kai ma(n)ddal mai subh ma(n)gal aan praveseh keeno ||226||",
+      "hi": "मानहु चंद कै मंडल मै सुभ मंगल आनि प्रवेसहि कीनो ॥२२६॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 24,
+      "pn": "ਸ੍ਵੈਯਾ ॥",
+      "en": "savaiyaa ||",
+      "hi": "स्वैया ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "savaiyaa ||"
+    },
+    {
+      "p": 25,
+      "pn": "ਦੇਹਿ ਅਸੀਸ ਸਭੈ ਸੁਰ ਨਾਰਿ ਸੁਧਾਰਿ ਕੈ ਆਰਤੀ ਦੀਪ ਜਗਾਇਓ ॥",
+      "en": "dheh asees sabhai sur naar sudhaar kai aaratee dheep jagaio ||",
+      "hi": "देहि असीस सभै सुर नारि सुधारि कै आरती दीप जगाइओ ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 25,
+      "pn": "ਫੂਲ ਸੁਗੰਧ ਸੁਅਛਤ ਦਛਨ ਜਛਨ ਜੀਤ ਕੋ ਗੀਤ ਸੁ ਗਾਇਓ ॥",
+      "en": "fool suga(n)dh suachhat dhachhan jachhan jeet ko geet su gaio ||",
+      "hi": "फूल सुगंध सुअछत दछन जछन जीत को गीत सु गाइओ ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 25,
+      "pn": "ਧੂਪ ਜਗਾਇ ਕੈ ਸੰਖ ਬਜਾਇ ਕੈ ਸੀਸ ਨਿਵਾਇ ਕੈ ਬੈਨ ਸੁਨਾਇਓ ॥",
+      "en": "dhoop jagai kai sa(n)kh bajai kai sees nivai kai bain sunaio ||",
+      "hi": "धूप जगाइ कै संख बजाइ कै सीस निवाइ कै बैन सुनाइओ ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 25,
+      "pn": "ਹੇ ਜਗ ਮਾਇ ਸਦਾ ਸੁਖ ਦਾਇ ਤੈ ਸੁੰਭ ਕੋ ਘਾਇ ਬਡੋ ਜਸੁ ਪਾਇਓ ॥੨੨੮॥",
+      "en": "he jag mai sadhaa sukh dhai tai su(n)bh ko ghai baddo jas paio ||228||",
+      "hi": "हे जग माइ सदा सुख दाइ तै सुँभ को घाइ बडो जसु पाइओ ॥२२८॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 26,
+      "pn": "ਸਕ੍ਰਹਿ ਸਾਜਿ ਸਮਾਜ ਦੈ ਚੰਡ ਸੁ ਮੋਦ ਮਹਾ ਮਨ ਮਾਹਿ ਰਈ ਹੈ ॥",
+      "en": "sakreh saaj samaaj dhai cha(n)dd su modh mahaa man maeh riee hai ||",
+      "hi": "सक्रहि साजि समाज दै चंड सु मोद महा मन माहि रई है ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 26,
+      "pn": "ਸੂਰ ਸਸੀ ਨਭਿ ਥਾਪ ਕੈ ਤੇਜੁ ਦੇ ਆਪ ਤਹਾ ਤੇ ਸੁ ਲੋਪ ਭਈ ਹੈ ॥",
+      "en": "soor sasee nabh thaap kai tej dhe aap tahaa te su lop bhiee hai ||",
+      "hi": "सूर ससी नभि थाप कै तेजु दे आप तहा ते सु लोप भई है ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 26,
+      "pn": "ਬੀਚ ਅਕਾਸ ਪ੍ਰਕਾਸ ਬਢਿਓ ਤਿਹ ਕੀ ਉਪਮਾ ਮਨ ਤੇ ਨ ਗਈ ਹੈ ॥",
+      "en": "beech akaas prakaas baddio teh kee upamaa man te na giee hai ||",
+      "hi": "बीच अकास प्रकास बढिओ तिह की उपमा मन ते न गई है ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 26,
+      "pn": "ਧੂਰਿ ਕੈ ਪੂਰ ਮਲੀਨ ਹੁਤੋ ਰਵਿ ਮਾਨਹੁ ਚੰਡਿਕਾ ਓਪ ਦਈ ਹੈ ॥੨੨੯॥",
+      "en": "dhoor kai poor maleen huto rav maanahu cha(n)ddikaa op dhiee hai ||229||",
+      "hi": "धूरि कै पूर मलीन हुतो रवि मानहु चंडिका ओप दई है ॥२२९॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 27,
+      "pn": "ਸ੍ਵੈਯਾ ॥",
+      "en": "savaiyaa ||",
+      "hi": "स्वैया ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "savaiyaa ||"
+    },
+    {
+      "p": 28,
+      "pn": "ਦੇਹ ਸਿਵਾ ਬਰੁ ਮੋਹਿ ਇਹੈ ਸੁਭ ਕਰਮਨ ਤੇ ਕਬਹੂੰ ਨ ਟਰੋ ॥",
+      "en": "dheh sivaa bar moh ihai subh karaman te kabahoo(n) na Taro ||",
+      "hi": "देह सिवा बरु मोहि इहै सुभ करमन ते कबहूँ न टरो ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 28,
+      "pn": "ਨ ਡਰੋ ਅਰਿ ਸੋ ਜਬ ਜਾਇ ਲਰੋ ਨਿਸਚੈ ਕਰਿ ਅਪੁਨੀ ਜੀਤ ਕਰੋ ॥",
+      "en": "n ddaro ar so jab jai laro nisachai kar apunee jeet karo ||",
+      "hi": "न डरो अरि सो जब जाइ लरो निसचै करि अपुनी जीत करो ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 28,
+      "pn": "ਅਰੁ ਸਿਖ ਹੌ ਆਪਨੇ ਹੀ ਮਨ ਕੋ ਇਹ ਲਾਲਚ ਹਉ ਗੁਨ ਤਉ ਉਚਰੋ ॥",
+      "en": "ar sikh hau aapane hee man ko ieh laalach hau gun tau ucharo ||",
+      "hi": "अरु सिख हौ आपने ही मन को इह लालच हउ गुन तउ उचरो ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 28,
+      "pn": "ਜਬ ਆਵ ਕੀ ਅਉਧ ਨਿਦਾਨ ਬਨੈ ਅਤਿ ਹੀ ਰਨ ਮੈ ਤਬ ਜੂਝ ਮਰੋ ॥੨੩੧॥",
+      "en": "jab aav kee aaudh nidhaan banai at hee ran mai tab joojh maro ||231||",
+      "hi": "जब आव की अउध निदान बनै अति ही रन मै तब जूझ मरो ॥२३१॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 29,
+      "pn": "ਚੰਡਿ ਚਰਿਤ੍ਰ ਕਵਿਤਨ ਮੈ ਬਰਨਿਓ ਸਭ ਹੀ ਰਸ ਰੁਦ੍ਰਮਈ ਹੈ ॥",
+      "en": "cha(n)dd charitr kavitan mai baranio sabh hee ras rudhramiee hai ||",
+      "hi": "चंडि चरित्र कवितन मै बरनिओ सभ ही रस रुद्रमई है ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 29,
+      "pn": "ਏਕ ਤੇ ਏਕ ਰਸਾਲ ਭਇਓ ਨਖ ਤੇ ਸਿਖ ਲਉ ਉਪਮਾ ਸੁ ਨਈ ਹੈ ॥",
+      "en": "ek te ek rasaal bhio nakh te sikh lau upamaa su niee hai ||",
+      "hi": "एक ते एक रसाल भइओ नख ते सिख लउ उपमा सु नई है ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 29,
+      "pn": "ਕਉਤਕ ਹੇਤੁ ਕਰੀ ਕਵਿ ਨੇ ਸਤਿਸਯ ਕੀ ਕਥਾ ਇਹ ਪੂਰੀ ਭਈ ਹੈ ॥",
+      "en": "kautak het karee kav ne satisay kee kathaa ieh pooree bhiee hai ||",
+      "hi": "कउतक हेतु करी कवि ने सतिसय की कथा इह पूरी भई है ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 29,
+      "pn": "ਜਾਹਿ ਨਮਿਤ ਪੜੈ ਸੁਨਿ ਹੈ ਨਰ ਸੋ ਨਿਸਚੈ ਕਰਿ ਤਾਹਿ ਦਈ ਹੈ ॥੨੩੨॥",
+      "en": "jaeh namit paRai sun hai nar so nisachai kar taeh dhiee hai ||232||",
+      "hi": "जाहि नमित पड़ै सुनि है नर सो निसचै करि ताहि दई है ॥२३२॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 30,
+      "pn": "ਦੋਹਰਾ ॥",
+      "en": "dhoharaa ||",
+      "hi": "दोहरा ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "dhoharaa ||"
+    },
+    {
+      "p": 31,
+      "pn": "ਗ੍ਰੰਥ ਸਤਿ ਸਇਆ ਕੋ ਕਰਿਓ ਜਾ ਸਮ ਅਵਰੁ ਨ ਕੋਇ ॥",
+      "en": "gra(n)th sat siaa ko kario jaa sam avar na koi ||",
+      "hi": "ग्रंथ सति सइआ को करिओ जा सम अवरु न कोइ ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 31,
+      "pn": "ਜਿਹ ਨਮਿਤ ਕਵਿ ਨੇ ਕਹਿਓ ਸੁ ਦੇਹ ਚੰਡਿਕਾ ਸੋਇ ॥੨੩੩॥",
+      "en": "jeh namit kav ne kahio su dheh cha(n)ddikaa soi ||233||",
+      "hi": "जिह नमित कवि ने कहिओ सु देह चंडिका सोइ ॥२३३॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 32,
+      "pn": "ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥ ਦੋਹਰਾ ॥",
+      "en": "tavai prasaadh || dhoharaa ||",
+      "hi": "त्व प्रसादि ॥ दोहरा ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "tavai prasaadh || dhoharaa ||"
+    },
+    {
+      "p": 33,
+      "pn": "ਨਮਸਕਾਰ ਸ੍ਰੀ ਖੜਗ ਕੋ ਕਰੋਂ ਸੁ ਹਿਤੁ ਚਿਤੁ ਲਾਇ ॥",
+      "en": "namasakaar sree khaRag ko karo(n) su hit chit lai ||",
+      "hi": "नमसकार स्री खड़ग को करों सु हितु चितु लाइ ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 33,
+      "pn": "ਪੂਰਨ ਕਰੋਂ ਗਿਰੰਥ ਇਹੁ ਤੁਮ ਮੁਹਿ ਕਰਹੁ ਸਹਾਇ ॥੧॥",
+      "en": "pooran karo(n) gira(n)th ih tum muh karahu sahai ||1||",
+      "hi": "पूरन करों गिरंथ इहु तुम मुहि करहु सहाइ ॥१॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 34,
+      "pn": "ਸ੍ਰੀ ਕਾਲ ਜੀ ਕੀ ਉਸਤਤਿ ॥",
+      "en": "sree kaal jee kee usatat ||",
+      "hi": "स्री काल जी की उसतति ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "sree kaal jee kee usatat ||"
+    },
+    {
+      "p": 35,
+      "pn": "ਤ੍ਰਿਭੰਗੀ ਛੰਦ ॥",
+      "en": "tirabha(n)gee chha(n)dh ||",
+      "hi": "तृभंगी छंद ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "tirabha(n)gee chha(n)dh ||"
+    },
+    {
+      "p": 36,
+      "pn": "ਖਗ ਖੰਡ ਬਿਹੰਡੰ ਖਲ ਦਲ ਖੰਡੰ ਅਤਿ ਰਣ ਮੰਡੰ ਬਰ ਬੰਡੰ ॥",
+      "en": "khag kha(n)dd biha(n)dda(n) khal dhal kha(n)dda(n) at ran ma(n)dda(n) bar ba(n)dda(n) ||",
+      "hi": "खग खंड बिहंडं खल दल खंडं अति रण मंडं बर बंडं ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 36,
+      "pn": "ਭੁਜ ਦੰਡ ਅਖੰਡੰ ਤੇਜ ਪ੍ਰਚੰਡੰ ਜੋਤਿ ਅਮੰਡੰ ਭਾਨ ਪ੍ਰਭੰ ॥",
+      "en": "bhuj dha(n)dd akha(n)dda(n) tej pracha(n)dda(n) jot ama(n)dda(n) bhaan prabha(n) ||",
+      "hi": "भुज दंड अखंडं तेज प्रचंडं जोति अमंडं भान प्रभं ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 36,
+      "pn": "ਸੁਖ ਸੰਤਾ ਕਰਣੰ ਦੁਰਮਤਿ ਦਰਣੰ ਕਿਲਬਿਖ ਹਰਣੰ ਅਸਿ ਸਰਣੰ ॥",
+      "en": "sukh sa(n)taa karana(n) dhuramat dharana(n) kilabikh harana(n) as sarana(n) ||",
+      "hi": "सुख संता करणं दुरमति दरणं किलबिख हरणं असि सरणं ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 36,
+      "pn": "ਜੈ ਜੈ ਜਗ ਕਾਰਣ ਸ੍ਰਿਸਟਿ ਉਬਾਰਣ ਮਮ ਪ੍ਰਤਿਪਾਰਣ ਜੈ ਤੇਗੰ ॥੨॥",
+      "en": "jai jai jag kaaran sirasaT ubaaran mam pratipaaran jai tega(n) ||2||",
+      "hi": "जै जै जग कारण सृसटि उबारण मम प्रतिपारण जै तेगं ॥२॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 37,
+      "pn": "ਰੋਗਨ ਤੇ ਅਰ ਸੋਗਨ ਤੇ ਜਲ ਜੋਗਨ ਤੇ ਬਹੁ ਭਾਂਤਿ ਬਚਾਵੈ ॥",
+      "en": "rogan te ar sogan te jal jogan te bahu bhaa(n)t bachaavai ||",
+      "hi": "रोगन ते अर सोगन ते जल जोगन ते बहु भाँति बचावै ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 37,
+      "pn": "ਸੱਤ੍ਰ ਅਨੇਕ ਚਲਾਵਤ ਘਾਵ ਤਊ ਤਨ ਏਕੁ ਨ ਲਾਗਨ ਪਾਵੈ ॥",
+      "en": "sa'tr anek chalaavat ghaav tuoo tan ek na laagan paavai ||",
+      "hi": "सत्त्र अनेक चलावत घाव तऊ तन एकु न लागन पावै ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 37,
+      "pn": "ਰਾਖਤ ਹੈ ਅਪਨੋ ਕਰੁ ਦੈ ਕਰ ਪਾਪ ਸੰਬੂਹ ਨ ਭੇਟਨ ਪਾਵੈ ॥",
+      "en": "raakhat hai apano kar dhai kar paap sa(n)booh na bheTan paavai ||",
+      "hi": "राखत है अपनो करु दै कर पाप संबूह न भेटन पावै ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 37,
+      "pn": "ਔਰ ਕੀ ਬਾਤ ਕਹਾ ਕਹ ਤੋ ਸੌਂ ਸੁ ਪੇਟ ਹੀ ਕੇ ਪਟ ਬੀਚ ਬਚਾਵੈ ॥੬॥੨੪੮॥",
+      "en": "aauar kee baat kahaa keh to saua(n) su peT hee ke paT beech bachaavai ||6||248||",
+      "hi": "और की बात कहा कह तो सौं सु पेट ही के पट बीच बचावै ॥६॥२४८॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 38,
+      "pn": "ਸ੍ਵੈਯਾ ॥",
+      "en": "savaiyaa ||",
+      "hi": "स्वैया ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "savaiyaa ||"
+    },
+    {
+      "p": 39,
+      "pn": "ਪਾਇ ਗਹੇ ਜਬ ਤੇ ਤੁਮਰੇ ਤਬ ਤੇ ਕੋਊ ਆਂਖ ਤਰੇ ਨਹੀ ਆਨਯੋ ॥",
+      "en": "pai gahe jab te tumare tab te kouoo aa(n)kh tare nahee aanayo ||",
+      "hi": "पाइ गहे जब ते तुमरे तब ते कोऊ आँख तरे नही आनयो ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 39,
+      "pn": "ਰਾਮ ਰਹੀਮ ਪੁਰਾਨ ਕੁਰਾਨ ਅਨੇਕ ਕਹੈਂ ਮਤ ਏਕ ਨ ਮਾਨਯੋ ॥",
+      "en": "raam raheem puraan kuraan anek kahai(n) mat ek na maanayo ||",
+      "hi": "राम रहीम पुरान कुरान अनेक कहैं मत एक न मानयो ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 39,
+      "pn": "ਸਿੰਮ੍ਰਿਤਿ ਸਾਸਤ੍ਰ ਬੇਦ ਸਭੈ ਬਹੁ ਭੇਦ ਕਹੈ ਹਮ ਏਕ ਨ ਜਾਨਯੋ ॥",
+      "en": "si(n)mirat saasatr bedh sabhai bahu bhedh kahai ham ek na jaanayo ||",
+      "hi": "सिंमृति सासत्र बेद सभै बहु भेद कहै हम एक न जानयो ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 39,
+      "pn": "ਸ੍ਰੀ ਅਸਿਪਾਨ ਕ੍ਰਿਪਾ ਤੁਮਰੀ ਕਰਿ ਮੈ ਨ ਕਹਯੋ ਸਭ ਤੋਹਿ ਬਖਾਨਯੋ ॥੮੬੩॥",
+      "en": "sree asipaan kirapaa tumaree kar mai na kahayo sabh toh bakhaanayo ||863||",
+      "hi": "स्री असिपान कृपा तुमरी करि मै न कहयो सभ तोहि बखानयो ॥८६३॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 40,
+      "pn": "ਦੋਹਰਾ ॥",
+      "en": "dhoharaa ||",
+      "hi": "दोहरा ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "dhoharaa ||"
+    },
+    {
+      "p": 41,
+      "pn": "ਸਗਲ ਦੁਆਰ ਕਉ ਛਾਡਿ ਕੈ ਗਹਯੋ ਤੁਹਾਰੋ ਦੁਆਰ ॥",
+      "en": "sagal dhuaar kau chhaadd kai gahayo tuhaaro dhuaar ||",
+      "hi": "सगल दुआर कउ छाडि कै गहयो तुहारो दुआर ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 41,
+      "pn": "ਬਾਹਿ ਗਹੇ ਕੀ ਲਾਜ ਅਸਿ ਗੋਬਿੰਦ ਦਾਸ ਤੁਹਾਰ ॥੮੬੪॥",
+      "en": "baeh gahe kee laaj as gobi(n)dh dhaas tuhaar ||864||",
+      "hi": "बाहि गहे की लाज असि गोबिंद दास तुहार ॥८६४॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 42,
+      "pn": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+      "en": "ikOankaar satigur prasaadh ||",
+      "hi": "ੴ सतिगुर प्रसादि ॥",
+      "s": "ikOankaar satigur prasaadh ||"
+    },
+    {
+      "p": 43,
+      "pn": "ਧਨਾਸਰੀ ਮਹਲਾ ੧ ਆਰਤੀ",
+      "en": "dhanaasaree mahalaa pehilaa aaratee",
+      "hi": "धनासरी महला १ आरती",
+      "s": "dhanaasaree mahalaa pehilaa aaratee"
+    },
+    {
+      "p": 44,
+      "pn": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+      "en": "ikOankaar satigur prasaadh ||",
+      "hi": "ੴ सतिगुर प्रसादि ॥",
+      "s": "ikOankaar satigur prasaadh ||"
+    },
+    {
+      "p": 45,
+      "pn": "ਗਗਨ ਮੈ ਥਾਲੁ ਰਵਿ ਚੰਦੁ ਦੀਪਕ ਬਨੇ ਤਾਰਿਕਾ ਮੰਡਲ ਜਨਕ ਮੋਤੀ ॥",
+      "en": "gagan mai thaal rav cha(n)dh dheepak bane taarikaa ma(n)ddal janak motee ||",
+      "hi": "गगन मै थालु रवि चंदु दीपक बने तारिका मंडल जनक मोती ॥"
+    },
+    {
+      "p": 45,
+      "pn": "ਧੂਪੁ ਮਲਆਨਲੋ ਪਵਣੁ ਚਵਰੋ ਕਰੇ ਸਗਲ ਬਨਰਾਇ ਫੂਲੰਤ ਜੋਤੀ ॥੧॥",
+      "en": "dhoop malaanalo pavan chavaro kare sagal banarai foola(n)t jotee ||1||",
+      "hi": "धूपु मलआनलो पवणु चवरो करे सगल बनराइ फूलंत जोती ॥१॥"
+    },
+    {
+      "p": 46,
+      "pn": "ਕੈਸੀ ਆਰਤੀ ਹੋਇ ਭਵ ਖੰਡਨਾ ਤੇਰੀ ਆਰਤੀ ॥",
+      "en": "kaisee aaratee hoi bhav kha(n)ddanaa teree aaratee ||",
+      "hi": "कैसी आरती होइ भव खंडना तेरी आरती ॥"
+    },
+    {
+      "p": 46,
+      "pn": "ਅਨਹਤਾ ਸਬਦ ਵਾਜੰਤ ਭੇਰੀ ॥੧॥ ਰਹਾਉ ॥",
+      "en": "anahataa sabadh vaaja(n)t bheree ||1|| rahaau ||",
+      "hi": "अनहता सबद वाजंत भेरी ॥१॥ रहाउ ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਸਹਸ ਤਵ ਨੈਨ ਨਨ ਨੈਨ ਹੈ ਤੋਹਿ ਕਉ ਸਹਸ ਮੂਰਤਿ ਨਨਾ ਏਕ ਤੋਹੀ ॥",
+      "en": "sahas tav nain nan nain hai toh kau sahas moorat nanaa ek tohee ||",
+      "hi": "सहस तव नैन नन नैन है तोहि कउ सहस मूरति नना एक तोही ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਸਹਸ ਪਦ ਬਿਮਲ ਨਨ ਏਕ ਪਦ ਗੰਧ ਬਿਨੁ ਸਹਸ ਤਵ ਗੰਧ ਇਵ ਚਲਤ ਮੋਹੀ ॥੨॥",
+      "en": "sahas padh bimal nan ek padh ga(n)dh bin sahas tav ga(n)dh iv chalat mohee ||2||",
+      "hi": "सहस पद बिमल नन एक पद गंध बिनु सहस तव गंध इव चलत मोही ॥२॥"
+    },
+    {
+      "p": 48,
+      "pn": "ਸਭ ਮਹਿ ਜੋਤਿ ਜੋਤਿ ਹੈ ਸੋਇ ॥",
+      "en": "sabh meh jot jot hai soi ||",
+      "hi": "सभ महि जोति जोति है सोइ ॥"
+    },
+    {
+      "p": 48,
+      "pn": "ਤਿਸ ਕੈ ਚਾਨਣਿ ਸਭ ਮਹਿ ਚਾਨਣੁ ਹੋਇ ॥",
+      "en": "tis kai chaanan sabh meh chaanan hoi ||",
+      "hi": "तिस कै चानणि सभ महि चानणु होइ ॥"
+    },
+    {
+      "p": 48,
+      "pn": "ਗੁਰ ਸਾਖੀ ਜੋਤਿ ਪਰਗਟੁ ਹੋਇ ॥",
+      "en": "gur saakhee jot paragaT hoi ||",
+      "hi": "गुर साखी जोति परगटु होइ ॥"
+    },
+    {
+      "p": 48,
+      "pn": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੁ ਆਰਤੀ ਹੋਇ ॥੩॥",
+      "en": "jo tis bhaavai su aaratee hoi ||3||",
+      "hi": "जो तिसु भावै सु आरती होइ ॥३॥"
+    },
+    {
+      "p": 49,
+      "pn": "ਹਰਿ ਚਰਣ ਕਮਲ ਮਕਰੰਦ ਲੋਭਿਤ ਮਨੋ ਅਨਦਿਨੋ ਮੋਹਿ ਆਹੀ ਪਿਆਸਾ ॥",
+      "en": "har charan kamal makara(n)dh lobhit mano anadhino moh aahee piaasaa ||",
+      "hi": "हरि चरण कमल मकरंद लोभित मनो अनदिनो मोहि आही पिआसा ॥"
+    },
+    {
+      "p": 49,
+      "pn": "ਕ੍ਰਿਪਾ ਜਲੁ ਦੇਹਿ ਨਾਨਕ ਸਾਰਿੰਗ ਕਉ ਹੋਇ ਜਾ ਤੇ ਤੇਰੈ ਨਾਮਿ ਵਾਸਾ ॥੪॥੧॥੭॥੯॥",
+      "en": "kirapaa jal dheh naanak saari(n)g kau hoi jaa te terai naam vaasaa ||4||1||7||9||",
+      "hi": "कृपा जलु देहि नानक सारिंग कउ होइ जा ते तेरै नामि वासा ॥४॥१॥७॥९॥"
+    },
+    {
+      "p": 50,
+      "pn": "ਨਾਮੁ ਤੇਰੋ ਆਰਤੀ ਮਜਨੁ ਮੁਰਾਰੇ ॥",
+      "en": "naam tero aaratee majan muraare ||",
+      "hi": "नामु तेरो आरती मजनु मुरारे ॥"
+    },
+    {
+      "p": 50,
+      "pn": "ਹਰਿ ਕੇ ਨਾਮ ਬਿਨੁ ਝੂਠੇ ਸਗਲ ਪਾਸਾਰੇ ॥੧॥ ਰਹਾਉ ॥",
+      "en": "har ke naam bin jhooThe sagal paasaare ||1|| rahaau ||",
+      "hi": "हरि के नाम बिनु झूठे सगल पासारे ॥१॥ रहाउ ॥"
+    },
+    {
+      "p": 51,
+      "pn": "ਨਾਮੁ ਤੇਰੋ ਆਸਨੋ ਨਾਮੁ ਤੇਰੋ ਉਰਸਾ ਨਾਮੁ ਤੇਰਾ ਕੇਸਰੋ ਲੇ ਛਿਟਕਾਰੇ ॥",
+      "en": "naam tero aasano naam tero urasaa naam teraa kesaro le chhiTakaare ||",
+      "hi": "नामु तेरो आसनो नामु तेरो उरसा नामु तेरा केसरो ले छिटकारे ॥"
+    },
+    {
+      "p": 51,
+      "pn": "ਨਾਮੁ ਤੇਰਾ ਅੰਭੁਲਾ ਨਾਮੁ ਤੇਰੋ ਚੰਦਨੋ ਘਸਿ ਜਪੇ ਨਾਮੁ ਲੇ ਤੁਝਹਿ ਕਉ ਚਾਰੇ ॥੧॥",
+      "en": "naam teraa a(n)bhulaa naam tero cha(n)dhano ghas jape naam le tujheh kau chaare ||1||",
+      "hi": "नामु तेरा अंभुला नामु तेरो चंदनो घसि जपे नामु ले तुझहि कउ चारे ॥१॥"
+    },
+    {
+      "p": 52,
+      "pn": "ਨਾਮੁ ਤੇਰਾ ਦੀਵਾ ਨਾਮੁ ਤੇਰੋ ਬਾਤੀ ਨਾਮੁ ਤੇਰੋ ਤੇਲੁ ਲੇ ਮਾਹਿ ਪਸਾਰੇ ॥",
+      "en": "naam teraa dheevaa naam tero baatee naam tero tel le maeh pasaare ||",
+      "hi": "नामु तेरा दीवा नामु तेरो बाती नामु तेरो तेलु ले माहि पसारे ॥"
+    },
+    {
+      "p": 52,
+      "pn": "ਨਾਮ ਤੇਰੇ ਕੀ ਜੋਤਿ ਲਗਾਈ ਭਇਓ ਉਜਿਆਰੋ ਭਵਨ ਸਗਲਾਰੇ ॥੨॥",
+      "en": "naam tere kee jot lagaiee bhio ujiaaro bhavan sagalaare ||2||",
+      "hi": "नाम तेरे की जोति लगाई भइओ उजिआरो भवन सगलारे ॥२॥"
+    },
+    {
+      "p": 53,
+      "pn": "ਨਾਮੁ ਤੇਰੋ ਤਾਗਾ ਨਾਮੁ ਫੂਲ ਮਾਲਾ ਭਾਰ ਅਠਾਰਹ ਸਗਲ ਜੂਠਾਰੇ ॥",
+      "en": "naam tero taagaa naam fool maalaa bhaar aThaareh sagal jooThaare ||",
+      "hi": "नामु तेरो तागा नामु फूल माला भार अठारह सगल जूठारे ॥"
+    },
+    {
+      "p": 53,
+      "pn": "ਤੇਰੋ ਕੀਆ ਤੁਝਹਿ ਕਿਆ ਅਰਪਉ ਨਾਮੁ ਤੇਰਾ ਤੁਹੀ ਚਵਰ ਢੋਲਾਰੇ ॥੩॥",
+      "en": "tero keeaa tujheh kiaa arapau naam teraa tuhee chavar ddolaare ||3||",
+      "hi": "तेरो कीआ तुझहि किआ अरपउ नामु तेरा तुही चवर ढोलारे ॥३॥"
+    },
+    {
+      "p": 54,
+      "pn": "ਦਸ ਅਠਾ ਅਠਸਠੇ ਚਾਰੇ ਖਾਣੀ ਇਹੈ ਵਰਤਣਿ ਹੈ ਸਗਲ ਸੰਸਾਰੇ ॥",
+      "en": "dhas aThaa aThasaThe chaare khaanee ihai varatan hai sagal sa(n)saare ||",
+      "hi": "दस अठा अठसठे चारे खाणी इहै वरतणि है सगल संसारे ॥"
+    },
+    {
+      "p": 54,
+      "pn": "ਕਹੈ ਰਵਿਦਾਸੁ ਨਾਮੁ ਤੇਰੋ ਆਰਤੀ ਸਤਿ ਨਾਮੁ ਹੈ ਹਰਿ ਭੋਗ ਤੁਹਾਰੇ ॥੪॥੩॥",
+      "en": "kahai ravidhaas naam tero aaratee sat naam hai har bhog tuhaare ||4||3||",
+      "hi": "कहै रविदासु नामु तेरो आरती सति नामु है हरि भोग तुहारे ॥४॥३॥"
+    },
+    {
+      "p": 55,
+      "pn": "ਸ੍ਰੀ ਸੈਣੁ ॥",
+      "en": "sree sain ||",
+      "hi": "स्री सैणु ॥",
+      "s": "sree sain ||"
+    },
+    {
+      "p": 56,
+      "pn": "ਧੂਪ ਦੀਪ ਘ੍ਰਿਤ ਸਾਜਿ ਆਰਤੀ ॥",
+      "en": "dhoop dheep ghirat saaj aaratee ||",
+      "hi": "धूप दीप घृत साजि आरती ॥"
+    },
+    {
+      "p": 56,
+      "pn": "ਵਾਰਨੇ ਜਾਉ ਕਮਲਾ ਪਤੀ ॥੧॥",
+      "en": "vaarane jaau kamalaa patee ||1||",
+      "hi": "वारने जाउ कमला पती ॥१॥"
+    },
+    {
+      "p": 57,
+      "pn": "ਮੰਗਲਾ ਹਰਿ ਮੰਗਲਾ ॥ ਨਿਤ ਮੰਗਲੁ ਰਾਜਾ ਰਾਮ ਰਾਇ ਕੋ ॥੧॥ ਰਹਾਉ ॥",
+      "en": "ma(n)galaa har ma(n)galaa || nit ma(n)gal raajaa raam rai ko ||1|| rahaau ||",
+      "hi": "मंगला हरि मंगला ॥ नित मंगलु राजा राम राइ को ॥१॥ रहाउ ॥"
+    },
+    {
+      "p": 58,
+      "pn": "ਊਤਮੁ ਦੀਅਰਾ ਨਿਰਮਲ ਬਾਤੀ ॥",
+      "en": "uootam dheearaa niramal baatee ||",
+      "hi": "ऊतमु दीअरा निरमल बाती ॥"
+    },
+    {
+      "p": 58,
+      "pn": "ਤੁਹਂੀ ਨਿਰੰਜਨੁ ਕਮਲਾ ਪਾਤੀ ॥੨॥",
+      "en": "tuha(n)ee nira(n)jan kamalaa paatee ||2||",
+      "hi": "तुहीं निरंजनु कमला पाती ॥२॥"
+    },
+    {
+      "p": 59,
+      "pn": "ਰਾਮਾ ਭਗਤਿ ਰਾਮਾਨੰਦੁ ਜਾਨੈ ॥",
+      "en": "raamaa bhagat raamaana(n)dh jaanai ||",
+      "hi": "रामा भगति रामानंदु जानै ॥"
+    },
+    {
+      "p": 59,
+      "pn": "ਪੂਰਨ ਪਰਮਾਨੰਦੁ ਬਖਾਨੈ ॥੩॥",
+      "en": "pooran paramaana(n)dh bakhaanai ||3||",
+      "hi": "पूरन परमानंदु बखानै ॥३॥"
+    },
+    {
+      "p": 60,
+      "pn": "ਮਦਨ ਮੂਰਤਿ ਭੈ ਤਾਰਿ ਗੋਬਿੰਦੇ ॥",
+      "en": "madhan moorat bhai taar gobi(n)dhe ||",
+      "hi": "मदन मूरति भै तारि गोबिंदे ॥"
+    },
+    {
+      "p": 60,
+      "pn": "ਸੈਨੁ ਭਣੈ ਭਜੁ ਪਰਮਾਨੰਦੇ ॥੪॥੨॥",
+      "en": "sain bhanai bhaj paramaana(n)dhe ||4||2||",
+      "hi": "सैनु भणै भजु परमानंदे ॥४॥२॥"
+    },
+    {
+      "p": 61,
+      "pn": "ਪ੍ਰਭਾਤੀ ॥",
+      "en": "prabhaatee ||",
+      "hi": "प्रभाती ॥",
+      "s": "prabhaatee ||"
+    },
+    {
+      "p": 62,
+      "pn": "ਸੁੰਨ ਸੰਧਿਆ ਤੇਰੀ ਦੇਵ ਦੇਵਾਕਰ ਅਧਪਤਿ ਆਦਿ ਸਮਾਈ ॥",
+      "en": "su(n)n sa(n)dhiaa teree dhev dhevaakar adhapat aadh samaiee ||",
+      "hi": "सुँन संधिआ तेरी देव देवाकर अधपति आदि समाई ॥"
+    },
+    {
+      "p": 62,
+      "pn": "ਸਿਧ ਸਮਾਧਿ ਅੰਤੁ ਨਹੀ ਪਾਇਆ ਲਾਗਿ ਰਹੇ ਸਰਨਾਈ ॥੧॥",
+      "en": "sidh samaadh a(n)t nahee paiaa laag rahe saranaiee ||1||",
+      "hi": "सिध समाधि अंतु नही पाइआ लागि रहे सरनाई ॥१॥"
+    },
+    {
+      "p": 63,
+      "pn": "ਲੇਹੁ ਆਰਤੀ ਹੋ ਪੁਰਖ ਨਿਰੰਜਨ ਸਤਿਗੁਰ ਪੂਜਹੁ ਭਾਈ ॥",
+      "en": "leh aaratee ho purakh nira(n)jan satigur poojahu bhaiee ||",
+      "hi": "लेहु आरती हो पुरख निरंजन सतिगुर पूजहु भाई ॥"
+    },
+    {
+      "p": 63,
+      "pn": "ਠਾਢਾ ਬ੍ਰਹਮਾ ਨਿਗਮ ਬੀਚਾਰੈ ਅਲਖੁ ਨ ਲਖਿਆ ਜਾਈ ॥੧॥ ਰਹਾਉ ॥",
+      "en": "Thaaddaa brahamaa nigam beechaarai alakh na lakhiaa jaiee ||1|| rahaau ||",
+      "hi": "ठाढा ब्रहमा निगम बीचारै अलखु न लखिआ जाई ॥१॥ रहाउ ॥"
+    },
+    {
+      "p": 64,
+      "pn": "ਤਤੁ ਤੇਲੁ ਨਾਮੁ ਕੀਆ ਬਾਤੀ ਦੀਪਕੁ ਦੇਹ ਉਜੵਾਰਾ ॥",
+      "en": "tat tel naam keeaa baatee dheepak dheh ujayeaaraa ||",
+      "hi": "ततु तेलु नामु कीआ बाती दीपकु देह उज्यारा ॥"
+    },
+    {
+      "p": 64,
+      "pn": "ਜੋਤਿ ਲਾਇ ਜਗਦੀਸ ਜਗਾਇਆ ਬੂਝੈ ਬੂਝਨਹਾਰਾ ॥੨॥",
+      "en": "jot lai jagadhees jagaiaa boojhai boojhanahaaraa ||2||",
+      "hi": "जोति लाइ जगदीस जगाइआ बूझै बूझनहारा ॥२॥"
+    },
+    {
+      "p": 65,
+      "pn": "ਪੰਚੇ ਸਬਦ ਅਨਾਹਦ ਬਾਜੇ ਸੰਗੇ ਸਾਰਿੰਗਪਾਨੀ ॥",
+      "en": "pa(n)che sabadh anaahadh baaje sa(n)ge saari(n)gapaanee ||",
+      "hi": "पंचे सबद अनाहद बाजे संगे सारिंगपानी ॥"
+    },
+    {
+      "p": 65,
+      "pn": "ਕਬੀਰ ਦਾਸ ਤੇਰੀ ਆਰਤੀ ਕੀਨੀ ਨਿਰੰਕਾਰ ਨਿਰਬਾਨੀ ॥੩॥੫॥",
+      "en": "kabeer dhaas teree aaratee keenee nira(n)kaar nirabaanee ||3||5||",
+      "hi": "कबीर दास तेरी आरती कीनी निरंकार निरबानी ॥३॥५॥"
+    },
+    {
+      "p": 66,
+      "pn": "ਧੰਨਾ ॥",
+      "en": "dha(n)naa ||",
+      "hi": "धंना ॥",
+      "s": "dha(n)naa ||"
+    },
+    {
+      "p": 67,
+      "pn": "ਗੋਪਾਲ ਤੇਰਾ ਆਰਤਾ ॥",
+      "en": "gopaal teraa aarataa ||",
+      "hi": "गोपाल तेरा आरता ॥"
+    },
+    {
+      "p": 67,
+      "pn": "ਜੋ ਜਨ ਤੁਮਰੀ ਭਗਤਿ ਕਰੰਤੇ ਤਿਨ ਕੇ ਕਾਜ ਸਵਾਰਤਾ ॥੧॥ ਰਹਾਉ ॥",
+      "en": "jo jan tumaree bhagat kara(n)te tin ke kaaj savaarataa ||1|| rahaau ||",
+      "hi": "जो जन तुमरी भगति करंते तिन के काज सवारता ॥१॥ रहाउ ॥"
+    },
+    {
+      "p": 68,
+      "pn": "ਦਾਲਿ ਸੀਧਾ ਮਾਗਉ ਘੀਉ ॥",
+      "en": "dhaal seedhaa maagau gheeau ||",
+      "hi": "दालि सीधा मागउ घीउ ॥"
+    },
+    {
+      "p": 68,
+      "pn": "ਹਮਰਾ ਖੁਸੀ ਕਰੈ ਨਿਤ ਜੀਉ ॥",
+      "en": "hamaraa khusee karai nit jeeau ||",
+      "hi": "हमरा खुसी करै नित जीउ ॥"
+    },
+    {
+      "p": 68,
+      "pn": "ਪਨੑੀਆ ਛਾਦਨੁ ਨੀਕਾ ॥ ਅਨਾਜੁ ਮਗਉ ਸਤ ਸੀ ਕਾ ॥੧॥",
+      "en": "pan(h)eeaa chhaadhan neekaa || anaaj magau sat see kaa ||1||",
+      "hi": "पन्नीआ छादनु नीका ॥ अनाजु मगउ सत सी का ॥१॥"
+    },
+    {
+      "p": 69,
+      "pn": "ਗਊ ਭੈਸ ਮਗਉ ਲਾਵੇਰੀ ॥",
+      "en": "guoo bhais magau laaveree ||",
+      "hi": "गऊ भैस मगउ लावेरी ॥"
+    },
+    {
+      "p": 69,
+      "pn": "ਇਕ ਤਾਜਨਿ ਤੁਰੀ ਚੰਗੇਰੀ ॥",
+      "en": "eik taajan turee cha(n)geree ||",
+      "hi": "इक ताजनि तुरी चंगेरी ॥"
+    },
+    {
+      "p": 69,
+      "pn": "ਘਰ ਕੀ ਗੀਹਨਿ ਚੰਗੀ ॥",
+      "en": "ghar kee geehan cha(n)gee ||",
+      "hi": "घर की गीहनि चंगी ॥"
+    },
+    {
+      "p": 69,
+      "pn": "ਜਨੁ ਧੰਨਾ ਲੇਵੈ ਮੰਗੀ ॥੨॥੪॥",
+      "en": "jan dha(n)naa levai ma(n)gee ||2||4||",
+      "hi": "जनु धंना लेवै मंगी ॥२॥४॥"
+    },
+    {
+      "p": 70,
+      "pn": "ਸ੍ਵੈਯਾ ॥",
+      "en": "savaiyaa ||",
+      "hi": "स्वैया ॥",
+      "el": false,
+      "ex": false,
+      "s": "savaiyaa ||"
+    },
+    {
+      "p": 71,
+      "pn": "ਯਾ ਤੇ ਪ੍ਰਸੰਨ ਭਏ ਹੈ ਮਹਾ ਮੁਨ ਦੇਵਨ ਕੇ ਤਪ ਮੈ ਸੁਖ ਪਾਵੈ ॥",
+      "en": "yaa te prasa(n)n bhe hai mahaa mun dhevan ke tap mai sukh paavai ||",
+      "hi": "या ते प्रसंन भए है महा मुन देवन के तप मै सुख पावै ॥",
+      "el": false,
+      "ex": false
+    },
+    {
+      "p": 71,
+      "pn": "ਜਗ੍ਯ ਕਰੈ ਇਕ ਬੇਦ ਰਰੈ ਭਵ ਤਾਪ ਹਰੈ ਮਿਲਿ ਧਿਆਨਹਿ ਲਾਵੈ ॥",
+      "en": "jagay karai ik bedh rarai bhav taap harai mil dhiaaneh laavai ||",
+      "hi": "जग्य करै इक बेद ररै भव ताप हरै मिलि धिआनहि लावै ॥",
+      "el": false,
+      "ex": false
+    },
+    {
+      "p": 71,
+      "pn": "ਝਾਲਰ ਤਾਲ ਮ੍ਰਿਦੰਗ ਉਪੰਗ ਰਬਾਬ ਲੀਏ ਸੁਰ ਸਾਜ ਮਿਲਾਵੈ ॥",
+      "en": "jhaalar taal miradha(n)g upa(n)g rabaab le'ee sur saaj milaavai ||",
+      "hi": "झालर ताल मृदंग उपंग रबाब लीए सुर साज मिलावै ॥",
+      "el": false,
+      "ex": false
+    },
+    {
+      "p": 71,
+      "pn": "ਕਿੰਨਰ ਗੰਧ੍ਰਬ ਗਾਨ ਕਰੈ ਗਨਿ ਜਛ ਅਪਛਰ ਨਿਰਤ ਦਿਖਾਵੈ ॥੫੪॥",
+      "en": "ki(n)nar ga(n)dhrab gaan karai gan jachh apachhar nirat dhikhaavai ||54||",
+      "hi": "किंनर गंध्रब गान करै गनि जछ अपछर निरत दिखावै ॥५४॥",
+      "el": false,
+      "ex": false
+    },
+    {
+      "p": 72,
+      "pn": "ਸੰਖਨ ਕੀ ਧੁਨ ਘੰਟਨਿ ਕੀ ਕਰਿ ਫੂਲਨ ਕੀ ਬਰਖਾ ਬਰਖਾਵੈ ॥",
+      "en": "sa(n)khan kee dhun gha(n)Tan kee kar foolan kee barakhaa barakhaavai ||",
+      "hi": "संखन की धुन घंटनि की करि फूलन की बरखा बरखावै ॥",
+      "el": false,
+      "ex": false
+    },
+    {
+      "p": 72,
+      "pn": "ਆਰਤੀ ਕੋਟਿ ਕਰੈ ਸੁਰ ਸੁੰਦਰਿ ਪੇਖ ਪੁਰੰਦਰ ਕੇ ਬਲਿ ਜਾਵੈ ॥",
+      "en": "aaratee koT karai sur su(n)dhar pekh pura(n)dhar ke bal jaavai ||",
+      "hi": "आरती कोटि करै सुर सुँदरि पेख पुरंदर के बलि जावै ॥",
+      "el": false,
+      "ex": false
+    },
+    {
+      "p": 72,
+      "pn": "ਦਾਨਤ ਦਛਨ ਦੈ ਕੈ ਪ੍ਰਦਛਨ ਭਾਲ ਮੈ ਕੁੰਕਮ ਅਛਤ ਲਾਵੈ ॥",
+      "en": "dhaanat dhachhan dhai kai pradhachhan bhaal mai ku(n)kam achhat laavai ||",
+      "hi": "दानत दछन दै कै प्रदछन भाल मै कुँकम अछत लावै ॥",
+      "el": false,
+      "ex": false
+    },
+    {
+      "p": 72,
+      "pn": "ਹੋਤ ਕੁਲਾਹਲ ਦੇਵਪੁਰੀ ਮਿਲ ਦੇਵਨ ਕੇ ਕੁਲਿ ਮੰਗਲ ਗਾਵੈ ॥੫੫॥",
+      "en": "hot kulaahal dhevapuree mil dhevan ke kul ma(n)gal gaavai ||55||",
+      "hi": "होत कुलाहल देवपुरी मिल देवन के कुलि मंगल गावै ॥५५॥",
+      "el": false,
+      "ex": false
+    },
+    {
+      "p": 73,
+      "pn": "ਸਵੈਯਾ ॥",
+      "en": "savaiyaa ||",
+      "hi": "सवैया ॥",
+      "el": false,
+      "ex": false,
+      "s": "savaiyaa ||"
+    },
+    {
+      "p": 74,
+      "pn": "ਹੇ ਰਵਿ ਹੇ ਸਸਿ ਹੇ ਕਰੁਨਾਨਿਧਿ ਮੇਰੀ ਅਬੈ ਬਿਨਤੀ ਸੁਨਿ ਲੀਜੈ ॥",
+      "en": "he rav he sas he karunaanidh meree abai binatee sun leejai ||",
+      "hi": "हे रवि हे ससि हे करुनानिधि मेरी अबै बिनती सुनि लीजै ॥",
+      "el": false,
+      "ex": false
+    },
+    {
+      "p": 74,
+      "pn": "ਅਉਰ ਨ ਮਾਗਤ ਹਉ ਤੁਮ ਤੇ ਕਛੁ ਚਾਹਤ ਹਉ ਚਿਤ ਮੈ ਸੋਈ ਕੀਜੈ ॥",
+      "en": "aaur na maagat hau tum te kachh chaahat hau chit mai soiee keejai ||",
+      "hi": "अउर न मागत हउ तुम ते कछु चाहत हउ चित मै सोई कीजै ॥",
+      "el": false,
+      "ex": false
+    },
+    {
+      "p": 74,
+      "pn": "ਸਸਤ੍ਰਨ ਸੋ ਅਤਿ ਹੀ ਰਨ ਭੀਤਰ ਜੂਝਿ ਮਰੋ ਕਹਿ ਸਾਚ ਪਤੀਜੈ ॥",
+      "en": "sasatran so at hee ran bheetar joojh maro keh saach pateejai ||",
+      "hi": "ससत्रन सो अति ही रन भीतर जूझि मरो कहि साच पतीजै ॥",
+      "el": false,
+      "ex": false
+    },
+    {
+      "p": 74,
+      "pn": "ਸੰਤ ਸਹਾਇ ਸਦਾ ਜਗ ਮਾਇ ਕ੍ਰਿਪਾ ਕਰ ਸ੍ਯਾਮ ਇਹੈ ਵਰੁ ਦੀਜੈ ॥੧੯੦੦॥",
+      "en": "sa(n)t sahai sadhaa jag mai kirapaa kar sayaam ihai var dheejai ||1900||",
+      "hi": "संत सहाइ सदा जग माइ कृपा कर स्याम इहै वरु दीजै ॥१९००॥",
+      "el": false,
+      "ex": false
+    },
+    {
+      "p": 75,
+      "pn": "ਸ੍ਵੈਯਾ ॥",
+      "en": "savaiyaa ||",
+      "hi": "स्वैया ॥",
+      "ex": false,
+      "s": "savaiyaa ||"
+    },
+    {
+      "p": 76,
+      "pn": "ਪਾਇ ਗਹੇ ਜਬ ਤੇ ਤੁਮਰੇ ਤਬ ਤੇ ਕੋਊ ਆਂਖ ਤਰੇ ਨਹੀ ਆਨਯੋ ॥",
+      "en": "pai gahe jab te tumare tab te kouoo aa(n)kh tare nahee aanayo ||",
+      "hi": "पाइ गहे जब ते तुमरे तब ते कोऊ आँख तरे नही आनयो ॥",
+      "ex": false
+    },
+    {
+      "p": 76,
+      "pn": "ਰਾਮ ਰਹੀਮ ਪੁਰਾਨ ਕੁਰਾਨ ਅਨੇਕ ਕਹੈਂ ਮਤ ਏਕ ਨ ਮਾਨਯੋ ॥",
+      "en": "raam raheem puraan kuraan anek kahai(n) mat ek na maanayo ||",
+      "hi": "राम रहीम पुरान कुरान अनेक कहैं मत एक न मानयो ॥",
+      "ex": false
+    },
+    {
+      "p": 76,
+      "pn": "ਸਿੰਮ੍ਰਿਤਿ ਸਾਸਤ੍ਰ ਬੇਦ ਸਭੈ ਬਹੁ ਭੇਦ ਕਹੈ ਹਮ ਏਕ ਨ ਜਾਨਯੋ ॥",
+      "en": "si(n)mirat saasatr bedh sabhai bahu bhedh kahai ham ek na jaanayo ||",
+      "hi": "सिंमृति सासत्र बेद सभै बहु भेद कहै हम एक न जानयो ॥",
+      "ex": false
+    },
+    {
+      "p": 76,
+      "pn": "ਸ੍ਰੀ ਅਸਿਪਾਨ ਕ੍ਰਿਪਾ ਤੁਮਰੀ ਕਰਿ ਮੈ ਨ ਕਹਯੋ ਸਭ ਤੋਹਿ ਬਖਾਨਯੋ ॥੮੬੩॥",
+      "en": "sree asipaan kirapaa tumaree kar mai na kahayo sabh toh bakhaanayo ||863||",
+      "hi": "स्री असिपान कृपा तुमरी करि मै न कहयो सभ तोहि बखानयो ॥८६३॥",
+      "ex": false
+    },
+    {
+      "p": 77,
+      "pn": "ਦੋਹਰਾ ॥",
+      "en": "dhoharaa ||",
+      "hi": "दोहरा ॥",
+      "ex": false,
+      "s": "dhoharaa ||"
+    },
+    {
+      "p": 78,
+      "pn": "ਸਗਲ ਦੁਆਰ ਕਉ ਛਾਡਿ ਕੈ ਗਹਯੋ ਤੁਹਾਰੋ ਦੁਆਰ ॥",
+      "en": "sagal dhuaar kau chhaadd kai gahayo tuhaaro dhuaar ||",
+      "hi": "सगल दुआर कउ छाडि कै गहयो तुहारो दुआर ॥",
+      "ex": false
+    },
+    {
+      "p": 78,
+      "pn": "ਬਾਹਿ ਗਹੇ ਕੀ ਲਾਜ ਅਸਿ ਗੋਬਿੰਦ ਦਾਸ ਤੁਹਾਰ ॥੮੬੪॥",
+      "en": "baeh gahe kee laaj as gobi(n)dh dhaas tuhaar ||864||",
+      "hi": "बाहि गहे की लाज असि गोबिंद दास तुहार ॥८६४॥",
+      "ex": false
+    },
+    {
+      "p": 79,
+      "pn": "ਦੋਹਰਾ ॥",
+      "en": "dhoharaa ||",
+      "hi": "दोहरा ॥",
+      "el": false,
+      "ex": false,
+      "s": "dhoharaa ||"
+    },
+    {
+      "p": 80,
+      "pn": "ਐਸੇ ਚੰਡ ਪ੍ਰਤਾਪ ਤੇ ਦੇਵਨ ਬਢਿਓ ਪ੍ਰਤਾਪ ॥",
+      "en": "aaise cha(n)dd prataap te dhevan baddio prataap ||",
+      "hi": "ऐसे चंड प्रताप ते देवन बढिओ प्रताप ॥",
+      "el": false,
+      "ex": false
+    },
+    {
+      "p": 80,
+      "pn": "ਤੀਨ ਲੋਕ ਜੈ ਜੈ ਕਰੈ ਰਰੈ ਨਾਮੁ ਸਤਿ ਜਾਪ ॥੫੬॥",
+      "en": "teen lok jai jai karai rarai naam sat jaap ||56||",
+      "hi": "तीन लोक जै जै करै ररै नामु सति जाप ॥५६॥",
+      "el": false,
+      "ex": false
+    },
+    {
+      "p": 81,
+      "pn": "ਰਾਗੁ ਸੋਰਠਿ ॥",
+      "en": "raag soraTh ||",
+      "hi": "रागु सोरठि ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "raag soraTh ||"
+    },
+    {
+      "p": 82,
+      "pn": "ਭੂਖੇ ਭਗਤਿ ਨ ਕੀਜੈ ॥",
+      "en": "bhookhe bhagat na keejai ||",
+      "hi": "भूखे भगति न कीजै ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 82,
+      "pn": "ਯਹ ਮਾਲਾ ਅਪਨੀ ਲੀਜੈ ॥",
+      "en": "yeh maalaa apanee leejai ||",
+      "hi": "यह माला अपनी लीजै ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 82,
+      "pn": "ਹਉ ਮਾਂਗਉ ਸੰਤਨ ਰੇਨਾ ॥",
+      "en": "hau maa(n)gau sa(n)tan renaa ||",
+      "hi": "हउ माँगउ संतन रेना ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 82,
+      "pn": "ਮੈ ਨਾਹੀ ਕਿਸੀ ਕਾ ਦੇਨਾ ॥੧॥",
+      "en": "mai naahee kisee kaa dhenaa ||1||",
+      "hi": "मै नाही किसी का देना ॥१॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 83,
+      "pn": "ਮਾਧੋ ਕੈਸੀ ਬਨੈ ਤੁਮ ਸੰਗੇ ॥",
+      "en": "maadho kaisee banai tum sa(n)ge ||",
+      "hi": "माधो कैसी बनै तुम संगे ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 83,
+      "pn": "ਆਪਿ ਨ ਦੇਹੁ ਤ ਲੇਵਉ ਮੰਗੇ ॥ ਰਹਾਉ ॥",
+      "en": "aap na dheh ta levau ma(n)ge || rahaau ||",
+      "hi": "आपि न देहु त लेवउ मंगे ॥ रहाउ ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 83,
+      "pn": "ਦੁਇ ਸੇਰ ਮਾਂਗਉ ਚੂਨਾ ॥",
+      "en": "dhui ser maa(n)gau choonaa ||",
+      "hi": "दुइ सेर माँगउ चूना ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 83,
+      "pn": "ਪਾਉ ਘੀਉ ਸੰਗਿ ਲੂਨਾ ॥",
+      "en": "paau gheeau sa(n)g loonaa ||",
+      "hi": "पाउ घीउ संगि लूना ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 83,
+      "pn": "ਅਧ ਸੇਰੁ ਮਾਂਗਉ ਦਾਲੇ ॥",
+      "en": "adh ser maa(n)gau dhaale ||",
+      "hi": "अध सेरु माँगउ दाले ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 83,
+      "pn": "ਮੋ ਕਉ ਦੋਨਉ ਵਖਤ ਜਿਵਾਲੇ ॥੨॥",
+      "en": "mo kau dhonau vakhat jivaale ||2||",
+      "hi": "मो कउ दोनउ वखत जिवाले ॥२॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 84,
+      "pn": "ਖਾਟ ਮਾਂਗਉ ਚਉਪਾਈ ॥",
+      "en": "khaaT maa(n)gau chaupaiee ||",
+      "hi": "खाट माँगउ चउपाई ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 84,
+      "pn": "ਸਿਰਹਾਨਾ ਅਵਰ ਤੁਲਾਈ ॥",
+      "en": "sirahaanaa avar tulaiee ||",
+      "hi": "सिरहाना अवर तुलाई ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 84,
+      "pn": "ਊਪਰ ਕਉ ਮਾਂਗਉ ਖੀਂਧਾ ॥",
+      "en": "uoopar kau maa(n)gau khee(n)dhaa ||",
+      "hi": "ऊपर कउ माँगउ खींधा ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 84,
+      "pn": "ਤੇਰੀ ਭਗਤਿ ਕਰੈ ਜਨੁ ਥਂੀਧਾ ॥੩॥",
+      "en": "teree bhagat karai jan tha(n)eedhaa ||3||",
+      "hi": "तेरी भगति करै जनु थींधा ॥३॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 85,
+      "pn": "ਮੈ ਨਾਹੀ ਕੀਤਾ ਲਬੋ ॥",
+      "en": "mai naahee keetaa labo ||",
+      "hi": "मै नाही कीता लबो ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 85,
+      "pn": "ਇਕੁ ਨਾਉ ਤੇਰਾ ਮੈ ਫਬੋ ॥",
+      "en": "eik naau teraa mai fabo ||",
+      "hi": "इकु नाउ तेरा मै फबो ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 85,
+      "pn": "ਕਹਿ ਕਬੀਰ ਮਨੁ ਮਾਨਿਆ ॥",
+      "en": "keh kabeer man maaniaa ||",
+      "hi": "कहि कबीर मनु मानिआ ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 85,
+      "pn": "ਮਨੁ ਮਾਨਿਆ ਤਉ ਹਰਿ ਜਾਨਿਆ ॥੪॥੧੧॥",
+      "en": "man maaniaa tau har jaaniaa ||4||11||",
+      "hi": "मनु मानिआ तउ हरि जानिआ ॥४॥११॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 86,
+      "pn": "ਸਲੋਕੁ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोकु म: १ ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 87,
+      "pn": "ਗੁਰੁ ਦਾਤਾ ਗੁਰੁ ਹਿਵੈ ਘਰੁ ਗੁਰੁ ਦੀਪਕੁ ਤਿਹ ਲੋਇ ॥",
+      "en": "gur dhaataa gur hivai ghar gur dheepak teh loi ||",
+      "hi": "गुरु दाता गुरु हिवै घरु गुरु दीपकु तिह लोइ ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 87,
+      "pn": "ਅਮਰ ਪਦਾਰਥੁ ਨਾਨਕਾ ਮਨਿ ਮਾਨਿਐ ਸੁਖੁ ਹੋਇ ॥੧॥",
+      "en": "amar padhaarath naanakaa man maaniaai sukh hoi ||1||",
+      "hi": "अमर पदारथु नानका मनि मानिऐ सुखु होइ ॥१॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 88,
+      "pn": "ਚਿੰਤਾ ਤਾ ਕੀ ਕੀਜੀਐ ਜੋ ਅਨਹੋਨੀ ਹੋਇ ॥",
+      "en": "chi(n)taa taa kee keejeeaai jo anahonee hoi ||",
+      "hi": "चिंता ता की कीजीऐ जो अनहोनी होइ ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 88,
+      "pn": "ਇਹੁ ਮਾਰਗੁ ਸੰਸਾਰ ਕੋ ਨਾਨਕ ਥਿਰੁ ਨਹੀ ਕੋਇ ॥੫੧॥",
+      "en": "eih maarag sa(n)saar ko naanak thir nahee koi ||51||",
+      "hi": "इहु मारगु संसार को नानक थिरु नही कोइ ॥५१॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 89,
+      "pn": "ਜੋ ਉਪਜਿਓ ਸੋ ਬਿਨਸਿ ਹੈ ਪਰੋ ਆਜੁ ਕੈ ਕਾਲਿ ॥",
+      "en": "jo upajio so binas hai paro aaj kai kaal ||",
+      "hi": "जो उपजिओ सो बिनसि है परो आजु कै कालि ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 89,
+      "pn": "ਨਾਨਕ ਹਰਿ ਗੁਨ ਗਾਇ ਲੇ ਛਾਡਿ ਸਗਲ ਜੰਜਾਲ ॥੫੨॥",
+      "en": "naanak har gun gai le chhaadd sagal ja(n)jaal ||52||",
+      "hi": "नानक हरि गुन गाइ ले छाडि सगल जंजाल ॥५२॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 90,
+      "pn": "ਨਾਮੁ ਰਹਿਓ ਸਾਧੂ ਰਹਿਓ ਰਹਿਓ ਗੁਰੁ ਗੋਬਿੰਦੁ ॥",
+      "en": "naam rahio saadhoo rahio rahio gur gobi(n)dh ||",
+      "hi": "नामु रहिओ साधू रहिओ रहिओ गुरु गोबिंदु ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 90,
+      "pn": "ਕਹੁ ਨਾਨਕ ਇਹ ਜਗਤ ਮੈ ਕਿਨ ਜਪਿਓ ਗੁਰ ਮੰਤੁ ॥੫੬॥",
+      "en": "kahu naanak ieh jagat mai kin japio gur ma(n)t ||56||",
+      "hi": "कहु नानक इह जगत मै किन जपिओ गुर मंतु ॥५६॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 91,
+      "pn": "ਰਾਮ ਨਾਮੁ ਉਰ ਮੈ ਗਹਿਓ ਜਾ ਕੈ ਸਮ ਨਹੀ ਕੋਇ ॥",
+      "en": "raam naam ur mai gahio jaa kai sam nahee koi ||",
+      "hi": "राम नामु उर मै गहिओ जा कै सम नही कोइ ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 91,
+      "pn": "ਜਿਹ ਸਿਮਰਤ ਸੰਕਟ ਮਿਟੈ ਦਰਸੁ ਤੁਹਾਰੋ ਹੋਇ ॥੫੭॥੧॥",
+      "en": "jeh simarat sa(n)kaT miTai dharas tuhaaro hoi ||57||1||",
+      "hi": "जिह सिमरत संकट मिटै दरसु तुहारो होइ ॥५७॥१॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 92,
+      "pn": "ਦੋਹਰਾ ॥",
+      "en": "dhoharaa ||",
+      "hi": "दोहरा ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "dhoharaa ||"
+    },
+    {
+      "p": 93,
+      "pn": "ਅਸਿ ਕ੍ਰਿਪਾਨ ਖੰਡੋ ਖੜਗ ਤੁਪਕ ਤਬਰ ਅਰੁ ਤੀਰ ॥",
+      "en": "as kirapaan kha(n)ddo khaRag tupak tabar ar teer ||",
+      "hi": "असि कृपान खंडो खड़ग तुपक तबर अरु तीर ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 93,
+      "pn": "ਸੈਫ ਸਰੋਹੀ ਸੈਹਥੀ ਯਹੈ ਹਮਾਰੈ ਪੀਰ ॥੩॥",
+      "en": "saif sarohee saihathee yahai hamaarai peer ||3||",
+      "hi": "सैफ सरोही सैहथी यहै हमारै पीर ॥३॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 94,
+      "pn": "ਤੀਰ ਤੁਹੀ ਸੈਥੀ ਤੁਹੀ ਤੁਹੀ ਤਬਰ ਤਰਵਾਰਿ ॥",
+      "en": "teer tuhee saithee tuhee tuhee tabar taravaar ||",
+      "hi": "तीर तुही सैथी तुही तुही तबर तरवारि ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 94,
+      "pn": "ਨਾਮ ਤਿਹਾਰੋ ਜੋ ਜਪੈ ਭਏ ਸਿੰਧੁ ਭਵ ਪਾਰ ॥੪॥",
+      "en": "naam tihaaro jo japai bhe si(n)dh bhav paar ||4||",
+      "hi": "नाम तिहारो जो जपै भए सिंधु भव पार ॥४॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 95,
+      "pn": "ਕਾਲ ਤੁਹੀ ਕਾਲੀ ਤੁਹੀ ਤੁਹੀ ਤੇਗ ਅਰੁ ਤੀਰ ॥",
+      "en": "kaal tuhee kaalee tuhee tuhee teg ar teer ||",
+      "hi": "काल तुही काली तुही तुही तेग अरु तीर ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 95,
+      "pn": "ਤੁਹੀ ਨਿਸਾਨੀ ਜੀਤ ਕੀ ਆਜੁ ਤੁਹੀ ਜਗਬੀਰ ॥੫॥",
+      "en": "tuhee nisaanee jeet kee aaj tuhee jagabeer ||5||",
+      "hi": "तुही निसानी जीत की आजु तुही जगबीर ॥५॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 96,
+      "pn": "ਜਿਤੇ ਸਸਤ੍ਰ ਨਾਮੰ ॥",
+      "en": "jite sasatr naama(n) ||",
+      "hi": "जिते ससत्र नामं ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 96,
+      "pn": "ਨਮਸਕਾਰ ਤਾਮੰ ॥",
+      "en": "namasakaar taama(n) ||",
+      "hi": "नमसकार तामं ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 96,
+      "pn": "ਜਿਤੇ ਅਸਤ੍ਰ ਭੇਯੰ ॥",
+      "en": "jite asatr bheya(n) ||",
+      "hi": "जिते असत्र भेयं ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 96,
+      "pn": "ਨਮਸਕਾਰ ਤੇਯੰ ॥੯੧॥",
+      "en": "namasakaar teya(n) ||91||",
+      "hi": "नमसकार तेयं ॥९१॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 97,
+      "pn": "ਤੀਰੋ ਤੁਫੰਗੋ ਬਡੋ ਰਾਮ ਜੰਗੋ ਧਮਕ ਧਾਰ ਅਣੀਆਰ ਕਮੰਦ ਕੋਰੜਾ॥ ਪੰਜ ਸ਼ਸਤਰ ਪਰਵਾਣ॥ ",
+      "en": "teero tufa(n)go baddo raam ja(n)go dhamak dhaar aneeaar kama(n)dh koraRaa|| pa(n)j shasatar paravaan|| ",
+      "hi": "तीरो तुफंगो बडो राम जंगो धमक धार अणीआर कमंद कोरड़ा॥ पंज शसतर परवाण॥ ",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 98,
+      "pn": "ਸੁਣੋ ਨੰਦ ਲਾਲ ਏਹੌ ਸਾਚ",
+      "en": "suno na(n)dh laal ehau saach",
+      "hi": "सुणो नंद लाल एहौ साच",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 98,
+      "pn": "ਪਰਗਟ ਕਰਾਊਂ ਆਪਣੇ ਰਾਜ (੫੬)",
+      "en": "paragaT karaauoo(n) aapane raaj (56)",
+      "hi": "परगट कराऊं आपणे राज (५६)",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 98,
+      "pn": "ਚਾਰ ਬਰਨ ਇਕ ਬਰਨ ਕਰਾਊਂ",
+      "en": "chaar baran ik baran karaauoo(n)",
+      "hi": "चार बरन इक बरन कराऊं",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 98,
+      "pn": "ਵਾਹਿਗੁਰੂ ਕਾ ਜਾਪ ਜਪਾਉੂ। (੫੭)",
+      "en": "vaahiguroo kaa jaap japaauoo| (57)",
+      "hi": "वाहिगुरू का जाप जपाऊ। (५७)",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 98,
+      "pn": "ਚੜੈ੍ਹਂ ਤੁਰੰਗ ਉੜਾਵੈਂ ਬਾਜ",
+      "en": "chaRaiha(n) tura(n)g uRaavai(n) baaj",
+      "hi": "चड़ै्हं तुरंग उड़ावैं बाज",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 98,
+      "pn": "ਤੁਰਕ ਦੇਖ ਕਰ ਜਾਵੈਂ ਭਾਜ਼(੫੮)",
+      "en": "turak dhekh kar jaavai(n) bhaaz(58)",
+      "hi": "तुरक देख कर जावैं भाज़(५८)",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 98,
+      "pn": "ਸਵਾ ਲਾਖ ਸੇ ਏਕ ਲੜਾਊਂ",
+      "en": "savaa laakh se ek laRaauoo(n)",
+      "hi": "सवा लाख से एक लड़ाऊं",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 98,
+      "pn": "ਚੜੈ੍ਹ ਸਿੰਘ ਤਿਸ ਮੁਕਤ ਕਰਾਊਂ। (੫੯)",
+      "en": "chaRaih si(n)gh tis mukat karaauoo(n)| (59)",
+      "hi": "चड़ै्ह सिंघ तिस मुकत कराऊं। (५९)",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 98,
+      "pn": "ਝੂਲਣ ਨੇਜੇ ਹਸਤੀ ਸਾਜੇ",
+      "en": "jhoolan neje hasatee saaje",
+      "hi": "झूलण नेजे हसती साजे",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 98,
+      "pn": "ਦੁਆਰ ਦੁਆਰ ਪਰ ਨੌਬਤ ਬਾਜੇ। (੬੦)",
+      "en": "dhuaar dhuaar par nauabat baaje| (60)",
+      "hi": "दुआर दुआर पर नौबत बाजे। (६०)",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 98,
+      "pn": "ਸਵਾ ਲਾਖ ਜਬ ਧੁਖੈ ਪਲੀਤਾ",
+      "en": "savaa laakh jab dhukhai paleetaa",
+      "hi": "सवा लाख जब धुखै पलीता",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 98,
+      "pn": "ਤਬੈ ਖਾਲਸਾ ਉਦੈ ਅਸਤ ਲੌ ਜੀਤਾ। (੬੧)",
+      "en": "tabai khaalasaa udhai asat lau jeetaa| (61)",
+      "hi": "तबै खालसा उदै असत लौ जीता। (६१)",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 99,
+      "pn": "ਰਾਜ ਕਰੇਗਾ ਖਾਲਸਾ ਆਕੀ ਰਹੇ ਨ ਕੋਇ",
+      "en": "raaj karegaa khaalasaa aakee rahe na koi",
+      "hi": "राज करेगा खालसा आकी रहे न कोइ",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 99,
+      "pn": "ਖ਼ੁਆਰ ਹੋਏ ਸਭ ਮਿਲਹਿੰ ਗੇ ਬਚੇ ਸ਼ਰਨ ਜੋ ਹੋਇ। (੬੨)",
+      "en": "khhuaar hoe sabh milahi(n) ge bache sharan jo hoi| (62)",
+      "hi": "ख़ुआर होए सभ मिलहिं गे बचे शरन जो होइ। (६२)",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 100,
+      "pn": "ਉਠ ਗਈ ਸਫਾ ਮਲੇਛ ਕੀ ਕਰ ਕੂੜਾ ਪਾਸਾਰ॥",
+      "en": "auTh giee safaa malechh kee kar kooRaa paasaar||",
+      "hi": "उठ गई सफा मलेछ की कर कूड़ा पासार॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 100,
+      "pn": "ਡੰਕਾ ਬਾਜੇ ਫਤਿਹ ਕਾ ਨਿਹਕਲੰਕ ਅਵਤਾਰ ॥",
+      "en": "dda(n)kaa baaje fateh kaa nihakala(n)k avataar ||",
+      "hi": "डंका बाजे फतिह का निहकलंक अवतार ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 101,
+      "pn": "ਬਿਜੈ ਛੰਦ ॥",
+      "en": "bijai chha(n)dh ||",
+      "hi": "बिजै छंद ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "bijai chha(n)dh ||"
+    },
+    {
+      "p": 102,
+      "pn": "ਲੰਕ ਲੂਟ ਲਿਆਊਂ ਪਲਕ ਪੇਸ਼ ਖਾਨਾ ਚਲਾਊਂ ਨਰਦ ਗਰਦ ਮਿਲਾੳੋੂ ਮੈਂ ਜੋ ਮਾਤੇ ਅਭਿਮਾਨ ਕੇ॥",
+      "en": "la(n)k looT liaauoo(n) palak pesh khaanaa chalaauoo(n) naradh garadh milaauooo mai(n) jo maate abhimaan ke||",
+      "hi": "लंक लूट लिआऊं पलक पेश खाना चलाऊं नरद गरद मिलाउोू मैं जो माते अभिमान के॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 102,
+      "pn": "ਰੂਮ ਨੌਬਤ ਬਜਾਊਂ ਸ਼ਾਮ ਮੋਹਰਾਂ ਚਲਾਊਂ ਪਾਤਸ਼ਾਹੀ ਲੈ ਕਰਾਊਂ ਤਖਤ ਸਾਚੇ ਸਾਹਿਬਾਨ ਕੇ॥",
+      "en": "room nauabat bajaauoo(n) shaam moharaa(n) chalaauoo(n) paatashaahee lai karaauoo(n) takhat saache saahibaan ke||",
+      "hi": "रूम नौबत बजाऊं शाम मोहराँ चलाऊं पातशाही लै कराऊं तखत साचे साहिबान के॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 102,
+      "pn": "ਨ ਆਪ ਲੜੂੰ ਨ ਫੌਜ ਲੜਾਊਂ ॥ ਭਟ ਬੀਰਨ ਸੇਤੀ ਬਾਂਧ ਮੰਗਾਊਂ॥",
+      "en": "n aap laRoo(n) na fauaj laRaauoo(n) || bhaT beeran setee baa(n)dh ma(n)gaauoo(n)||",
+      "hi": "न आप लड़ूँ न फौज लड़ाऊं ॥ भट बीरन सेती बाँध मंगाऊं॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 102,
+      "pn": "ਨਾ ਛਾਡੂੰ ਖਲਕ ਨਾ ਛਾਡੂੰ ਬਲਖ ਪਰਬਤ ਕਾਟੰੂ ਇਰਾਨ ਖੁਰਾਸਾਨ ਕੇ॥",
+      "en": "naa chhaaddoo(n) khalak naa chhaaddoo(n) balakh parabat kaaTa(n)oo iraan khuraasaan ke||",
+      "hi": "ना छाडूँ खलक ना छाडूँ बलख परबत काटंू इरान खुरासान के॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 102,
+      "pn": "ਮੇਰੋ ਨਾਉਂ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿਘ ਸੋਢੀ ਰਾਇ॥",
+      "en": "mero naau(n) guroo gobi(n)dh sigh soddee rai||",
+      "hi": "मेरो नाउं गुरू गोबिंद सिघ सोढी राइ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 102,
+      "pn": "ਅਸ ਖਲੋਨਾ ਸਭ ਖਲਕਤ ਰਾਜ ਸਾਜ ਬਾਂਧ ਮੰਗਾਊਂ ਗੋਸ਼ੇ ਕਮਾਨ ਕੇ ॥",
+      "en": "as khalonaa sabh khalakat raaj saaj baa(n)dh ma(n)gaauoo(n) goshe kamaan ke ||",
+      "hi": "अस खलोना सभ खलकत राज साज बाँध मंगाऊं गोशे कमान के ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 103,
+      "pn": "ਹੁਕਮ ਸੱਤ॥",
+      "en": "hukam sa't||",
+      "hi": "हुकम सत्त॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "hukam sa't||"
+    },
+    {
+      "p": 104,
+      "pn": "ਸ੍ਰੀ ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫਤਿਹ ॥",
+      "en": "sree vaahiguroo jee kee fateh ||",
+      "hi": "स्री वाहिगुरू जी की फतिह ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 104,
+      "pn": "ਸਿੱਕਾ ਜ਼ਦ ਬਰ ਹਰ ਦੋ ਆਲਿਮ ਫਜ਼ਲਿ ਸਚੇ ਸਾਹਿਬੱਸਤ ॥",
+      "en": "si'kaa zadh bar har dho aalim fazal sache saahiba'sat ||",
+      "hi": "सिक्का ज़द बर हर दो आलिम फज़लि सचे साहिबस्सत ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 104,
+      "pn": "ਗੋਬਿੰਦ ਸਿੰਘ ਖ਼ੁਦ ਸ਼ਾਹਿਨਸ਼ਾਹ ਤੇਗ ਨਾਨਕ ਵਾਹਿਬੱਸਤ ॥",
+      "en": "gobi(n)dh si(n)gh khhudh shaahinashaeh teg naanak vaahiba'sat ||",
+      "hi": "गोबिंद सिंघ ख़ुद शाहिनशाह तेग नानक वाहिबस्सत ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 104,
+      "pn": "ਦੇਗ਼ ਤੇਗ਼ ਫ਼ਤਹ ਨੁਸਰਤ ਬੇਦਰੰਗ ਯਾਫ਼ਤਜ਼ ਨਾਨਕ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ॥",
+      "en": "dheg(h) teg(h) phateh nusarat bedhara(n)g yaaphataz naanak guroo gobi(n)dh si(n)gh ||",
+      "hi": "देग़ तेग़ फ़तह नुसरत बेदरंग याफ़तज़ नानक गुरू गोबिंद सिंघ ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 104,
+      "pn": "ਸ੍ਰੀ ਅਕਾਲ ਪੁਰਖ ਜੀ ਸਹਾਇ॥",
+      "en": "sree akaal purakh jee sahai||",
+      "hi": "स्री अकाल पुरख जी सहाइ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 104,
+      "pn": "ਜੀ ਦਰਬਾਰਨ ਮੈਂ ਤੇਰੋ ਦਰਬਾਰਾ ਸਚ ਖੰਡ ਵਸੈ ਨਿਰੰਕਾਰਾ॥",
+      "en": "jee dharabaaran mai(n) tero dharabaaraa sach kha(n)dd vasai nira(n)kaaraa||",
+      "hi": "जी दरबारन मैं तेरो दरबारा सच खंड वसै निरंकारा॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 104,
+      "pn": "ਲਛਮੀ ਖੜੀ ਤੁਮਰੇ ਦਰਬਾਰਾ ਸਰਬ ਦੇਵਤੇ ਕਰੇ ਨਮਸਕਾਰਾ ॥",
+      "en": "lachhamee khaRee tumare dharabaaraa sarab dhevate kare namasakaaraa ||",
+      "hi": "लछमी खड़ी तुमरे दरबारा सरब देवते करे नमसकारा ॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 105,
+      "pn": "ਦੋਹਰਾ ॥",
+      "en": "dhoharaa ||",
+      "hi": "दोहरा ॥",
+      "es": false,
+      "em": false,
+      "el": false,
+      "s": "dhoharaa ||"
+    },
+    {
+      "p": 105,
+      "pn": "ਨਾਨਕ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ ਪੂਰਨ ਗੁਰ ਅਵਤਾਰ॥",
+      "en": "naanak guroo gobi(n)dh si(n)gh jee pooran gur avataar||",
+      "hi": "नानक गुरू गोबिंद सिंघ जी पूरन गुर अवतार॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 105,
+      "pn": "ਜਗਮਗ ਜੋਤਿ ਬਿਰਾਜ ਰਹੀ ਸ੍ਰੀ ਅਬਿਚਲ ਨਗਰ ਮਝਾਰ॥ ਸੱਚਖੰਡ ਕੇ ਦਰਬਾਰ॥",
+      "en": "jagamag jot biraaj rahee sree abichal nagar majhaar|| sa'chakha(n)dd ke dharabaar||",
+      "hi": "जगमग जोति बिराज रही स्री अबिचल नगर मझार॥ सच्चखंड के दरबार॥",
+      "es": false,
+      "em": false,
+      "el": false
+    },
+    {
+      "p": 106,
+      "pn": "ਚੱਤ੍ਰ ਚੱਕ੍ਰ ਵਰਤੀ ਚੱਤ੍ਰ ਚੱਕ੍ਰ ਭੁਗਤੇ ॥",
+      "en": "cha'tr cha'kr varatee cha'tr cha'kr bhugate ||",
+      "hi": "चत्त्र चक्क्र वरती चत्त्र चक्क्र भुगते ॥",
+      "el": false
+    },
+    {
+      "p": 106,
+      "pn": "ਸੁਯੰਭਵ ਸੁਭੰ ਸਰਬਦਾ ਸਰਬ ਜੁਗਤੇ ॥",
+      "en": "suya(n)bhav subha(n) sarabadhaa sarab jugate ||",
+      "hi": "सुयंभव सुभं सरबदा सरब जुगते ॥",
+      "el": false
+    },
+    {
+      "p": 106,
+      "pn": "ਦੁਕਾਲੰ ਪ੍ਰਣਾਸੀ ਦਿਆਲੰ ਸਰੂਪੇ ॥",
+      "en": "dhukaala(n) pranaasee dhiaala(n) saroope ||",
+      "hi": "दुकालं प्रणासी दिआलं सरूपे ॥",
+      "el": false
+    },
+    {
+      "p": 106,
+      "pn": "ਸਦਾ ਅੰਗ ਸੰਗੇ ਅਭੰਗੰ ਬਿਭੂਤੇ ॥੧੯੯॥",
+      "en": "sadhaa a(n)g sa(n)ge abha(n)ga(n) bibhoote ||199||",
+      "hi": "सदा अंग संगे अभंगं बिभूते ॥१९९॥",
+      "el": false
+    }
+  ]
+}

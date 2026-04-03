@@ -2,28 +2,30 @@ package ltd.realquick.nitnem.ui.bani
 
 import android.os.Bundle
 import android.util.TypedValue
-import android.view.Gravity
 import android.view.Menu
 import android.view.MenuItem
 import android.view.MotionEvent
 import android.view.View
 import android.view.WindowManager
-import android.widget.ImageView
-import android.widget.TextView
 import androidx.activity.OnBackPressedCallback
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.isVisible
+import androidx.core.content.ContextCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.core.view.WindowInsetsControllerCompat
+import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.LinearSmoothScroller
+import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.tabs.TabLayout
 import dev.oneuiproject.oneui.R as iconsR
-import dev.oneuiproject.oneui.design.R as designR
 import ltd.realquick.nitnem.R
 import ltd.realquick.nitnem.data.BaniRepository
 import ltd.realquick.nitnem.data.PrefsManager
-import ltd.realquick.nitnem.data.model.Bani
+import ltd.realquick.nitnem.data.model.BaniLength
+import ltd.realquick.nitnem.data.model.ReaderParagraph
 import ltd.realquick.nitnem.databinding.ActivityBaniBinding
 import ltd.realquick.nitnem.util.AutoScroller
+import java.util.concurrent.ExecutorService
+import java.util.concurrent.Executors
 import kotlin.math.roundToInt
 
 class BaniActivity : AppCompatActivity() {
@@ -32,16 +34,26 @@ class BaniActivity : AppCompatActivity() {
     private lateinit var prefs: PrefsManager
     private lateinit var repo: BaniRepository
     private lateinit var autoScroller: AutoScroller
-    private lateinit var resumeCardView: View
+    private lateinit var readerAdapter: ReaderAdapter
+    private lateinit var layoutManager: LinearLayoutManager
     private lateinit var fullscreenBackCallback: OnBackPressedCallback
+
+    private val loadExecutor: ExecutorService = Executors.newSingleThreadExecutor()
+    private val mainThreadExecutor by lazy(LazyThreadSafetyMode.NONE) {
+        ContextCompat.getMainExecutor(this)
+    }
 
     private var slug: String = ""
     private var isFullscreen = false
-    private val sectionViews = linkedMapOf<String, View>()
-    private val sections = mutableListOf<String>()
     private var selectedSectionIndex = -1
     private var suppressSectionScroll = false
     private var resumeScrollFraction: Float? = null
+    private var currentLanguage: String? = null
+    private var currentBaniLength: BaniLength? = null
+    private var loadGeneration = 0
+
+    private val sections = mutableListOf<String>()
+    private val sectionParagraphIndices = mutableListOf<Int>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -50,7 +62,12 @@ class BaniActivity : AppCompatActivity() {
 
         prefs = PrefsManager(this)
         repo = BaniRepository(this)
-        autoScroller = AutoScroller(binding.scrollView).also {
+        layoutManager = LinearLayoutManager(this)
+        readerAdapter = ReaderAdapter(
+            onResumeContinue = ::resumeReading,
+            onResumeDismiss = ::hideResumeCard
+        )
+        autoScroller = AutoScroller(binding.recyclerView).also {
             it.onStateChanged = ::updateAutoScrollControls
             it.scrollUnitPxProvider = ::resolveAutoScrollUnitPx
         }
@@ -75,33 +92,9 @@ class BaniActivity : AppCompatActivity() {
         title = baniTitle
 
         setupToolbar(baniTitle)
-        setupResumeCard()
-        setupScrollHandling()
+        setupRecyclerView()
         setupControls()
         loadBani()
-    }
-
-    override fun onPause() {
-        super.onPause()
-        stopAutoScroll()
-        saveScrollPosition()
-    }
-
-    override fun onResume() {
-        super.onResume()
-        applyRuntimePreferences()
-    }
-
-    override fun onStop() {
-        super.onStop()
-        window.clearFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON)
-    }
-
-    private fun setupToolbar(title: String) {
-        binding.toolbarLayout.setTitle(title)
-        binding.toolbarLayout.toolbar.setNavigationOnClickListener {
-            onBackPressedDispatcher.onBackPressed()
-        }
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
@@ -157,134 +150,147 @@ class BaniActivity : AppCompatActivity() {
         }
     }
 
-    private fun setupResumeCard() {
-        resumeCardView = layoutInflater.inflate(
-            designR.layout.oui_des_preference_suggestion_card,
-            binding.resumeCardContainer,
-            false
-        )
-        binding.resumeCardContainer.addView(resumeCardView)
-        binding.resumeCardContainer.isVisible = false
-        resumeCardView.setBackgroundResource(R.drawable.resume_card_bg)
+    override fun onPause() {
+        super.onPause()
+        stopAutoScroll()
+        saveScrollPosition()
+    }
 
-        resumeCardView.findViewById<ImageView>(android.R.id.icon)
-            .setImageResource(designR.drawable.oui_des_preference_suggestion_card_icon)
-        resumeCardView.findViewById<TextView>(android.R.id.title).text = getString(R.string.resume_title)
-        resumeCardView.findViewById<TextView>(android.R.id.summary).text = getString(R.string.resume_summary)
-        resumeCardView.findViewById<TextView>(designR.id.action_button_text).text =
-            getString(R.string.resume_action)
-        resumeCardView.findViewById<View>(designR.id.exit_button).setOnClickListener {
-            hideResumeCard()
+    override fun onResume() {
+        super.onResume()
+        val needsReload = currentLanguage != prefs.transliterationLanguage ||
+            currentBaniLength != prefs.baniLength
+        if (needsReload) {
+            loadBani()
+        } else {
+            applyRuntimePreferences()
         }
     }
 
-    private fun setupScrollHandling() {
-        binding.scrollView.setOnTouchListener { _, event ->
-            if (event.actionMasked == MotionEvent.ACTION_DOWN || event.actionMasked == MotionEvent.ACTION_MOVE) {
-                stopAutoScroll()
-            }
-            false
-        }
+    override fun onStop() {
+        super.onStop()
+        window.clearFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON)
+    }
 
-        binding.scrollView.setOnScrollChangeListener { _: View, _: Int, scrollY: Int, _: Int, _: Int ->
-            updateProgress(scrollY)
-            updateCurrentSection(scrollY)
+    override fun onDestroy() {
+        loadExecutor.shutdownNow()
+        super.onDestroy()
+    }
+
+    private fun setupToolbar(title: String) {
+        binding.toolbarLayout.setTitle(title)
+        binding.toolbarLayout.toolbar.setNavigationOnClickListener {
+            onBackPressedDispatcher.onBackPressed()
+        }
+    }
+
+    private fun setupRecyclerView() {
+        binding.recyclerView.apply {
+            layoutManager = this@BaniActivity.layoutManager
+            adapter = readerAdapter
+            itemAnimator = null
+            setOnTouchListener { _, event ->
+                if (event.actionMasked == MotionEvent.ACTION_DOWN || event.actionMasked == MotionEvent.ACTION_MOVE) {
+                    stopAutoScroll()
+                }
+                false
+            }
+            addOnScrollListener(object : RecyclerView.OnScrollListener() {
+                override fun onScrolled(recyclerView: RecyclerView, dx: Int, dy: Int) {
+                    val scrollY = getCurrentScrollY()
+                    updateProgress(scrollY)
+                    updateCurrentSection()
+                }
+            })
         }
     }
 
     private fun setupControls() {
         autoScroller.updateSpeed(prefs.getScrollSpeed(if (prefs.perBaniSpeed) slug else null))
-
         binding.btnAutoScrollSpeed.setOnClickListener {
             showScrollSpeedDialog()
         }
-
         applyGoToTopPreference()
         updateAutoScrollControls(autoScroller.isScrolling)
     }
 
-    private fun updateAutoScrollControls(isPlaying: Boolean) {
-        binding.btnAutoScrollSpeed.contentDescription = getString(R.string.scroll_speed_title)
-        binding.btnAutoScrollSpeed.isVisible = prefs.autoScrollEnabled && isPlaying
-        invalidateOptionsMenu()
-    }
-
     private fun loadBani() {
-        val bani = try {
-            repo.loadBani(slug)
-        } catch (_: Exception) {
-            finish()
-            return
-        }
-
-        renderBani(bani)
-        setupSections()
-        applyKeepScreenOn()
-
-        binding.scrollView.post {
-            checkResumePosition()
-            updateProgress(binding.scrollView.scrollY)
-            updateCurrentSection(binding.scrollView.scrollY)
-        }
-    }
-
-    private fun renderBani(bani: Bani) {
-        binding.contentContainer.removeAllViews()
-        sectionViews.clear()
-
+        val generation = ++loadGeneration
+        val length = prefs.baniLength
         val language = prefs.transliterationLanguage
-        val fontSize = prefs.getFontSize(if (prefs.perBaniFontSize) slug else null)
-        val centerAlign = prefs.centerAlign
-        var astpadiNumber = 0
+        hideResumeCard()
 
-        for (paragraph in bani.paragraphs) {
-            val textView = TextView(this).apply {
-                text = paragraph.lines.joinToString("\n") { line ->
-                    when (language) {
-                        "hi" -> line.hi
-                        "pn" -> line.pn
-                        else -> line.en
+        loadExecutor.execute {
+            val paragraphs = try {
+                repo.loadReaderParagraphs(slug, length, language)
+            } catch (_: Exception) {
+                mainThreadExecutor.execute {
+                    if (!isFinishing && !isDestroyed) {
+                        finish()
                     }
                 }
-                setTextSize(TypedValue.COMPLEX_UNIT_SP, fontSize)
-                setTextColor(resolveThemeColor(android.R.attr.textColorPrimary))
-                setLineSpacing(0f, 1.3f)
-                gravity = if (centerAlign) Gravity.CENTER_HORIZONTAL else Gravity.START
-                setPadding(0, 0, 0, resources.getDimensionPixelSize(R.dimen.paragraph_spacing))
+                return@execute
             }
 
-            if (slug == SUKHMANI_SLUG && paragraph.section == SUKHMANI_ASTPADI_MARKER) {
-                astpadiNumber += 1
-                sectionViews[getString(R.string.astpadi_tab_title, astpadiNumber)] = textView
-            }
+            mainThreadExecutor.execute {
+                if (isDestroyed || generation != loadGeneration) return@execute
 
-            binding.contentContainer.addView(textView)
+                currentLanguage = language
+                currentBaniLength = length
+                readerAdapter.submitParagraphs(paragraphs)
+                setupSections(paragraphs)
+                applyRuntimePreferences()
+
+                binding.recyclerView.post {
+                    checkResumePosition()
+                    val scrollY = getCurrentScrollY()
+                    updateProgress(scrollY)
+                    updateCurrentSection()
+                }
+            }
         }
     }
 
-    private fun setupSections() {
+    private fun setupSections(paragraphs: List<ReaderParagraph>) {
         binding.sectionTabs.clearOnTabSelectedListeners()
         binding.sectionTabs.removeAllTabs()
         sections.clear()
+        sectionParagraphIndices.clear()
         selectedSectionIndex = -1
 
-        if (slug != SUKHMANI_SLUG || sectionViews.isEmpty()) {
-            binding.sectionTabs.isVisible = false
+        val sectionSpecs = when (slug) {
+            SUKHMANI_SLUG -> paragraphs.mapIndexedNotNull { index, paragraph ->
+                if (normalizeSection(paragraph.section) == SUKHMANI_SECTION_MARKER) index else null
+            }.mapIndexed { order, paragraphIndex ->
+                getString(R.string.astpadi_tab_title, order + 1) to paragraphIndex
+            }
+
+            ASA_DI_VAAR_SLUG -> paragraphs.mapIndexedNotNull { index, paragraph ->
+                if (normalizeSection(paragraph.section) == ASA_DI_VAAR_SECTION_MARKER) index else null
+            }.mapIndexed { order, paragraphIndex ->
+                getString(R.string.pauri_tab_title, order + 1) to paragraphIndex
+            }
+
+            else -> emptyList()
+        }
+
+        if (sectionSpecs.isEmpty()) {
+            binding.sectionTabs.visibility = View.GONE
             return
         }
 
-        sections.addAll(sectionViews.keys)
-        binding.sectionTabs.isVisible = true
-
-        sections.forEach { section ->
-            binding.sectionTabs.addTab(binding.sectionTabs.newTab().setText(section), false)
+        binding.sectionTabs.visibility = View.VISIBLE
+        sectionSpecs.forEach { (title, paragraphIndex) ->
+            sections += title
+            sectionParagraphIndices += paragraphIndex
+            binding.sectionTabs.addTab(binding.sectionTabs.newTab().setText(title), false)
         }
 
         binding.sectionTabs.addOnTabSelectedListener(object : TabLayout.OnTabSelectedListener {
             override fun onTabSelected(tab: TabLayout.Tab) {
                 selectedSectionIndex = tab.position
                 if (!suppressSectionScroll) {
-                    sections.getOrNull(tab.position)?.let(::scrollToSection)
+                    scrollToSection(tab.position)
                 }
             }
 
@@ -292,7 +298,7 @@ class BaniActivity : AppCompatActivity() {
 
             override fun onTabReselected(tab: TabLayout.Tab) {
                 if (!suppressSectionScroll) {
-                    sections.getOrNull(tab.position)?.let(::scrollToSection)
+                    scrollToSection(tab.position)
                 }
             }
         })
@@ -300,21 +306,22 @@ class BaniActivity : AppCompatActivity() {
         selectSectionTab(0)
     }
 
-    private fun scrollToSection(section: String) {
+    private fun scrollToSection(index: Int) {
+        val paragraphIndex = sectionParagraphIndices.getOrNull(index) ?: return
         stopAutoScroll()
-        val view = sectionViews[section] ?: return
-        binding.scrollView.post {
-            binding.scrollView.smoothScrollTo(0, view.top)
-        }
+        smoothScrollToAdapterPosition(readerAdapter.headerOffset + paragraphIndex)
     }
 
-    private fun updateCurrentSection(scrollY: Int) {
-        if (sections.isEmpty()) return
+    private fun updateCurrentSection() {
+        if (sectionParagraphIndices.isEmpty()) return
 
+        val firstVisible = layoutManager.findFirstVisibleItemPosition()
+        if (firstVisible == RecyclerView.NO_POSITION) return
+
+        val paragraphIndex = (firstVisible - readerAdapter.headerOffset).coerceAtLeast(0)
         var currentIndex = 0
-        for ((index, section) in sections.withIndex()) {
-            val view = sectionViews[section] ?: continue
-            if (view.top <= scrollY + 100) {
+        for ((index, anchorParagraphIndex) in sectionParagraphIndices.withIndex()) {
+            if (anchorParagraphIndex <= paragraphIndex) {
                 currentIndex = index
             }
         }
@@ -342,32 +349,40 @@ class BaniActivity : AppCompatActivity() {
         val key = if (prefs.perBaniFontSize) slug else null
         val currentSize = prefs.getFontSize(key)
         val newSize = (currentSize + delta).coerceIn(PrefsManager.MIN_FONT_SIZE, PrefsManager.MAX_FONT_SIZE)
-        val scrollFraction = getScrollFraction(binding.scrollView.scrollY)
+        if (newSize == currentSize) return
+
+        val scrollFraction = getScrollFraction(getCurrentScrollY())
         prefs.setFontSize(key, newSize)
+        applyReaderTypography()
 
-        for (index in 0 until binding.contentContainer.childCount) {
-            val view = binding.contentContainer.getChildAt(index)
-            if (view is TextView) {
-                view.setTextSize(TypedValue.COMPLEX_UNIT_SP, newSize)
-            }
-        }
-
-        binding.scrollView.post {
+        binding.recyclerView.post {
             val targetScrollY = getScrollYForFraction(scrollFraction)
-            binding.scrollView.scrollTo(0, targetScrollY)
+            scrollToOffset(targetScrollY)
             updateProgress(targetScrollY)
-            updateCurrentSection(targetScrollY)
+            updateCurrentSection()
         }
     }
 
+    private fun applyReaderTypography() {
+        readerAdapter.updateTypography(
+            fontSize = prefs.getFontSize(if (prefs.perBaniFontSize) slug else null),
+            centerAlign = prefs.centerAlign
+        )
+    }
+
     private fun resolveAutoScrollUnitPx(): Float {
-        for (index in 0 until binding.contentContainer.childCount) {
-            val view = binding.contentContainer.getChildAt(index)
-            if (view is TextView && view.lineHeight > 0) {
-                return view.lineHeight.toFloat()
+        for (index in 0 until binding.recyclerView.childCount) {
+            val paragraphView = binding.recyclerView.getChildAt(index)
+                .findViewById<View>(R.id.textParagraph)
+            if (paragraphView is android.widget.TextView && paragraphView.lineHeight > 0) {
+                return paragraphView.lineHeight.toFloat()
             }
         }
-        return 1f
+        return TypedValue.applyDimension(
+            TypedValue.COMPLEX_UNIT_SP,
+            prefs.getFontSize(if (prefs.perBaniFontSize) slug else null),
+            resources.displayMetrics
+        ) * 1.3f
     }
 
     private fun showScrollSpeedDialog() {
@@ -392,15 +407,7 @@ class BaniActivity : AppCompatActivity() {
     }
 
     private fun applyGoToTopPreference() {
-        val candidates = binding.scrollView.javaClass.declaredMethods + binding.scrollView.javaClass.methods
-        val method = candidates.firstOrNull { candidate ->
-            candidate.name == "seslSetGoToTopEnabled" &&
-                candidate.parameterTypes.contentEquals(arrayOf(Boolean::class.javaPrimitiveType))
-        } ?: return
-        runCatching {
-            method.isAccessible = true
-            method.invoke(binding.scrollView, prefs.backToTopEnabled)
-        }
+        binding.recyclerView.seslSetGoToTopEnabled(prefs.backToTopEnabled)
     }
 
     private fun setFullscreen(enabled: Boolean) {
@@ -422,12 +429,23 @@ class BaniActivity : AppCompatActivity() {
 
     private fun applyRuntimePreferences() {
         applyKeepScreenOn()
+        applyReaderTypography()
         autoScroller.updateSpeed(prefs.getScrollSpeed(if (prefs.perBaniSpeed) slug else null))
         if (!prefs.autoScrollEnabled) {
             stopAutoScroll()
         }
         applyGoToTopPreference()
         updateAutoScrollControls(autoScroller.isScrolling)
+    }
+
+    private fun updateAutoScrollControls(isPlaying: Boolean) {
+        binding.btnAutoScrollSpeed.contentDescription = getString(R.string.scroll_speed_title)
+        binding.btnAutoScrollSpeed.visibility = if (prefs.autoScrollEnabled && isPlaying) {
+            View.VISIBLE
+        } else {
+            View.GONE
+        }
+        invalidateOptionsMenu()
     }
 
     private fun stopAutoScroll() {
@@ -440,39 +458,43 @@ class BaniActivity : AppCompatActivity() {
         prefs.setScrollSpeed(if (prefs.perBaniSpeed) slug else null, autoScroller.speed)
     }
 
-    private fun hideResumeCard() {
-        binding.resumeCardContainer.isVisible = false
+    private fun hideResumeCard(onHidden: (() -> Unit)? = null) {
         resumeScrollFraction = null
+        readerAdapter.setResumeCardVisible(false, onHidden)
     }
 
     private fun saveScrollPosition() {
         if (!prefs.rememberPosition) return
-        prefs.setScrollPosition(slug, binding.scrollView.scrollY)
+        prefs.setScrollPosition(slug, getScrollFraction(getCurrentScrollY()))
     }
 
     private fun checkResumePosition() {
         if (!prefs.rememberPosition) return
 
-        val savedPos = prefs.getScrollPosition(slug)
-        if (savedPos <= 0) return
-        if (getScrollProgress(savedPos) !in MIN_RESUME_PROGRESS until MAX_RESUME_PROGRESS) {
+        val savedFraction = prefs.getScrollPosition(slug)
+        if (savedFraction <= 0f) return
+        if (savedFraction !in MIN_RESUME_FRACTION until MAX_RESUME_FRACTION) {
             return
         }
 
-        resumeScrollFraction = getScrollFraction(savedPos)
-        binding.resumeCardContainer.isVisible = true
-        resumeCardView.findViewById<View>(designR.id.action_button_container).setOnClickListener {
-            val targetFraction = resumeScrollFraction ?: getScrollFraction(savedPos)
-            hideResumeCard()
-            binding.scrollView.post {
+        resumeScrollFraction = savedFraction
+        readerAdapter.setResumeCardVisible(true)
+    }
+
+    private fun resumeReading() {
+        val targetFraction = resumeScrollFraction ?: prefs.getScrollPosition(slug)
+        hideResumeCard {
+            binding.recyclerView.post {
                 val targetScrollY = getScrollYForFraction(targetFraction)
-                binding.scrollView.scrollTo(0, targetScrollY)
+                scrollToOffset(targetScrollY)
                 updateProgress(targetScrollY)
-                updateCurrentSection(targetScrollY)
+                updateCurrentSection()
                 binding.toolbarLayout.setExpanded(false, true)
             }
         }
     }
+
+    private fun getCurrentScrollY(): Int = binding.recyclerView.computeVerticalScrollOffset()
 
     private fun getScrollProgress(scrollY: Int): Int {
         val maxScroll = getMaxScroll()
@@ -493,18 +515,32 @@ class BaniActivity : AppCompatActivity() {
     }
 
     private fun getMaxScroll(): Int {
-        val child = binding.scrollView.getChildAt(0) ?: return 0
-        return (child.height - binding.scrollView.height).coerceAtLeast(0)
+        return (binding.recyclerView.computeVerticalScrollRange() -
+            binding.recyclerView.computeVerticalScrollExtent()).coerceAtLeast(0)
     }
 
-    private fun resolveThemeColor(attrRes: Int): Int {
-        val typedValue = TypedValue()
-        theme.resolveAttribute(attrRes, typedValue, true)
-        return if (typedValue.resourceId != 0) {
-            getColor(typedValue.resourceId)
-        } else {
-            typedValue.data
+    private fun scrollToOffset(scrollY: Int) {
+        if (readerAdapter.itemCount == 0) return
+        val clampedScrollY = scrollY.coerceIn(0, getMaxScroll())
+        binding.recyclerView.stopScroll()
+        binding.recyclerView.scrollBy(0, clampedScrollY - getCurrentScrollY())
+    }
+
+    private fun smoothScrollToAdapterPosition(position: Int) {
+        if (readerAdapter.itemCount == 0) return
+        val smoothScroller = object : LinearSmoothScroller(this) {
+            override fun getVerticalSnapPreference(): Int = SNAP_TO_START
         }
+        smoothScroller.targetPosition = position
+        layoutManager.startSmoothScroll(smoothScroller)
+    }
+
+    private fun normalizeSection(section: String?): String {
+        return section
+            ?.lowercase()
+            ?.replace(SECTION_WHITESPACE_REGEX, " ")
+            ?.trim()
+            .orEmpty()
     }
 
     companion object {
@@ -512,8 +548,11 @@ class BaniActivity : AppCompatActivity() {
         const val EXTRA_TITLE = "title"
 
         private const val SUKHMANI_SLUG = "sukhmani-sahib"
-        private const val SUKHMANI_ASTPADI_MARKER = "asaTapadhee ||"
-        private const val MIN_RESUME_PROGRESS = 5
-        private const val MAX_RESUME_PROGRESS = 85
+        private const val ASA_DI_VAAR_SLUG = "asa-di-vaar"
+        private const val SUKHMANI_SECTION_MARKER = "salok ||"
+        private const val ASA_DI_VAAR_SECTION_MARKER = "pauree ||"
+        private const val MIN_RESUME_FRACTION = 0.05f
+        private const val MAX_RESUME_FRACTION = 0.85f
+        private val SECTION_WHITESPACE_REGEX = "\\s+".toRegex()
     }
 }

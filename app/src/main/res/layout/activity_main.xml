@@ -5,8 +5,7 @@
     android:id="@+id/toolbarLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    app:title="@string/app_name"
-    app:expanded="true">
+    app:title="@string/app_name">
 
     <dev.oneuiproject.oneui.widget.RoundedFrameLayout
         android:layout_width="match_parent"

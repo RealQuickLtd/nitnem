@@ -21,15 +21,18 @@ OUTPUT_DIR = os.path.join(
 
 BANIS = [
     (2, "japji-sahib"),
-    (4, "jaap-sahib"),
-    (31, "sukhmani-sahib"),
     (3, "shabad-hazare"),
-    (9, "chaupai-sahib"),
-    (21, "rehras-sahib"),
-    (23, "kirtan-sohila"),
-    (10, "anand-sahib"),
+    (4, "jaap-sahib"),
     (6, "tavprasad-savaiye-sraavag-sudh"),
     (7, "tavprasad-savaiye-deenan-kee"),
+    (9, "chaupai-sahib"),
+    (10, "anand-sahib"),
+    (21, "rehras-sahib"),
+    (22, "aarti"),
+    (23, "kirtan-sohila"),
+    (24, "ardas"),
+    (31, "sukhmani-sahib"),
+    (90, "asa-di-vaar"),
 ]
 
 
@@ -46,9 +49,7 @@ def transform(raw: dict, slug: str) -> dict:
     bani_info = raw.get("baniInfo", {})
     verses = raw.get("verses", [])
 
-    paragraphs = []
-    current_paragraph = None
-    current_para_id = None
+    full_verses = []
 
     for verse in verses:
         v = verse.get("verse", {})
@@ -60,31 +61,34 @@ def transform(raw: dict, slug: str) -> dict:
         en = transliteration.get("english", "")
         hi = transliteration.get("hindi", "")
 
-        line = {"pn": gurmukhi, "en": en, "hi": hi}
-
-        # Determine section name for headers (Sukhmani Sahib astpadis etc.)
+        # Determine section name for headers (Sukhmani, Asa Di Vaar, etc.)
         section = None
         if header in (1, 2) and gurmukhi.strip():
             section = en.strip() if en.strip() else gurmukhi.strip()
 
-        # Group by paragraph ID
-        if para_id != current_para_id:
-            current_paragraph = {"lines": [line]}
-            if section:
-                current_paragraph["section"] = section
-            paragraphs.append(current_paragraph)
-            current_para_id = para_id
-        else:
-            current_paragraph["lines"].append(line)
-            # If this line has a section and the paragraph doesn't yet, set it
-            if section and "section" not in current_paragraph:
-                current_paragraph["section"] = section
+        entry = {
+            "p": para_id,
+            "pn": gurmukhi,
+            "en": en,
+            "hi": hi,
+        }
+        if not bool(verse.get("existsSGPC", 1)):
+            entry["es"] = False
+        if not bool(verse.get("existsMedium", 1)):
+            entry["em"] = False
+        if not bool(verse.get("existsTaksal", 1)):
+            entry["el"] = False
+        if not bool(verse.get("existsBuddhaDal", 1)):
+            entry["ex"] = False
+        if section:
+            entry["s"] = section
+        full_verses.append(entry)
 
     return {
         "id": bani_info.get("baniID", 0),
-        "nameEn": bani_info.get("transliteration", {}).get("english", slug),
+        "nameEn": bani_info.get("english", slug),
         "slug": slug,
-        "paragraphs": paragraphs,
+        "verses": full_verses,
     }
 
 
@@ -100,8 +104,7 @@ def main():
             out_path = os.path.join(OUTPUT_DIR, f"{slug}.json")
             with open(out_path, "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
-            line_count = sum(len(p["lines"]) for p in data["paragraphs"])
-            print(f"  -> {len(data['paragraphs'])} paragraphs, {line_count} lines")
+            print(f"  -> {len(data['verses'])} verses")
         except Exception as e:
             print(f"  ERROR: {e}", file=sys.stderr)
             errors.append((slug, str(e)))

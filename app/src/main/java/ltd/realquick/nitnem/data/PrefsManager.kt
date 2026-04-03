@@ -3,6 +3,7 @@ package ltd.realquick.nitnem.data
 import android.content.Context
 import android.content.SharedPreferences
 import androidx.preference.PreferenceManager
+import ltd.realquick.nitnem.data.model.BaniLength
 
 class PrefsManager(context: Context) {
 
@@ -13,6 +14,11 @@ class PrefsManager(context: Context) {
 
     val centerAlign: Boolean
         get() = prefs.getBoolean(KEY_CENTER_ALIGN, false)
+
+    val baniLength: BaniLength
+        get() = BaniLength.fromPrefValue(
+            prefs.getString(KEY_BANI_LENGTH, BaniLength.MEDIUM.prefValue)
+        )
 
     val keepScreenOn: Boolean
         get() = prefs.getBoolean(KEY_KEEP_SCREEN_ON, true)
@@ -55,16 +61,19 @@ class PrefsManager(context: Context) {
     }
 
     // Reading position
-    fun getScrollPosition(slug: String): Int {
-        return prefs.getInt("${KEY_SCROLL_POS}_$slug", 0)
+    fun getScrollPosition(slug: String): Float {
+        return prefs.getFloat("${KEY_SCROLL_FRACTION}_$slug", 0f)
     }
 
-    fun setScrollPosition(slug: String, position: Int) {
-        prefs.edit().putInt("${KEY_SCROLL_POS}_$slug", position).apply()
+    fun setScrollPosition(slug: String, fraction: Float) {
+        prefs.edit()
+            .putFloat("${KEY_SCROLL_FRACTION}_$slug", fraction.coerceIn(0f, 1f))
+            .apply()
     }
 
     companion object {
         const val KEY_TRANSLITERATION = "transliteration_language"
+        const val KEY_BANI_LENGTH = "bani_length"
         const val KEY_CENTER_ALIGN = "center_align"
         const val KEY_KEEP_SCREEN_ON = "keep_screen_on"
         const val KEY_REMEMBER_POSITION = "remember_position"
@@ -74,7 +83,7 @@ class PrefsManager(context: Context) {
         const val KEY_PER_BANI_FONT_SIZE = "per_bani_font_size"
         const val KEY_FONT_SIZE = "font_size"
         const val KEY_SCROLL_SPEED = "scroll_speed"
-        const val KEY_SCROLL_POS = "scroll_position"
+        const val KEY_SCROLL_FRACTION = "scroll_fraction"
 
         const val DEFAULT_FONT_SIZE = 18f
         const val MIN_FONT_SIZE = 12f

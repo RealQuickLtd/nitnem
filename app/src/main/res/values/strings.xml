@@ -33,6 +33,7 @@
     <string name="resume_summary">You were reading this bani earlier. Pick up where you left off.</string>
     <string name="resume_action">Continue</string>
     <string name="astpadi_tab_title">Astpadi %1$d</string>
+    <string name="pauri_tab_title">Pauri %1$d</string>
 
     <!-- Settings -->
     <string name="settings_title">Settings</string>
@@ -42,6 +43,8 @@
 
     <string name="pref_transliteration_title">Transliteration</string>
     <string name="pref_transliteration_summary">Display language for bani text</string>
+    <string name="pref_bani_length_title">Bani length</string>
+    <string name="pref_bani_length_summary">Choose a reading length for supported banis.</string>
 
     <string name="pref_center_align_title">Center align</string>
     <string name="pref_center_align_summary">Center align bani text on reading screen</string>
@@ -80,5 +83,17 @@
         <item>en</item>
         <item>hi</item>
         <item>pn</item>
+    </string-array>
+    <string-array name="bani_length_entries">
+        <item>Short</item>
+        <item>Medium</item>
+        <item>Long</item>
+        <item>Extra Long</item>
+    </string-array>
+    <string-array name="bani_length_values">
+        <item>s</item>
+        <item>m</item>
+        <item>l</item>
+        <item>xl</item>
     </string-array>
 </resources>

@@ -1,9 +1,9 @@
 package ltd.realquick.nitnem.util
 
 import android.view.Choreographer
-import androidx.core.widget.NestedScrollView
+import androidx.recyclerview.widget.RecyclerView
 
-class AutoScroller(private val scrollView: NestedScrollView) {
+class AutoScroller(private val recyclerView: RecyclerView) {
 
     private val choreographer by lazy(LazyThreadSafetyMode.NONE) {
         Choreographer.getInstance()
@@ -28,9 +28,8 @@ class AutoScroller(private val scrollView: NestedScrollView) {
     fun start() {
         if (isScrolling) return
 
-        val child = scrollView.getChildAt(0) ?: return
-        val maxY = (child.height - scrollView.height).coerceAtLeast(0)
-        if (scrollView.scrollY >= maxY) return
+        val maxY = getMaxScroll()
+        if (getScrollOffset() >= maxY) return
 
         isScrolling = true
         lastFrameNanos = 0L
@@ -61,12 +60,8 @@ class AutoScroller(private val scrollView: NestedScrollView) {
     private fun step(frameTimeNanos: Long) {
         if (!isScrolling) return
 
-        val child = scrollView.getChildAt(0) ?: run {
-            stopInternal()
-            return
-        }
-        val maxY = (child.height - scrollView.height).coerceAtLeast(0)
-        if (maxY <= 0 || scrollView.scrollY >= maxY) {
+        val maxY = getMaxScroll()
+        if (maxY <= 0 || getScrollOffset() >= maxY) {
             stopInternal()
             return
         }
@@ -80,8 +75,8 @@ class AutoScroller(private val scrollView: NestedScrollView) {
                 val deltaY = pendingScrollPx.toInt()
                 if (deltaY > 0) {
                     pendingScrollPx -= deltaY
-                    val nextY = (scrollView.scrollY + deltaY).coerceAtMost(maxY)
-                    scrollView.scrollTo(0, nextY)
+                    val nextY = (getScrollOffset() + deltaY).coerceAtMost(maxY)
+                    recyclerView.scrollBy(0, nextY - getScrollOffset())
                 }
             }
         }
@@ -98,6 +93,13 @@ class AutoScroller(private val scrollView: NestedScrollView) {
         pendingScrollPx = 0f
         choreographer.removeFrameCallback(frameCallback)
         onStateChanged?.invoke(false)
+    }
+
+    private fun getScrollOffset(): Int = recyclerView.computeVerticalScrollOffset()
+
+    private fun getMaxScroll(): Int {
+        return (recyclerView.computeVerticalScrollRange() - recyclerView.computeVerticalScrollExtent())
+            .coerceAtLeast(0)
     }
 
     companion object {

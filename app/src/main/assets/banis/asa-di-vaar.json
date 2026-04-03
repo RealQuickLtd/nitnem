@@ -1,0 +1,4671 @@
+{
+  "id": 90,
+  "nameEn": "aasaa dhee vaar",
+  "slug": "asa-di-vaar",
+  "verses": [
+    {
+      "p": 1,
+      "pn": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+      "en": "ikOankaar satigur prasaadh ||",
+      "hi": "ੴ सतिगुर प्रसादि ॥",
+      "s": "ikOankaar satigur prasaadh ||"
+    },
+    {
+      "p": 2,
+      "pn": "ਆਸਾ ਮਹਲਾ ੪ ਛੰਤ ਘਰੁ ੪ ॥",
+      "en": "aasaa mahalaa chauthhaa chha(n)t ghar chauthhaa ||",
+      "hi": "आसा महला ४ छंत घरु ४ ॥",
+      "s": "aasaa mahalaa chauthhaa chha(n)t ghar chauthhaa ||"
+    },
+    {
+      "p": 3,
+      "pn": "ਹਰਿ ਅੰਮ੍ਰਿਤ ਭਿੰਨੇ ਲੋਇਣਾ ਮਨੁ ਪ੍ਰੇਮਿ ਰਤੰਨਾ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "har a(n)mirat bhi(n)ne loinaa man prem rata(n)naa raam raaje ||",
+      "hi": "हरि अंमृत भिंने लोइणा मनु प्रेमि रतंना राम राजे ॥"
+    },
+    {
+      "p": 3,
+      "pn": "ਮਨੁ ਰਾਮਿ ਕਸਵਟੀ ਲਾਇਆ ਕੰਚਨੁ ਸੋਵਿੰਨਾ ॥",
+      "en": "man raam kasavaTee laiaa ka(n)chan sovi(n)naa ||",
+      "hi": "मनु रामि कसवटी लाइआ कंचनु सोविंना ॥"
+    },
+    {
+      "p": 3,
+      "pn": "ਗੁਰਮੁਖਿ ਰੰਗਿ ਚਲੂਲਿਆ ਮੇਰਾ ਮਨੁ ਤਨੋ ਭਿੰਨਾ ॥",
+      "en": "gurmukh ra(n)g chalooliaa meraa man tano bhi(n)naa ||",
+      "hi": "गुरमुखि रंगि चलूलिआ मेरा मनु तनो भिंना ॥"
+    },
+    {
+      "p": 3,
+      "pn": "ਜਨੁ ਨਾਨਕੁ ਮੁਸਕਿ ਝਕੋਲਿਆ ਸਭੁ ਜਨਮੁ ਧਨੁ ਧੰਨਾ ॥੧॥",
+      "en": "jan naanak musak jhakoliaa sabh janam dhan dha(n)naa ||1||",
+      "hi": "जनु नानकु मुसकि झकोलिआ सभु जनमु धनु धंना ॥१॥"
+    },
+    {
+      "p": 4,
+      "pn": "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+      "en": "ikOankaar sat naam karataa purakh nirabhau niravair akaal moorat ajoonee saibha(n) gur prasaadh ||",
+      "hi": "ੴ सति नामु करता पुरखु निरभउ निरवैरु अकाल मूरति अजूनी सैभं गुर प्रसादि ॥",
+      "s": "ikOankaar sat naam karataa purakh nirabhau niravair akaal moorat ajoonee saibha(n) gur prasaadh ||"
+    },
+    {
+      "p": 5,
+      "pn": "ਆਸਾ ਮਹਲਾ ੧ ॥",
+      "en": "aasaa mahalaa pehilaa ||",
+      "hi": "आसा महला १ ॥",
+      "s": "aasaa mahalaa pehilaa ||"
+    },
+    {
+      "p": 6,
+      "pn": "ਵਾਰ ਸਲੋਕਾ ਨਾਲਿ ਸਲੋਕ ਭੀ ਮਹਲੇ ਪਹਿਲੇ ਕੇ ਲਿਖੇ ਟੁੰਡੇ ਅਸ ਰਾਜੈ ਕੀ ਧੁਨੀ ॥",
+      "en": "vaar salokaa naal salok bhee mahale pahile ke likhe Tu(n)dde as raajai kee dhunee ||",
+      "hi": "वार सलोका नालि सलोक भी महले पहिले के लिखे टुँडे अस राजै की धुनी ॥"
+    },
+    {
+      "p": 7,
+      "pn": "ਸਲੋਕੁ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोकु म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 8,
+      "pn": "ਬਲਿਹਾਰੀ ਗੁਰ ਆਪਣੇ ਦਿਉਹਾੜੀ ਸਦ ਵਾਰ ॥",
+      "en": "balihaaree gur aapane dhiauhaaRee sadh vaar ||",
+      "hi": "बलिहारी गुर आपणे दिउहाड़ी सद वार ॥"
+    },
+    {
+      "p": 8,
+      "pn": "ਜਿਨਿ ਮਾਣਸ ਤੇ ਦੇਵਤੇ ਕੀਏ ਕਰਤ ਨ ਲਾਗੀ ਵਾਰ ॥੧॥",
+      "en": "jin maanas te dhevate ke'ee karat na laagee vaar ||1||",
+      "hi": "जिनि माणस ते देवते कीए करत न लागी वार ॥१॥"
+    },
+    {
+      "p": 9,
+      "pn": "ਮਹਲਾ ੨ ॥",
+      "en": "mahalaa doojaa ||",
+      "hi": "महला २ ॥",
+      "s": "mahalaa doojaa ||"
+    },
+    {
+      "p": 10,
+      "pn": "ਜੇ ਸਉ ਚੰਦਾ ਉਗਵਹਿ ਸੂਰਜ ਚੜਹਿ ਹਜਾਰ ॥",
+      "en": "je sau cha(n)dhaa ugaveh sooraj chaReh hajaar ||",
+      "hi": "जे सउ चंदा उगवहि सूरज चड़हि हजार ॥"
+    },
+    {
+      "p": 10,
+      "pn": "ਏਤੇ ਚਾਨਣ ਹੋਦਿਆਂ ਗੁਰ ਬਿਨੁ ਘੋਰ ਅੰਧਾਰ ॥੨॥",
+      "en": "ete chaanan hodhiaa(n) gur bin ghor a(n)dhaar ||2||",
+      "hi": "एते चानण होदिआँ गुर बिनु घोर अंधार ॥२॥"
+    },
+    {
+      "p": 11,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 12,
+      "pn": "ਨਾਨਕ ਗੁਰੂ ਨ ਚੇਤਨੀ ਮਨਿ ਆਪਣੈ ਸੁਚੇਤ ॥",
+      "en": "naanak guroo na chetanee man aapanai suchet ||",
+      "hi": "नानक गुरू न चेतनी मनि आपणै सुचेत ॥"
+    },
+    {
+      "p": 12,
+      "pn": "ਛੁਟੇ ਤਿਲ ਬੂਆੜ ਜਿਉ ਸੁੰਞੇ ਅੰਦਰਿ ਖੇਤ ॥",
+      "en": "chhuTe til booaaR jiau su(n)n(j)e a(n)dhar khet ||",
+      "hi": "छुटे तिल बूआड़ जिउ सुँञे अंदरि खेत ॥"
+    },
+    {
+      "p": 12,
+      "pn": "ਖੇਤੈ ਅੰਦਰਿ ਛੁਟਿਆ ਕਹੁ ਨਾਨਕ ਸਉ ਨਾਹ ॥",
+      "en": "khetai a(n)dhar chhuTiaa kahu naanak sau naeh ||",
+      "hi": "खेतै अंदरि छुटिआ कहु नानक सउ नाह ॥"
+    },
+    {
+      "p": 12,
+      "pn": "ਫਲੀਅਹਿ ਫੁਲੀਅਹਿ ਬਪੁੜੇ ਭੀ ਤਨ ਵਿਚਿ ਸੁਆਹ ॥੩॥",
+      "en": "fale'eeh fule'eeh bapuRe bhee tan vich suaaeh ||3||",
+      "hi": "फलीअहि फुलीअहि बपुड़े भी तन विचि सुआह ॥३॥"
+    },
+    {
+      "p": 13,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 14,
+      "pn": "ਆਪੀਨੑੈ ਆਪੁ ਸਾਜਿਓ ਆਪੀਨੑੈ ਰਚਿਓ ਨਾਉ ॥",
+      "en": "aapeen(h)ai aap saajio aapeen(h)ai rachio naau ||",
+      "hi": "आपीन्नै आपु साजिओ आपीन्नै रचिओ नाउ ॥"
+    },
+    {
+      "p": 14,
+      "pn": "ਦੁਯੀ ਕੁਦਰਤਿ ਸਾਜੀਐ ਕਰਿ ਆਸਣੁ ਡਿਠੋ ਚਾਉ ॥",
+      "en": "dhuyee kudharat saajeeaai kar aasan ddiTho chaau ||",
+      "hi": "दुयी कुदरति साजीऐ करि आसणु डिठो चाउ ॥"
+    },
+    {
+      "p": 14,
+      "pn": "ਦਾਤਾ ਕਰਤਾ ਆਪਿ ਤੂੰ ਤੁਸਿ ਦੇਵਹਿ ਕਰਹਿ ਪਸਾਉ ॥",
+      "en": "dhaataa karataa aap too(n) tus dheveh kareh pasaau ||",
+      "hi": "दाता करता आपि तूँ तुसि देवहि करहि पसाउ ॥"
+    },
+    {
+      "p": 14,
+      "pn": "ਤੂੰ ਜਾਣੋਈ ਸਭਸੈ ਦੇ ਲੈਸਹਿ ਜਿੰਦੁ ਕਵਾਉ ॥",
+      "en": "too(n) jaanoiee sabhasai dhe laiseh ji(n)dh kavaau ||",
+      "hi": "तूँ जाणोई सभसै दे लैसहि जिंदु कवाउ ॥"
+    },
+    {
+      "p": 14,
+      "pn": "ਕਰਿ ਆਸਣੁ ਡਿਠੋ ਚਾਉ ॥੧॥",
+      "en": "kar aasan ddiTho chaau ||1||",
+      "hi": "करि आसणु डिठो चाउ ॥१॥"
+    },
+    {
+      "p": 15,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 16,
+      "pn": "ਹਰਿ ਪ੍ਰੇਮ ਬਾਣੀ ਮਨੁ ਮਾਰਿਆ ਅਣੀਆਲੇ ਅਣੀਆ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "har prem baanee man maariaa aneeaale aneeaa raam raaje ||",
+      "hi": "हरि प्रेम बाणी मनु मारिआ अणीआले अणीआ राम राजे ॥"
+    },
+    {
+      "p": 16,
+      "pn": "ਜਿਸੁ ਲਾਗੀ ਪੀਰ ਪਿਰੰਮ ਕੀ ਸੋ ਜਾਣੈ ਜਰੀਆ ॥",
+      "en": "jis laagee peer pira(n)m kee so jaanai jareeaa ||",
+      "hi": "जिसु लागी पीर पिरंम की सो जाणै जरीआ ॥"
+    },
+    {
+      "p": 16,
+      "pn": "ਜੀਵਨ ਮੁਕਤਿ ਸੋ ਆਖੀਐ ਮਰਿ ਜੀਵੈ ਮਰੀਆ ॥",
+      "en": "jeevan mukat so aakheeaai mar jeevai mareeaa ||",
+      "hi": "जीवन मुकति सो आखीऐ मरि जीवै मरीआ ॥"
+    },
+    {
+      "p": 16,
+      "pn": "ਜਨ ਨਾਨਕ ਸਤਿਗੁਰੁ ਮੇਲਿ ਹਰਿ ਜਗੁ ਦੁਤਰੁ ਤਰੀਆ ॥੨॥",
+      "en": "jan naanak satigur mel har jag dhutar tareeaa ||2||",
+      "hi": "जन नानक सतिगुरु मेलि हरि जगु दुतरु तरीआ ॥२॥"
+    },
+    {
+      "p": 17,
+      "pn": "ਸਲੋਕੁ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोकु म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 18,
+      "pn": "ਸਚੇ ਤੇਰੇ ਖੰਡ ਸਚੇ ਬ੍ਰਹਮੰਡ ॥",
+      "en": "sache tere kha(n)dd sache brahama(n)dd ||",
+      "hi": "सचे तेरे खंड सचे ब्रहमंड ॥"
+    },
+    {
+      "p": 18,
+      "pn": "ਸਚੇ ਤੇਰੇ ਲੋਅ ਸਚੇ ਆਕਾਰ ॥",
+      "en": "sache tere loa sache aakaar ||",
+      "hi": "सचे तेरे लोअ सचे आकार ॥"
+    },
+    {
+      "p": 18,
+      "pn": "ਸਚੇ ਤੇਰੇ ਕਰਣੇ ਸਰਬ ਬੀਚਾਰ ॥",
+      "en": "sache tere karane sarab beechaar ||",
+      "hi": "सचे तेरे करणे सरब बीचार ॥"
+    },
+    {
+      "p": 18,
+      "pn": "ਸਚਾ ਤੇਰਾ ਅਮਰੁ ਸਚਾ ਦੀਬਾਣੁ ॥",
+      "en": "sachaa teraa amar sachaa dheebaan ||",
+      "hi": "सचा तेरा अमरु सचा दीबाणु ॥"
+    },
+    {
+      "p": 18,
+      "pn": "ਸਚਾ ਤੇਰਾ ਹੁਕਮੁ ਸਚਾ ਫੁਰਮਾਣੁ ॥",
+      "en": "sachaa teraa hukam sachaa furamaan ||",
+      "hi": "सचा तेरा हुकमु सचा फुरमाणु ॥"
+    },
+    {
+      "p": 18,
+      "pn": "ਸਚਾ ਤੇਰਾ ਕਰਮੁ ਸਚਾ ਨੀਸਾਣੁ ॥",
+      "en": "sachaa teraa karam sachaa neesaan ||",
+      "hi": "सचा तेरा करमु सचा नीसाणु ॥"
+    },
+    {
+      "p": 18,
+      "pn": "ਸਚੇ ਤੁਧੁ ਆਖਹਿ ਲਖ ਕਰੋੜਿ ॥",
+      "en": "sache tudh aakheh lakh karoR ||",
+      "hi": "सचे तुधु आखहि लख करोड़ि ॥"
+    },
+    {
+      "p": 18,
+      "pn": "ਸਚੈ ਸਭਿ ਤਾਣਿ ਸਚੈ ਸਭਿ ਜੋਰਿ ॥",
+      "en": "sachai sabh taan sachai sabh jor ||",
+      "hi": "सचै सभि ताणि सचै सभि जोरि ॥"
+    },
+    {
+      "p": 18,
+      "pn": "ਸਚੀ ਤੇਰੀ ਸਿਫਤਿ ਸਚੀ ਸਾਲਾਹ ॥",
+      "en": "sachee teree sifat sachee saalaeh ||",
+      "hi": "सची तेरी सिफति सची सालाह ॥"
+    },
+    {
+      "p": 18,
+      "pn": "ਸਚੀ ਤੇਰੀ ਕੁਦਰਤਿ ਸਚੇ ਪਾਤਿਸਾਹ ॥",
+      "en": "sachee teree kudharat sache paatisaeh ||",
+      "hi": "सची तेरी कुदरति सचे पातिसाह ॥"
+    },
+    {
+      "p": 18,
+      "pn": "ਨਾਨਕ ਸਚੁ ਧਿਆਇਨਿ ਸਚੁ ॥",
+      "en": "naanak sach dhiaain sach ||",
+      "hi": "नानक सचु धिआइनि सचु ॥"
+    },
+    {
+      "p": 18,
+      "pn": "ਜੋ ਮਰਿ ਜੰਮੇ ਸੁ ਕਚੁ ਨਿਕਚੁ ॥੧॥",
+      "en": "jo mar ja(n)me su kach nikach ||1||",
+      "hi": "जो मरि जंमे सु कचु निकचु ॥१॥"
+    },
+    {
+      "p": 19,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 20,
+      "pn": "ਵਡੀ ਵਡਿਆਈ ਜਾ ਵਡਾ ਨਾਉ ॥",
+      "en": "vaddee vaddiaaiee jaa vaddaa naau ||",
+      "hi": "वडी वडिआई जा वडा नाउ ॥"
+    },
+    {
+      "p": 20,
+      "pn": "ਵਡੀ ਵਡਿਆਈ ਜਾ ਸਚੁ ਨਿਆਉ ॥",
+      "en": "vaddee vaddiaaiee jaa sach niaau ||",
+      "hi": "वडी वडिआई जा सचु निआउ ॥"
+    },
+    {
+      "p": 20,
+      "pn": "ਵਡੀ ਵਡਿਆਈ ਜਾ ਨਿਹਚਲ ਥਾਉ ॥",
+      "en": "vaddee vaddiaaiee jaa nihachal thaau ||",
+      "hi": "वडी वडिआई जा निहचल थाउ ॥"
+    },
+    {
+      "p": 20,
+      "pn": "ਵਡੀ ਵਡਿਆਈ ਜਾਣੈ ਆਲਾਉ ॥",
+      "en": "vaddee vaddiaaiee jaanai aalaau ||",
+      "hi": "वडी वडिआई जाणै आलाउ ॥"
+    },
+    {
+      "p": 20,
+      "pn": "ਵਡੀ ਵਡਿਆਈ ਬੁਝੈ ਸਭਿ ਭਾਉ ॥",
+      "en": "vaddee vaddiaaiee bujhai sabh bhaau ||",
+      "hi": "वडी वडिआई बुझै सभि भाउ ॥"
+    },
+    {
+      "p": 20,
+      "pn": "ਵਡੀ ਵਡਿਆਈ ਜਾ ਪੁਛਿ ਨ ਦਾਤਿ ॥",
+      "en": "vaddee vaddiaaiee jaa puchh na dhaat ||",
+      "hi": "वडी वडिआई जा पुछि न दाति ॥"
+    },
+    {
+      "p": 20,
+      "pn": "ਵਡੀ ਵਡਿਆਈ ਜਾ ਆਪੇ ਆਪਿ ॥",
+      "en": "vaddee vaddiaaiee jaa aape aap ||",
+      "hi": "वडी वडिआई जा आपे आपि ॥"
+    },
+    {
+      "p": 20,
+      "pn": "ਨਾਨਕ ਕਾਰ ਨ ਕਥਨੀ ਜਾਇ ॥",
+      "en": "naanak kaar na kathanee jai ||",
+      "hi": "नानक कार न कथनी जाइ ॥"
+    },
+    {
+      "p": 20,
+      "pn": "ਕੀਤਾ ਕਰਣਾ ਸਰਬ ਰਜਾਇ ॥੨॥",
+      "en": "keetaa karanaa sarab rajai ||2||",
+      "hi": "कीता करणा सरब रजाइ ॥२॥"
+    },
+    {
+      "p": 21,
+      "pn": "ਮਹਲਾ ੨ ॥",
+      "en": "mahalaa doojaa ||",
+      "hi": "महला २ ॥",
+      "s": "mahalaa doojaa ||"
+    },
+    {
+      "p": 22,
+      "pn": "ਇਹੁ ਜਗੁ ਸਚੈ ਕੀ ਹੈ ਕੋਠੜੀ ਸਚੇ ਕਾ ਵਿਚਿ ਵਾਸੁ ॥",
+      "en": "eih jag sachai kee hai koThaRee sache kaa vich vaas ||",
+      "hi": "इहु जगु सचै की है कोठड़ी सचे का विचि वासु ॥"
+    },
+    {
+      "p": 22,
+      "pn": "ਇਕਨੑਾ ਹੁਕਮਿ ਸਮਾਇ ਲਏ ਇਕਨੑਾ ਹੁਕਮੇ ਕਰੇ ਵਿਣਾਸੁ ॥",
+      "en": "eikan(h)aa hukam samai le ikan(h)aa hukame kare vinaas ||",
+      "hi": "इकन्ना हुकमि समाइ लए इकन्ना हुकमे करे विणासु ॥"
+    },
+    {
+      "p": 22,
+      "pn": "ਇਕਨੑਾ ਭਾਣੈ ਕਢਿ ਲਏ ਇਕਨੑਾ ਮਾਇਆ ਵਿਚਿ ਨਿਵਾਸੁ ॥",
+      "en": "eikan(h)aa bhaanai kadd le ikan(h)aa maiaa vich nivaas ||",
+      "hi": "इकन्ना भाणै कढि लए इकन्ना माइआ विचि निवासु ॥"
+    },
+    {
+      "p": 22,
+      "pn": "ਏਵ ਭਿ ਆਖਿ ਨ ਜਾਪਈ ਜਿ ਕਿਸੈ ਆਣੇ ਰਾਸਿ ॥",
+      "en": "ev bh aakh na jaapiee j kisai aane raas ||",
+      "hi": "एव भि आखि न जापई जि किसै आणे रासि ॥"
+    },
+    {
+      "p": 22,
+      "pn": "ਨਾਨਕ ਗੁਰਮੁਖਿ ਜਾਣੀਐ ਜਾ ਕਉ ਆਪਿ ਕਰੇ ਪਰਗਾਸੁ ॥੩॥",
+      "en": "naanak gurmukh jaaneeaai jaa kau aap kare paragaas ||3||",
+      "hi": "नानक गुरमुखि जाणीऐ जा कउ आपि करे परगासु ॥३॥"
+    },
+    {
+      "p": 23,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 24,
+      "pn": "ਨਾਨਕ ਜੀਅ ਉਪਾਇ ਕੈ ਲਿਖਿ ਨਾਵੈ ਧਰਮੁ ਬਹਾਲਿਆ ॥",
+      "en": "naanak jeea upai kai likh naavai dharam bahaaliaa ||",
+      "hi": "नानक जीअ उपाइ कै लिखि नावै धरमु बहालिआ ॥"
+    },
+    {
+      "p": 24,
+      "pn": "ਓਥੈ ਸਚੇ ਹੀ ਸਚਿ ਨਿਬੜੈ ਚੁਣਿ ਵਖਿ ਕਢੇ ਜਜਮਾਲਿਆ ॥",
+      "en": "othai sache hee sach nibaRai chun vakh kadde jajamaaliaa ||",
+      "hi": "ओथै सचे ही सचि निबड़ै चुणि वखि कढे जजमालिआ ॥"
+    },
+    {
+      "p": 24,
+      "pn": "ਥਾਉ ਨ ਪਾਇਨਿ ਕੂੜਿਆਰ ਮੁਹ ਕਾਲੑੈ ਦੋਜਕਿ ਚਾਲਿਆ ॥",
+      "en": "thaau na pain kooRiaar muh kaal(h)ai dhojak chaaliaa ||",
+      "hi": "थाउ न पाइनि कूड़िआर मुह काल्लै दोजकि चालिआ ॥"
+    },
+    {
+      "p": 24,
+      "pn": "ਤੇਰੈ ਨਾਇ ਰਤੇ ਸੇ ਜਿਣਿ ਗਏ ਹਾਰਿ ਗਏ ਸਿ ਠਗਣ ਵਾਲਿਆ ॥",
+      "en": "terai nai rate se jin ge haar ge s Thagan vaaliaa ||",
+      "hi": "तेरै नाइ रते से जिणि गए हारि गए सि ठगण वालिआ ॥"
+    },
+    {
+      "p": 24,
+      "pn": "ਲਿਖਿ ਨਾਵੈ ਧਰਮੁ ਬਹਾਲਿਆ ॥੨॥",
+      "en": "likh naavai dharam bahaaliaa ||2||",
+      "hi": "लिखि नावै धरमु बहालिआ ॥२॥"
+    },
+    {
+      "p": 25,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 26,
+      "pn": "ਹਮ ਮੂਰਖ ਮੁਗਧ ਸਰਣਾਗਤੀ ਮਿਲੁ ਗੋਵਿੰਦ ਰੰਗਾ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "ham moorakh mugadh saranaagatee mil govi(n)dh ra(n)gaa raam raaje ||",
+      "hi": "हम मूरख मुगध सरणागती मिलु गोविंद रंगा राम राजे ॥"
+    },
+    {
+      "p": 26,
+      "pn": "ਗੁਰਿ ਪੂਰੈ ਹਰਿ ਪਾਇਆ ਹਰਿ ਭਗਤਿ ਇਕ ਮੰਗਾ ॥",
+      "en": "gur poorai har paiaa har bhagat ik ma(n)gaa ||",
+      "hi": "गुरि पूरै हरि पाइआ हरि भगति इक मंगा ॥"
+    },
+    {
+      "p": 26,
+      "pn": "ਮੇਰਾ ਮਨੁ ਤਨੁ ਸਬਦਿ ਵਿਗਾਸਿਆ ਜਪਿ ਅਨਤ ਤਰੰਗਾ ॥",
+      "en": "meraa man tan sabadh vigaasiaa jap anat tara(n)gaa ||",
+      "hi": "मेरा मनु तनु सबदि विगासिआ जपि अनत तरंगा ॥"
+    },
+    {
+      "p": 26,
+      "pn": "ਮਿਲਿ ਸੰਤ ਜਨਾ ਹਰਿ ਪਾਇਆ ਨਾਨਕ ਸਤਸੰਗਾ ॥੩॥",
+      "en": "mil sa(n)t janaa har paiaa naanak satasa(n)gaa ||3||",
+      "hi": "मिलि संत जना हरि पाइआ नानक सतसंगा ॥३॥"
+    },
+    {
+      "p": 27,
+      "pn": "ਸਲੋਕ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोक म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 28,
+      "pn": "ਵਿਸਮਾਦੁ ਨਾਦ ਵਿਸਮਾਦੁ ਵੇਦ ॥",
+      "en": "visamaadh naadh visamaadh vedh ||",
+      "hi": "विसमादु नाद विसमादु वेद ॥"
+    },
+    {
+      "p": 28,
+      "pn": "ਵਿਸਮਾਦੁ ਜੀਅ ਵਿਸਮਾਦੁ ਭੇਦ ॥",
+      "en": "visamaadh jeea visamaadh bhedh ||",
+      "hi": "विसमादु जीअ विसमादु भेद ॥"
+    },
+    {
+      "p": 28,
+      "pn": "ਵਿਸਮਾਦੁ ਰੂਪ ਵਿਸਮਾਦੁ ਰੰਗ ॥",
+      "en": "visamaadh roop visamaadh ra(n)g ||",
+      "hi": "विसमादु रूप विसमादु रंग ॥"
+    },
+    {
+      "p": 28,
+      "pn": "ਵਿਸਮਾਦੁ ਨਾਗੇ ਫਿਰਹਿ ਜੰਤ ॥",
+      "en": "visamaadh naage fireh ja(n)t ||",
+      "hi": "विसमादु नागे फिरहि जंत ॥"
+    },
+    {
+      "p": 28,
+      "pn": "ਵਿਸਮਾਦੁ ਪਉਣੁ ਵਿਸਮਾਦੁ ਪਾਣੀ ॥",
+      "en": "visamaadh paun visamaadh paanee ||",
+      "hi": "विसमादु पउणु विसमादु पाणी ॥"
+    },
+    {
+      "p": 28,
+      "pn": "ਵਿਸਮਾਦੁ ਅਗਨੀ ਖੇਡਹਿ ਵਿਡਾਣੀ ॥",
+      "en": "visamaadh aganee kheddeh viddaanee ||",
+      "hi": "विसमादु अगनी खेडहि विडाणी ॥"
+    },
+    {
+      "p": 28,
+      "pn": "ਵਿਸਮਾਦੁ ਧਰਤੀ ਵਿਸਮਾਦੁ ਖਾਣੀ ॥",
+      "en": "visamaadh dharatee visamaadh khaanee ||",
+      "hi": "विसमादु धरती विसमादु खाणी ॥"
+    },
+    {
+      "p": 28,
+      "pn": "ਵਿਸਮਾਦੁ ਸਾਦਿ ਲਗਹਿ ਪਰਾਣੀ ॥",
+      "en": "visamaadh saadh lageh paraanee ||",
+      "hi": "विसमादु सादि लगहि पराणी ॥"
+    },
+    {
+      "p": 28,
+      "pn": "ਵਿਸਮਾਦੁ ਸੰਜੋਗੁ ਵਿਸਮਾਦੁ ਵਿਜੋਗੁ ॥",
+      "en": "visamaadh sa(n)jog visamaadh vijog ||",
+      "hi": "विसमादु संजोगु विसमादु विजोगु ॥"
+    },
+    {
+      "p": 28,
+      "pn": "ਵਿਸਮਾਦੁ ਭੁਖ ਵਿਸਮਾਦੁ ਭੋਗੁ ॥",
+      "en": "visamaadh bhukh visamaadh bhog ||",
+      "hi": "विसमादु भुख विसमादु भोगु ॥"
+    },
+    {
+      "p": 28,
+      "pn": "ਵਿਸਮਾਦੁ ਸਿਫਤਿ ਵਿਸਮਾਦੁ ਸਾਲਾਹ ॥",
+      "en": "visamaadh sifat visamaadh saalaeh ||",
+      "hi": "विसमादु सिफति विसमादु सालाह ॥"
+    },
+    {
+      "p": 28,
+      "pn": "ਵਿਸਮਾਦੁ ਉਝੜ ਵਿਸਮਾਦੁ ਰਾਹ ॥",
+      "en": "visamaadh ujhaR visamaadh raeh ||",
+      "hi": "विसमादु उझड़ विसमादु राह ॥"
+    },
+    {
+      "p": 28,
+      "pn": "ਵਿਸਮਾਦੁ ਨੇੜੈ ਵਿਸਮਾਦੁ ਦੂਰਿ ॥",
+      "en": "visamaadh neRai visamaadh dhoor ||",
+      "hi": "विसमादु नेड़ै विसमादु दूरि ॥"
+    },
+    {
+      "p": 28,
+      "pn": "ਵਿਸਮਾਦੁ ਦੇਖੈ ਹਾਜਰਾ ਹਜੂਰਿ ॥",
+      "en": "visamaadh dhekhai haajaraa hajoor ||",
+      "hi": "विसमादु देखै हाजरा हजूरि ॥"
+    },
+    {
+      "p": 28,
+      "pn": "ਵੇਖਿ ਵਿਡਾਣੁ ਰਹਿਆ ਵਿਸਮਾਦੁ ॥",
+      "en": "vekh viddaan rahiaa visamaadh ||",
+      "hi": "वेखि विडाणु रहिआ विसमादु ॥"
+    },
+    {
+      "p": 28,
+      "pn": "ਨਾਨਕ ਬੁਝਣੁ ਪੂਰੈ ਭਾਗਿ ॥੧॥",
+      "en": "naanak bujhan poorai bhaag ||1||",
+      "hi": "नानक बुझणु पूरै भागि ॥१॥"
+    },
+    {
+      "p": 29,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 30,
+      "pn": "ਕੁਦਰਤਿ ਦਿਸੈ ਕੁਦਰਤਿ ਸੁਣੀਐ ਕੁਦਰਤਿ ਭਉ ਸੁਖ ਸਾਰੁ ॥",
+      "en": "kudharat dhisai kudharat suneeaai kudharat bhau sukh saar ||",
+      "hi": "कुदरति दिसै कुदरति सुणीऐ कुदरति भउ सुख सारु ॥"
+    },
+    {
+      "p": 30,
+      "pn": "ਕੁਦਰਤਿ ਪਾਤਾਲੀ ਆਕਾਸੀ ਕੁਦਰਤਿ ਸਰਬ ਆਕਾਰੁ ॥",
+      "en": "kudharat paataalee aakaasee kudharat sarab aakaar ||",
+      "hi": "कुदरति पाताली आकासी कुदरति सरब आकारु ॥"
+    },
+    {
+      "p": 30,
+      "pn": "ਕੁਦਰਤਿ ਵੇਦ ਪੁਰਾਣ ਕਤੇਬਾ ਕੁਦਰਤਿ ਸਰਬ ਵੀਚਾਰੁ ॥",
+      "en": "kudharat vedh puraan katebaa kudharat sarab veechaar ||",
+      "hi": "कुदरति वेद पुराण कतेबा कुदरति सरब वीचारु ॥"
+    },
+    {
+      "p": 30,
+      "pn": "ਕੁਦਰਤਿ ਖਾਣਾ ਪੀਣਾ ਪੈਨੑਣੁ ਕੁਦਰਤਿ ਸਰਬ ਪਿਆਰੁ ॥",
+      "en": "kudharat khaanaa peenaa pain(h)n kudharat sarab piaar ||",
+      "hi": "कुदरति खाणा पीणा पैन्नणु कुदरति सरब पिआरु ॥"
+    },
+    {
+      "p": 30,
+      "pn": "ਕੁਦਰਤਿ ਜਾਤੀ ਜਿਨਸੀ ਰੰਗੀ ਕੁਦਰਤਿ ਜੀਅ ਜਹਾਨ ॥",
+      "en": "kudharat jaatee jinasee ra(n)gee kudharat jeea jahaan ||",
+      "hi": "कुदरति जाती जिनसी रंगी कुदरति जीअ जहान ॥"
+    },
+    {
+      "p": 30,
+      "pn": "ਕੁਦਰਤਿ ਨੇਕੀਆ ਕੁਦਰਤਿ ਬਦੀਆ ਕੁਦਰਤਿ ਮਾਨੁ ਅਭਿਮਾਨੁ ॥",
+      "en": "kudharat nekeeaa kudharat badheeaa kudharat maan abhimaan ||",
+      "hi": "कुदरति नेकीआ कुदरति बदीआ कुदरति मानु अभिमानु ॥"
+    },
+    {
+      "p": 30,
+      "pn": "ਕੁਦਰਤਿ ਪਉਣੁ ਪਾਣੀ ਬੈਸੰਤਰੁ ਕੁਦਰਤਿ ਧਰਤੀ ਖਾਕੁ ॥",
+      "en": "kudharat paun paanee baisa(n)tar kudharat dharatee khaak ||",
+      "hi": "कुदरति पउणु पाणी बैसंतरु कुदरति धरती खाकु ॥"
+    },
+    {
+      "p": 30,
+      "pn": "ਸਭ ਤੇਰੀ ਕੁਦਰਤਿ ਤੂੰ ਕਾਦਿਰੁ ਕਰਤਾ ਪਾਕੀ ਨਾਈ ਪਾਕੁ ॥",
+      "en": "sabh teree kudharat too(n) kaadhir karataa paakee naiee paak ||",
+      "hi": "सभ तेरी कुदरति तूँ कादिरु करता पाकी नाई पाकु ॥"
+    },
+    {
+      "p": 30,
+      "pn": "ਨਾਨਕ ਹੁਕਮੈ ਅੰਦਰਿ ਵੇਖੈ ਵਰਤੈ ਤਾਕੋ ਤਾਕੁ ॥੨॥",
+      "en": "naanak hukamai a(n)dhar vekhai varatai taako taak ||2||",
+      "hi": "नानक हुकमै अंदरि वेखै वरतै ताको ताकु ॥२॥"
+    },
+    {
+      "p": 31,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 32,
+      "pn": "ਆਪੀਨੑੈ ਭੋਗ ਭੋਗਿ ਕੈ ਹੋਇ ਭਸਮੜਿ ਭਉਰੁ ਸਿਧਾਇਆ ॥",
+      "en": "aapeen(h)ai bhog bhog kai hoi bhasamaR bhaur sidhaiaa ||",
+      "hi": "आपीन्नै भोग भोगि कै होइ भसमड़ि भउरु सिधाइआ ॥"
+    },
+    {
+      "p": 32,
+      "pn": "ਵਡਾ ਹੋਆ ਦੁਨੀਦਾਰੁ ਗਲਿ ਸੰਗਲੁ ਘਤਿ ਚਲਾਇਆ ॥",
+      "en": "vaddaa hoaa dhuneedhaar gal sa(n)gal ghat chalaiaa ||",
+      "hi": "वडा होआ दुनीदारु गलि संगलु घति चलाइआ ॥"
+    },
+    {
+      "p": 32,
+      "pn": "ਅਗੈ ਕਰਣੀ ਕੀਰਤਿ ਵਾਚੀਐ ਬਹਿ ਲੇਖਾ ਕਰਿ ਸਮਝਾਇਆ ॥",
+      "en": "agai karanee keerat vaacheeaai beh lekhaa kar samajhaiaa ||",
+      "hi": "अगै करणी कीरति वाचीऐ बहि लेखा करि समझाइआ ॥"
+    },
+    {
+      "p": 32,
+      "pn": "ਥਾਉ ਨ ਹੋਵੀ ਪਉਦੀਈ ਹੁਣਿ ਸੁਣੀਐ ਕਿਆ ਰੂਆਇਆ ॥",
+      "en": "thaau na hovee paudheeiee hun suneeaai kiaa rooaaiaa ||",
+      "hi": "थाउ न होवी पउदीई हुणि सुणीऐ किआ रूआइआ ॥"
+    },
+    {
+      "p": 32,
+      "pn": "ਮਨਿ ਅੰਧੈ ਜਨਮੁ ਗਵਾਇਆ ॥੩॥",
+      "en": "man a(n)dhai janam gavaiaa ||3||",
+      "hi": "मनि अंधै जनमु गवाइआ ॥३॥"
+    },
+    {
+      "p": 33,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 34,
+      "pn": "ਦੀਨ ਦਇਆਲ ਸੁਣਿ ਬੇਨਤੀ ਹਰਿ ਪ੍ਰਭ ਹਰਿ ਰਾਇਆ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "dheen dhiaal sun benatee har prabh har raiaa raam raaje ||",
+      "hi": "दीन दइआल सुणि बेनती हरि प्रभ हरि राइआ राम राजे ॥"
+    },
+    {
+      "p": 34,
+      "pn": "ਹਉ ਮਾਗਉ ਸਰਣਿ ਹਰਿ ਨਾਮ ਕੀ ਹਰਿ ਹਰਿ ਮੁਖਿ ਪਾਇਆ ॥",
+      "en": "hau maagau saran har naam kee har har mukh paiaa ||",
+      "hi": "हउ मागउ सरणि हरि नाम की हरि हरि मुखि पाइआ ॥"
+    },
+    {
+      "p": 34,
+      "pn": "ਭਗਤਿ ਵਛਲੁ ਹਰਿ ਬਿਰਦੁ ਹੈ ਹਰਿ ਲਾਜ ਰਖਾਇਆ ॥",
+      "en": "bhagat vachhal har biradh hai har laaj rakhaiaa ||",
+      "hi": "भगति वछलु हरि बिरदु है हरि लाज रखाइआ ॥"
+    },
+    {
+      "p": 34,
+      "pn": "ਜਨੁ ਨਾਨਕੁ ਸਰਣਾਗਤੀ ਹਰਿ ਨਾਮਿ ਤਰਾਇਆ ॥੪॥੮॥੧੫॥",
+      "en": "jan naanak saranaagatee har naam taraiaa ||4||8||15||",
+      "hi": "जनु नानकु सरणागती हरि नामि तराइआ ॥४॥८॥१५॥"
+    },
+    {
+      "p": 35,
+      "pn": "ਸਲੋਕ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोक म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 36,
+      "pn": "ਭੈ ਵਿਚਿ ਪਵਣੁ ਵਹੈ ਸਦਵਾਉ ॥",
+      "en": "bhai vich pavan vahai sadhavaau ||",
+      "hi": "भै विचि पवणु वहै सदवाउ ॥"
+    },
+    {
+      "p": 36,
+      "pn": "ਭੈ ਵਿਚਿ ਚਲਹਿ ਲਖ ਦਰੀਆਉ ॥",
+      "en": "bhai vich chaleh lakh dhareeaau ||",
+      "hi": "भै विचि चलहि लख दरीआउ ॥"
+    },
+    {
+      "p": 36,
+      "pn": "ਭੈ ਵਿਚਿ ਅਗਨਿ ਕਢੈ ਵੇਗਾਰਿ ॥",
+      "en": "bhai vich agan kaddai vegaar ||",
+      "hi": "भै विचि अगनि कढै वेगारि ॥"
+    },
+    {
+      "p": 36,
+      "pn": "ਭੈ ਵਿਚਿ ਧਰਤੀ ਦਬੀ ਭਾਰਿ ॥",
+      "en": "bhai vich dharatee dhabee bhaar ||",
+      "hi": "भै विचि धरती दबी भारि ॥"
+    },
+    {
+      "p": 36,
+      "pn": "ਭੈ ਵਿਚਿ ਇੰਦੁ ਫਿਰੈ ਸਿਰ ਭਾਰਿ ॥",
+      "en": "bhai vich i(n)dh firai sir bhaar ||",
+      "hi": "भै विचि इंदु फिरै सिर भारि ॥"
+    },
+    {
+      "p": 36,
+      "pn": "ਭੈ ਵਿਚਿ ਰਾਜਾ ਧਰਮ ਦੁਆਰੁ ॥",
+      "en": "bhai vich raajaa dharam dhuaar ||",
+      "hi": "भै विचि राजा धरम दुआरु ॥"
+    },
+    {
+      "p": 36,
+      "pn": "ਭੈ ਵਿਚਿ ਸੂਰਜੁ ਭੈ ਵਿਚਿ ਚੰਦੁ ॥",
+      "en": "bhai vich sooraj bhai vich cha(n)dh ||",
+      "hi": "भै विचि सूरजु भै विचि चंदु ॥"
+    },
+    {
+      "p": 36,
+      "pn": "ਕੋਹ ਕਰੋੜੀ ਚਲਤ ਨ ਅੰਤੁ ॥",
+      "en": "koh karoRee chalat na a(n)t ||",
+      "hi": "कोह करोड़ी चलत न अंतु ॥"
+    },
+    {
+      "p": 36,
+      "pn": "ਭੈ ਵਿਚਿ ਸਿਧ ਬੁਧ ਸੁਰ ਨਾਥ ॥",
+      "en": "bhai vich sidh budh sur naath ||",
+      "hi": "भै विचि सिध बुध सुर नाथ ॥"
+    },
+    {
+      "p": 36,
+      "pn": "ਭੈ ਵਿਚਿ ਆਡਾਣੇ ਆਕਾਸ ॥",
+      "en": "bhai vich aaddaane aakaas ||",
+      "hi": "भै विचि आडाणे आकास ॥"
+    },
+    {
+      "p": 36,
+      "pn": "ਭੈ ਵਿਚਿ ਜੋਧ ਮਹਾਬਲ ਸੂਰ ॥",
+      "en": "bhai vich jodh mahaabal soor ||",
+      "hi": "भै विचि जोध महाबल सूर ॥"
+    },
+    {
+      "p": 36,
+      "pn": "ਭੈ ਵਿਚਿ ਆਵਹਿ ਜਾਵਹਿ ਪੂਰ ॥",
+      "en": "bhai vich aaveh jaaveh poor ||",
+      "hi": "भै विचि आवहि जावहि पूर ॥"
+    },
+    {
+      "p": 36,
+      "pn": "ਸਗਲਿਆ ਭਉ ਲਿਖਿਆ ਸਿਰਿ ਲੇਖੁ ॥",
+      "en": "sagaliaa bhau likhiaa sir lekh ||",
+      "hi": "सगलिआ भउ लिखिआ सिरि लेखु ॥"
+    },
+    {
+      "p": 36,
+      "pn": "ਨਾਨਕ ਨਿਰਭਉ ਨਿਰੰਕਾਰੁ ਸਚੁ ਏਕੁ ॥੧॥",
+      "en": "naanak nirabhau nira(n)kaar sach ek ||1||",
+      "hi": "नानक निरभउ निरंकारु सचु एकु ॥१॥"
+    },
+    {
+      "p": 37,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 38,
+      "pn": "ਨਾਨਕ ਨਿਰਭਉ ਨਿਰੰਕਾਰੁ ਹੋਰਿ ਕੇਤੇ ਰਾਮ ਰਵਾਲ ॥",
+      "en": "naanak nirabhau nira(n)kaar hor kete raam ravaal ||",
+      "hi": "नानक निरभउ निरंकारु होरि केते राम रवाल ॥"
+    },
+    {
+      "p": 38,
+      "pn": "ਕੇਤੀਆ ਕੰਨੑ ਕਹਾਣੀਆ ਕੇਤੇ ਬੇਦ ਬੀਚਾਰ ॥",
+      "en": "keteeaa ka(n)n(h) kahaaneeaa kete bedh beechaar ||",
+      "hi": "केतीआ कंन्न कहाणीआ केते बेद बीचार ॥"
+    },
+    {
+      "p": 38,
+      "pn": "ਕੇਤੇ ਨਚਹਿ ਮੰਗਤੇ ਗਿੜਿ ਮੁੜਿ ਪੂਰਹਿ ਤਾਲ ॥",
+      "en": "kete nacheh ma(n)gate giR muR pooreh taal ||",
+      "hi": "केते नचहि मंगते गिड़ि मुड़ि पूरहि ताल ॥"
+    },
+    {
+      "p": 38,
+      "pn": "ਬਾਜਾਰੀ ਬਾਜਾਰ ਮਹਿ ਆਇ ਕਢਹਿ ਬਾਜਾਰ ॥",
+      "en": "baajaaree baajaar meh aai kaddeh baajaar ||",
+      "hi": "बाजारी बाजार महि आइ कढहि बाजार ॥"
+    },
+    {
+      "p": 38,
+      "pn": "ਗਾਵਹਿ ਰਾਜੇ ਰਾਣੀਆ ਬੋਲਹਿ ਆਲ ਪਤਾਲ ॥",
+      "en": "gaaveh raaje raaneeaa boleh aal pataal ||",
+      "hi": "गावहि राजे राणीआ बोलहि आल पताल ॥"
+    },
+    {
+      "p": 38,
+      "pn": "ਲਖ ਟਕਿਆ ਕੇ ਮੁੰਦੜੇ ਲਖ ਟਕਿਆ ਕੇ ਹਾਰ ॥",
+      "en": "lakh Takiaa ke mu(n)dhaRe lakh Takiaa ke haar ||",
+      "hi": "लख टकिआ के मुँदड़े लख टकिआ के हार ॥"
+    },
+    {
+      "p": 38,
+      "pn": "ਜਿਤੁ ਤਨਿ ਪਾਈਅਹਿ ਨਾਨਕਾ ਸੇ ਤਨ ਹੋਵਹਿ ਛਾਰ ॥",
+      "en": "jit tan paie'eeh naanakaa se tan hoveh chhaar ||",
+      "hi": "जितु तनि पाईअहि नानका से तन होवहि छार ॥"
+    },
+    {
+      "p": 38,
+      "pn": "ਗਿਆਨੁ ਨ ਗਲੀਈ ਢੂਢੀਐ ਕਥਨਾ ਕਰੜਾ ਸਾਰੁ ॥",
+      "en": "giaan na galeeiee ddooddeeaai kathanaa karaRaa saar ||",
+      "hi": "गिआनु न गलीई ढूढीऐ कथना करड़ा सारु ॥"
+    },
+    {
+      "p": 38,
+      "pn": "ਕਰਮਿ ਮਿਲੈ ਤਾ ਪਾਈਐ ਹੋਰ ਹਿਕਮਤਿ ਹੁਕਮੁ ਖੁਆਰੁ ॥੨॥",
+      "en": "karam milai taa paieeaai hor hikamat hukam khuaar ||2||",
+      "hi": "करमि मिलै ता पाईऐ होर हिकमति हुकमु खुआरु ॥२॥"
+    },
+    {
+      "p": 39,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 40,
+      "pn": "ਨਦਰਿ ਕਰਹਿ ਜੇ ਆਪਣੀ ਤਾ ਨਦਰੀ ਸਤਿਗੁਰੁ ਪਾਇਆ ॥",
+      "en": "nadhar kareh je aapanee taa nadharee satigur paiaa ||",
+      "hi": "नदरि करहि जे आपणी ता नदरी सतिगुरु पाइआ ॥"
+    },
+    {
+      "p": 40,
+      "pn": "ਏਹੁ ਜੀਉ ਬਹੁਤੇ ਜਨਮ ਭਰੰਮਿਆ ਤਾ ਸਤਿਗੁਰਿ ਸਬਦੁ ਸੁਣਾਇਆ ॥",
+      "en": "eh jeeau bahute janam bhara(n)miaa taa satigur sabadh sunaiaa ||",
+      "hi": "एहु जीउ बहुते जनम भरंमिआ ता सतिगुरि सबदु सुणाइआ ॥"
+    },
+    {
+      "p": 40,
+      "pn": "ਸਤਿਗੁਰ ਜੇਵਡੁ ਦਾਤਾ ਕੋ ਨਹੀ ਸਭਿ ਸੁਣਿਅਹੁ ਲੋਕ ਸਬਾਇਆ ॥",
+      "en": "satigur jevadd dhaataa ko nahee sabh suniahu lok sabaiaa ||",
+      "hi": "सतिगुर जेवडु दाता को नही सभि सुणिअहु लोक सबाइआ ॥"
+    },
+    {
+      "p": 40,
+      "pn": "ਸਤਿਗੁਰਿ ਮਿਲਿਐ ਸਚੁ ਪਾਇਆ ਜਿਨੑੀ ਵਿਚਹੁ ਆਪੁ ਗਵਾਇਆ ॥",
+      "en": "satigur miliaai sach paiaa jin(h)ee vichahu aap gavaiaa ||",
+      "hi": "सतिगुरि मिलिऐ सचु पाइआ जिन्नी विचहु आपु गवाइआ ॥"
+    },
+    {
+      "p": 40,
+      "pn": "ਜਿਨਿ ਸਚੋ ਸਚੁ ਬੁਝਾਇਆ ॥੪॥",
+      "en": "jin sacho sach bujhaiaa ||4||",
+      "hi": "जिनि सचो सचु बुझाइआ ॥४॥"
+    },
+    {
+      "p": 41,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 42,
+      "pn": "ਆਸਾ ਮਹਲਾ ੪ ॥",
+      "en": "aasaa mahalaa chauthhaa ||",
+      "hi": "आसा महला ४ ॥",
+      "s": "aasaa mahalaa chauthhaa ||"
+    },
+    {
+      "p": 43,
+      "pn": "ਗੁਰਮੁਖਿ ਢੂੰਢਿ ਢੂਢੇਦਿਆ ਹਰਿ ਸਜਣੁ ਲਧਾ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "gurmukh ddoo(n)dd ddooddedhiaa har sajan ladhaa raam raaje ||",
+      "hi": "गुरमुखि ढूँढि ढूढेदिआ हरि सजणु लधा राम राजे ॥"
+    },
+    {
+      "p": 43,
+      "pn": "ਕੰਚਨ ਕਾਇਆ ਕੋਟ ਗੜ ਵਿਚਿ ਹਰਿ ਹਰਿ ਸਿਧਾ ॥",
+      "en": "ka(n)chan kaiaa koT gaR vich har har sidhaa ||",
+      "hi": "कंचन काइआ कोट गड़ विचि हरि हरि सिधा ॥"
+    },
+    {
+      "p": 43,
+      "pn": "ਹਰਿ ਹਰਿ ਹੀਰਾ ਰਤਨੁ ਹੈ ਮੇਰਾ ਮਨੁ ਤਨੁ ਵਿਧਾ ॥",
+      "en": "har har heeraa ratan hai meraa man tan vidhaa ||",
+      "hi": "हरि हरि हीरा रतनु है मेरा मनु तनु विधा ॥"
+    },
+    {
+      "p": 43,
+      "pn": "ਧੁਰਿ ਭਾਗ ਵਡੇ ਹਰਿ ਪਾਇਆ ਨਾਨਕ ਰਸਿ ਗੁਧਾ ॥੧॥",
+      "en": "dhur bhaag vadde har paiaa naanak ras gudhaa ||1||",
+      "hi": "धुरि भाग वडे हरि पाइआ नानक रसि गुधा ॥१॥"
+    },
+    {
+      "p": 44,
+      "pn": "ਸਲੋਕ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोक म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 45,
+      "pn": "ਘੜੀਆ ਸਭੇ ਗੋਪੀਆ ਪਹਰ ਕੰਨੑ ਗੋਪਾਲ ॥",
+      "en": "ghaReeaa sabhe gopeeaa pahar ka(n)n(h) gopaal ||",
+      "hi": "घड़ीआ सभे गोपीआ पहर कंन्न गोपाल ॥"
+    },
+    {
+      "p": 45,
+      "pn": "ਗਹਣੇ ਪਉਣੁ ਪਾਣੀ ਬੈਸੰਤਰੁ ਚੰਦੁ ਸੂਰਜੁ ਅਵਤਾਰ ॥",
+      "en": "gahane paun paanee baisa(n)tar cha(n)dh sooraj avataar ||",
+      "hi": "गहणे पउणु पाणी बैसंतरु चंदु सूरजु अवतार ॥"
+    },
+    {
+      "p": 45,
+      "pn": "ਸਗਲੀ ਧਰਤੀ ਮਾਲੁ ਧਨੁ ਵਰਤਣਿ ਸਰਬ ਜੰਜਾਲ ॥",
+      "en": "sagalee dharatee maal dhan varatan sarab ja(n)jaal ||",
+      "hi": "सगली धरती मालु धनु वरतणि सरब जंजाल ॥"
+    },
+    {
+      "p": 45,
+      "pn": "ਨਾਨਕ ਮੁਸੈ ਗਿਆਨ ਵਿਹੂਣੀ ਖਾਇ ਗਇਆ ਜਮਕਾਲੁ ॥੧॥",
+      "en": "naanak musai giaan vihoonee khai giaa jamakaal ||1||",
+      "hi": "नानक मुसै गिआन विहूणी खाइ गइआ जमकालु ॥१॥"
+    },
+    {
+      "p": 46,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 47,
+      "pn": "ਵਾਇਨਿ ਚੇਲੇ ਨਚਨਿ ਗੁਰ ॥",
+      "en": "vain chele nachan gur ||",
+      "hi": "वाइनि चेले नचनि गुर ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਪੈਰ ਹਲਾਇਨਿ ਫੇਰਨਿੑ ਸਿਰ ॥",
+      "en": "pair halain ferani(h) sir ||",
+      "hi": "पैर हलाइनि फेरनि्ि सिर ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਉਡਿ ਉਡਿ ਰਾਵਾ ਝਾਟੈ ਪਾਇ ॥",
+      "en": "audd udd raavaa jhaaTai pai ||",
+      "hi": "उडि उडि रावा झाटै पाइ ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਵੇਖੈ ਲੋਕੁ ਹਸੈ ਘਰਿ ਜਾਇ ॥",
+      "en": "vekhai lok hasai ghar jai ||",
+      "hi": "वेखै लोकु हसै घरि जाइ ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਰੋਟੀਆ ਕਾਰਣਿ ਪੂਰਹਿ ਤਾਲ ॥",
+      "en": "roTeeaa kaaran pooreh taal ||",
+      "hi": "रोटीआ कारणि पूरहि ताल ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਆਪੁ ਪਛਾੜਹਿ ਧਰਤੀ ਨਾਲਿ ॥",
+      "en": "aap pachhaaReh dharatee naal ||",
+      "hi": "आपु पछाड़हि धरती नालि ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਗਾਵਨਿ ਗੋਪੀਆ ਗਾਵਨਿ ਕਾਨੑ ॥",
+      "en": "gaavan gopeeaa gaavan kaan(h) ||",
+      "hi": "गावनि गोपीआ गावनि कान्न ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਗਾਵਨਿ ਸੀਤਾ ਰਾਜੇ ਰਾਮ ॥",
+      "en": "gaavan seetaa raaje raam ||",
+      "hi": "गावनि सीता राजे राम ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਨਿਰਭਉ ਨਿਰੰਕਾਰੁ ਸਚੁ ਨਾਮੁ ॥",
+      "en": "nirabhau nira(n)kaar sach naam ||",
+      "hi": "निरभउ निरंकारु सचु नामु ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਜਾ ਕਾ ਕੀਆ ਸਗਲ ਜਹਾਨੁ ॥",
+      "en": "jaa kaa keeaa sagal jahaan ||",
+      "hi": "जा का कीआ सगल जहानु ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਸੇਵਕ ਸੇਵਹਿ ਕਰਮਿ ਚੜਾਉ ॥",
+      "en": "sevak seveh karam chaRaau ||",
+      "hi": "सेवक सेवहि करमि चड़ाउ ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਭਿੰਨੀ ਰੈਣਿ ਜਿਨੑਾ ਮਨਿ ਚਾਉ ॥",
+      "en": "bhi(n)nee rain jin(h)aa man chaau ||",
+      "hi": "भिंनी रैणि जिन्ना मनि चाउ ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਸਿਖੀ ਸਿਖਿਆ ਗੁਰ ਵੀਚਾਰਿ ॥",
+      "en": "sikhee sikhiaa gur veechaar ||",
+      "hi": "सिखी सिखिआ गुर वीचारि ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਨਦਰੀ ਕਰਮਿ ਲਘਾਏ ਪਾਰਿ ॥",
+      "en": "nadharee karam laghaae paar ||",
+      "hi": "नदरी करमि लघाए पारि ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਕੋਲੂ ਚਰਖਾ ਚਕੀ ਚਕੁ ॥",
+      "en": "koloo charakhaa chakee chak ||",
+      "hi": "कोलू चरखा चकी चकु ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਥਲ ਵਾਰੋਲੇ ਬਹੁਤੁ ਅਨੰਤੁ ॥",
+      "en": "thal vaarole bahut ana(n)t ||",
+      "hi": "थल वारोले बहुतु अनंतु ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਲਾਟੂ ਮਾਧਾਣੀਆ ਅਨਗਾਹ ॥",
+      "en": "laaToo maadhaaneeaa anagaeh ||",
+      "hi": "लाटू माधाणीआ अनगाह ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਪੰਖੀ ਭਉਦੀਆ ਲੈਨਿ ਨ ਸਾਹ ॥",
+      "en": "pa(n)khee bhaudheeaa lain na saeh ||",
+      "hi": "पंखी भउदीआ लैनि न साह ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਸੂਐ ਚਾੜਿ ਭਵਾਈਅਹਿ ਜੰਤ ॥",
+      "en": "sooaai chaaR bhavaie'eeh ja(n)t ||",
+      "hi": "सूऐ चाड़ि भवाईअहि जंत ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਨਾਨਕ ਭਉਦਿਆ ਗਣਤ ਨ ਅੰਤ ॥",
+      "en": "naanak bhaudhiaa ganat na a(n)t ||",
+      "hi": "नानक भउदिआ गणत न अंत ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਬੰਧਨ ਬੰਧਿ ਭਵਾਏ ਸੋਇ ॥",
+      "en": "ba(n)dhan ba(n)dh bhavaae soi ||",
+      "hi": "बंधन बंधि भवाए सोइ ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਪਇਐ ਕਿਰਤਿ ਨਚੈ ਸਭੁ ਕੋਇ ॥",
+      "en": "piaai kirat nachai sabh koi ||",
+      "hi": "पइऐ किरति नचै सभु कोइ ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਨਚਿ ਨਚਿ ਹਸਹਿ ਚਲਹਿ ਸੇ ਰੋਇ ॥",
+      "en": "nach nach haseh chaleh se roi ||",
+      "hi": "नचि नचि हसहि चलहि से रोइ ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਉਡਿ ਨ ਜਾਹੀ ਸਿਧ ਨ ਹੋਹਿ ॥",
+      "en": "audd na jaahee sidh na hoh ||",
+      "hi": "उडि न जाही सिध न होहि ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਨਚਣੁ ਕੁਦਣੁ ਮਨ ਕਾ ਚਾਉ ॥",
+      "en": "nachan kudhan man kaa chaau ||",
+      "hi": "नचणु कुदणु मन का चाउ ॥"
+    },
+    {
+      "p": 47,
+      "pn": "ਨਾਨਕ ਜਿਨੑ ਮਨਿ ਭਉ ਤਿਨੑਾ ਮਨਿ ਭਾਉ ॥੨॥",
+      "en": "naanak jin(h) man bhau tin(h)aa man bhaau ||2||",
+      "hi": "नानक जिन्न मनि भउ तिन्ना मनि भाउ ॥२॥"
+    },
+    {
+      "p": 48,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 49,
+      "pn": "ਨਾਉ ਤੇਰਾ ਨਿਰੰਕਾਰੁ ਹੈ ਨਾਇ ਲਇਐ ਨਰਕਿ ਨ ਜਾਈਐ ॥",
+      "en": "naau teraa nira(n)kaar hai nai liaai narak na jaieeaai ||",
+      "hi": "नाउ तेरा निरंकारु है नाइ लइऐ नरकि न जाईऐ ॥"
+    },
+    {
+      "p": 49,
+      "pn": "ਜੀਉ ਪਿੰਡੁ ਸਭੁ ਤਿਸ ਦਾ ਦੇ ਖਾਜੈ ਆਖਿ ਗਵਾਈਐ ॥",
+      "en": "jeeau pi(n)dd sabh tis dhaa dhe khaajai aakh gavaieeaai ||",
+      "hi": "जीउ पिंडु सभु तिस दा दे खाजै आखि गवाईऐ ॥"
+    },
+    {
+      "p": 49,
+      "pn": "ਜੇ ਲੋੜਹਿ ਚੰਗਾ ਆਪਣਾ ਕਰਿ ਪੁੰਨਹੁ ਨੀਚੁ ਸਦਾਈਐ ॥",
+      "en": "je loReh cha(n)gaa aapanaa kar pu(n)nahu neech sadhaieeaai ||",
+      "hi": "जे लोड़हि चंगा आपणा करि पुँनहु नीचु सदाईऐ ॥"
+    },
+    {
+      "p": 49,
+      "pn": "ਜੇ ਜਰਵਾਣਾ ਪਰਹਰੈ ਜਰੁ ਵੇਸ ਕਰੇਦੀ ਆਈਐ ॥",
+      "en": "je jaravaanaa paraharai jar ves karedhee aaieeaai ||",
+      "hi": "जे जरवाणा परहरै जरु वेस करेदी आईऐ ॥"
+    },
+    {
+      "p": 49,
+      "pn": "ਕੋ ਰਹੈ ਨ ਭਰੀਐ ਪਾਈਐ ॥੫॥",
+      "en": "ko rahai na bhareeaai paieeaai ||5||",
+      "hi": "को रहै न भरीऐ पाईऐ ॥५॥"
+    },
+    {
+      "p": 50,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 51,
+      "pn": "ਪੰਥੁ ਦਸਾਵਾ ਨਿਤ ਖੜੀ ਮੁੰਧ ਜੋਬਨਿ ਬਾਲੀ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "pa(n)th dhasaavaa nit khaRee mu(n)dh joban baalee raam raaje ||",
+      "hi": "पंथु दसावा नित खड़ी मुँध जोबनि बाली राम राजे ॥"
+    },
+    {
+      "p": 51,
+      "pn": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਚੇਤਾਇ ਗੁਰ ਹਰਿ ਮਾਰਗਿ ਚਾਲੀ ॥",
+      "en": "har har naam chetai gur har maarag chaalee ||",
+      "hi": "हरि हरि नामु चेताइ गुर हरि मारगि चाली ॥"
+    },
+    {
+      "p": 51,
+      "pn": "ਮੇਰੈ ਮਨਿ ਤਨਿ ਨਾਮੁ ਆਧਾਰੁ ਹੈ ਹਉਮੈ ਬਿਖੁ ਜਾਲੀ ॥",
+      "en": "merai man tan naam aadhaar hai haumai bikh jaalee ||",
+      "hi": "मेरै मनि तनि नामु आधारु है हउमै बिखु जाली ॥"
+    },
+    {
+      "p": 51,
+      "pn": "ਜਨ ਨਾਨਕ ਸਤਿਗੁਰੁ ਮੇਲਿ ਹਰਿ ਹਰਿ ਮਿਲਿਆ ਬਨਵਾਲੀ ॥੨॥",
+      "en": "jan naanak satigur mel har har miliaa banavaalee ||2||",
+      "hi": "जन नानक सतिगुरु मेलि हरि हरि मिलिआ बनवाली ॥२॥"
+    },
+    {
+      "p": 52,
+      "pn": "ਸਲੋਕ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोक म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 53,
+      "pn": "ਮੁਸਲਮਾਨਾ ਸਿਫਤਿ ਸਰੀਅਤਿ ਪੜਿ ਪੜਿ ਕਰਹਿ ਬੀਚਾਰੁ ॥",
+      "en": "musalamaanaa sifat sareeat paR paR kareh beechaar ||",
+      "hi": "मुसलमाना सिफति सरीअति पड़ि पड़ि करहि बीचारु ॥"
+    },
+    {
+      "p": 53,
+      "pn": "ਬੰਦੇ ਸੇ ਜਿ ਪਵਹਿ ਵਿਚਿ ਬੰਦੀ ਵੇਖਣ ਕਉ ਦੀਦਾਰੁ ॥",
+      "en": "ba(n)dhe se j paveh vich ba(n)dhee vekhan kau dheedhaar ||",
+      "hi": "बंदे से जि पवहि विचि बंदी वेखण कउ दीदारु ॥"
+    },
+    {
+      "p": 53,
+      "pn": "ਹਿੰਦੂ ਸਾਲਾਹੀ ਸਾਲਾਹਨਿ ਦਰਸਨਿ ਰੂਪਿ ਅਪਾਰੁ ॥",
+      "en": "hi(n)dhoo saalaahee saalaahan dharasan roop apaar ||",
+      "hi": "हिंदू सालाही सालाहनि दरसनि रूपि अपारु ॥"
+    },
+    {
+      "p": 53,
+      "pn": "ਤੀਰਥਿ ਨਾਵਹਿ ਅਰਚਾ ਪੂਜਾ ਅਗਰ ਵਾਸੁ ਬਹਕਾਰੁ ॥",
+      "en": "teerath naaveh arachaa poojaa agar vaas bahakaar ||",
+      "hi": "तीरथि नावहि अरचा पूजा अगर वासु बहकारु ॥"
+    },
+    {
+      "p": 53,
+      "pn": "ਜੋਗੀ ਸੁੰਨਿ ਧਿਆਵਨਿੑ ਜੇਤੇ ਅਲਖ ਨਾਮੁ ਕਰਤਾਰੁ ॥",
+      "en": "jogee su(n)n dhiaavani(h) jete alakh naam karataar ||",
+      "hi": "जोगी सुँनि धिआवनि्ि जेते अलख नामु करतारु ॥"
+    },
+    {
+      "p": 53,
+      "pn": "ਸੂਖਮ ਮੂਰਤਿ ਨਾਮੁ ਨਿਰੰਜਨ ਕਾਇਆ ਕਾ ਆਕਾਰੁ ॥",
+      "en": "sookham moorat naam nira(n)jan kaiaa kaa aakaar ||",
+      "hi": "सूखम मूरति नामु निरंजन काइआ का आकारु ॥"
+    },
+    {
+      "p": 53,
+      "pn": "ਸਤੀਆ ਮਨਿ ਸੰਤੋਖੁ ਉਪਜੈ ਦੇਣੈ ਕੈ ਵੀਚਾਰਿ ॥",
+      "en": "sateeaa man sa(n)tokh upajai dhenai kai veechaar ||",
+      "hi": "सतीआ मनि संतोखु उपजै देणै कै वीचारि ॥"
+    },
+    {
+      "p": 53,
+      "pn": "ਦੇ ਦੇ ਮੰਗਹਿ ਸਹਸਾ ਗੂਣਾ ਸੋਭ ਕਰੇ ਸੰਸਾਰੁ ॥",
+      "en": "dhe dhe ma(n)geh sahasaa goonaa sobh kare sa(n)saar ||",
+      "hi": "दे दे मंगहि सहसा गूणा सोभ करे संसारु ॥"
+    },
+    {
+      "p": 53,
+      "pn": "ਚੋਰਾ ਜਾਰਾ ਤੈ ਕੂੜਿਆਰਾ ਖਾਰਾਬਾ ਵੇਕਾਰ ॥",
+      "en": "choraa jaaraa tai kooRiaaraa khaaraabaa vekaar ||",
+      "hi": "चोरा जारा तै कूड़िआरा खाराबा वेकार ॥"
+    },
+    {
+      "p": 53,
+      "pn": "ਇਕਿ ਹੋਦਾ ਖਾਇ ਚਲਹਿ ਐਥਾਊ ਤਿਨਾ ਭਿ ਕਾਈ ਕਾਰ ॥",
+      "en": "eik hodhaa khai chaleh aaithaauoo tinaa bh kaiee kaar ||",
+      "hi": "इकि होदा खाइ चलहि ऐथाऊ तिना भि काई कार ॥"
+    },
+    {
+      "p": 53,
+      "pn": "ਜਲਿ ਥਲਿ ਜੀਆ ਪੁਰੀਆ ਲੋਆ ਆਕਾਰਾ ਆਕਾਰ ॥",
+      "en": "jal thal jeeaa pureeaa loaa aakaaraa aakaar ||",
+      "hi": "जलि थलि जीआ पुरीआ लोआ आकारा आकार ॥"
+    },
+    {
+      "p": 53,
+      "pn": "ਓਇ ਜਿ ਆਖਹਿ ਸੁ ਤੂੰਹੈ ਜਾਣਹਿ ਤਿਨਾ ਭਿ ਤੇਰੀ ਸਾਰ ॥",
+      "en": "oi j aakheh su too(n)hai jaaneh tinaa bh teree saar ||",
+      "hi": "ओइ जि आखहि सु तूँहै जाणहि तिना भि तेरी सार ॥"
+    },
+    {
+      "p": 53,
+      "pn": "ਨਾਨਕ ਭਗਤਾ ਭੁਖ ਸਾਲਾਹਣੁ ਸਚੁ ਨਾਮੁ ਆਧਾਰੁ ॥",
+      "en": "naanak bhagataa bhukh saalaahan sach naam aadhaar ||",
+      "hi": "नानक भगता भुख सालाहणु सचु नामु आधारु ॥"
+    },
+    {
+      "p": 53,
+      "pn": "ਸਦਾ ਅਨੰਦਿ ਰਹਹਿ ਦਿਨੁ ਰਾਤੀ ਗੁਣਵੰਤਿਆ ਪਾ ਛਾਰੁ ॥੧॥",
+      "en": "sadhaa ana(n)dh raheh dhin raatee gunava(n)tiaa paa chhaar ||1||",
+      "hi": "सदा अनंदि रहहि दिनु राती गुणवंतिआ पा छारु ॥१॥"
+    },
+    {
+      "p": 54,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 55,
+      "pn": "ਮਿਟੀ ਮੁਸਲਮਾਨ ਕੀ ਪੇੜੈ ਪਈ ਕੁਮਿੑਆਰ ॥",
+      "en": "miTee musalamaan kee peRai piee kumi(h)aar ||",
+      "hi": "मिटी मुसलमान की पेड़ै पई कुमि्िआर ॥"
+    },
+    {
+      "p": 55,
+      "pn": "ਘੜਿ ਭਾਂਡੇ ਇਟਾ ਕੀਆ ਜਲਦੀ ਕਰੇ ਪੁਕਾਰ ॥",
+      "en": "ghaR bhaa(n)dde iTaa keeaa jaladhee kare pukaar ||",
+      "hi": "घड़ि भाँडे इटा कीआ जलदी करे पुकार ॥"
+    },
+    {
+      "p": 55,
+      "pn": "ਜਲਿ ਜਲਿ ਰੋਵੈ ਬਪੁੜੀ ਝੜਿ ਝੜਿ ਪਵਹਿ ਅੰਗਿਆਰ ॥",
+      "en": "jal jal rovai bapuRee jhaR jhaR paveh a(n)giaar ||",
+      "hi": "जलि जलि रोवै बपुड़ी झड़ि झड़ि पवहि अंगिआर ॥"
+    },
+    {
+      "p": 55,
+      "pn": "ਨਾਨਕ ਜਿਨਿ ਕਰਤੈ ਕਾਰਣੁ ਕੀਆ ਸੋ ਜਾਣੈ ਕਰਤਾਰੁ ॥੨॥",
+      "en": "naanak jin karatai kaaran keeaa so jaanai karataar ||2||",
+      "hi": "नानक जिनि करतै कारणु कीआ सो जाणै करतारु ॥२॥"
+    },
+    {
+      "p": 56,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 57,
+      "pn": "ਬਿਨੁ ਸਤਿਗੁਰ ਕਿਨੈ ਨ ਪਾਇਓ ਬਿਨੁ ਸਤਿਗੁਰ ਕਿਨੈ ਨ ਪਾਇਆ ॥",
+      "en": "bin satigur kinai na paio bin satigur kinai na paiaa ||",
+      "hi": "बिनु सतिगुर किनै न पाइओ बिनु सतिगुर किनै न पाइआ ॥"
+    },
+    {
+      "p": 57,
+      "pn": "ਸਤਿਗੁਰ ਵਿਚਿ ਆਪੁ ਰਖਿਓਨੁ ਕਰਿ ਪਰਗਟੁ ਆਖਿ ਸੁਣਾਇਆ ॥",
+      "en": "satigur vich aap rakhion kar paragaT aakh sunaiaa ||",
+      "hi": "सतिगुर विचि आपु रखिओनु करि परगटु आखि सुणाइआ ॥"
+    },
+    {
+      "p": 57,
+      "pn": "ਸਤਿਗੁਰ ਮਿਲਿਐ ਸਦਾ ਮੁਕਤੁ ਹੈ ਜਿਨਿ ਵਿਚਹੁ ਮੋਹੁ ਚੁਕਾਇਆ ॥",
+      "en": "satigur miliaai sadhaa mukat hai jin vichahu moh chukaiaa ||",
+      "hi": "सतिगुर मिलिऐ सदा मुकतु है जिनि विचहु मोहु चुकाइआ ॥"
+    },
+    {
+      "p": 57,
+      "pn": "ਉਤਮੁ ਏਹੁ ਬੀਚਾਰੁ ਹੈ ਜਿਨਿ ਸਚੇ ਸਿਉ ਚਿਤੁ ਲਾਇਆ ॥",
+      "en": "autam eh beechaar hai jin sache siau chit laiaa ||",
+      "hi": "उतमु एहु बीचारु है जिनि सचे सिउ चितु लाइआ ॥"
+    },
+    {
+      "p": 57,
+      "pn": "ਜਗਜੀਵਨੁ ਦਾਤਾ ਪਾਇਆ ॥੬॥",
+      "en": "jagajeevan dhaataa paiaa ||6||",
+      "hi": "जगजीवनु दाता पाइआ ॥६॥"
+    },
+    {
+      "p": 58,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 59,
+      "pn": "ਗੁਰਮੁਖਿ ਪਿਆਰੇ ਆਇ ਮਿਲੁ ਮੈ ਚਿਰੀ ਵਿਛੁੰਨੇ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "gurmukh piaare aai mil mai chiree vichhu(n)ne raam raaje ||",
+      "hi": "गुरमुखि पिआरे आइ मिलु मै चिरी विछुँने राम राजे ॥"
+    },
+    {
+      "p": 59,
+      "pn": "ਮੇਰਾ ਮਨੁ ਤਨੁ ਬਹੁਤੁ ਬੈਰਾਗਿਆ ਹਰਿ ਨੈਣ ਰਸਿ ਭਿੰਨੇ ॥",
+      "en": "meraa man tan bahut bairaagiaa har nain ras bhi(n)ne ||",
+      "hi": "मेरा मनु तनु बहुतु बैरागिआ हरि नैण रसि भिंने ॥"
+    },
+    {
+      "p": 59,
+      "pn": "ਮੈ ਹਰਿ ਪ੍ਰਭੁ ਪਿਆਰਾ ਦਸਿ ਗੁਰੁ ਮਿਲਿ ਹਰਿ ਮਨੁ ਮੰਨੇ ॥",
+      "en": "mai har prabh piaaraa dhas gur mil har man ma(n)ne ||",
+      "hi": "मै हरि प्रभु पिआरा दसि गुरु मिलि हरि मनु मंने ॥"
+    },
+    {
+      "p": 59,
+      "pn": "ਹਉ ਮੂਰਖੁ ਕਾਰੈ ਲਾਈਆ ਨਾਨਕ ਹਰਿ ਕੰਮੇ ॥੩॥",
+      "en": "hau moorakh kaarai laieeaa naanak har ka(n)me ||3||",
+      "hi": "हउ मूरखु कारै लाईआ नानक हरि कंमे ॥३॥"
+    },
+    {
+      "p": 60,
+      "pn": "ਸਲੋਕ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोक म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 61,
+      "pn": "ਹਉ ਵਿਚਿ ਆਇਆ ਹਉ ਵਿਚਿ ਗਇਆ ॥",
+      "en": "hau vich aaiaa hau vich giaa ||",
+      "hi": "हउ विचि आइआ हउ विचि गइआ ॥"
+    },
+    {
+      "p": 61,
+      "pn": "ਹਉ ਵਿਚਿ ਜੰਮਿਆ ਹਉ ਵਿਚਿ ਮੁਆ ॥",
+      "en": "hau vich ja(n)miaa hau vich muaa ||",
+      "hi": "हउ विचि जंमिआ हउ विचि मुआ ॥"
+    },
+    {
+      "p": 61,
+      "pn": "ਹਉ ਵਿਚਿ ਦਿਤਾ ਹਉ ਵਿਚਿ ਲਇਆ ॥",
+      "en": "hau vich dhitaa hau vich liaa ||",
+      "hi": "हउ विचि दिता हउ विचि लइआ ॥"
+    },
+    {
+      "p": 61,
+      "pn": "ਹਉ ਵਿਚਿ ਖਟਿਆ ਹਉ ਵਿਚਿ ਗਇਆ ॥",
+      "en": "hau vich khaTiaa hau vich giaa ||",
+      "hi": "हउ विचि खटिआ हउ विचि गइआ ॥"
+    },
+    {
+      "p": 61,
+      "pn": "ਹਉ ਵਿਚਿ ਸਚਿਆਰੁ ਕੂੜਿਆਰੁ ॥",
+      "en": "hau vich sachiaar kooRiaar ||",
+      "hi": "हउ विचि सचिआरु कूड़िआरु ॥"
+    },
+    {
+      "p": 61,
+      "pn": "ਹਉ ਵਿਚਿ ਪਾਪ ਪੁੰਨ ਵੀਚਾਰੁ ॥",
+      "en": "hau vich paap pu(n)n veechaar ||",
+      "hi": "हउ विचि पाप पुँन वीचारु ॥"
+    },
+    {
+      "p": 61,
+      "pn": "ਹਉ ਵਿਚਿ ਨਰਕਿ ਸੁਰਗਿ ਅਵਤਾਰੁ ॥",
+      "en": "hau vich narak surag avataar ||",
+      "hi": "हउ विचि नरकि सुरगि अवतारु ॥"
+    },
+    {
+      "p": 61,
+      "pn": "ਹਉ ਵਿਚਿ ਹਸੈ ਹਉ ਵਿਚਿ ਰੋਵੈ ॥",
+      "en": "hau vich hasai hau vich rovai ||",
+      "hi": "हउ विचि हसै हउ विचि रोवै ॥"
+    },
+    {
+      "p": 61,
+      "pn": "ਹਉ ਵਿਚਿ ਭਰੀਐ ਹਉ ਵਿਚਿ ਧੋਵੈ ॥",
+      "en": "hau vich bhareeaai hau vich dhovai ||",
+      "hi": "हउ विचि भरीऐ हउ विचि धोवै ॥"
+    },
+    {
+      "p": 61,
+      "pn": "ਹਉ ਵਿਚਿ ਜਾਤੀ ਜਿਨਸੀ ਖੋਵੈ ॥",
+      "en": "hau vich jaatee jinasee khovai ||",
+      "hi": "हउ विचि जाती जिनसी खोवै ॥"
+    },
+    {
+      "p": 61,
+      "pn": "ਹਉ ਵਿਚਿ ਮੂਰਖੁ ਹਉ ਵਿਚਿ ਸਿਆਣਾ ॥",
+      "en": "hau vich moorakh hau vich siaanaa ||",
+      "hi": "हउ विचि मूरखु हउ विचि सिआणा ॥"
+    },
+    {
+      "p": 61,
+      "pn": "ਮੋਖ ਮੁਕਤਿ ਕੀ ਸਾਰ ਨ ਜਾਣਾ ॥",
+      "en": "mokh mukat kee saar na jaanaa ||",
+      "hi": "मोख मुकति की सार न जाणा ॥"
+    },
+    {
+      "p": 61,
+      "pn": "ਹਉ ਵਿਚਿ ਮਾਇਆ ਹਉ ਵਿਚਿ ਛਾਇਆ ॥",
+      "en": "hau vich maiaa hau vich chhaiaa ||",
+      "hi": "हउ विचि माइआ हउ विचि छाइआ ॥"
+    },
+    {
+      "p": 61,
+      "pn": "ਹਉਮੈ ਕਰਿ ਕਰਿ ਜੰਤ ਉਪਾਇਆ ॥",
+      "en": "haumai kar kar ja(n)t upaiaa ||",
+      "hi": "हउमै करि करि जंत उपाइआ ॥"
+    },
+    {
+      "p": 61,
+      "pn": "ਹਉਮੈ ਬੂਝੈ ਤਾ ਦਰੁ ਸੂਝੈ ॥",
+      "en": "haumai boojhai taa dhar soojhai ||",
+      "hi": "हउमै बूझै ता दरु सूझै ॥"
+    },
+    {
+      "p": 61,
+      "pn": "ਗਿਆਨ ਵਿਹੂਣਾ ਕਥਿ ਕਥਿ ਲੂਝੈ ॥",
+      "en": "giaan vihoonaa kath kath loojhai ||",
+      "hi": "गिआन विहूणा कथि कथि लूझै ॥"
+    },
+    {
+      "p": 61,
+      "pn": "ਨਾਨਕ ਹੁਕਮੀ ਲਿਖੀਐ ਲੇਖੁ ॥",
+      "en": "naanak hukamee likheeaai lekh ||",
+      "hi": "नानक हुकमी लिखीऐ लेखु ॥"
+    },
+    {
+      "p": 61,
+      "pn": "ਜੇਹਾ ਵੇਖਹਿ ਤੇਹਾ ਵੇਖੁ ॥੧॥",
+      "en": "jehaa vekheh tehaa vekh ||1||",
+      "hi": "जेहा वेखहि तेहा वेखु ॥१॥"
+    },
+    {
+      "p": 62,
+      "pn": "ਮਹਲਾ ੨ ॥",
+      "en": "mahalaa doojaa ||",
+      "hi": "महला २ ॥",
+      "s": "mahalaa doojaa ||"
+    },
+    {
+      "p": 63,
+      "pn": "ਹਉਮੈ ਏਹਾ ਜਾਤਿ ਹੈ ਹਉਮੈ ਕਰਮ ਕਮਾਹਿ ॥",
+      "en": "haumai ehaa jaat hai haumai karam kamaeh ||",
+      "hi": "हउमै एहा जाति है हउमै करम कमाहि ॥"
+    },
+    {
+      "p": 63,
+      "pn": "ਹਉਮੈ ਏਈ ਬੰਧਨਾ ਫਿਰਿ ਫਿਰਿ ਜੋਨੀ ਪਾਹਿ ॥",
+      "en": "haumai eiee ba(n)dhanaa fir fir jonee paeh ||",
+      "hi": "हउमै एई बंधना फिरि फिरि जोनी पाहि ॥"
+    },
+    {
+      "p": 63,
+      "pn": "ਹਉਮੈ ਕਿਥਹੁ ਊਪਜੈ ਕਿਤੁ ਸੰਜਮਿ ਇਹ ਜਾਇ ॥",
+      "en": "haumai kithahu uoopajai kit sa(n)jam ieh jai ||",
+      "hi": "हउमै किथहु ऊपजै कितु संजमि इह जाइ ॥"
+    },
+    {
+      "p": 63,
+      "pn": "ਹਉਮੈ ਏਹੋ ਹੁਕਮੁ ਹੈ ਪਇਐ ਕਿਰਤਿ ਫਿਰਾਹਿ ॥",
+      "en": "haumai eho hukam hai piaai kirat firaeh ||",
+      "hi": "हउमै एहो हुकमु है पइऐ किरति फिराहि ॥"
+    },
+    {
+      "p": 63,
+      "pn": "ਹਉਮੈ ਦੀਰਘ ਰੋਗੁ ਹੈ ਦਾਰੂ ਭੀ ਇਸੁ ਮਾਹਿ ॥",
+      "en": "haumai dheeragh rog hai dhaaroo bhee is maeh ||",
+      "hi": "हउमै दीरघ रोगु है दारू भी इसु माहि ॥"
+    },
+    {
+      "p": 63,
+      "pn": "ਕਿਰਪਾ ਕਰੇ ਜੇ ਆਪਣੀ ਤਾ ਗੁਰ ਕਾ ਸਬਦੁ ਕਮਾਹਿ ॥",
+      "en": "kirapaa kare je aapanee taa gur kaa sabadh kamaeh ||",
+      "hi": "किरपा करे जे आपणी ता गुर का सबदु कमाहि ॥"
+    },
+    {
+      "p": 63,
+      "pn": "ਨਾਨਕੁ ਕਹੈ ਸੁਣਹੁ ਜਨਹੁ ਇਤੁ ਸੰਜਮਿ ਦੁਖ ਜਾਹਿ ॥੨॥",
+      "en": "naanak kahai sunahu janahu it sa(n)jam dhukh jaeh ||2||",
+      "hi": "नानकु कहै सुणहु जनहु इतु संजमि दुख जाहि ॥२॥"
+    },
+    {
+      "p": 64,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 65,
+      "pn": "ਸੇਵ ਕੀਤੀ ਸੰਤੋਖੀੲਂੀ ਜਿਨੑੀ ਸਚੋ ਸਚੁ ਧਿਆਇਆ ॥",
+      "en": "sev keetee sa(n)tokhe'ee(n)ee jin(h)ee sacho sach dhiaaiaa ||",
+      "hi": "सेव कीती संतोखीईं जिन्नी सचो सचु धिआइआ ॥"
+    },
+    {
+      "p": 65,
+      "pn": "ਓਨੑੀ ਮੰਦੈ ਪੈਰੁ ਨ ਰਖਿਓ ਕਰਿ ਸੁਕ੍ਰਿਤੁ ਧਰਮੁ ਕਮਾਇਆ ॥",
+      "en": "on(h)ee ma(n)dhai pair na rakhio kar sukirat dharam kamaiaa ||",
+      "hi": "ओन्नी मंदै पैरु न रखिओ करि सुकृतु धरमु कमाइआ ॥"
+    },
+    {
+      "p": 65,
+      "pn": "ਓਨੑੀ ਦੁਨੀਆ ਤੋੜੇ ਬੰਧਨਾ ਅੰਨੁ ਪਾਣੀ ਥੋੜਾ ਖਾਇਆ ॥",
+      "en": "on(h)ee dhuneeaa toRe ba(n)dhanaa a(n)n paanee thoRaa khaiaa ||",
+      "hi": "ओन्नी दुनीआ तोड़े बंधना अंनु पाणी थोड़ा खाइआ ॥"
+    },
+    {
+      "p": 65,
+      "pn": "ਤੂੰ ਬਖਸੀਸੀ ਅਗਲਾ ਨਿਤ ਦੇਵਹਿ ਚੜਹਿ ਸਵਾਇਆ ॥",
+      "en": "too(n) bakhaseesee agalaa nit dheveh chaReh savaiaa ||",
+      "hi": "तूँ बखसीसी अगला नित देवहि चड़हि सवाइआ ॥"
+    },
+    {
+      "p": 65,
+      "pn": "ਵਡਿਆਈ ਵਡਾ ਪਾਇਆ ॥੭॥",
+      "en": "vaddiaaiee vaddaa paiaa ||7||",
+      "hi": "वडिआई वडा पाइआ ॥७॥"
+    },
+    {
+      "p": 66,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 67,
+      "pn": "ਗੁਰ ਅੰਮ੍ਰਿਤ ਭਿੰਨੀ ਦੇਹੁਰੀ ਅੰਮ੍ਰਿਤੁ ਬੁਰਕੇ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "gur a(n)mirat bhi(n)nee dhehuree a(n)mrit burake raam raaje ||",
+      "hi": "गुर अंमृत भिंनी देहुरी अंमृतु बुरके राम राजे ॥"
+    },
+    {
+      "p": 67,
+      "pn": "ਜਿਨਾ ਗੁਰਬਾਣੀ ਮਨਿ ਭਾਈਆ ਅੰਮ੍ਰਿਤਿ ਛਕਿ ਛਕੇ ॥",
+      "en": "jinaa gurbaanee man bhaieeaa a(n)mirat chhak chhake ||",
+      "hi": "जिना गुरबाणी मनि भाईआ अंमृति छकि छके ॥"
+    },
+    {
+      "p": 67,
+      "pn": "ਗੁਰ ਤੁਠੈ ਹਰਿ ਪਾਇਆ ਚੂਕੇ ਧਕ ਧਕੇ ॥",
+      "en": "gur tuThai har paiaa chooke dhak dhake ||",
+      "hi": "गुर तुठै हरि पाइआ चूके धक धके ॥"
+    },
+    {
+      "p": 67,
+      "pn": "ਹਰਿ ਜਨੁ ਹਰਿ ਹਰਿ ਹੋਇਆ ਨਾਨਕੁ ਹਰਿ ਇਕੇ ॥੪॥੯॥੧੬॥",
+      "en": "har jan har har hoiaa naanak har ike ||4||9||16||",
+      "hi": "हरि जनु हरि हरि होइआ नानकु हरि इके ॥४॥९॥१६॥"
+    },
+    {
+      "p": 68,
+      "pn": "ਸਲੋਕ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोक म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 69,
+      "pn": "ਪੁਰਖਾਂ ਬਿਰਖਾਂ ਤੀਰਥਾਂ ਤਟਾਂ ਮੇਘਾਂ ਖੇਤਾਂਹ ॥",
+      "en": "purakhaa(n) birakhaa(n) teerathaa(n) taTaa(n) meghaa(n) khetaa(n)h ||",
+      "hi": "पुरखाँ बिरखाँ तीरथाँ तटाँ मेघाँ खेताँह ॥"
+    },
+    {
+      "p": 69,
+      "pn": "ਦੀਪਾਂ ਲੋਆਂ ਮੰਡਲਾਂ ਖੰਡਾਂ ਵਰਭੰਡਾਂਹ ॥",
+      "en": "dheepaa(n) loaa(n) ma(n)ddalaa(n) kha(n)ddaa(n) varabha(n)ddaa(n)h ||",
+      "hi": "दीपाँ लोआँ मंडलाँ खंडाँ वरभंडाँह ॥"
+    },
+    {
+      "p": 69,
+      "pn": "ਅੰਡਜ ਜੇਰਜ ਉਤਭੁਜਾਂ ਖਾਣੀ ਸੇਤਜਾਂਹ ॥",
+      "en": "a(n)ddaj jeraj utabhujaa(n) khaanee setajaa(n)h ||",
+      "hi": "अंडज जेरज उतभुजाँ खाणी सेतजाँह ॥"
+    },
+    {
+      "p": 69,
+      "pn": "ਸੋ ਮਿਤਿ ਜਾਣੈ ਨਾਨਕਾ ਸਰਾਂ ਮੇਰਾਂ ਜੰਤਾਹ ॥",
+      "en": "so mit jaanai naanakaa saraa(n) meraa(n) ja(n)taeh ||",
+      "hi": "सो मिति जाणै नानका सराँ मेराँ जंताह ॥"
+    },
+    {
+      "p": 69,
+      "pn": "ਨਾਨਕ ਜੰਤ ਉਪਾਇ ਕੈ ਸੰਮਾਲੇ ਸਭਨਾਹ ॥",
+      "en": "naanak ja(n)t upai kai sa(n)maale sabhanaeh ||",
+      "hi": "नानक जंत उपाइ कै संमाले सभनाह ॥"
+    },
+    {
+      "p": 69,
+      "pn": "ਜਿਨਿ ਕਰਤੈ ਕਰਣਾ ਕੀਆ ਚਿੰਤਾ ਭਿ ਕਰਣੀ ਤਾਹ ॥",
+      "en": "jin karatai karanaa keeaa chi(n)taa bh karanee taeh ||",
+      "hi": "जिनि करतै करणा कीआ चिंता भि करणी ताह ॥"
+    },
+    {
+      "p": 69,
+      "pn": "ਸੋ ਕਰਤਾ ਚਿੰਤਾ ਕਰੇ ਜਿਨਿ ਉਪਾਇਆ ਜਗੁ ॥",
+      "en": "so karataa chi(n)taa kare jin upaiaa jag ||",
+      "hi": "सो करता चिंता करे जिनि उपाइआ जगु ॥"
+    },
+    {
+      "p": 69,
+      "pn": "ਤਿਸੁ ਜੋਹਾਰੀ ਸੁਅਸਤਿ ਤਿਸੁ ਤਿਸੁ ਦੀਬਾਣੁ ਅਭਗੁ ॥",
+      "en": "tis johaaree suasat tis tis dheebaan abhag ||",
+      "hi": "तिसु जोहारी सुअसति तिसु तिसु दीबाणु अभगु ॥"
+    },
+    {
+      "p": 69,
+      "pn": "ਨਾਨਕ ਸਚੇ ਨਾਮ ਬਿਨੁ ਕਿਆ ਟਿਕਾ ਕਿਆ ਤਗੁ ॥੧॥",
+      "en": "naanak sache naam bin kiaa Tikaa kiaa tag ||1||",
+      "hi": "नानक सचे नाम बिनु किआ टिका किआ तगु ॥१॥"
+    },
+    {
+      "p": 70,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 71,
+      "pn": "ਲਖ ਨੇਕੀਆ ਚੰਗਿਆਈਆ ਲਖ ਪੁੰਨਾ ਪਰਵਾਣੁ ॥",
+      "en": "lakh nekeeaa cha(n)giaaieeaa lakh pu(n)naa paravaan ||",
+      "hi": "लख नेकीआ चंगिआईआ लख पुँना परवाणु ॥"
+    },
+    {
+      "p": 71,
+      "pn": "ਲਖ ਤਪ ਉਪਰਿ ਤੀਰਥਾਂ ਸਹਜ ਜੋਗ ਬੇਬਾਣ ॥",
+      "en": "lakh tap upar teerathaa(n) sahaj jog bebaan ||",
+      "hi": "लख तप उपरि तीरथाँ सहज जोग बेबाण ॥"
+    },
+    {
+      "p": 71,
+      "pn": "ਲਖ ਸੂਰਤਣ ਸੰਗਰਾਮ ਰਣ ਮਹਿ ਛੁਟਹਿ ਪਰਾਣ ॥",
+      "en": "lakh sooratan sa(n)garaam ran meh chhuTeh paraan ||",
+      "hi": "लख सूरतण संगराम रण महि छुटहि पराण ॥"
+    },
+    {
+      "p": 71,
+      "pn": "ਲਖ ਸੁਰਤੀ ਲਖ ਗਿਆਨ ਧਿਆਨ ਪੜੀਅਹਿ ਪਾਠ ਪੁਰਾਣ ॥",
+      "en": "lakh suratee lakh giaan dhiaan paRe'eh paaTh puraan ||",
+      "hi": "लख सुरती लख गिआन धिआन पड़ीअहि पाठ पुराण ॥"
+    },
+    {
+      "p": 71,
+      "pn": "ਜਿਨਿ ਕਰਤੈ ਕਰਣਾ ਕੀਆ ਲਿਖਿਆ ਆਵਣ ਜਾਣੁ ॥",
+      "en": "jin karatai karanaa keeaa likhiaa aavan jaan ||",
+      "hi": "जिनि करतै करणा कीआ लिखिआ आवण जाणु ॥"
+    },
+    {
+      "p": 71,
+      "pn": "ਨਾਨਕ ਮਤੀ ਮਿਥਿਆ ਕਰਮੁ ਸਚਾ ਨੀਸਾਣੁ ॥੨॥",
+      "en": "naanak matee mithiaa karam sachaa neesaan ||2||",
+      "hi": "नानक मती मिथिआ करमु सचा नीसाणु ॥२॥"
+    },
+    {
+      "p": 72,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 73,
+      "pn": "ਸਚਾ ਸਾਹਿਬੁ ਏਕੁ ਤੂੰ ਜਿਨਿ ਸਚੋ ਸਚੁ ਵਰਤਾਇਆ ॥",
+      "en": "sachaa saahib ek too(n) jin sacho sach varataiaa ||",
+      "hi": "सचा साहिबु एकु तूँ जिनि सचो सचु वरताइआ ॥"
+    },
+    {
+      "p": 73,
+      "pn": "ਜਿਸੁ ਤੂੰ ਦੇਹਿ ਤਿਸੁ ਮਿਲੈ ਸਚੁ ਤਾ ਤਿਨੑੀ ਸਚੁ ਕਮਾਇਆ ॥",
+      "en": "jis too(n) dheh tis milai sach taa tin(h)ee sach kamaiaa ||",
+      "hi": "जिसु तूँ देहि तिसु मिलै सचु ता तिन्नी सचु कमाइआ ॥"
+    },
+    {
+      "p": 73,
+      "pn": "ਸਤਿਗੁਰਿ ਮਿਲਿਐ ਸਚੁ ਪਾਇਆ ਜਿਨੑ ਕੈ ਹਿਰਦੈ ਸਚੁ ਵਸਾਇਆ ॥",
+      "en": "satigur miliaai sach paiaa jin(h) kai hiradhai sach vasaiaa ||",
+      "hi": "सतिगुरि मिलिऐ सचु पाइआ जिन्न कै हिरदै सचु वसाइआ ॥"
+    },
+    {
+      "p": 73,
+      "pn": "ਮੂਰਖ ਸਚੁ ਨ ਜਾਣਨੑੀ ਮਨਮੁਖੀ ਜਨਮੁ ਗਵਾਇਆ ॥",
+      "en": "moorakh sach na jaanan(h)ee manmukhee janam gavaiaa ||",
+      "hi": "मूरख सचु न जाणन्नी मनमुखी जनमु गवाइआ ॥"
+    },
+    {
+      "p": 73,
+      "pn": "ਵਿਚਿ ਦੁਨੀਆ ਕਾਹੇ ਆਇਆ ॥੮॥",
+      "en": "vich dhuneeaa kaahe aaiaa ||8||",
+      "hi": "विचि दुनीआ काहे आइआ ॥८॥"
+    },
+    {
+      "p": 74,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 75,
+      "pn": "ਆਸਾ ਮਹਲਾ ੪ ॥",
+      "en": "aasaa mahalaa chauthhaa ||",
+      "hi": "आसा महला ४ ॥",
+      "s": "aasaa mahalaa chauthhaa ||"
+    },
+    {
+      "p": 76,
+      "pn": "ਹਰਿ ਅੰਮ੍ਰਿਤ ਭਗਤਿ ਭੰਡਾਰ ਹੈ ਗੁਰ ਸਤਿਗੁਰ ਪਾਸੇ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "har a(n)mirat bhagat bha(n)ddaar hai gur satigur paase raam raaje ||",
+      "hi": "हरि अंमृत भगति भंडार है गुर सतिगुर पासे राम राजे ॥"
+    },
+    {
+      "p": 76,
+      "pn": "ਗੁਰੁ ਸਤਿਗੁਰੁ ਸਚਾ ਸਾਹੁ ਹੈ ਸਿਖ ਦੇਇ ਹਰਿ ਰਾਸੇ ॥",
+      "en": "gur satigur sachaa saahu hai sikh dhei har raase ||",
+      "hi": "गुरु सतिगुरु सचा साहु है सिख देइ हरि रासे ॥"
+    },
+    {
+      "p": 76,
+      "pn": "ਧਨੁ ਧੰਨੁ ਵਣਜਾਰਾ ਵਣਜੁ ਹੈ ਗੁਰੁ ਸਾਹੁ ਸਾਬਾਸੇ ॥",
+      "en": "dhan dha(n)n vanajaaraa vanaj hai gur saahu saabaase ||",
+      "hi": "धनु धंनु वणजारा वणजु है गुरु साहु साबासे ॥"
+    },
+    {
+      "p": 76,
+      "pn": "ਜਨੁ ਨਾਨਕੁ ਗੁਰੁ ਤਿਨੑੀ ਪਾਇਆ ਜਿਨ ਧੁਰਿ ਲਿਖਤੁ ਲਿਲਾਟਿ ਲਿਖਾਸੇ ॥੧॥",
+      "en": "jan naanak gur tin(h)ee paiaa jin dhur likhat lilaaT likhaase ||1||",
+      "hi": "जनु नानकु गुरु तिन्नी पाइआ जिन धुरि लिखतु लिलाटि लिखासे ॥१॥"
+    },
+    {
+      "p": 77,
+      "pn": "ਸਲੋਕੁ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोकु म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 78,
+      "pn": "ਪੜਿ ਪੜਿ ਗਡੀ ਲਦੀਅਹਿ ਪੜਿ ਪੜਿ ਭਰੀਅਹਿ ਸਾਥ ॥",
+      "en": "paR paR gaddee ladhe'eeh paR paR bhare'eh saath ||",
+      "hi": "पड़ि पड़ि गडी लदीअहि पड़ि पड़ि भरीअहि साथ ॥"
+    },
+    {
+      "p": 78,
+      "pn": "ਪੜਿ ਪੜਿ ਬੇੜੀ ਪਾਈਐ ਪੜਿ ਪੜਿ ਗਡੀਅਹਿ ਖਾਤ ॥",
+      "en": "paR paR beRee paieeaai paR paR gadde'eeh khaat ||",
+      "hi": "पड़ि पड़ि बेड़ी पाईऐ पड़ि पड़ि गडीअहि खात ॥"
+    },
+    {
+      "p": 78,
+      "pn": "ਪੜੀਅਹਿ ਜੇਤੇ ਬਰਸ ਬਰਸ ਪੜੀਅਹਿ ਜੇਤੇ ਮਾਸ ॥",
+      "en": "paRe'eh jete baras baras paRe'eh jete maas ||",
+      "hi": "पड़ीअहि जेते बरस बरस पड़ीअहि जेते मास ॥"
+    },
+    {
+      "p": 78,
+      "pn": "ਪੜੀਐ ਜੇਤੀ ਆਰਜਾ ਪੜੀਅਹਿ ਜੇਤੇ ਸਾਸ ॥",
+      "en": "paReeaai jetee aarajaa paRe'eh jete saas ||",
+      "hi": "पड़ीऐ जेती आरजा पड़ीअहि जेते सास ॥"
+    },
+    {
+      "p": 78,
+      "pn": "ਨਾਨਕ ਲੇਖੈ ਇਕ ਗਲ ਹੋਰੁ ਹਉਮੈ ਝਖਣਾ ਝਾਖ ॥੧॥",
+      "en": "naanak lekhai ik gal hor haumai jhakhanaa jhaakh ||1||",
+      "hi": "नानक लेखै इक गल होरु हउमै झखणा झाख ॥१॥"
+    },
+    {
+      "p": 79,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 80,
+      "pn": "ਲਿਖਿ ਲਿਖਿ ਪੜਿਆ ॥",
+      "en": "likh likh paRiaa ||",
+      "hi": "लिखि लिखि पड़िआ ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਤੇਤਾ ਕੜਿਆ ॥",
+      "en": "tetaa kaRiaa ||",
+      "hi": "तेता कड़िआ ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਬਹੁ ਤੀਰਥ ਭਵਿਆ ॥",
+      "en": "bahu teerath bhaviaa ||",
+      "hi": "बहु तीरथ भविआ ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਤੇਤੋ ਲਵਿਆ ॥",
+      "en": "teto laviaa ||",
+      "hi": "तेतो लविआ ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਬਹੁ ਭੇਖ ਕੀਆ ਦੇਹੀ ਦੁਖੁ ਦੀਆ ॥",
+      "en": "bahu bhekh keeaa dhehee dhukh dheeaa ||",
+      "hi": "बहु भेख कीआ देही दुखु दीआ ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਸਹੁ ਵੇ ਜੀਆ ਅਪਣਾ ਕੀਆ ॥",
+      "en": "sahu ve jeeaa apanaa keeaa ||",
+      "hi": "सहु वे जीआ अपणा कीआ ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਅੰਨੁ ਨ ਖਾਇਆ ਸਾਦੁ ਗਵਾਇਆ ॥",
+      "en": "a(n)n na khaiaa saadh gavaiaa ||",
+      "hi": "अंनु न खाइआ सादु गवाइआ ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਬਹੁ ਦੁਖੁ ਪਾਇਆ ਦੂਜਾ ਭਾਇਆ ॥",
+      "en": "bahu dhukh paiaa dhoojaa bhaiaa ||",
+      "hi": "बहु दुखु पाइआ दूजा भाइआ ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਬਸਤ੍ਰ ਨ ਪਹਿਰੈ ॥",
+      "en": "basatr na pahirai ||",
+      "hi": "बसत्र न पहिरै ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਅਹਿਨਿਸਿ ਕਹਰੈ ॥",
+      "en": "ahinis kaharai ||",
+      "hi": "अहिनिसि कहरै ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਮੋਨਿ ਵਿਗੂਤਾ ॥",
+      "en": "mon vigootaa ||",
+      "hi": "मोनि विगूता ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਕਿਉ ਜਾਗੈ ਗੁਰ ਬਿਨੁ ਸੂਤਾ ॥",
+      "en": "kiau jaagai gur bin sootaa ||",
+      "hi": "किउ जागै गुर बिनु सूता ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਪਗ ਉਪੇਤਾਣਾ ॥",
+      "en": "pag upetaanaa ||",
+      "hi": "पग उपेताणा ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਅਪਣਾ ਕੀਆ ਕਮਾਣਾ ॥",
+      "en": "apanaa keeaa kamaanaa ||",
+      "hi": "अपणा कीआ कमाणा ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਅਲੁ ਮਲੁ ਖਾਈ ਸਿਰਿ ਛਾਈ ਪਾਈ ॥",
+      "en": "al mal khaiee sir chhaiee paiee ||",
+      "hi": "अलु मलु खाई सिरि छाई पाई ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਮੂਰਖਿ ਅੰਧੈ ਪਤਿ ਗਵਾਈ ॥",
+      "en": "moorakh a(n)dhai pat gavaiee ||",
+      "hi": "मूरखि अंधै पति गवाई ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਵਿਣੁ ਨਾਵੈ ਕਿਛੁ ਥਾਇ ਨ ਪਾਈ ॥",
+      "en": "vin naavai kichh thai na paiee ||",
+      "hi": "विणु नावै किछु थाइ न पाई ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਰਹੈ ਬੇਬਾਣੀ ਮੜੀ ਮਸਾਣੀ ॥",
+      "en": "rahai bebaanee maRee masaanee ||",
+      "hi": "रहै बेबाणी मड़ी मसाणी ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਅੰਧੁ ਨ ਜਾਣੈ ਫਿਰਿ ਪਛੁਤਾਣੀ ॥",
+      "en": "a(n)dh na jaanai fir pachhutaanee ||",
+      "hi": "अंधु न जाणै फिरि पछुताणी ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਸਤਿਗੁਰੁ ਭੇਟੇ ਸੋ ਸੁਖੁ ਪਾਏ ॥",
+      "en": "satigur bheTe so sukh paae ||",
+      "hi": "सतिगुरु भेटे सो सुखु पाए ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਹਰਿ ਕਾ ਨਾਮੁ ਮੰਨਿ ਵਸਾਏ ॥",
+      "en": "har kaa naam ma(n)n vasaae ||",
+      "hi": "हरि का नामु मंनि वसाए ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਨਾਨਕ ਨਦਰਿ ਕਰੇ ਸੋ ਪਾਏ ॥",
+      "en": "naanak nadhar kare so paae ||",
+      "hi": "नानक नदरि करे सो पाए ॥"
+    },
+    {
+      "p": 80,
+      "pn": "ਆਸ ਅੰਦੇਸੇ ਤੇ ਨਿਹਕੇਵਲੁ ਹਉਮੈ ਸਬਦਿ ਜਲਾਏ ॥੨॥",
+      "en": "aas a(n)dhese te nihakeval haumai sabadh jalaae ||2||",
+      "hi": "आस अंदेसे ते निहकेवलु हउमै सबदि जलाए ॥२॥"
+    },
+    {
+      "p": 81,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 82,
+      "pn": "ਭਗਤ ਤੇਰੈ ਮਨਿ ਭਾਵਦੇ ਦਰਿ ਸੋਹਨਿ ਕੀਰਤਿ ਗਾਵਦੇ ॥",
+      "en": "bhagat terai man bhaavadhe dhar sohan keerat gaavadhe ||",
+      "hi": "भगत तेरै मनि भावदे दरि सोहनि कीरति गावदे ॥"
+    },
+    {
+      "p": 82,
+      "pn": "ਨਾਨਕ ਕਰਮਾ ਬਾਹਰੇ ਦਰਿ ਢੋਅ ਨ ਲਹਨੑੀ ਧਾਵਦੇ ॥",
+      "en": "naanak karamaa baahare dhar ddoa na lahan(h)ee dhaavadhe ||",
+      "hi": "नानक करमा बाहरे दरि ढोअ न लहन्नी धावदे ॥"
+    },
+    {
+      "p": 82,
+      "pn": "ਇਕਿ ਮੂਲੁ ਨ ਬੁਝਨਿੑ ਆਪਣਾ ਅਣਹੋਦਾ ਆਪੁ ਗਣਾਇਦੇ ॥",
+      "en": "eik mool na bujhani(h) aapanaa anahodhaa aap ganaidhe ||",
+      "hi": "इकि मूलु न बुझनि्ि आपणा अणहोदा आपु गणाइदे ॥"
+    },
+    {
+      "p": 82,
+      "pn": "ਹਉ ਢਾਢੀ ਕਾ ਨੀਚ ਜਾਤਿ ਹੋਰਿ ਉਤਮ ਜਾਤਿ ਸਦਾਇਦੇ ॥",
+      "en": "hau ddaaddee kaa neech jaat hor utam jaat sadhaidhe ||",
+      "hi": "हउ ढाढी का नीच जाति होरि उतम जाति सदाइदे ॥"
+    },
+    {
+      "p": 82,
+      "pn": "ਤਿਨੑ ਮੰਗਾ ਜਿ ਤੁਝੈ ਧਿਆਇਦੇ ॥੯॥",
+      "en": "tin(h) ma(n)gaa j tujhai dhiaaidhe ||9||",
+      "hi": "तिन्न मंगा जि तुझै धिआइदे ॥९॥"
+    },
+    {
+      "p": 83,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 84,
+      "pn": "ਸਚੁ ਸਾਹੁ ਹਮਾਰਾ ਤੂੰ ਧਣੀ ਸਭੁ ਜਗਤੁ ਵਣਜਾਰਾ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "sach saahu hamaaraa too(n) dhanee sabh jagat vanajaaraa raam raaje ||",
+      "hi": "सचु साहु हमारा तूँ धणी सभु जगतु वणजारा राम राजे ॥"
+    },
+    {
+      "p": 84,
+      "pn": "ਸਭ ਭਾਂਡੇ ਤੁਧੈ ਸਾਜਿਆ ਵਿਚਿ ਵਸਤੁ ਹਰਿ ਥਾਰਾ ॥",
+      "en": "sabh bhaa(n)dde tudhai saajiaa vich vasat har thaaraa ||",
+      "hi": "सभ भाँडे तुधै साजिआ विचि वसतु हरि थारा ॥"
+    },
+    {
+      "p": 84,
+      "pn": "ਜੋ ਪਾਵਹਿ ਭਾਂਡੇ ਵਿਚਿ ਵਸਤੁ ਸਾ ਨਿਕਲੈ ਕਿਆ ਕੋਈ ਕਰੇ ਵੇਚਾਰਾ ॥",
+      "en": "jo paaveh bhaa(n)dde vich vasat saa nikalai kiaa koiee kare vechaaraa ||",
+      "hi": "जो पावहि भाँडे विचि वसतु सा निकलै किआ कोई करे वेचारा ॥"
+    },
+    {
+      "p": 84,
+      "pn": "ਜਨ ਨਾਨਕ ਕਉ ਹਰਿ ਬਖਸਿਆ ਹਰਿ ਭਗਤਿ ਭੰਡਾਰਾ ॥੨॥",
+      "en": "jan naanak kau har bakhasiaa har bhagat bha(n)ddaaraa ||2||",
+      "hi": "जन नानक कउ हरि बखसिआ हरि भगति भंडारा ॥२॥"
+    },
+    {
+      "p": 85,
+      "pn": "ਸਲੋਕੁ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोकु म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 86,
+      "pn": "ਕੂੜੁ ਰਾਜਾ ਕੂੜੁ ਪਰਜਾ ਕੂੜੁ ਸਭੁ ਸੰਸਾਰੁ ॥",
+      "en": "kooR raajaa kooR parajaa kooR sabh sa(n)saar ||",
+      "hi": "कूड़ु राजा कूड़ु परजा कूड़ु सभु संसारु ॥"
+    },
+    {
+      "p": 86,
+      "pn": "ਕੂੜੁ ਮੰਡਪ ਕੂੜੁ ਮਾੜੀ ਕੂੜੁ ਬੈਸਣਹਾਰੁ ॥",
+      "en": "kooR ma(n)ddap kooR maaRee kooR baisanahaar ||",
+      "hi": "कूड़ु मंडप कूड़ु माड़ी कूड़ु बैसणहारु ॥"
+    },
+    {
+      "p": 86,
+      "pn": "ਕੂੜੁ ਸੁਇਨਾ ਕੂੜੁ ਰੁਪਾ ਕੂੜੁ ਪੈਨੑਣਹਾਰੁ ॥",
+      "en": "kooR suinaa kooR rupaa kooR pain(h)nahaar ||",
+      "hi": "कूड़ु सुइना कूड़ु रुपा कूड़ु पैन्नणहारु ॥"
+    },
+    {
+      "p": 86,
+      "pn": "ਕੂੜੁ ਕਾਇਆ ਕੂੜੁ ਕਪੜੁ ਕੂੜੁ ਰੂਪੁ ਅਪਾਰੁ ॥",
+      "en": "kooR kaiaa kooR kapaR kooR roop apaar ||",
+      "hi": "कूड़ु काइआ कूड़ु कपड़ु कूड़ु रूपु अपारु ॥"
+    },
+    {
+      "p": 86,
+      "pn": "ਕੂੜੁ ਮੀਆ ਕੂੜੁ ਬੀਬੀ ਖਪਿ ਹੋਏ ਖਾਰੁ ॥",
+      "en": "kooR meeaa kooR beebee khap hoe khaar ||",
+      "hi": "कूड़ु मीआ कूड़ु बीबी खपि होए खारु ॥"
+    },
+    {
+      "p": 86,
+      "pn": "ਕੂੜਿ ਕੂੜੈ ਨੇਹੁ ਲਗਾ ਵਿਸਰਿਆ ਕਰਤਾਰੁ ॥",
+      "en": "kooR kooRai neh lagaa visariaa karataar ||",
+      "hi": "कूड़ि कूड़ै नेहु लगा विसरिआ करतारु ॥"
+    },
+    {
+      "p": 86,
+      "pn": "ਕਿਸੁ ਨਾਲਿ ਕੀਚੈ ਦੋਸਤੀ ਸਭੁ ਜਗੁ ਚਲਣਹਾਰੁ ॥",
+      "en": "kis naal keechai dhosatee sabh jag chalanahaar ||",
+      "hi": "किसु नालि कीचै दोसती सभु जगु चलणहारु ॥"
+    },
+    {
+      "p": 86,
+      "pn": "ਕੂੜੁ ਮਿਠਾ ਕੂੜੁ ਮਾਖਿਉ ਕੂੜੁ ਡੋਬੇ ਪੂਰੁ ॥",
+      "en": "kooR miThaa kooR maakhiau kooR ddobe poor ||",
+      "hi": "कूड़ु मिठा कूड़ु माखिउ कूड़ु डोबे पूरु ॥"
+    },
+    {
+      "p": 86,
+      "pn": "ਨਾਨਕੁ ਵਖਾਣੈ ਬੇਨਤੀ ਤੁਧੁ ਬਾਝੁ ਕੂੜੋ ਕੂੜੁ ॥੧॥",
+      "en": "naanak vakhaanai benatee tudh baajh kooRo kooR ||1||",
+      "hi": "नानकु वखाणै बेनती तुधु बाझु कूड़ो कूड़ु ॥१॥"
+    },
+    {
+      "p": 87,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 88,
+      "pn": "ਸਚੁ ਤਾ ਪਰੁ ਜਾਣੀਐ ਜਾ ਰਿਦੈ ਸਚਾ ਹੋਇ ॥",
+      "en": "sach taa par jaaneeaai jaa ridhai sachaa hoi ||",
+      "hi": "सचु ता परु जाणीऐ जा रिदै सचा होइ ॥"
+    },
+    {
+      "p": 88,
+      "pn": "ਕੂੜ ਕੀ ਮਲੁ ਉਤਰੈ ਤਨੁ ਕਰੇ ਹਛਾ ਧੋਇ ॥",
+      "en": "kooR kee mal utarai tan kare hachhaa dhoi ||",
+      "hi": "कूड़ की मलु उतरै तनु करे हछा धोइ ॥"
+    },
+    {
+      "p": 88,
+      "pn": "ਸਚੁ ਤਾ ਪਰੁ ਜਾਣੀਐ ਜਾ ਸਚਿ ਧਰੇ ਪਿਆਰੁ ॥",
+      "en": "sach taa par jaaneeaai jaa sach dhare piaar ||",
+      "hi": "सचु ता परु जाणीऐ जा सचि धरे पिआरु ॥"
+    },
+    {
+      "p": 88,
+      "pn": "ਨਾਉ ਸੁਣਿ ਮਨੁ ਰਹਸੀਐ ਤਾ ਪਾਏ ਮੋਖ ਦੁਆਰੁ ॥",
+      "en": "naau sun man rahaseeaai taa paae mokh dhuaar ||",
+      "hi": "नाउ सुणि मनु रहसीऐ ता पाए मोख दुआरु ॥"
+    },
+    {
+      "p": 88,
+      "pn": "ਸਚੁ ਤਾ ਪਰੁ ਜਾਣੀਐ ਜਾ ਜੁਗਤਿ ਜਾਣੈ ਜੀਉ ॥",
+      "en": "sach taa par jaaneeaai jaa jugat jaanai jeeau ||",
+      "hi": "सचु ता परु जाणीऐ जा जुगति जाणै जीउ ॥"
+    },
+    {
+      "p": 88,
+      "pn": "ਧਰਤਿ ਕਾਇਆ ਸਾਧਿ ਕੈ ਵਿਚਿ ਦੇਇ ਕਰਤਾ ਬੀਉ ॥",
+      "en": "dharat kaiaa saadh kai vich dhei karataa beeau ||",
+      "hi": "धरति काइआ साधि कै विचि देइ करता बीउ ॥"
+    },
+    {
+      "p": 88,
+      "pn": "ਸਚੁ ਤਾ ਪਰੁ ਜਾਣੀਐ ਜਾ ਸਿਖ ਸਚੀ ਲੇਇ ॥",
+      "en": "sach taa par jaaneeaai jaa sikh sachee lei ||",
+      "hi": "सचु ता परु जाणीऐ जा सिख सची लेइ ॥"
+    },
+    {
+      "p": 88,
+      "pn": "ਦਇਆ ਜਾਣੈ ਜੀਅ ਕੀ ਕਿਛੁ ਪੁੰਨੁ ਦਾਨੁ ਕਰੇਇ ॥",
+      "en": "dhiaa jaanai jeea kee kichh pu(n)n dhaan karei ||",
+      "hi": "दइआ जाणै जीअ की किछु पुँनु दानु करेइ ॥"
+    },
+    {
+      "p": 88,
+      "pn": "ਸਚੁ ਤਾਂ ਪਰੁ ਜਾਣੀਐ ਜਾ ਆਤਮ ਤੀਰਥਿ ਕਰੇ ਨਿਵਾਸੁ ॥",
+      "en": "sach taa(n) par jaaneeaai jaa aatam teerath kare nivaas ||",
+      "hi": "सचु ताँ परु जाणीऐ जा आतम तीरथि करे निवासु ॥"
+    },
+    {
+      "p": 88,
+      "pn": "ਸਤਿਗੁਰੂ ਨੋ ਪੁਛਿ ਕੈ ਬਹਿ ਰਹੈ ਕਰੇ ਨਿਵਾਸੁ ॥",
+      "en": "satiguroo no puchh kai beh rahai kare nivaas ||",
+      "hi": "सतिगुरू नो पुछि कै बहि रहै करे निवासु ॥"
+    },
+    {
+      "p": 88,
+      "pn": "ਸਚੁ ਸਭਨਾ ਹੋਇ ਦਾਰੂ ਪਾਪ ਕਢੈ ਧੋਇ ॥",
+      "en": "sach sabhanaa hoi dhaaroo paap kaddai dhoi ||",
+      "hi": "सचु सभना होइ दारू पाप कढै धोइ ॥"
+    },
+    {
+      "p": 88,
+      "pn": "ਨਾਨਕੁ ਵਖਾਣੈ ਬੇਨਤੀ ਜਿਨ ਸਚੁ ਪਲੈ ਹੋਇ ॥੨॥",
+      "en": "naanak vakhaanai benatee jin sach palai hoi ||2||",
+      "hi": "नानकु वखाणै बेनती जिन सचु पलै होइ ॥२॥"
+    },
+    {
+      "p": 89,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 90,
+      "pn": "ਦਾਨੁ ਮਹਿੰਡਾ ਤਲੀ ਖਾਕੁ ਜੇ ਮਿਲੈ ਤ ਮਸਤਕਿ ਲਾਈਐ ॥",
+      "en": "dhaan mahi(n)ddaa talee khaak je milai ta masatak laieeaai ||",
+      "hi": "दानु महिंडा तली खाकु जे मिलै त मसतकि लाईऐ ॥"
+    },
+    {
+      "p": 90,
+      "pn": "ਕੂੜਾ ਲਾਲਚੁ ਛਡੀਐ ਹੋਇ ਇਕ ਮਨਿ ਅਲਖੁ ਧਿਆਈਐ ॥",
+      "en": "kooRaa laalach chhaddeeaai hoi ik man alakh dhiaaieeaai ||",
+      "hi": "कूड़ा लालचु छडीऐ होइ इक मनि अलखु धिआईऐ ॥"
+    },
+    {
+      "p": 90,
+      "pn": "ਫਲੁ ਤੇਵੇਹੋ ਪਾਈਐ ਜੇਵੇਹੀ ਕਾਰ ਕਮਾਈਐ ॥",
+      "en": "fal teveho paieeaai jevehee kaar kamaieeaai ||",
+      "hi": "फलु तेवेहो पाईऐ जेवेही कार कमाईऐ ॥"
+    },
+    {
+      "p": 90,
+      "pn": "ਜੇ ਹੋਵੈ ਪੂਰਬਿ ਲਿਖਿਆ ਤਾ ਧੂੜਿ ਤਿਨੑਾ ਦੀ ਪਾਈਐ ॥",
+      "en": "je hovai poorab likhiaa taa dhooR tin(h)aa dhee paieeaai ||",
+      "hi": "जे होवै पूरबि लिखिआ ता धूड़ि तिन्ना दी पाईऐ ॥"
+    },
+    {
+      "p": 90,
+      "pn": "ਮਤਿ ਥੋੜੀ ਸੇਵ ਗਵਾਈਐ ॥੧੦॥",
+      "en": "mat thoRee sev gavaieeaai ||10||",
+      "hi": "मति थोड़ी सेव गवाईऐ ॥१०॥"
+    },
+    {
+      "p": 91,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 92,
+      "pn": "ਹਮ ਕਿਆ ਗੁਣ ਤੇਰੇ ਵਿਥਰਹ ਸੁਆਮੀ ਤੂੰ ਅਪਰ ਅਪਾਰੋ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "ham kiaa gun tere vithareh suaamee too(n) apar apaaro raam raaje ||",
+      "hi": "हम किआ गुण तेरे विथरह सुआमी तूँ अपर अपारो राम राजे ॥"
+    },
+    {
+      "p": 92,
+      "pn": "ਹਰਿ ਨਾਮੁ ਸਾਲਾਹਹ ਦਿਨੁ ਰਾਤਿ ਏਹਾ ਆਸ ਆਧਾਰੋ ॥",
+      "en": "har naam saalaaheh dhin raat ehaa aas aadhaaro ||",
+      "hi": "हरि नामु सालाहह दिनु राति एहा आस आधारो ॥"
+    },
+    {
+      "p": 92,
+      "pn": "ਹਮ ਮੂਰਖ ਕਿਛੂਅ ਨ ਜਾਣਹਾ ਕਿਵ ਪਾਵਹ ਪਾਰੋ ॥",
+      "en": "ham moorakh kichhooa na jaanahaa kiv paaveh paaro ||",
+      "hi": "हम मूरख किछूअ न जाणहा किव पावह पारो ॥"
+    },
+    {
+      "p": 92,
+      "pn": "ਜਨੁ ਨਾਨਕੁ ਹਰਿ ਕਾ ਦਾਸੁ ਹੈ ਹਰਿ ਦਾਸ ਪਨਿਹਾਰੋ ॥੩॥",
+      "en": "jan naanak har kaa dhaas hai har dhaas panihaaro ||3||",
+      "hi": "जनु नानकु हरि का दासु है हरि दास पनिहारो ॥३॥"
+    },
+    {
+      "p": 93,
+      "pn": "ਸਲੋਕੁ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोकु म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 94,
+      "pn": "ਸਚਿ ਕਾਲੁ ਕੂੜੁ ਵਰਤਿਆ ਕਲਿ ਕਾਲਖ ਬੇਤਾਲ ॥",
+      "en": "sach kaal kooR varatiaa kal kaalakh betaal ||",
+      "hi": "सचि कालु कूड़ु वरतिआ कलि कालख बेताल ॥"
+    },
+    {
+      "p": 94,
+      "pn": "ਬੀਉ ਬੀਜਿ ਪਤਿ ਲੈ ਗਏ ਅਬ ਕਿਉ ਉਗਵੈ ਦਾਲਿ ॥",
+      "en": "beeau beej pat lai ge ab kiau ugavai dhaal ||",
+      "hi": "बीउ बीजि पति लै गए अब किउ उगवै दालि ॥"
+    },
+    {
+      "p": 94,
+      "pn": "ਜੇ ਇਕੁ ਹੋਇ ਤ ਉਗਵੈ ਰੁਤੀ ਹੂ ਰੁਤਿ ਹੋਇ ॥",
+      "en": "je ik hoi ta ugavai rutee hoo rut hoi ||",
+      "hi": "जे इकु होइ त उगवै रुती हू रुति होइ ॥"
+    },
+    {
+      "p": 94,
+      "pn": "ਨਾਨਕ ਪਾਹੈ ਬਾਹਰਾ ਕੋਰੈ ਰੰਗੁ ਨ ਸੋਇ ॥",
+      "en": "naanak paahai baaharaa korai ra(n)g na soi ||",
+      "hi": "नानक पाहै बाहरा कोरै रंगु न सोइ ॥"
+    },
+    {
+      "p": 94,
+      "pn": "ਭੈ ਵਿਚਿ ਖੁੰਬਿ ਚੜਾਈਐ ਸਰਮੁ ਪਾਹੁ ਤਨਿ ਹੋਇ ॥",
+      "en": "bhai vich khu(n)b chaRaieeaai saram paahu tan hoi ||",
+      "hi": "भै विचि खुँबि चड़ाईऐ सरमु पाहु तनि होइ ॥"
+    },
+    {
+      "p": 94,
+      "pn": "ਨਾਨਕ ਭਗਤੀ ਜੇ ਰਪੈ ਕੂੜੈ ਸੋਇ ਨ ਕੋਇ ॥੧॥",
+      "en": "naanak bhagatee je rapai kooRai soi na koi ||1||",
+      "hi": "नानक भगती जे रपै कूड़ै सोइ न कोइ ॥१॥"
+    },
+    {
+      "p": 95,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 96,
+      "pn": "ਲਬੁ ਪਾਪੁ ਦੁਇ ਰਾਜਾ ਮਹਤਾ ਕੂੜੁ ਹੋਆ ਸਿਕਦਾਰੁ ॥",
+      "en": "lab paap dhui raajaa mahataa kooR hoaa sikadhaar ||",
+      "hi": "लबु पापु दुइ राजा महता कूड़ु होआ सिकदारु ॥"
+    },
+    {
+      "p": 96,
+      "pn": "ਕਾਮੁ ਨੇਬੁ ਸਦਿ ਪੁਛੀਐ ਬਹਿ ਬਹਿ ਕਰੇ ਬੀਚਾਰੁ ॥",
+      "en": "kaam neb sadh puchheeaai beh beh kare beechaar ||",
+      "hi": "कामु नेबु सदि पुछीऐ बहि बहि करे बीचारु ॥"
+    },
+    {
+      "p": 96,
+      "pn": "ਅੰਧੀ ਰਯਤਿ ਗਿਆਨ ਵਿਹੂਣੀ ਭਾਹਿ ਭਰੇ ਮੁਰਦਾਰੁ ॥",
+      "en": "a(n)dhee rayat giaan vihoonee bhaeh bhare muradhaar ||",
+      "hi": "अंधी रयति गिआन विहूणी भाहि भरे मुरदारु ॥"
+    },
+    {
+      "p": 96,
+      "pn": "ਗਿਆਨੀ ਨਚਹਿ ਵਾਜੇ ਵਾਵਹਿ ਰੂਪ ਕਰਹਿ ਸੀਗਾਰੁ ॥",
+      "en": "giaanee nacheh vaaje vaaveh roop kareh seegaar ||",
+      "hi": "गिआनी नचहि वाजे वावहि रूप करहि सीगारु ॥"
+    },
+    {
+      "p": 96,
+      "pn": "ਊਚੇ ਕੂਕਹਿ ਵਾਦਾ ਗਾਵਹਿ ਜੋਧਾ ਕਾ ਵੀਚਾਰੁ ॥",
+      "en": "uooche kookeh vaadhaa gaaveh jodhaa kaa veechaar ||",
+      "hi": "ऊचे कूकहि वादा गावहि जोधा का वीचारु ॥"
+    },
+    {
+      "p": 96,
+      "pn": "ਮੂਰਖ ਪੰਡਿਤ ਹਿਕਮਤਿ ਹੁਜਤਿ ਸੰਜੈ ਕਰਹਿ ਪਿਆਰੁ ॥",
+      "en": "moorakh pa(n)ddit hikamat hujat sa(n)jai kareh piaar ||",
+      "hi": "मूरख पंडित हिकमति हुजति संजै करहि पिआरु ॥"
+    },
+    {
+      "p": 96,
+      "pn": "ਧਰਮੀ ਧਰਮੁ ਕਰਹਿ ਗਾਵਾਵਹਿ ਮੰਗਹਿ ਮੋਖ ਦੁਆਰੁ ॥",
+      "en": "dharamee dharam kareh gaavaaveh ma(n)geh mokh dhuaar ||",
+      "hi": "धरमी धरमु करहि गावावहि मंगहि मोख दुआरु ॥"
+    },
+    {
+      "p": 96,
+      "pn": "ਜਤੀ ਸਦਾਵਹਿ ਜੁਗਤਿ ਨ ਜਾਣਹਿ ਛਡਿ ਬਹਹਿ ਘਰ ਬਾਰੁ ॥",
+      "en": "jatee sadhaaveh jugat na jaaneh chhadd baheh ghar baar ||",
+      "hi": "जती सदावहि जुगति न जाणहि छडि बहहि घर बारु ॥"
+    },
+    {
+      "p": 96,
+      "pn": "ਸਭੁ ਕੋ ਪੂਰਾ ਆਪੇ ਹੋਵੈ ਘਟਿ ਨ ਕੋਈ ਆਖੈ ॥",
+      "en": "sabh ko pooraa aape hovai ghaT na koiee aakhai ||",
+      "hi": "सभु को पूरा आपे होवै घटि न कोई आखै ॥"
+    },
+    {
+      "p": 96,
+      "pn": "ਪਤਿ ਪਰਵਾਣਾ ਪਿਛੈ ਪਾਈਐ ਤਾ ਨਾਨਕ ਤੋਲਿਆ ਜਾਪੈ ॥੨॥",
+      "en": "pat paravaanaa pichhai paieeaai taa naanak toliaa jaapai ||2||",
+      "hi": "पति परवाणा पिछै पाईऐ ता नानक तोलिआ जापै ॥२॥"
+    },
+    {
+      "p": 97,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 98,
+      "pn": "ਵਦੀ ਸੁ ਵਜਗਿ ਨਾਨਕਾ ਸਚਾ ਵੇਖੈ ਸੋਇ ॥",
+      "en": "vadhee su vajag naanakaa sachaa vekhai soi ||",
+      "hi": "वदी सु वजगि नानका सचा वेखै सोइ ॥"
+    },
+    {
+      "p": 98,
+      "pn": "ਸਭਨੀ ਛਾਲਾ ਮਾਰੀਆ ਕਰਤਾ ਕਰੇ ਸੁ ਹੋਇ ॥",
+      "en": "sabhanee chhaalaa maareeaa karataa kare su hoi ||",
+      "hi": "सभनी छाला मारीआ करता करे सु होइ ॥"
+    },
+    {
+      "p": 98,
+      "pn": "ਅਗੈ ਜਾਤਿ ਨ ਜੋਰੁ ਹੈ ਅਗੈ ਜੀਉ ਨਵੇ ॥",
+      "en": "agai jaat na jor hai agai jeeau nave ||",
+      "hi": "अगै जाति न जोरु है अगै जीउ नवे ॥"
+    },
+    {
+      "p": 98,
+      "pn": "ਜਿਨ ਕੀ ਲੇਖੈ ਪਤਿ ਪਵੈ ਚੰਗੇ ਸੇਈ ਕੇਇ ॥੩॥",
+      "en": "jin kee lekhai pat pavai cha(n)ge seiee kei ||3||",
+      "hi": "जिन की लेखै पति पवै चंगे सेई केइ ॥३॥"
+    },
+    {
+      "p": 99,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 100,
+      "pn": "ਧੁਰਿ ਕਰਮੁ ਜਿਨਾ ਕਉ ਤੁਧੁ ਪਾਇਆ ਤਾ ਤਿਨੀ ਖਸਮੁ ਧਿਆਇਆ ॥",
+      "en": "dhur karam jinaa kau tudh paiaa taa tinee khasam dhiaaiaa ||",
+      "hi": "धुरि करमु जिना कउ तुधु पाइआ ता तिनी खसमु धिआइआ ॥"
+    },
+    {
+      "p": 100,
+      "pn": "ਏਨਾ ਜੰਤਾ ਕੈ ਵਸਿ ਕਿਛੁ ਨਾਹੀ ਤੁਧੁ ਵੇਕੀ ਜਗਤੁ ਉਪਾਇਆ ॥",
+      "en": "enaa ja(n)taa kai vas kichh naahee tudh vekee jagat upaiaa ||",
+      "hi": "एना जंता कै वसि किछु नाही तुधु वेकी जगतु उपाइआ ॥"
+    },
+    {
+      "p": 100,
+      "pn": "ਇਕਨਾ ਨੋ ਤੂੰ ਮੇਲਿ ਲੈਹਿ ਇਕਿ ਆਪਹੁ ਤੁਧੁ ਖੁਆਇਆ ॥",
+      "en": "eikanaa no too(n) mel laih ik aapahu tudh khuaaiaa ||",
+      "hi": "इकना नो तूँ मेलि लैहि इकि आपहु तुधु खुआइआ ॥"
+    },
+    {
+      "p": 100,
+      "pn": "ਗੁਰ ਕਿਰਪਾ ਤੇ ਜਾਣਿਆ ਜਿਥੈ ਤੁਧੁ ਆਪੁ ਬੁਝਾਇਆ ॥",
+      "en": "gur kirapaa te jaaniaa jithai tudh aap bujhaiaa ||",
+      "hi": "गुर किरपा ते जाणिआ जिथै तुधु आपु बुझाइआ ॥"
+    },
+    {
+      "p": 100,
+      "pn": "ਸਹਜੇ ਹੀ ਸਚਿ ਸਮਾਇਆ ॥੧੧॥",
+      "en": "sahaje hee sach samaiaa ||11||",
+      "hi": "सहजे ही सचि समाइआ ॥११॥"
+    },
+    {
+      "p": 101,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 102,
+      "pn": "ਜਿਉ ਭਾਵੈ ਤਿਉ ਰਾਖਿ ਲੈ ਹਮ ਸਰਣਿ ਪ੍ਰਭ ਆਏ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "jiau bhaavai tiau raakh lai ham saran prabh aae raam raaje ||",
+      "hi": "जिउ भावै तिउ राखि लै हम सरणि प्रभ आए राम राजे ॥"
+    },
+    {
+      "p": 102,
+      "pn": "ਹਮ ਭੂਲਿ ਵਿਗਾੜਹ ਦਿਨਸੁ ਰਾਤਿ ਹਰਿ ਲਾਜ ਰਖਾਏ ॥",
+      "en": "ham bhool vigaaReh dhinas raat har laaj rakhaae ||",
+      "hi": "हम भूलि विगाड़ह दिनसु राति हरि लाज रखाए ॥"
+    },
+    {
+      "p": 102,
+      "pn": "ਹਮ ਬਾਰਿਕ ਤੂੰ ਗੁਰੁ ਪਿਤਾ ਹੈ ਦੇ ਮਤਿ ਸਮਝਾਏ ॥",
+      "en": "ham baarik too(n) gur pitaa hai dhe mat samajhaae ||",
+      "hi": "हम बारिक तूँ गुरु पिता है दे मति समझाए ॥"
+    },
+    {
+      "p": 102,
+      "pn": "ਜਨੁ ਨਾਨਕੁ ਦਾਸੁ ਹਰਿ ਕਾਂਢਿਆ ਹਰਿ ਪੈਜ ਰਖਾਏ ॥੪॥੧੦॥੧੭॥",
+      "en": "jan naanak dhaas har kaa(n)ddiaa har paij rakhaae ||4||10||17||",
+      "hi": "जनु नानकु दासु हरि काँढिआ हरि पैज रखाए ॥४॥१०॥१७॥"
+    },
+    {
+      "p": 103,
+      "pn": "ਸਲੋਕੁ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोकु म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 104,
+      "pn": "ਦੁਖੁ ਦਾਰੂ ਸੁਖੁ ਰੋਗੁ ਭਇਆ ਜਾ ਸੁਖੁ ਤਾਮਿ ਨ ਹੋਈ ॥",
+      "en": "dhukh dhaaroo sukh rog bhiaa jaa sukh taam na hoiee ||",
+      "hi": "दुखु दारू सुखु रोगु भइआ जा सुखु तामि न होई ॥"
+    },
+    {
+      "p": 104,
+      "pn": "ਤੂੰ ਕਰਤਾ ਕਰਣਾ ਮੈ ਨਾਹੀ ਜਾ ਹਉ ਕਰੀ ਨ ਹੋਈ ॥੧॥",
+      "en": "too(n) karataa karanaa mai naahee jaa hau karee na hoiee ||1||",
+      "hi": "तूँ करता करणा मै नाही जा हउ करी न होई ॥१॥"
+    },
+    {
+      "p": 104,
+      "pn": "ਬਲਿਹਾਰੀ ਕੁਦਰਤਿ ਵਸਿਆ ॥",
+      "en": "balihaaree kudharat vasiaa ||",
+      "hi": "बलिहारी कुदरति वसिआ ॥"
+    },
+    {
+      "p": 104,
+      "pn": "ਤੇਰਾ ਅੰਤੁ ਨ ਜਾਈ ਲਖਿਆ ॥੧॥ ਰਹਾਉ ॥",
+      "en": "teraa a(n)t na jaiee lakhiaa ||1|| rahaau ||",
+      "hi": "तेरा अंतु न जाई लखिआ ॥१॥ रहाउ ॥"
+    },
+    {
+      "p": 104,
+      "pn": "ਜਾਤਿ ਮਹਿ ਜੋਤਿ ਜੋਤਿ ਮਹਿ ਜਾਤਾ ਅਕਲ ਕਲਾ ਭਰਪੂਰਿ ਰਹਿਆ ॥",
+      "en": "jaat meh jot jot meh jaataa akal kalaa bharapoor rahiaa ||",
+      "hi": "जाति महि जोति जोति महि जाता अकल कला भरपूरि रहिआ ॥"
+    },
+    {
+      "p": 104,
+      "pn": "ਤੂੰ ਸਚਾ ਸਾਹਿਬੁ ਸਿਫਤਿ ਸੁਆਲਿੑਉ ਜਿਨਿ ਕੀਤੀ ਸੋ ਪਾਰਿ ਪਇਆ ॥",
+      "en": "too(n) sachaa saahib sifat suaali(h)au jin keetee so paar piaa ||",
+      "hi": "तूँ सचा साहिबु सिफति सुआलि्िउ जिनि कीती सो पारि पइआ ॥"
+    },
+    {
+      "p": 104,
+      "pn": "ਕਹੁ ਨਾਨਕ ਕਰਤੇ ਕੀਆ ਬਾਤਾ ਜੋ ਕਿਛੁ ਕਰਣਾ ਸੁ ਕਰਿ ਰਹਿਆ ॥੨॥",
+      "en": "kahu naanak karate keeaa baataa jo kichh karanaa su kar rahiaa ||2||",
+      "hi": "कहु नानक करते कीआ बाता जो किछु करणा सु करि रहिआ ॥२॥"
+    },
+    {
+      "p": 105,
+      "pn": "ਮਃ ੨ ॥",
+      "en": "mahalaa doojaa ||",
+      "hi": "म: २ ॥",
+      "s": "mahalaa doojaa ||"
+    },
+    {
+      "p": 106,
+      "pn": "ਜੋਗ ਸਬਦੰ ਗਿਆਨ ਸਬਦੰ ਬੇਦ ਸਬਦੰ ਬ੍ਰਾਹਮਣਹ ॥",
+      "en": "jog sabadha(n) giaan sabadha(n) bedh sabadha(n) braahamaneh ||",
+      "hi": "जोग सबदं गिआन सबदं बेद सबदं ब्राहमणह ॥"
+    },
+    {
+      "p": 106,
+      "pn": "ਖਤ੍ਰੀ ਸਬਦੰ ਸੂਰ ਸਬਦੰ ਸੂਦ੍ਰ ਸਬਦੰ ਪਰਾ ਕ੍ਰਿਤਹ ॥",
+      "en": "khatree sabadha(n) soor sabadha(n) soodhr sabadha(n) paraa kirateh ||",
+      "hi": "खत्री सबदं सूर सबदं सूद्र सबदं परा कृतह ॥"
+    },
+    {
+      "p": 106,
+      "pn": "ਸਰਬ ਸਬਦੰ ਏਕ ਸਬਦੰ ਜੇ ਕੋ ਜਾਣੈ ਭੇਉ ॥ ਨਾਨਕੁ ਤਾ ਕਾ ਦਾਸੁ ਹੈ ਸੋਈ ਨਿਰੰਜਨ ਦੇਉ ॥੩॥",
+      "en": "sarab sabadha(n) ek sabadha(n) je ko jaanai bheau || naanak taa kaa dhaas hai soiee nira(n)jan dheau ||3||",
+      "hi": "सरब सबदं एक सबदं जे को जाणै भेउ ॥ नानकु ता का दासु है सोई निरंजन देउ ॥३॥"
+    },
+    {
+      "p": 107,
+      "pn": "ਮਃ ੨ ॥",
+      "en": "mahalaa doojaa ||",
+      "hi": "म: २ ॥",
+      "s": "mahalaa doojaa ||"
+    },
+    {
+      "p": 108,
+      "pn": "ਏਕ ਕ੍ਰਿਸਨੰ ਸਰਬ ਦੇਵਾ ਦੇਵ ਦੇਵਾ ਤ ਆਤਮਾ ॥",
+      "en": "ek kirasana(n) sarab dhevaa dhev dhevaa ta aatamaa ||",
+      "hi": "एक कृसनं सरब देवा देव देवा त आतमा ॥"
+    },
+    {
+      "p": 108,
+      "pn": "ਆਤਮਾ ਬਾਸੁਦੇਵਸੵਿ ਜੇ ਕੋ ਜਾਣੈ ਭੇਉ ॥ ਨਾਨਕੁ ਤਾ ਕਾ ਦਾਸੁ ਹੈ ਸੋਈ ਨਿਰੰਜਨ ਦੇਉ ॥੪॥",
+      "en": "aatamaa baasudhevasiye je ko jaanai bheau || naanak taa kaa dhaas hai soiee nira(n)jan dheau ||4||",
+      "hi": "आतमा बासुदेवसि्य जे को जाणै भेउ ॥ नानकु ता का दासु है सोई निरंजन देउ ॥४॥"
+    },
+    {
+      "p": 109,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 110,
+      "pn": "ਕੁੰਭੇ ਬਧਾ ਜਲੁ ਰਹੈ ਜਲ ਬਿਨੁ ਕੁੰਭੁ ਨ ਹੋਇ ॥",
+      "en": "ku(n)bhe badhaa jal rahai jal bin ku(n)bh na hoi ||",
+      "hi": "कुँभे बधा जलु रहै जल बिनु कुँभु न होइ ॥"
+    },
+    {
+      "p": 110,
+      "pn": "ਗਿਆਨ ਕਾ ਬਧਾ ਮਨੁ ਰਹੈ ਗੁਰ ਬਿਨੁ ਗਿਆਨੁ ਨ ਹੋਇ ॥੫॥",
+      "en": "giaan kaa badhaa man rahai gur bin giaan na hoi ||5||",
+      "hi": "गिआन का बधा मनु रहै गुर बिनु गिआनु न होइ ॥५॥"
+    },
+    {
+      "p": 111,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 112,
+      "pn": "ਪੜਿਆ ਹੋਵੈ ਗੁਨਹਗਾਰੁ ਤਾ ਓਮੀ ਸਾਧੁ ਨ ਮਾਰੀਐ ॥",
+      "en": "paRiaa hovai gunahagaar taa omee saadh na maareeaai ||",
+      "hi": "पड़िआ होवै गुनहगारु ता ओमी साधु न मारीऐ ॥"
+    },
+    {
+      "p": 112,
+      "pn": "ਜੇਹਾ ਘਾਲੇ ਘਾਲਣਾ ਤੇਵੇਹੋ ਨਾਉ ਪਚਾਰੀਐ ॥",
+      "en": "jehaa ghaale ghaalanaa teveho naau pachaareeaai ||",
+      "hi": "जेहा घाले घालणा तेवेहो नाउ पचारीऐ ॥"
+    },
+    {
+      "p": 112,
+      "pn": "ਐਸੀ ਕਲਾ ਨ ਖੇਡੀਐ ਜਿਤੁ ਦਰਗਹ ਗਇਆ ਹਾਰੀਐ ॥",
+      "en": "aaisee kalaa na kheddeeaai jit dharageh giaa haareeaai ||",
+      "hi": "ऐसी कला न खेडीऐ जितु दरगह गइआ हारीऐ ॥"
+    },
+    {
+      "p": 112,
+      "pn": "ਪੜਿਆ ਅਤੈ ਓਮੀਆ ਵੀਚਾਰੁ ਅਗੈ ਵੀਚਾਰੀਐ ॥",
+      "en": "paRiaa atai omeeaa veechaar agai veechaareeaai ||",
+      "hi": "पड़िआ अतै ओमीआ वीचारु अगै वीचारीऐ ॥"
+    },
+    {
+      "p": 112,
+      "pn": "ਮੁਹਿ ਚਲੈ ਸੁ ਅਗੈ ਮਾਰੀਐ ॥੧੨॥",
+      "en": "muh chalai su agai maareeaai ||12||",
+      "hi": "मुहि चलै सु अगै मारीऐ ॥१२॥"
+    },
+    {
+      "p": 113,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 114,
+      "pn": "ਆਸਾ ਮਹਲਾ ੪ ॥",
+      "en": "aasaa mahalaa chauthhaa ||",
+      "hi": "आसा महला ४ ॥",
+      "s": "aasaa mahalaa chauthhaa ||"
+    },
+    {
+      "p": 115,
+      "pn": "ਜਿਨ ਮਸਤਕਿ ਧੁਰਿ ਹਰਿ ਲਿਖਿਆ ਤਿਨਾ ਸਤਿਗੁਰੁ ਮਿਲਿਆ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "jin masatak dhur har likhiaa tinaa satigur miliaa raam raaje ||",
+      "hi": "जिन मसतकि धुरि हरि लिखिआ तिना सतिगुरु मिलिआ राम राजे ॥"
+    },
+    {
+      "p": 115,
+      "pn": "ਅਗਿਆਨੁ ਅੰਧੇਰਾ ਕਟਿਆ ਗੁਰ ਗਿਆਨੁ ਘਟਿ ਬਲਿਆ ॥",
+      "en": "agiaan a(n)dheraa kaTiaa gur giaan ghaT baliaa ||",
+      "hi": "अगिआनु अंधेरा कटिआ गुर गिआनु घटि बलिआ ॥"
+    },
+    {
+      "p": 115,
+      "pn": "ਹਰਿ ਲਧਾ ਰਤਨੁ ਪਦਾਰਥੋ ਫਿਰਿ ਬਹੁੜਿ ਨ ਚਲਿਆ ॥",
+      "en": "har ladhaa ratan padhaaratho fir bahuR na chaliaa ||",
+      "hi": "हरि लधा रतनु पदारथो फिरि बहुड़ि न चलिआ ॥"
+    },
+    {
+      "p": 115,
+      "pn": "ਜਨ ਨਾਨਕ ਨਾਮੁ ਆਰਾਧਿਆ ਆਰਾਧਿ ਹਰਿ ਮਿਲਿਆ ॥੧॥",
+      "en": "jan naanak naam aaraadhiaa aaraadh har miliaa ||1||",
+      "hi": "जन नानक नामु आराधिआ आराधि हरि मिलिआ ॥१॥"
+    },
+    {
+      "p": 116,
+      "pn": "ਸਲੋਕੁ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोकु म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 117,
+      "pn": "ਨਾਨਕ ਮੇਰੁ ਸਰੀਰ ਕਾ ਇਕੁ ਰਥੁ ਇਕੁ ਰਥਵਾਹੁ ॥",
+      "en": "naanak mer sareer kaa ik rath ik rathavaahu ||",
+      "hi": "नानक मेरु सरीर का इकु रथु इकु रथवाहु ॥"
+    },
+    {
+      "p": 117,
+      "pn": "ਜੁਗੁ ਜੁਗੁ ਫੇਰਿ ਵਟਾਈਅਹਿ ਗਿਆਨੀ ਬੁਝਹਿ ਤਾਹਿ ॥",
+      "en": "jug jug fer vaTaie'eeh giaanee bujheh taeh ||",
+      "hi": "जुगु जुगु फेरि वटाईअहि गिआनी बुझहि ताहि ॥"
+    },
+    {
+      "p": 117,
+      "pn": "ਸਤਜੁਗਿ ਰਥੁ ਸੰਤੋਖ ਕਾ ਧਰਮੁ ਅਗੈ ਰਥਵਾਹੁ ॥",
+      "en": "satajug rath sa(n)tokh kaa dharam agai rathavaahu ||",
+      "hi": "सतजुगि रथु संतोख का धरमु अगै रथवाहु ॥"
+    },
+    {
+      "p": 117,
+      "pn": "ਤ੍ਰੇਤੈ ਰਥੁ ਜਤੈ ਕਾ ਜੋਰੁ ਅਗੈ ਰਥਵਾਹੁ ॥",
+      "en": "tretai rath jatai kaa jor agai rathavaahu ||",
+      "hi": "त्रेतै रथु जतै का जोरु अगै रथवाहु ॥"
+    },
+    {
+      "p": 117,
+      "pn": "ਦੁਆਪੁਰਿ ਰਥੁ ਤਪੈ ਕਾ ਸਤੁ ਅਗੈ ਰਥਵਾਹੁ ॥",
+      "en": "dhuaapur rath tapai kaa sat agai rathavaahu ||",
+      "hi": "दुआपुरि रथु तपै का सतु अगै रथवाहु ॥"
+    },
+    {
+      "p": 117,
+      "pn": "ਕਲਜੁਗਿ ਰਥੁ ਅਗਨਿ ਕਾ ਕੂੜੁ ਅਗੈ ਰਥਵਾਹੁ ॥੧॥",
+      "en": "kalajug rath agan kaa kooR agai rathavaahu ||1||",
+      "hi": "कलजुगि रथु अगनि का कूड़ु अगै रथवाहु ॥१॥"
+    },
+    {
+      "p": 118,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 119,
+      "pn": "ਸਾਮ ਕਹੈ ਸੇਤੰਬਰੁ ਸੁਆਮੀ ਸਚ ਮਹਿ ਆਛੈ ਸਾਚਿ ਰਹੇ ॥ ਸਭੁ ਕੋ ਸਚਿ ਸਮਾਵੈ ॥",
+      "en": "saam kahai seta(n)bar suaamee sach meh aachhai saach rahe || sabh ko sach samaavai ||",
+      "hi": "साम कहै सेतंबरु सुआमी सच महि आछै साचि रहे ॥ सभु को सचि समावै ॥"
+    },
+    {
+      "p": 119,
+      "pn": "ਰਿਗੁ ਕਹੈ ਰਹਿਆ ਭਰਪੂਰਿ ॥",
+      "en": "rig kahai rahiaa bharapoor ||",
+      "hi": "रिगु कहै रहिआ भरपूरि ॥"
+    },
+    {
+      "p": 119,
+      "pn": "ਰਾਮ ਨਾਮੁ ਦੇਵਾ ਮਹਿ ਸੂਰੁ ॥",
+      "en": "raam naam dhevaa meh soor ||",
+      "hi": "राम नामु देवा महि सूरु ॥"
+    },
+    {
+      "p": 119,
+      "pn": "ਨਾਇ ਲਇਐ ਪਰਾਛਤ ਜਾਹਿ ॥",
+      "en": "nai liaai paraachhat jaeh ||",
+      "hi": "नाइ लइऐ पराछत जाहि ॥"
+    },
+    {
+      "p": 119,
+      "pn": "ਨਾਨਕ ਤਉ ਮੋਖੰਤਰੁ ਪਾਹਿ ॥",
+      "en": "naanak tau mokha(n)tar paeh ||",
+      "hi": "नानक तउ मोखंतरु पाहि ॥"
+    },
+    {
+      "p": 119,
+      "pn": "ਜੁਜ ਮਹਿ ਜੋਰਿ ਛਲੀ ਚੰਦ੍ਰਾਵਲਿ ਕਾਨੑ ਕ੍ਰਿਸਨੁ ਜਾਦਮੁ ਭਇਆ ॥",
+      "en": "juj meh jor chhalee cha(n)dhraaval kaan(h) kirasan jaadham bhiaa ||",
+      "hi": "जुज महि जोरि छली चंद्रावलि कान्न कृसनु जादमु भइआ ॥"
+    },
+    {
+      "p": 119,
+      "pn": "ਪਾਰਜਾਤੁ ਗੋਪੀ ਲੈ ਆਇਆ ਬਿੰਦ੍ਰਾਬਨ ਮਹਿ ਰੰਗੁ ਕੀਆ ॥",
+      "en": "paarajaat gopee lai aaiaa bi(n)dhraaban meh ra(n)g keeaa ||",
+      "hi": "पारजातु गोपी लै आइआ बिंद्राबन महि रंगु कीआ ॥"
+    },
+    {
+      "p": 119,
+      "pn": "ਕਲਿ ਮਹਿ ਬੇਦੁ ਅਥਰਬਣੁ ਹੂਆ ਨਾਉ ਖੁਦਾਈ ਅਲਹੁ ਭਇਆ ॥",
+      "en": "kal meh bedh atharaban hooaa naau khudhaiee alahu bhiaa ||",
+      "hi": "कलि महि बेदु अथरबणु हूआ नाउ खुदाई अलहु भइआ ॥"
+    },
+    {
+      "p": 119,
+      "pn": "ਨੀਲ ਬਸਤ੍ਰ ਲੇ ਕਪੜੇ ਪਹਿਰੇ ਤੁਰਕ ਪਠਾਣੀ ਅਮਲੁ ਕੀਆ ॥",
+      "en": "neel basatr le kapaRe pahire turak paThaanee amal keeaa ||",
+      "hi": "नील बसत्र ले कपड़े पहिरे तुरक पठाणी अमलु कीआ ॥"
+    },
+    {
+      "p": 119,
+      "pn": "ਚਾਰੇ ਵੇਦ ਹੋਏ ਸਚਿਆਰ ॥",
+      "en": "chaare vedh hoe sachiaar ||",
+      "hi": "चारे वेद होए सचिआर ॥"
+    },
+    {
+      "p": 119,
+      "pn": "ਪੜਹਿ ਗੁਣਹਿ ਤਿਨੑ ਚਾਰ ਵੀਚਾਰ ॥",
+      "en": "paReh guneh tin(h) chaar veechaar ||",
+      "hi": "पड़हि गुणहि तिन्न चार वीचार ॥"
+    },
+    {
+      "p": 119,
+      "pn": "ਭਾਉ ਭਗਤਿ ਕਰਿ ਨੀਚੁ ਸਦਾਏ ॥ ਤਉ ਨਾਨਕ ਮੋਖੰਤਰੁ ਪਾਏ ॥੨॥",
+      "en": "bhaau bhagat kar neech sadhaae || tau naanak mokha(n)tar paae ||2||",
+      "hi": "भाउ भगति करि नीचु सदाए ॥ तउ नानक मोखंतरु पाए ॥२॥"
+    },
+    {
+      "p": 120,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 121,
+      "pn": "ਸਤਿਗੁਰ ਵਿਟਹੁ ਵਾਰਿਆ ਜਿਤੁ ਮਿਲਿਐ ਖਸਮੁ ਸਮਾਲਿਆ ॥",
+      "en": "satigur viTahu vaariaa jit miliaai khasam samaaliaa ||",
+      "hi": "सतिगुर विटहु वारिआ जितु मिलिऐ खसमु समालिआ ॥"
+    },
+    {
+      "p": 121,
+      "pn": "ਜਿਨਿ ਕਰਿ ਉਪਦੇਸੁ ਗਿਆਨ ਅੰਜਨੁ ਦੀਆ ਇਨੑੀ ਨੇਤ੍ਰੀ ਜਗਤੁ ਨਿਹਾਲਿਆ ॥",
+      "en": "jin kar upadhes giaan a(n)jan dheeaa in(h)ee netree jagat nihaaliaa ||",
+      "hi": "जिनि करि उपदेसु गिआन अंजनु दीआ इन्नी नेत्री जगतु निहालिआ ॥"
+    },
+    {
+      "p": 121,
+      "pn": "ਖਸਮੁ ਛੋਡਿ ਦੂਜੈ ਲਗੇ ਡੁਬੇ ਸੇ ਵਣਜਾਰਿਆ ॥",
+      "en": "khasam chhodd dhoojai lage ddube se vanajaariaa ||",
+      "hi": "खसमु छोडि दूजै लगे डुबे से वणजारिआ ॥"
+    },
+    {
+      "p": 121,
+      "pn": "ਸਤਿਗੁਰੂ ਹੈ ਬੋਹਿਥਾ ਵਿਰਲੈ ਕਿਨੈ ਵੀਚਾਰਿਆ ॥",
+      "en": "satiguroo hai bohithaa viralai kinai veechaariaa ||",
+      "hi": "सतिगुरू है बोहिथा विरलै किनै वीचारिआ ॥"
+    },
+    {
+      "p": 121,
+      "pn": "ਕਰਿ ਕਿਰਪਾ ਪਾਰਿ ਉਤਾਰਿਆ ॥੧੩॥",
+      "en": "kar kirapaa paar utaariaa ||13||",
+      "hi": "करि किरपा पारि उतारिआ ॥१३॥"
+    },
+    {
+      "p": 122,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 123,
+      "pn": "ਜਿਨੀ ਐਸਾ ਹਰਿ ਨਾਮੁ ਨ ਚੇਤਿਓ ਸੇ ਕਾਹੇ ਜਗਿ ਆਏ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "jinee aaisaa har naam na chetio se kaahe jag aae raam raaje ||",
+      "hi": "जिनी ऐसा हरि नामु न चेतिओ से काहे जगि आए राम राजे ॥"
+    },
+    {
+      "p": 123,
+      "pn": "ਇਹੁ ਮਾਣਸ ਜਨਮੁ ਦੁਲੰਭੁ ਹੈ ਨਾਮ ਬਿਨਾ ਬਿਰਥਾ ਸਭੁ ਜਾਏ ॥",
+      "en": "eih maanas janam dhula(n)bh hai naam binaa birathaa sabh jaae ||",
+      "hi": "इहु माणस जनमु दुलंभु है नाम बिना बिरथा सभु जाए ॥"
+    },
+    {
+      "p": 123,
+      "pn": "ਹੁਣਿ ਵਤੈ ਹਰਿ ਨਾਮੁ ਨ ਬੀਜਿਓ ਅਗੈ ਭੁਖਾ ਕਿਆ ਖਾਏ ॥",
+      "en": "hun vatai har naam na beejio agai bhukhaa kiaa khaae ||",
+      "hi": "हुणि वतै हरि नामु न बीजिओ अगै भुखा किआ खाए ॥"
+    },
+    {
+      "p": 123,
+      "pn": "ਮਨਮੁਖਾ ਨੋ ਫਿਰਿ ਜਨਮੁ ਹੈ ਨਾਨਕ ਹਰਿ ਭਾਏ ॥੨॥",
+      "en": "manmukhaa no fir janam hai naanak har bhaae ||2||",
+      "hi": "मनमुखा नो फिरि जनमु है नानक हरि भाए ॥२॥"
+    },
+    {
+      "p": 124,
+      "pn": "ਸਲੋਕੁ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोकु म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 125,
+      "pn": "ਸਿੰਮਲ ਰੁਖੁ ਸਰਾਇਰਾ ਅਤਿ ਦੀਰਘ ਅਤਿ ਮੁਚੁ ॥",
+      "en": "si(n)mal rukh sarairaa at dheeragh at much ||",
+      "hi": "सिंमल रुखु सराइरा अति दीरघ अति मुचु ॥"
+    },
+    {
+      "p": 125,
+      "pn": "ਓਇ ਜਿ ਆਵਹਿ ਆਸ ਕਰਿ ਜਾਹਿ ਨਿਰਾਸੇ ਕਿਤੁ ॥",
+      "en": "oi j aaveh aas kar jaeh niraase kit ||",
+      "hi": "ओइ जि आवहि आस करि जाहि निरासे कितु ॥"
+    },
+    {
+      "p": 125,
+      "pn": "ਫਲ ਫਿਕੇ ਫੁਲ ਬਕਬਕੇ ਕੰਮਿ ਨ ਆਵਹਿ ਪਤ ॥",
+      "en": "fal fike ful bakabake ka(n)m na aaveh pat ||",
+      "hi": "फल फिके फुल बकबके कंमि न आवहि पत ॥"
+    },
+    {
+      "p": 125,
+      "pn": "ਮਿਠਤੁ ਨੀਵੀ ਨਾਨਕਾ ਗੁਣ ਚੰਗਿਆਈਆ ਤਤੁ ॥",
+      "en": "miThat neevee naanakaa gun cha(n)giaaieeaa tat ||",
+      "hi": "मिठतु नीवी नानका गुण चंगिआईआ ततु ॥"
+    },
+    {
+      "p": 125,
+      "pn": "ਸਭੁ ਕੋ ਨਿਵੈ ਆਪ ਕਉ ਪਰ ਕਉ ਨਿਵੈ ਨ ਕੋਇ ॥",
+      "en": "sabh ko nivai aap kau par kau nivai na koi ||",
+      "hi": "सभु को निवै आप कउ पर कउ निवै न कोइ ॥"
+    },
+    {
+      "p": 125,
+      "pn": "ਧਰਿ ਤਾਰਾਜੂ ਤੋਲੀਐ ਨਿਵੈ ਸੁ ਗਉਰਾ ਹੋਇ ॥",
+      "en": "dhar taaraajoo toleeaai nivai su gauraa hoi ||",
+      "hi": "धरि ताराजू तोलीऐ निवै सु गउरा होइ ॥"
+    },
+    {
+      "p": 125,
+      "pn": "ਅਪਰਾਧੀ ਦੂਣਾ ਨਿਵੈ ਜੋ ਹੰਤਾ ਮਿਰਗਾਹਿ ॥",
+      "en": "aparaadhee dhoonaa nivai jo ha(n)taa miragaeh ||",
+      "hi": "अपराधी दूणा निवै जो हंता मिरगाहि ॥"
+    },
+    {
+      "p": 125,
+      "pn": "ਸੀਸਿ ਨਿਵਾਇਐ ਕਿਆ ਥੀਐ ਜਾ ਰਿਦੈ ਕੁਸੁਧੇ ਜਾਹਿ ॥੧॥",
+      "en": "sees nivaiaai kiaa theeaai jaa ridhai kusudhe jaeh ||1||",
+      "hi": "सीसि निवाइऐ किआ थीऐ जा रिदै कुसुधे जाहि ॥१॥"
+    },
+    {
+      "p": 126,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 127,
+      "pn": "ਪੜਿ ਪੁਸਤਕ ਸੰਧਿਆ ਬਾਦੰ ॥",
+      "en": "paR pusatak sa(n)dhiaa baadha(n) ||",
+      "hi": "पड़ि पुसतक संधिआ बादं ॥"
+    },
+    {
+      "p": 127,
+      "pn": "ਸਿਲ ਪੂਜਸਿ ਬਗੁਲ ਸਮਾਧੰ ॥",
+      "en": "sil poojas bagul samaadha(n) ||",
+      "hi": "सिल पूजसि बगुल समाधं ॥"
+    },
+    {
+      "p": 127,
+      "pn": "ਮੁਖਿ ਝੂਠ ਬਿਭੂਖਣ ਸਾਰੰ ॥",
+      "en": "mukh jhooTh bibhookhan saara(n) ||",
+      "hi": "मुखि झूठ बिभूखण सारं ॥"
+    },
+    {
+      "p": 127,
+      "pn": "ਤ੍ਰੈਪਾਲ ਤਿਹਾਲ ਬਿਚਾਰੰ ॥",
+      "en": "traipaal tihaal bichaara(n) ||",
+      "hi": "त्रैपाल तिहाल बिचारं ॥"
+    },
+    {
+      "p": 127,
+      "pn": "ਗਲਿ ਮਾਲਾ ਤਿਲਕੁ ਲਿਲਾਟੰ ॥",
+      "en": "gal maalaa tilak lilaaTa(n) ||",
+      "hi": "गलि माला तिलकु लिलाटं ॥"
+    },
+    {
+      "p": 127,
+      "pn": "ਦੁਇ ਧੋਤੀ ਬਸਤ੍ਰ ਕਪਾਟੰ ॥",
+      "en": "dhui dhotee basatr kapaaTa(n) ||",
+      "hi": "दुइ धोती बसत्र कपाटं ॥"
+    },
+    {
+      "p": 127,
+      "pn": "ਜੇ ਜਾਣਸਿ ਬ੍ਰਹਮੰ ਕਰਮੰ ॥",
+      "en": "je jaanas brahama(n) karama(n) ||",
+      "hi": "जे जाणसि ब्रहमं करमं ॥"
+    },
+    {
+      "p": 127,
+      "pn": "ਸਭਿ ਫੋਕਟ ਨਿਸਚਉ ਕਰਮੰ ॥",
+      "en": "sabh fokaT nisachau karama(n) ||",
+      "hi": "सभि फोकट निसचउ करमं ॥"
+    },
+    {
+      "p": 127,
+      "pn": "ਕਹੁ ਨਾਨਕ ਨਿਹਚਉ ਧਿਆਵੈ ॥",
+      "en": "kahu naanak nihachau dhiaavai ||",
+      "hi": "कहु नानक निहचउ धिआवै ॥"
+    },
+    {
+      "p": 127,
+      "pn": "ਵਿਣੁ ਸਤਿਗੁਰ ਵਾਟ ਨ ਪਾਵੈ ॥੨॥",
+      "en": "vin satigur vaaT na paavai ||2||",
+      "hi": "विणु सतिगुर वाट न पावै ॥२॥"
+    },
+    {
+      "p": 128,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 129,
+      "pn": "ਕਪੜੁ ਰੂਪੁ ਸੁਹਾਵਣਾ ਛਡਿ ਦੁਨੀਆ ਅੰਦਰਿ ਜਾਵਣਾ ॥",
+      "en": "kapaR roop suhaavanaa chhadd dhuneeaa a(n)dhar jaavanaa ||",
+      "hi": "कपड़ु रूपु सुहावणा छडि दुनीआ अंदरि जावणा ॥"
+    },
+    {
+      "p": 129,
+      "pn": "ਮੰਦਾ ਚੰਗਾ ਆਪਣਾ ਆਪੇ ਹੀ ਕੀਤਾ ਪਾਵਣਾ ॥",
+      "en": "ma(n)dhaa cha(n)gaa aapanaa aape hee keetaa paavanaa ||",
+      "hi": "मंदा चंगा आपणा आपे ही कीता पावणा ॥"
+    },
+    {
+      "p": 129,
+      "pn": "ਹੁਕਮ ਕੀਏ ਮਨਿ ਭਾਵਦੇ ਰਾਹਿ ਭੀੜੈ ਅਗੈ ਜਾਵਣਾ ॥",
+      "en": "hukam ke'ee man bhaavadhe raeh bheeRai agai jaavanaa ||",
+      "hi": "हुकम कीए मनि भावदे राहि भीड़ै अगै जावणा ॥"
+    },
+    {
+      "p": 129,
+      "pn": "ਨੰਗਾ ਦੋਜਕਿ ਚਾਲਿਆ ਤਾ ਦਿਸੈ ਖਰਾ ਡਰਾਵਣਾ ॥",
+      "en": "na(n)gaa dhojak chaaliaa taa dhisai kharaa ddaraavanaa ||",
+      "hi": "नंगा दोजकि चालिआ ता दिसै खरा डरावणा ॥"
+    },
+    {
+      "p": 129,
+      "pn": "ਕਰਿ ਅਉਗਣ ਪਛੋਤਾਵਣਾ ॥੧੪॥",
+      "en": "kar aaugan pachhotaavanaa ||14||",
+      "hi": "करि अउगण पछोतावणा ॥१४॥"
+    },
+    {
+      "p": 130,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 131,
+      "pn": "ਤੂੰ ਹਰਿ ਤੇਰਾ ਸਭੁ ਕੋ ਸਭਿ ਤੁਧੁ ਉਪਾਏ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "too(n) har teraa sabh ko sabh tudh upaae raam raaje ||",
+      "hi": "तूँ हरि तेरा सभु को सभि तुधु उपाए राम राजे ॥"
+    },
+    {
+      "p": 131,
+      "pn": "ਕਿਛੁ ਹਾਥਿ ਕਿਸੈ ਦੈ ਕਿਛੁ ਨਾਹੀ ਸਭਿ ਚਲਹਿ ਚਲਾਏ ॥",
+      "en": "kichh haath kisai dhai kichh naahee sabh chaleh chalaae ||",
+      "hi": "किछु हाथि किसै दै किछु नाही सभि चलहि चलाए ॥"
+    },
+    {
+      "p": 131,
+      "pn": "ਜਿਨੑ ਤੂੰ ਮੇਲਹਿ ਪਿਆਰੇ ਸੇ ਤੁਧੁ ਮਿਲਹਿ ਜੋ ਹਰਿ ਮਨਿ ਭਾਏ ॥",
+      "en": "jin(h) too(n) meleh piaare se tudh mileh jo har man bhaae ||",
+      "hi": "जिन्न तूँ मेलहि पिआरे से तुधु मिलहि जो हरि मनि भाए ॥"
+    },
+    {
+      "p": 131,
+      "pn": "ਜਨ ਨਾਨਕ ਸਤਿਗੁਰੁ ਭੇਟਿਆ ਹਰਿ ਨਾਮਿ ਤਰਾਏ ॥੩॥",
+      "en": "jan naanak satigur bheTiaa har naam taraae ||3||",
+      "hi": "जन नानक सतिगुरु भेटिआ हरि नामि तराए ॥३॥"
+    },
+    {
+      "p": 132,
+      "pn": "ਸਲੋਕੁ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोकु म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 133,
+      "pn": "ਦਇਆ ਕਪਾਹ ਸੰਤੋਖੁ ਸੂਤੁ ਜਤੁ ਗੰਢੀ ਸਤੁ ਵਟੁ ॥",
+      "en": "dhiaa kapaeh sa(n)tokh soot jat ga(n)ddee sat vaT ||",
+      "hi": "दइआ कपाह संतोखु सूतु जतु गंढी सतु वटु ॥"
+    },
+    {
+      "p": 133,
+      "pn": "ਏਹੁ ਜਨੇਊ ਜੀਅ ਕਾ ਹਈ ਤ ਪਾਡੇ ਘਤੁ ॥",
+      "en": "eh janeuoo jeea kaa hiee ta paadde ghat ||",
+      "hi": "एहु जनेऊ जीअ का हई त पाडे घतु ॥"
+    },
+    {
+      "p": 133,
+      "pn": "ਨਾ ਏਹੁ ਤੁਟੈ ਨਾ ਮਲੁ ਲਗੈ ਨਾ ਏਹੁ ਜਲੈ ਨ ਜਾਇ ॥",
+      "en": "naa eh tuTai naa mal lagai naa eh jalai na jai ||",
+      "hi": "ना एहु तुटै ना मलु लगै ना एहु जलै न जाइ ॥"
+    },
+    {
+      "p": 133,
+      "pn": "ਧੰਨੁ ਸੁ ਮਾਣਸ ਨਾਨਕਾ ਜੋ ਗਲਿ ਚਲੇ ਪਾਇ ॥",
+      "en": "dha(n)nu su maanas naanakaa jo gal chale pai ||",
+      "hi": "धंनु सु माणस नानका जो गलि चले पाइ ॥"
+    },
+    {
+      "p": 133,
+      "pn": "ਚਉਕੜਿ ਮੁਲਿ ਅਣਾਇਆ ਬਹਿ ਚਉਕੈ ਪਾਇਆ ॥",
+      "en": "chaukaR mul anaiaa beh chaukai paiaa ||",
+      "hi": "चउकड़ि मुलि अणाइआ बहि चउकै पाइआ ॥"
+    },
+    {
+      "p": 133,
+      "pn": "ਸਿਖਾ ਕੰਨਿ ਚੜਾਈਆ ਗੁਰੁ ਬ੍ਰਾਹਮਣੁ ਥਿਆ ॥",
+      "en": "sikhaa ka(n)n chaRaieeaa gur braahaman thiaa ||",
+      "hi": "सिखा कंनि चड़ाईआ गुरु ब्राहमणु थिआ ॥"
+    },
+    {
+      "p": 133,
+      "pn": "ਓਹੁ ਮੁਆ ਓਹੁ ਝੜਿ ਪਇਆ ਵੇਤਗਾ ਗਇਆ ॥੧॥",
+      "en": "oh muaa oh jhaR piaa vetagaa giaa ||1||",
+      "hi": "ओहु मुआ ओहु झड़ि पइआ वेतगा गइआ ॥१॥"
+    },
+    {
+      "p": 134,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 135,
+      "pn": "ਲਖ ਚੋਰੀਆ ਲਖ ਜਾਰੀਆ ਲਖ ਕੂੜੀਆ ਲਖ ਗਾਲਿ ॥",
+      "en": "lakh choreeaa lakh jaareeaa lakh kooReeaa lakh gaal ||",
+      "hi": "लख चोरीआ लख जारीआ लख कूड़ीआ लख गालि ॥"
+    },
+    {
+      "p": 135,
+      "pn": "ਲਖ ਠਗੀਆ ਪਹਿਨਾਮੀਆ ਰਾਤਿ ਦਿਨਸੁ ਜੀਅ ਨਾਲਿ ॥",
+      "en": "lakh Thageeaa pahinaameeaa raat dhinas jeea naal ||",
+      "hi": "लख ठगीआ पहिनामीआ राति दिनसु जीअ नालि ॥"
+    },
+    {
+      "p": 135,
+      "pn": "ਤਗੁ ਕਪਾਹਹੁ ਕਤੀਐ ਬਾਮੑਣੁ ਵਟੇ ਆਇ ॥",
+      "en": "tag kapaahahu kateeaai baam(h)n vaTe aai ||",
+      "hi": "तगु कपाहहु कतीऐ बाम्मणु वटे आइ ॥"
+    },
+    {
+      "p": 135,
+      "pn": "ਕੁਹਿ ਬਕਰਾ ਰਿੰਨਿੑ ਖਾਇਆ ਸਭੁ ਕੋ ਆਖੈ ਪਾਇ ॥",
+      "en": "kuh bakaraa ri(n)ni(h) khaiaa sabh ko aakhai pai ||",
+      "hi": "कुहि बकरा रिंनि्ि खाइआ सभु को आखै पाइ ॥"
+    },
+    {
+      "p": 135,
+      "pn": "ਹੋਇ ਪੁਰਾਣਾ ਸੁਟੀਐ ਭੀ ਫਿਰਿ ਪਾਈਐ ਹੋਰੁ ॥",
+      "en": "hoi puraanaa suTeeaai bhee fir paieeaai hor ||",
+      "hi": "होइ पुराणा सुटीऐ भी फिरि पाईऐ होरु ॥"
+    },
+    {
+      "p": 135,
+      "pn": "ਨਾਨਕ ਤਗੁ ਨ ਤੁਟਈ ਜੇ ਤਗਿ ਹੋਵੈ ਜੋਰੁ ॥੨॥",
+      "en": "naanak tag na tuTiee je tag hovai jor ||2||",
+      "hi": "नानक तगु न तुटई जे तगि होवै जोरु ॥२॥"
+    },
+    {
+      "p": 136,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 137,
+      "pn": "ਨਾਇ ਮੰਨਿਐ ਪਤਿ ਊਪਜੈ ਸਾਲਾਹੀ ਸਚੁ ਸੂਤੁ ॥",
+      "en": "nai ma(n)niaai pat uoopajai saalaahee sach soot ||",
+      "hi": "नाइ मंनिऐ पति ऊपजै सालाही सचु सूतु ॥"
+    },
+    {
+      "p": 137,
+      "pn": "ਦਰਗਹ ਅੰਦਰਿ ਪਾਈਐ ਤਗੁ ਨ ਤੂਟਸਿ ਪੂਤ ॥੩॥",
+      "en": "dharageh a(n)dhar paieeaai tag na tooTas poot ||3||",
+      "hi": "दरगह अंदरि पाईऐ तगु न तूटसि पूत ॥३॥"
+    },
+    {
+      "p": 138,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 139,
+      "pn": "ਤਗੁ ਨ ਇੰਦ੍ਰੀ ਤਗੁ ਨ ਨਾਰੀ ॥",
+      "en": "tag na i(n)dhree tag na naaree ||",
+      "hi": "तगु न इंद्री तगु न नारी ॥"
+    },
+    {
+      "p": 139,
+      "pn": "ਭਲਕੇ ਥੁਕ ਪਵੈ ਨਿਤ ਦਾੜੀ ॥",
+      "en": "bhalake thuk pavai nit dhaaRee ||",
+      "hi": "भलके थुक पवै नित दाड़ी ॥"
+    },
+    {
+      "p": 139,
+      "pn": "ਤਗੁ ਨ ਪੈਰੀ ਤਗੁ ਨ ਹਥੀ ॥",
+      "en": "tag na pairee tag na hathee ||",
+      "hi": "तगु न पैरी तगु न हथी ॥"
+    },
+    {
+      "p": 139,
+      "pn": "ਤਗੁ ਨ ਜਿਹਵਾ ਤਗੁ ਨ ਅਖੀ ॥",
+      "en": "tag na jihavaa tag na akhee ||",
+      "hi": "तगु न जिहवा तगु न अखी ॥"
+    },
+    {
+      "p": 139,
+      "pn": "ਵੇਤਗਾ ਆਪੇ ਵਤੈ ॥",
+      "en": "vetagaa aape vatai ||",
+      "hi": "वेतगा आपे वतै ॥"
+    },
+    {
+      "p": 139,
+      "pn": "ਵਟਿ ਧਾਗੇ ਅਵਰਾ ਘਤੈ ॥",
+      "en": "vaT dhaage avaraa ghatai ||",
+      "hi": "वटि धागे अवरा घतै ॥"
+    },
+    {
+      "p": 139,
+      "pn": "ਲੈ ਭਾੜਿ ਕਰੇ ਵੀਆਹੁ ॥",
+      "en": "lai bhaaR kare veeaahu ||",
+      "hi": "लै भाड़ि करे वीआहु ॥"
+    },
+    {
+      "p": 139,
+      "pn": "ਕਢਿ ਕਾਗਲੁ ਦਸੇ ਰਾਹੁ ॥",
+      "en": "kadd kaagal dhase raahu ||",
+      "hi": "कढि कागलु दसे राहु ॥"
+    },
+    {
+      "p": 139,
+      "pn": "ਸੁਣਿ ਵੇਖਹੁ ਲੋਕਾ ਏਹੁ ਵਿਡਾਣੁ ॥",
+      "en": "sun vekhahu lokaa eh viddaan ||",
+      "hi": "सुणि वेखहु लोका एहु विडाणु ॥"
+    },
+    {
+      "p": 139,
+      "pn": "ਮਨਿ ਅੰਧਾ ਨਾਉ ਸੁਜਾਣੁ ॥੪॥",
+      "en": "man a(n)dhaa naau sujaan ||4||",
+      "hi": "मनि अंधा नाउ सुजाणु ॥४॥"
+    },
+    {
+      "p": 140,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 141,
+      "pn": "ਸਾਹਿਬੁ ਹੋਇ ਦਇਆਲੁ ਕਿਰਪਾ ਕਰੇ ਤਾ ਸਾਈ ਕਾਰ ਕਰਾਇਸੀ ॥",
+      "en": "saahib hoi dhiaal kirapaa kare taa saiee kaar karaisee ||",
+      "hi": "साहिबु होइ दइआलु किरपा करे ता साई कार कराइसी ॥"
+    },
+    {
+      "p": 141,
+      "pn": "ਸੋ ਸੇਵਕੁ ਸੇਵਾ ਕਰੇ ਜਿਸ ਨੋ ਹੁਕਮੁ ਮਨਾਇਸੀ ॥",
+      "en": "so sevak sevaa kare jis no hukam manaisee ||",
+      "hi": "सो सेवकु सेवा करे जिस नो हुकमु मनाइसी ॥"
+    },
+    {
+      "p": 141,
+      "pn": "ਹੁਕਮਿ ਮੰਨਿਐ ਹੋਵੈ ਪਰਵਾਣੁ ਤਾ ਖਸਮੈ ਕਾ ਮਹਲੁ ਪਾਇਸੀ ॥",
+      "en": "hukam ma(n)niaai hovai paravaan taa khasamai kaa mahal paisee ||",
+      "hi": "हुकमि मंनिऐ होवै परवाणु ता खसमै का महलु पाइसी ॥"
+    },
+    {
+      "p": 141,
+      "pn": "ਖਸਮੈ ਭਾਵੈ ਸੋ ਕਰੇ ਮਨਹੁ ਚਿੰਦਿਆ ਸੋ ਫਲੁ ਪਾਇਸੀ ॥",
+      "en": "khasamai bhaavai so kare manahu chi(n)dhiaa so fal paisee ||",
+      "hi": "खसमै भावै सो करे मनहु चिंदिआ सो फलु पाइसी ॥"
+    },
+    {
+      "p": 141,
+      "pn": "ਤਾ ਦਰਗਹ ਪੈਧਾ ਜਾਇਸੀ ॥੧੫॥",
+      "en": "taa dharageh paidhaa jaisee ||15||",
+      "hi": "ता दरगह पैधा जाइसी ॥१५॥"
+    },
+    {
+      "p": 142,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 143,
+      "pn": "ਕੋਈ ਗਾਵੈ ਰਾਗੀ ਨਾਦੀ ਬੇਦੀ ਬਹੁ ਭਾਤਿ ਕਰਿ ਨਹੀ ਹਰਿ ਹਰਿ ਭੀਜੈ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "koiee gaavai raagee naadhee bedhee bahu bhaat kar nahee har har bheejai raam raaje ||",
+      "hi": "कोई गावै रागी नादी बेदी बहु भाति करि नही हरि हरि भीजै राम राजे ॥"
+    },
+    {
+      "p": 143,
+      "pn": "ਜਿਨਾ ਅੰਤਰਿ ਕਪਟੁ ਵਿਕਾਰੁ ਹੈ ਤਿਨਾ ਰੋਇ ਕਿਆ ਕੀਜੈ ॥",
+      "en": "jinaa a(n)tar kapaT vikaar hai tinaa roi kiaa keejai ||",
+      "hi": "जिना अंतरि कपटु विकारु है तिना रोइ किआ कीजै ॥"
+    },
+    {
+      "p": 143,
+      "pn": "ਹਰਿ ਕਰਤਾ ਸਭੁ ਕਿਛੁ ਜਾਣਦਾ ਸਿਰਿ ਰੋਗ ਹਥੁ ਦੀਜੈ ॥",
+      "en": "har karataa sabh kichh jaanadhaa sir rog hath dheejai ||",
+      "hi": "हरि करता सभु किछु जाणदा सिरि रोग हथु दीजै ॥"
+    },
+    {
+      "p": 143,
+      "pn": "ਜਿਨਾ ਨਾਨਕ ਗੁਰਮੁਖਿ ਹਿਰਦਾ ਸੁਧੁ ਹੈ ਹਰਿ ਭਗਤਿ ਹਰਿ ਲੀਜੈ ॥੪॥੧੧॥੧੮॥",
+      "en": "jinaa naanak gurmukh hiradhaa sudh hai har bhagat har leejai ||4||11||18||",
+      "hi": "जिना नानक गुरमुखि हिरदा सुधु है हरि भगति हरि लीजै ॥४॥११॥१८॥"
+    },
+    {
+      "p": 144,
+      "pn": "ਸਲੋਕ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोक म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 145,
+      "pn": "ਗਊ ਬਿਰਾਹਮਣ ਕਉ ਕਰੁ ਲਾਵਹੁ ਗੋਬਰਿ ਤਰਣੁ ਨ ਜਾਈ ॥",
+      "en": "guoo biraahaman kau kar laavahu gobar taran na jaiee ||",
+      "hi": "गऊ बिराहमण कउ करु लावहु गोबरि तरणु न जाई ॥"
+    },
+    {
+      "p": 145,
+      "pn": "ਧੋਤੀ ਟਿਕਾ ਤੈ ਜਪਮਾਲੀ ਧਾਨੁ ਮਲੇਛਾਂ ਖਾਈ ॥",
+      "en": "dhotee Tikaa tai japamaalee dhaan malechhaa(n) khaiee ||",
+      "hi": "धोती टिका तै जपमाली धानु मलेछाँ खाई ॥"
+    },
+    {
+      "p": 145,
+      "pn": "ਅੰਤਰਿ ਪੂਜਾ ਪੜਹਿ ਕਤੇਬਾ ਸੰਜਮੁ ਤੁਰਕਾ ਭਾਈ ॥",
+      "en": "a(n)tar poojaa paReh katebaa sa(n)jam turakaa bhaiee ||",
+      "hi": "अंतरि पूजा पड़हि कतेबा संजमु तुरका भाई ॥"
+    },
+    {
+      "p": 145,
+      "pn": "ਛੋਡੀਲੇ ਪਾਖੰਡਾ ॥",
+      "en": "chhoddeele paakha(n)ddaa ||",
+      "hi": "छोडीले पाखंडा ॥"
+    },
+    {
+      "p": 145,
+      "pn": "ਨਾਮਿ ਲਇਐ ਜਾਹਿ ਤਰੰਦਾ ॥੧॥",
+      "en": "naam liaai jaeh tara(n)dhaa ||1||",
+      "hi": "नामि लइऐ जाहि तरंदा ॥१॥"
+    },
+    {
+      "p": 146,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 147,
+      "pn": "ਮਾਣਸ ਖਾਣੇ ਕਰਹਿ ਨਿਵਾਜ ॥",
+      "en": "maanas khaane kareh nivaaj ||",
+      "hi": "माणस खाणे करहि निवाज ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਛੁਰੀ ਵਗਾਇਨਿ ਤਿਨ ਗਲਿ ਤਾਗ ॥",
+      "en": "chhuree vagain tin gal taag ||",
+      "hi": "छुरी वगाइनि तिन गलि ताग ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਤਿਨ ਘਰਿ ਬ੍ਰਹਮਣ ਪੂਰਹਿ ਨਾਦ ॥",
+      "en": "tin ghar brahaman pooreh naadh ||",
+      "hi": "तिन घरि ब्रहमण पूरहि नाद ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਉਨੑਾ ਭਿ ਆਵਹਿ ਓਈ ਸਾਦ ॥",
+      "en": "aun(h)aa bh aaveh oiee saadh ||",
+      "hi": "उन्ना भि आवहि ओई साद ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਕੂੜੀ ਰਾਸਿ ਕੂੜਾ ਵਾਪਾਰੁ ॥",
+      "en": "kooRee raas kooRaa vaapaar ||",
+      "hi": "कूड़ी रासि कूड़ा वापारु ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਕੂੜੁ ਬੋਲਿ ਕਰਹਿ ਆਹਾਰੁ ॥",
+      "en": "kooR bol kareh aahaar ||",
+      "hi": "कूड़ु बोलि करहि आहारु ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਸਰਮ ਧਰਮ ਕਾ ਡੇਰਾ ਦੂਰਿ ॥",
+      "en": "saram dharam kaa dderaa dhoor ||",
+      "hi": "सरम धरम का डेरा दूरि ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਨਾਨਕ ਕੂੜੁ ਰਹਿਆ ਭਰਪੂਰਿ ॥",
+      "en": "naanak kooR rahiaa bharapoor ||",
+      "hi": "नानक कूड़ु रहिआ भरपूरि ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਮਥੈ ਟਿਕਾ ਤੇੜਿ ਧੋਤੀ ਕਖਾਈ ॥",
+      "en": "mathai Tikaa teR dhotee kakhaiee ||",
+      "hi": "मथै टिका तेड़ि धोती कखाई ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਹਥਿ ਛੁਰੀ ਜਗਤ ਕਾਸਾਈ ॥",
+      "en": "hath chhuree jagat kaasaiee ||",
+      "hi": "हथि छुरी जगत कासाई ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਨੀਲ ਵਸਤ੍ਰ ਪਹਿਰਿ ਹੋਵਹਿ ਪਰਵਾਣੁ ॥",
+      "en": "neel vasatr pahir hoveh paravaan ||",
+      "hi": "नील वसत्र पहिरि होवहि परवाणु ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਮਲੇਛ ਧਾਨੁ ਲੇ ਪੂਜਹਿ ਪੁਰਾਣੁ ॥",
+      "en": "malechh dhaan le poojeh puraan ||",
+      "hi": "मलेछ धानु ले पूजहि पुराणु ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਅਭਾਖਿਆ ਕਾ ਕੁਠਾ ਬਕਰਾ ਖਾਣਾ ॥",
+      "en": "abhaakhiaa kaa kuThaa bakaraa khaanaa ||",
+      "hi": "अभाखिआ का कुठा बकरा खाणा ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਚਉਕੇ ਉਪਰਿ ਕਿਸੈ ਨ ਜਾਣਾ ॥",
+      "en": "chauke upar kisai na jaanaa ||",
+      "hi": "चउके उपरि किसै न जाणा ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਦੇ ਕੈ ਚਉਕਾ ਕਢੀ ਕਾਰ ॥",
+      "en": "dhe kai chaukaa kaddee kaar ||",
+      "hi": "दे कै चउका कढी कार ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਉਪਰਿ ਆਇ ਬੈਠੇ ਕੂੜਿਆਰ ॥",
+      "en": "aupar aai baiThe kooRiaar ||",
+      "hi": "उपरि आइ बैठे कूड़िआर ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਮਤੁ ਭਿਟੈ ਵੇ ਮਤੁ ਭਿਟੈ ॥ ਇਹੁ ਅੰਨੁ ਅਸਾਡਾ ਫਿਟੈ ॥",
+      "en": "mat bhiTai ve mat bhiTai || ih a(n)n asaaddaa fiTai ||",
+      "hi": "मतु भिटै वे मतु भिटै ॥ इहु अंनु असाडा फिटै ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਤਨਿ ਫਿਟੈ ਫੇੜ ਕਰੇਨਿ ॥",
+      "en": "tan fiTai feR karen ||",
+      "hi": "तनि फिटै फेड़ करेनि ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਮਨਿ ਜੂਠੈ ਚੁਲੀ ਭਰੇਨਿ ॥",
+      "en": "man jooThai chulee bharen ||",
+      "hi": "मनि जूठै चुली भरेनि ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਕਹੁ ਨਾਨਕ ਸਚੁ ਧਿਆਈਐ ॥",
+      "en": "kahu naanak sach dhiaaieeaai ||",
+      "hi": "कहु नानक सचु धिआईऐ ॥"
+    },
+    {
+      "p": 147,
+      "pn": "ਸੁਚਿ ਹੋਵੈ ਤਾ ਸਚੁ ਪਾਈਐ ॥੨॥",
+      "en": "such hovai taa sach paieeaai ||2||",
+      "hi": "सुचि होवै ता सचु पाईऐ ॥२॥"
+    },
+    {
+      "p": 148,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 149,
+      "pn": "ਚਿਤੈ ਅੰਦਰਿ ਸਭੁ ਕੋ ਵੇਖਿ ਨਦਰੀ ਹੇਠਿ ਚਲਾਇਦਾ ॥",
+      "en": "chitai a(n)dhar sabh ko vekh nadharee heTh chalaidhaa ||",
+      "hi": "चितै अंदरि सभु को वेखि नदरी हेठि चलाइदा ॥"
+    },
+    {
+      "p": 149,
+      "pn": "ਆਪੇ ਦੇ ਵਡਿਆਈਆ ਆਪੇ ਹੀ ਕਰਮ ਕਰਾਇਦਾ ॥",
+      "en": "aape dhe vaddiaaieeaa aape hee karam karaidhaa ||",
+      "hi": "आपे दे वडिआईआ आपे ही करम कराइदा ॥"
+    },
+    {
+      "p": 149,
+      "pn": "ਵਡਹੁ ਵਡਾ ਵਡ ਮੇਦਨੀ ਸਿਰੇ ਸਿਰਿ ਧੰਧੈ ਲਾਇਦਾ ॥",
+      "en": "vaddahu vaddaa vadd medhanee sire sir dha(n)dhai laidhaa ||",
+      "hi": "वडहु वडा वड मेदनी सिरे सिरि धंधै लाइदा ॥"
+    },
+    {
+      "p": 149,
+      "pn": "ਨਦਰਿ ਉਪਠੀ ਜੇ ਕਰੇ ਸੁਲਤਾਨਾ ਘਾਹੁ ਕਰਾਇਦਾ ॥",
+      "en": "nadhar upaThee je kare sulataanaa ghaahu karaidhaa ||",
+      "hi": "नदरि उपठी जे करे सुलताना घाहु कराइदा ॥"
+    },
+    {
+      "p": 149,
+      "pn": "ਦਰਿ ਮੰਗਨਿ ਭਿਖ ਨ ਪਾਇਦਾ ॥੧੬॥",
+      "en": "dhar ma(n)gan bhikh na paidhaa ||16||",
+      "hi": "दरि मंगनि भिख न पाइदा ॥१६॥"
+    },
+    {
+      "p": 150,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 151,
+      "pn": "ਆਸਾ ਮਹਲਾ ੪ ॥",
+      "en": "aasaa mahalaa chauthhaa ||",
+      "hi": "आसा महला ४ ॥",
+      "s": "aasaa mahalaa chauthhaa ||"
+    },
+    {
+      "p": 152,
+      "pn": "ਜਿਨ ਅੰਤਰਿ ਹਰਿ ਹਰਿ ਪ੍ਰੀਤਿ ਹੈ ਤੇ ਜਨ ਸੁਘੜ ਸਿਆਣੇ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "jin a(n)tar har har preet hai te jan sughaR siaane raam raaje ||",
+      "hi": "जिन अंतरि हरि हरि प्रीति है ते जन सुघड़ सिआणे राम राजे ॥"
+    },
+    {
+      "p": 152,
+      "pn": "ਜੇ ਬਾਹਰਹੁ ਭੁਲਿ ਚੁਕਿ ਬੋਲਦੇ ਭੀ ਖਰੇ ਹਰਿ ਭਾਣੇ ॥",
+      "en": "je baaharahu bhul chuk boladhe bhee khare har bhaane ||",
+      "hi": "जे बाहरहु भुलि चुकि बोलदे भी खरे हरि भाणे ॥"
+    },
+    {
+      "p": 152,
+      "pn": "ਹਰਿ ਸੰਤਾ ਨੋ ਹੋਰੁ ਥਾਉ ਨਾਹੀ ਹਰਿ ਮਾਣੁ ਨਿਮਾਣੇ ॥",
+      "en": "har sa(n)taa no hor thaau naahee har maan nimaane ||",
+      "hi": "हरि संता नो होरु थाउ नाही हरि माणु निमाणे ॥"
+    },
+    {
+      "p": 152,
+      "pn": "ਜਨ ਨਾਨਕ ਨਾਮੁ ਦੀਬਾਣੁ ਹੈ ਹਰਿ ਤਾਣੁ ਸਤਾਣੇ ॥੧॥",
+      "en": "jan naanak naam dheebaan hai har taan sataane ||1||",
+      "hi": "जन नानक नामु दीबाणु है हरि ताणु सताणे ॥१॥"
+    },
+    {
+      "p": 153,
+      "pn": "ਸਲੋਕੁ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोकु म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 154,
+      "pn": "ਜੇ ਮੋਹਾਕਾ ਘਰੁ ਮੁਹੈ ਘਰੁ ਮੁਹਿ ਪਿਤਰੀ ਦੇਇ ॥",
+      "en": "je mohaakaa ghar muhai ghar muh pitaree dhei ||",
+      "hi": "जे मोहाका घरु मुहै घरु मुहि पितरी देइ ॥"
+    },
+    {
+      "p": 154,
+      "pn": "ਅਗੈ ਵਸਤੁ ਸਿਞਾਣੀਐ ਪਿਤਰੀ ਚੋਰ ਕਰੇਇ ॥",
+      "en": "agai vasat sin(j)aaneeaai pitaree chor karei ||",
+      "hi": "अगै वसतु सिञाणीऐ पितरी चोर करेइ ॥"
+    },
+    {
+      "p": 154,
+      "pn": "ਵਢੀਅਹਿ ਹਥ ਦਲਾਲ ਕੇ ਮੁਸਫੀ ਏਹ ਕਰੇਇ ॥",
+      "en": "vadde'eeh hath dhalaal ke musafee eh karei ||",
+      "hi": "वढीअहि हथ दलाल के मुसफी एह करेइ ॥"
+    },
+    {
+      "p": 154,
+      "pn": "ਨਾਨਕ ਅਗੈ ਸੋ ਮਿਲੈ ਜਿ ਖਟੇ ਘਾਲੇ ਦੇਇ ॥੧॥",
+      "en": "naanak agai so milai j khaTe ghaale dhei ||1||",
+      "hi": "नानक अगै सो मिलै जि खटे घाले देइ ॥१॥"
+    },
+    {
+      "p": 155,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 156,
+      "pn": "ਜਿਉ ਜੋਰੂ ਸਿਰਨਾਵਣੀ ਆਵੈ ਵਾਰੋ ਵਾਰ ॥",
+      "en": "jiau joroo siranaavanee aavai vaaro vaar ||",
+      "hi": "जिउ जोरू सिरनावणी आवै वारो वार ॥"
+    },
+    {
+      "p": 156,
+      "pn": "ਜੂਠੇ ਜੂਠਾ ਮੁਖਿ ਵਸੈ ਨਿਤ ਨਿਤ ਹੋਇ ਖੁਆਰੁ ॥",
+      "en": "jooThe jooThaa mukh vasai nit nit hoi khuaar ||",
+      "hi": "जूठे जूठा मुखि वसै नित नित होइ खुआरु ॥"
+    },
+    {
+      "p": 156,
+      "pn": "ਸੂਚੇ ਏਹਿ ਨ ਆਖੀਅਹਿ ਬਹਨਿ ਜਿ ਪਿੰਡਾ ਧੋਇ ॥",
+      "en": "sooche eh na aakhe'eeh bahan j pi(n)ddaa dhoi ||",
+      "hi": "सूचे एहि न आखीअहि बहनि जि पिंडा धोइ ॥"
+    },
+    {
+      "p": 156,
+      "pn": "ਸੂਚੇ ਸੇਈ ਨਾਨਕਾ ਜਿਨ ਮਨਿ ਵਸਿਆ ਸੋਇ ॥੨॥",
+      "en": "sooche seiee naanakaa jin man vasiaa soi ||2||",
+      "hi": "सूचे सेई नानका जिन मनि वसिआ सोइ ॥२॥"
+    },
+    {
+      "p": 157,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 158,
+      "pn": "ਤੁਰੇ ਪਲਾਣੇ ਪਉਣ ਵੇਗ ਹਰ ਰੰਗੀ ਹਰਮ ਸਵਾਰਿਆ ॥",
+      "en": "ture palaane paun veg har ra(n)gee haram savaariaa ||",
+      "hi": "तुरे पलाणे पउण वेग हर रंगी हरम सवारिआ ॥"
+    },
+    {
+      "p": 158,
+      "pn": "ਕੋਠੇ ਮੰਡਪ ਮਾੜੀਆ ਲਾਇ ਬੈਠੇ ਕਰਿ ਪਾਸਾਰਿਆ ॥",
+      "en": "koThe ma(n)ddap maaReeaa lai baiThe kar paasaariaa ||",
+      "hi": "कोठे मंडप माड़ीआ लाइ बैठे करि पासारिआ ॥"
+    },
+    {
+      "p": 158,
+      "pn": "ਚੀਜ ਕਰਨਿ ਮਨਿ ਭਾਵਦੇ ਹਰਿ ਬੁਝਨਿ ਨਾਹੀ ਹਾਰਿਆ ॥",
+      "en": "cheej karan man bhaavadhe har bujhan naahee haariaa ||",
+      "hi": "चीज करनि मनि भावदे हरि बुझनि नाही हारिआ ॥"
+    },
+    {
+      "p": 158,
+      "pn": "ਕਰਿ ਫੁਰਮਾਇਸਿ ਖਾਇਆ ਵੇਖਿ ਮਹਲਤਿ ਮਰਣੁ ਵਿਸਾਰਿਆ ॥",
+      "en": "kar furamais khaiaa vekh mahalat maran visaariaa ||",
+      "hi": "करि फुरमाइसि खाइआ वेखि महलति मरणु विसारिआ ॥"
+    },
+    {
+      "p": 158,
+      "pn": "ਜਰੁ ਆਈ ਜੋਬਨਿ ਹਾਰਿਆ ॥੧੭॥",
+      "en": "jar aaiee joban haariaa ||17||",
+      "hi": "जरु आई जोबनि हारिआ ॥१७॥"
+    },
+    {
+      "p": 159,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 160,
+      "pn": "ਜਿਥੈ ਜਾਇ ਬਹੈ ਮੇਰਾ ਸਤਿਗੁਰੂ ਸੋ ਥਾਨੁ ਸੁਹਾਵਾ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "jithai jai bahai meraa satiguroo so thaan suhaavaa raam raaje ||",
+      "hi": "जिथै जाइ बहै मेरा सतिगुरू सो थानु सुहावा राम राजे ॥"
+    },
+    {
+      "p": 160,
+      "pn": "ਗੁਰਸਿਖਂੀ ਸੋ ਥਾਨੁ ਭਾਲਿਆ ਲੈ ਧੂਰਿ ਮੁਖਿ ਲਾਵਾ ॥",
+      "en": "gursikha(n)ee so thaan bhaaliaa lai dhoor mukh laavaa ||",
+      "hi": "गुरसिखीं सो थानु भालिआ लै धूरि मुखि लावा ॥"
+    },
+    {
+      "p": 160,
+      "pn": "ਗੁਰਸਿਖਾ ਕੀ ਘਾਲ ਥਾਇ ਪਈ ਜਿਨ ਹਰਿ ਨਾਮੁ ਧਿਆਵਾ ॥",
+      "en": "gursikhaa kee ghaal thai piee jin har naam dhiaavaa ||",
+      "hi": "गुरसिखा की घाल थाइ पई जिन हरि नामु धिआवा ॥"
+    },
+    {
+      "p": 160,
+      "pn": "ਜਿਨੑ ਨਾਨਕੁ ਸਤਿਗੁਰੁ ਪੂਜਿਆ ਤਿਨ ਹਰਿ ਪੂਜ ਕਰਾਵਾ ॥੨॥",
+      "en": "jin(h) naanak satigur poojiaa tin har pooj karaavaa ||2||",
+      "hi": "जिन्न नानकु सतिगुरु पूजिआ तिन हरि पूज करावा ॥२॥"
+    },
+    {
+      "p": 161,
+      "pn": "ਸਲੋਕੁ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोकु म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 162,
+      "pn": "ਜੇ ਕਰਿ ਸੂਤਕੁ ਮੰਨੀਐ ਸਭ ਤੈ ਸੂਤਕੁ ਹੋਇ ॥",
+      "en": "je kar sootak ma(n)neeaai sabh tai sootak hoi ||",
+      "hi": "जे करि सूतकु मंनीऐ सभ तै सूतकु होइ ॥"
+    },
+    {
+      "p": 162,
+      "pn": "ਗੋਹੇ ਅਤੈ ਲਕੜੀ ਅੰਦਰਿ ਕੀੜਾ ਹੋਇ ॥",
+      "en": "gohe atai lakaRee a(n)dhar keeRaa hoi ||",
+      "hi": "गोहे अतै लकड़ी अंदरि कीड़ा होइ ॥"
+    },
+    {
+      "p": 162,
+      "pn": "ਜੇਤੇ ਦਾਣੇ ਅੰਨ ਕੇ ਜੀਆ ਬਾਝੁ ਨ ਕੋਇ ॥",
+      "en": "jete dhaane a(n)n ke jeeaa baajh na koi ||",
+      "hi": "जेते दाणे अंन के जीआ बाझु न कोइ ॥"
+    },
+    {
+      "p": 162,
+      "pn": "ਪਹਿਲਾ ਪਾਣੀ ਜੀਉ ਹੈ ਜਿਤੁ ਹਰਿਆ ਸਭੁ ਕੋਇ ॥",
+      "en": "pahilaa paanee jeeau hai jit hariaa sabh koi ||",
+      "hi": "पहिला पाणी जीउ है जितु हरिआ सभु कोइ ॥"
+    },
+    {
+      "p": 162,
+      "pn": "ਸੂਤਕੁ ਕਿਉ ਕਰਿ ਰਖੀਐ ਸੂਤਕੁ ਪਵੈ ਰਸੋਇ ॥",
+      "en": "sootak kiau kar rakheeaai sootak pavai rasoi ||",
+      "hi": "सूतकु किउ करि रखीऐ सूतकु पवै रसोइ ॥"
+    },
+    {
+      "p": 162,
+      "pn": "ਨਾਨਕ ਸੂਤਕੁ ਏਵ ਨ ਉਤਰੈ ਗਿਆਨੁ ਉਤਾਰੇ ਧੋਇ ॥੧॥",
+      "en": "naanak sootak ev na utarai giaan utaare dhoi ||1||",
+      "hi": "नानक सूतकु एव न उतरै गिआनु उतारे धोइ ॥१॥"
+    },
+    {
+      "p": 163,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 164,
+      "pn": "ਮਨ ਕਾ ਸੂਤਕੁ ਲੋਭੁ ਹੈ ਜਿਹਵਾ ਸੂਤਕੁ ਕੂੜੁ ॥",
+      "en": "man kaa sootak lobh hai jihavaa sootak kooR ||",
+      "hi": "मन का सूतकु लोभु है जिहवा सूतकु कूड़ु ॥"
+    },
+    {
+      "p": 164,
+      "pn": "ਅਖੀ ਸੂਤਕੁ ਵੇਖਣਾ ਪਰ ਤ੍ਰਿਅ ਪਰ ਧਨ ਰੂਪੁ ॥",
+      "en": "akhee sootak vekhanaa par tria par dhan roop ||",
+      "hi": "अखी सूतकु वेखणा पर तृअ पर धन रूपु ॥"
+    },
+    {
+      "p": 164,
+      "pn": "ਕੰਨੀ ਸੂਤਕੁ ਕੰਨਿ ਪੈ ਲਾਇਤਬਾਰੀ ਖਾਹਿ ॥",
+      "en": "ka(n)nee sootak ka(n)n pai laitabaaree khaeh ||",
+      "hi": "कंनी सूतकु कंनि पै लाइतबारी खाहि ॥"
+    },
+    {
+      "p": 164,
+      "pn": "ਨਾਨਕ ਹੰਸਾ ਆਦਮੀ ਬਧੇ ਜਮ ਪੁਰਿ ਜਾਹਿ ॥੨॥",
+      "en": "naanak ha(n)saa aadhamee badhe jam pur jaeh ||2||",
+      "hi": "नानक हंसा आदमी बधे जम पुरि जाहि ॥२॥"
+    },
+    {
+      "p": 165,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 166,
+      "pn": "ਸਭੋ ਸੂਤਕੁ ਭਰਮੁ ਹੈ ਦੂਜੈ ਲਗੈ ਜਾਇ ॥",
+      "en": "sabho sootak bharam hai dhoojai lagai jai ||",
+      "hi": "सभो सूतकु भरमु है दूजै लगै जाइ ॥"
+    },
+    {
+      "p": 166,
+      "pn": "ਜੰਮਣੁ ਮਰਣਾ ਹੁਕਮੁ ਹੈ ਭਾਣੈ ਆਵੈ ਜਾਇ ॥",
+      "en": "ja(n)man maranaa hukam hai bhaanai aavai jai ||",
+      "hi": "जंमणु मरणा हुकमु है भाणै आवै जाइ ॥"
+    },
+    {
+      "p": 166,
+      "pn": "ਖਾਣਾ ਪੀਣਾ ਪਵਿਤ੍ਰੁ ਹੈ ਦਿਤੋਨੁ ਰਿਜਕੁ ਸੰਬਾਹਿ ॥",
+      "en": "khaanaa peenaa pavitr hai dhiton rijak sa(n)baeh ||",
+      "hi": "खाणा पीणा पवित्रु है दितोनु रिजकु संबाहि ॥"
+    },
+    {
+      "p": 166,
+      "pn": "ਨਾਨਕ ਜਿਨੑੀ ਗੁਰਮੁਖਿ ਬੁਝਿਆ ਤਿਨੑਾ ਸੂਤਕੁ ਨਾਹਿ ॥੩॥",
+      "en": "naanak jin(h)ee gurmukh bujhiaa tin(h)aa sootak naeh ||3||",
+      "hi": "नानक जिन्नी गुरमुखि बुझिआ तिन्ना सूतकु नाहि ॥३॥"
+    },
+    {
+      "p": 167,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 168,
+      "pn": "ਸਤਿਗੁਰੁ ਵਡਾ ਕਰਿ ਸਾਲਾਹੀਐ ਜਿਸੁ ਵਿਚਿ ਵਡੀਆ ਵਡਿਆਈਆ ॥",
+      "en": "satigur vaddaa kar saalaaheeaai jis vich vaddeeaa vaddiaaieeaa ||",
+      "hi": "सतिगुरु वडा करि सालाहीऐ जिसु विचि वडीआ वडिआईआ ॥"
+    },
+    {
+      "p": 168,
+      "pn": "ਸਹਿ ਮੇਲੇ ਤਾ ਨਦਰੀ ਆਈਆ ॥",
+      "en": "seh mele taa nadharee aaieeaa ||",
+      "hi": "सहि मेले ता नदरी आईआ ॥"
+    },
+    {
+      "p": 168,
+      "pn": "ਜਾ ਤਿਸੁ ਭਾਣਾ ਤਾ ਮਨਿ ਵਸਾਈਆ ॥",
+      "en": "jaa tis bhaanaa taa man vasaieeaa ||",
+      "hi": "जा तिसु भाणा ता मनि वसाईआ ॥"
+    },
+    {
+      "p": 168,
+      "pn": "ਕਰਿ ਹੁਕਮੁ ਮਸਤਕਿ ਹਥੁ ਧਰਿ ਵਿਚਹੁ ਮਾਰਿ ਕਢੀਆ ਬੁਰਿਆਈਆ ॥",
+      "en": "kar hukam masatak hath dhar vichahu maar kaddeeaa buriaaieeaa ||",
+      "hi": "करि हुकमु मसतकि हथु धरि विचहु मारि कढीआ बुरिआईआ ॥"
+    },
+    {
+      "p": 168,
+      "pn": "ਸਹਿ ਤੁਠੈ ਨਉ ਨਿਧਿ ਪਾਈਆ ॥੧੮॥",
+      "en": "seh tuThai nau nidh paieeaa ||18||",
+      "hi": "सहि तुठै नउ निधि पाईआ ॥१८॥"
+    },
+    {
+      "p": 169,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 170,
+      "pn": "ਗੁਰਸਿਖਾ ਮਨਿ ਹਰਿ ਪ੍ਰੀਤਿ ਹੈ ਹਰਿ ਨਾਮ ਹਰਿ ਤੇਰੀ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "gursikhaa man har preet hai har naam har teree raam raaje ||",
+      "hi": "गुरसिखा मनि हरि प्रीति है हरि नाम हरि तेरी राम राजे ॥"
+    },
+    {
+      "p": 170,
+      "pn": "ਕਰਿ ਸੇਵਹਿ ਪੂਰਾ ਸਤਿਗੁਰੂ ਭੁਖ ਜਾਇ ਲਹਿ ਮੇਰੀ ॥",
+      "en": "kar seveh pooraa satiguroo bhukh jai leh meree ||",
+      "hi": "करि सेवहि पूरा सतिगुरू भुख जाइ लहि मेरी ॥"
+    },
+    {
+      "p": 170,
+      "pn": "ਗੁਰਸਿਖਾ ਕੀ ਭੁਖ ਸਭ ਗਈ ਤਿਨ ਪਿਛੈ ਹੋਰ ਖਾਇ ਘਨੇਰੀ ॥",
+      "en": "gursikhaa kee bhukh sabh giee tin pichhai hor khai ghaneree ||",
+      "hi": "गुरसिखा की भुख सभ गई तिन पिछै होर खाइ घनेरी ॥"
+    },
+    {
+      "p": 170,
+      "pn": "ਜਨ ਨਾਨਕ ਹਰਿ ਪੁੰਨੁ ਬੀਜਿਆ ਫਿਰਿ ਤੋਟਿ ਨ ਆਵੈ ਹਰਿ ਪੁੰਨ ਕੇਰੀ ॥੩॥",
+      "en": "jan naanak har pu(n)n beejiaa fir toT na aavai har pu(n)n keree ||3||",
+      "hi": "जन नानक हरि पुँनु बीजिआ फिरि तोटि न आवै हरि पुँन केरी ॥३॥"
+    },
+    {
+      "p": 171,
+      "pn": "ਸਲੋਕੁ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोकु म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 172,
+      "pn": "ਪਹਿਲਾ ਸੁਚਾ ਆਪਿ ਹੋਇ ਸੁਚੈ ਬੈਠਾ ਆਇ ॥",
+      "en": "pahilaa suchaa aap hoi suchai baiThaa aai ||",
+      "hi": "पहिला सुचा आपि होइ सुचै बैठा आइ ॥"
+    },
+    {
+      "p": 172,
+      "pn": "ਸੁਚੇ ਅਗੈ ਰਖਿਓਨੁ ਕੋਇ ਨ ਭਿਟਿਓ ਜਾਇ ॥",
+      "en": "suche agai rakhion koi na bhiTio jai ||",
+      "hi": "सुचे अगै रखिओनु कोइ न भिटिओ जाइ ॥"
+    },
+    {
+      "p": 172,
+      "pn": "ਸੁਚਾ ਹੋਇ ਕੈ ਜੇਵਿਆ ਲਗਾ ਪੜਣਿ ਸਲੋਕੁ ॥",
+      "en": "suchaa hoi kai jeviaa lagaa paRan salok ||",
+      "hi": "सुचा होइ कै जेविआ लगा पड़णि सलोकु ॥"
+    },
+    {
+      "p": 172,
+      "pn": "ਕੁਹਥੀ ਜਾਈ ਸਟਿਆ ਕਿਸੁ ਏਹੁ ਲਗਾ ਦੋਖੁ ॥",
+      "en": "kuhathee jaiee saTiaa kis eh lagaa dhokh ||",
+      "hi": "कुहथी जाई सटिआ किसु एहु लगा दोखु ॥"
+    },
+    {
+      "p": 172,
+      "pn": "ਅੰਨੁ ਦੇਵਤਾ ਪਾਣੀ ਦੇਵਤਾ ਬੈਸੰਤਰੁ ਦੇਵਤਾ ਲੂਣੁ ਪੰਜਵਾ ਪਾਇਆ ਘਿਰਤੁ ॥",
+      "en": "a(n)n dhevataa paanee dhevataa baisa(n)tar dhevataa loon pa(n)javaa paiaa ghirat ||",
+      "hi": "अंनु देवता पाणी देवता बैसंतरु देवता लूणु पंजवा पाइआ घिरतु ॥"
+    },
+    {
+      "p": 172,
+      "pn": "ਤਾ ਹੋਆ ਪਾਕੁ ਪਵਿਤੁ ॥",
+      "en": "taa hoaa paak pavit ||",
+      "hi": "ता होआ पाकु पवितु ॥"
+    },
+    {
+      "p": 172,
+      "pn": "ਪਾਪੀ ਸਿਉ ਤਨੁ ਗਡਿਆ ਥੁਕਾ ਪਈਆ ਤਿਤੁ ॥",
+      "en": "paapee siau tan gaddiaa thukaa pieeaa tit ||",
+      "hi": "पापी सिउ तनु गडिआ थुका पईआ तितु ॥"
+    },
+    {
+      "p": 172,
+      "pn": "ਜਿਤੁ ਮੁਖਿ ਨਾਮੁ ਨ ਊਚਰਹਿ ਬਿਨੁ ਨਾਵੈ ਰਸ ਖਾਹਿ ॥",
+      "en": "jit mukh naam na uoochareh bin naavai ras khaeh ||",
+      "hi": "जितु मुखि नामु न ऊचरहि बिनु नावै रस खाहि ॥"
+    },
+    {
+      "p": 172,
+      "pn": "ਨਾਨਕ ਏਵੈ ਜਾਣੀਐ ਤਿਤੁ ਮੁਖਿ ਥੁਕਾ ਪਾਹਿ ॥੧॥",
+      "en": "naanak evai jaaneeaai tit mukh thukaa paeh ||1||",
+      "hi": "नानक एवै जाणीऐ तितु मुखि थुका पाहि ॥१॥"
+    },
+    {
+      "p": 173,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 174,
+      "pn": "ਭੰਡਿ ਜੰਮੀਐ ਭੰਡਿ ਨਿੰਮੀਐ ਭੰਡਿ ਮੰਗਣੁ ਵੀਆਹੁ ॥",
+      "en": "bha(n)dd ja(n)meeaai bha(n)dd ni(n)meeaai bha(n)dd ma(n)gan veeaahu ||",
+      "hi": "भंडि जंमीऐ भंडि निंमीऐ भंडि मंगणु वीआहु ॥"
+    },
+    {
+      "p": 174,
+      "pn": "ਭੰਡਹੁ ਹੋਵੈ ਦੋਸਤੀ ਭੰਡਹੁ ਚਲੈ ਰਾਹੁ ॥",
+      "en": "bha(n)ddahu hovai dhosatee bha(n)ddahu chalai raahu ||",
+      "hi": "भंडहु होवै दोसती भंडहु चलै राहु ॥"
+    },
+    {
+      "p": 174,
+      "pn": "ਭੰਡੁ ਮੁਆ ਭੰਡੁ ਭਾਲੀਐ ਭੰਡਿ ਹੋਵੈ ਬੰਧਾਨੁ ॥",
+      "en": "bha(n)dd muaa bha(n)dd bhaaleeaai bha(n)dd hovai ba(n)dhaan ||",
+      "hi": "भंडु मुआ भंडु भालीऐ भंडि होवै बंधानु ॥"
+    },
+    {
+      "p": 174,
+      "pn": "ਸੋ ਕਿਉ ਮੰਦਾ ਆਖੀਐ ਜਿਤੁ ਜੰਮਹਿ ਰਾਜਾਨ ॥",
+      "en": "so kiau ma(n)dhaa aakheeaai jit ja(n)meh raajaan ||",
+      "hi": "सो किउ मंदा आखीऐ जितु जंमहि राजान ॥"
+    },
+    {
+      "p": 174,
+      "pn": "ਭੰਡਹੁ ਹੀ ਭੰਡੁ ਊਪਜੈ ਭੰਡੈ ਬਾਝੁ ਨ ਕੋਇ ॥",
+      "en": "bha(n)ddahu hee bha(n)dd uoopajai bha(n)ddai baajh na koi ||",
+      "hi": "भंडहु ही भंडु ऊपजै भंडै बाझु न कोइ ॥"
+    },
+    {
+      "p": 174,
+      "pn": "ਨਾਨਕ ਭੰਡੈ ਬਾਹਰਾ ਏਕੋ ਸਚਾ ਸੋਇ ॥",
+      "en": "naanak bha(n)ddai baaharaa eko sachaa soi ||",
+      "hi": "नानक भंडै बाहरा एको सचा सोइ ॥"
+    },
+    {
+      "p": 174,
+      "pn": "ਜਿਤੁ ਮੁਖਿ ਸਦਾ ਸਾਲਾਹੀਐ ਭਾਗਾ ਰਤੀ ਚਾਰਿ ॥",
+      "en": "jit mukh sadhaa saalaaheeaai bhaagaa ratee chaar ||",
+      "hi": "जितु मुखि सदा सालाहीऐ भागा रती चारि ॥"
+    },
+    {
+      "p": 174,
+      "pn": "ਨਾਨਕ ਤੇ ਮੁਖ ਊਜਲੇ ਤਿਤੁ ਸਚੈ ਦਰਬਾਰਿ ॥੨॥",
+      "en": "naanak te mukh uoojale tit sachai dharabaar ||2||",
+      "hi": "नानक ते मुख ऊजले तितु सचै दरबारि ॥२॥"
+    },
+    {
+      "p": 175,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 176,
+      "pn": "ਸਭੁ ਕੋ ਆਖੈ ਆਪਣਾ ਜਿਸੁ ਨਾਹੀ ਸੋ ਚੁਣਿ ਕਢੀਐ ॥",
+      "en": "sabh ko aakhai aapanaa jis naahee so chun kaddeeaai ||",
+      "hi": "सभु को आखै आपणा जिसु नाही सो चुणि कढीऐ ॥"
+    },
+    {
+      "p": 176,
+      "pn": "ਕੀਤਾ ਆਪੋ ਆਪਣਾ ਆਪੇ ਹੀ ਲੇਖਾ ਸੰਢੀਐ ॥",
+      "en": "keetaa aapo aapanaa aape hee lekhaa sa(n)ddeeaai ||",
+      "hi": "कीता आपो आपणा आपे ही लेखा संढीऐ ॥"
+    },
+    {
+      "p": 176,
+      "pn": "ਜਾ ਰਹਣਾ ਨਾਹੀ ਐਤੁ ਜਗਿ ਤਾ ਕਾਇਤੁ ਗਾਰਬਿ ਹੰਢੀਐ ॥",
+      "en": "jaa rahanaa naahee aait jag taa kait gaarab ha(n)ddeeaai ||",
+      "hi": "जा रहणा नाही ऐतु जगि ता काइतु गारबि हंढीऐ ॥"
+    },
+    {
+      "p": 176,
+      "pn": "ਮੰਦਾ ਕਿਸੈ ਨ ਆਖੀਐ ਪੜਿ ਅਖਰੁ ਏਹੋ ਬੁਝੀਐ ॥",
+      "en": "ma(n)dhaa kisai na aakheeaai paR akhar eho bujheeaai ||",
+      "hi": "मंदा किसै न आखीऐ पड़ि अखरु एहो बुझीऐ ॥"
+    },
+    {
+      "p": 176,
+      "pn": "ਮੂਰਖੈ ਨਾਲਿ ਨ ਲੁਝੀਐ ॥੧੯॥",
+      "en": "moorakhai naal na lujheeaai ||19||",
+      "hi": "मूरखै नालि न लुझीऐ ॥१९॥"
+    },
+    {
+      "p": 177,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 178,
+      "pn": "ਗੁਰਸਿਖਾ ਮਨਿ ਵਾਧਾਈਆ ਜਿਨ ਮੇਰਾ ਸਤਿਗੁਰੂ ਡਿਠਾ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "gursikhaa man vaadhaieeaa jin meraa satiguroo ddiThaa raam raaje ||",
+      "hi": "गुरसिखा मनि वाधाईआ जिन मेरा सतिगुरू डिठा राम राजे ॥"
+    },
+    {
+      "p": 178,
+      "pn": "ਕੋਈ ਕਰਿ ਗਲ ਸੁਣਾਵੈ ਹਰਿ ਨਾਮ ਕੀ ਸੋ ਲਗੈ ਗੁਰਸਿਖਾ ਮਨਿ ਮਿਠਾ ॥",
+      "en": "koiee kar gal sunaavai har naam kee so lagai gursikhaa man miThaa ||",
+      "hi": "कोई करि गल सुणावै हरि नाम की सो लगै गुरसिखा मनि मिठा ॥"
+    },
+    {
+      "p": 178,
+      "pn": "ਹਰਿ ਦਰਗਹ ਗੁਰਸਿਖ ਪੈਨਾਈਅਹਿ ਜਿਨੑਾ ਮੇਰਾ ਸਤਿਗੁਰੁ ਤੁਠਾ ॥",
+      "en": "har dharageh gursikh painaie'eeh jin(h)aa meraa satigur tuThaa ||",
+      "hi": "हरि दरगह गुरसिख पैनाईअहि जिन्ना मेरा सतिगुरु तुठा ॥"
+    },
+    {
+      "p": 178,
+      "pn": "ਜਨ ਨਾਨਕੁ ਹਰਿ ਹਰਿ ਹੋਇਆ ਹਰਿ ਹਰਿ ਮਨਿ ਵੁਠਾ ॥੪॥੧੨॥੧੯॥",
+      "en": "jan naanak har har hoiaa har har man vuThaa ||4||12||19||",
+      "hi": "जन नानकु हरि हरि होइआ हरि हरि मनि वुठा ॥४॥१२॥१९॥"
+    },
+    {
+      "p": 179,
+      "pn": "ਸਲੋਕੁ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोकु म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 180,
+      "pn": "ਨਾਨਕ ਫਿਕੈ ਬੋਲਿਐ ਤਨੁ ਮਨੁ ਫਿਕਾ ਹੋਇ ॥",
+      "en": "naanak fikai boliaai tan man fikaa hoi ||",
+      "hi": "नानक फिकै बोलिऐ तनु मनु फिका होइ ॥"
+    },
+    {
+      "p": 180,
+      "pn": "ਫਿਕੋ ਫਿਕਾ ਸਦੀਐ ਫਿਕੇ ਫਿਕੀ ਸੋਇ ॥",
+      "en": "fiko fikaa sadheeaai fike fikee soi ||",
+      "hi": "फिको फिका सदीऐ फिके फिकी सोइ ॥"
+    },
+    {
+      "p": 180,
+      "pn": "ਫਿਕਾ ਦਰਗਹ ਸਟੀਐ ਮੁਹਿ ਥੁਕਾ ਫਿਕੇ ਪਾਇ ॥",
+      "en": "fikaa dharageh saTeeaai muh thukaa fike pai ||",
+      "hi": "फिका दरगह सटीऐ मुहि थुका फिके पाइ ॥"
+    },
+    {
+      "p": 180,
+      "pn": "ਫਿਕਾ ਮੂਰਖੁ ਆਖੀਐ ਪਾਣਾ ਲਹੈ ਸਜਾਇ ॥੧॥",
+      "en": "fikaa moorakh aakheeaai paanaa lahai sajai ||1||",
+      "hi": "फिका मूरखु आखीऐ पाणा लहै सजाइ ॥१॥"
+    },
+    {
+      "p": 181,
+      "pn": "ਮਃ ੧ ॥",
+      "en": "mahalaa pehilaa ||",
+      "hi": "म: १ ॥",
+      "s": "mahalaa pehilaa ||"
+    },
+    {
+      "p": 182,
+      "pn": "ਅੰਦਰਹੁ ਝੂਠੇ ਪੈਜ ਬਾਹਰਿ ਦੁਨੀਆ ਅੰਦਰਿ ਫੈਲੁ ॥",
+      "en": "a(n)dharahu jhooThe paij baahar dhuneeaa a(n)dhar fail ||",
+      "hi": "अंदरहु झूठे पैज बाहरि दुनीआ अंदरि फैलु ॥"
+    },
+    {
+      "p": 182,
+      "pn": "ਅਠਸਠਿ ਤੀਰਥ ਜੇ ਨਾਵਹਿ ਉਤਰੈ ਨਾਹੀ ਮੈਲੁ ॥",
+      "en": "aThasaTh teerath je naaveh utarai naahee mail ||",
+      "hi": "अठसठि तीरथ जे नावहि उतरै नाही मैलु ॥"
+    },
+    {
+      "p": 182,
+      "pn": "ਜਿਨੑ ਪਟੁ ਅੰਦਰਿ ਬਾਹਰਿ ਗੁਦੜੁ ਤੇ ਭਲੇ ਸੰਸਾਰਿ ॥",
+      "en": "jin(h) paT a(n)dhar baahar gudhaR te bhale sa(n)saar ||",
+      "hi": "जिन्न पटु अंदरि बाहरि गुदड़ु ते भले संसारि ॥"
+    },
+    {
+      "p": 182,
+      "pn": "ਤਿਨੑ ਨੇਹੁ ਲਗਾ ਰਬ ਸੇਤੀ ਦੇਖਨੑੇ ਵੀਚਾਰਿ ॥",
+      "en": "tin(h) neh lagaa rab setee dhekhan(h)e veechaar ||",
+      "hi": "तिन्न नेहु लगा रब सेती देखन्ने वीचारि ॥"
+    },
+    {
+      "p": 182,
+      "pn": "ਰੰਗਿ ਹਸਹਿ ਰੰਗਿ ਰੋਵਹਿ ਚੁਪ ਭੀ ਕਰਿ ਜਾਹਿ ॥",
+      "en": "ra(n)g haseh ra(n)g roveh chup bhee kar jaeh ||",
+      "hi": "रंगि हसहि रंगि रोवहि चुप भी करि जाहि ॥"
+    },
+    {
+      "p": 182,
+      "pn": "ਪਰਵਾਹ ਨਾਹੀ ਕਿਸੈ ਕੇਰੀ ਬਾਝੁ ਸਚੇ ਨਾਹ ॥",
+      "en": "paravaeh naahee kisai keree baajh sache naeh ||",
+      "hi": "परवाह नाही किसै केरी बाझु सचे नाह ॥"
+    },
+    {
+      "p": 182,
+      "pn": "ਦਰਿ ਵਾਟ ਉਪਰਿ ਖਰਚੁ ਮੰਗਾ ਜਬੈ ਦੇਇ ਤ ਖਾਹਿ ॥",
+      "en": "dhar vaaT upar kharach ma(n)gaa jabai dhei ta khaeh ||",
+      "hi": "दरि वाट उपरि खरचु मंगा जबै देइ त खाहि ॥"
+    },
+    {
+      "p": 182,
+      "pn": "ਦੀਬਾਨੁ ਏਕੋ ਕਲਮ ਏਕਾ ਹਮਾ ਤੁਮੑਾ ਮੇਲੁ ॥",
+      "en": "dheebaan eko kalam ekaa hamaa tum(h)aa mel ||",
+      "hi": "दीबानु एको कलम एका हमा तुम्मा मेलु ॥"
+    },
+    {
+      "p": 182,
+      "pn": "ਦਰਿ ਲਏ ਲੇਖਾ ਪੀੜਿ ਛੁਟੈ ਨਾਨਕਾ ਜਿਉ ਤੇਲੁ ॥੨॥",
+      "en": "dhar le lekhaa peeR chhuTai naanakaa jiau tel ||2||",
+      "hi": "दरि लए लेखा पीड़ि छुटै नानका जिउ तेलु ॥२॥"
+    },
+    {
+      "p": 183,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 184,
+      "pn": "ਆਪੇ ਹੀ ਕਰਣਾ ਕੀਓ ਕਲ ਆਪੇ ਹੀ ਤੈ ਧਾਰੀਐ ॥",
+      "en": "aape hee karanaa keeo kal aape hee tai dhaareeaai ||",
+      "hi": "आपे ही करणा कीओ कल आपे ही तै धारीऐ ॥"
+    },
+    {
+      "p": 184,
+      "pn": "ਦੇਖਹਿ ਕੀਤਾ ਆਪਣਾ ਧਰਿ ਕਚੀ ਪਕੀ ਸਾਰੀਐ ॥",
+      "en": "dhekheh keetaa aapanaa dhar kachee pakee saareeaai ||",
+      "hi": "देखहि कीता आपणा धरि कची पकी सारीऐ ॥"
+    },
+    {
+      "p": 184,
+      "pn": "ਜੋ ਆਇਆ ਸੋ ਚਲਸੀ ਸਭੁ ਕੋਈ ਆਈ ਵਾਰੀਐ ॥",
+      "en": "jo aaiaa so chalasee sabh koiee aaiee vaareeaai ||",
+      "hi": "जो आइआ सो चलसी सभु कोई आई वारीऐ ॥"
+    },
+    {
+      "p": 184,
+      "pn": "ਜਿਸ ਕੇ ਜੀਅ ਪਰਾਣ ਹਹਿ ਕਿਉ ਸਾਹਿਬੁ ਮਨਹੁ ਵਿਸਾਰੀਐ ॥",
+      "en": "jis ke jeea paraan heh kiau saahib manahu visaareeaai ||",
+      "hi": "जिस के जीअ पराण हहि किउ साहिबु मनहु विसारीऐ ॥"
+    },
+    {
+      "p": 184,
+      "pn": "ਆਪਣ ਹਥੀ ਆਪਣਾ ਆਪੇ ਹੀ ਕਾਜੁ ਸਵਾਰੀਐ ॥੨੦॥",
+      "en": "aapan hathee aapanaa aape hee kaaj savaareeaai ||20||",
+      "hi": "आपण हथी आपणा आपे ही काजु सवारीऐ ॥२०॥"
+    },
+    {
+      "p": 185,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 186,
+      "pn": "ਆਸਾ ਮਹਲਾ ੪ ॥",
+      "en": "aasaa mahalaa chauthhaa ||",
+      "hi": "आसा महला ४ ॥",
+      "s": "aasaa mahalaa chauthhaa ||"
+    },
+    {
+      "p": 187,
+      "pn": "ਜਿਨੑਾ ਭੇਟਿਆ ਮੇਰਾ ਪੂਰਾ ਸਤਿਗੁਰੂ ਤਿਨ ਹਰਿ ਨਾਮੁ ਦ੍ਰਿੜਾਵੈ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "jin(h)aa bheTiaa meraa pooraa satiguroo tin har naam dhiraRaavai raam raaje ||",
+      "hi": "जिन्ना भेटिआ मेरा पूरा सतिगुरू तिन हरि नामु दृड़ावै राम राजे ॥"
+    },
+    {
+      "p": 187,
+      "pn": "ਤਿਸ ਕੀ ਤ੍ਰਿਸਨਾ ਭੁਖ ਸਭ ਉਤਰੈ ਜੋ ਹਰਿ ਨਾਮੁ ਧਿਆਵੈ ॥",
+      "en": "tis kee tirasanaa bhukh sabh utarai jo har naam dhiaavai ||",
+      "hi": "तिस की तृसना भुख सभ उतरै जो हरि नामु धिआवै ॥"
+    },
+    {
+      "p": 187,
+      "pn": "ਜੋ ਹਰਿ ਹਰਿ ਨਾਮੁ ਧਿਆਇਦੇ ਤਿਨੑ ਜਮੁ ਨੇੜਿ ਨ ਆਵੈ ॥",
+      "en": "jo har har naam dhiaaidhe tin(h) jam neR na aavai ||",
+      "hi": "जो हरि हरि नामु धिआइदे तिन्न जमु नेड़ि न आवै ॥"
+    },
+    {
+      "p": 187,
+      "pn": "ਜਨ ਨਾਨਕ ਕਉ ਹਰਿ ਕ੍ਰਿਪਾ ਕਰਿ ਨਿਤ ਜਪੈ ਹਰਿ ਨਾਮੁ ਹਰਿ ਨਾਮਿ ਤਰਾਵੈ ॥੧॥",
+      "en": "jan naanak kau har kirapaa kar nit japai har naam har naam taraavai ||1||",
+      "hi": "जन नानक कउ हरि कृपा करि नित जपै हरि नामु हरि नामि तरावै ॥१॥"
+    },
+    {
+      "p": 188,
+      "pn": "ਸਲੋਕੁ ਮਹਲਾ ੨ ॥",
+      "en": "salok mahalaa doojaa ||",
+      "hi": "सलोकु महला २ ॥",
+      "s": "salok mahalaa doojaa ||"
+    },
+    {
+      "p": 189,
+      "pn": "ਏਹ ਕਿਨੇਹੀ ਆਸਕੀ ਦੂਜੈ ਲਗੈ ਜਾਇ ॥",
+      "en": "eh kinehee aasakee dhoojai lagai jai ||",
+      "hi": "एह किनेही आसकी दूजै लगै जाइ ॥"
+    },
+    {
+      "p": 189,
+      "pn": "ਨਾਨਕ ਆਸਕੁ ਕਾਂਢੀਐ ਸਦ ਹੀ ਰਹੈ ਸਮਾਇ ॥",
+      "en": "naanak aasak kaa(n)ddeeaai sadh hee rahai samai ||",
+      "hi": "नानक आसकु काँढीऐ सद ही रहै समाइ ॥"
+    },
+    {
+      "p": 189,
+      "pn": "ਚੰਗੈ ਚੰਗਾ ਕਰਿ ਮੰਨੇ ਮੰਦੈ ਮੰਦਾ ਹੋਇ ॥",
+      "en": "cha(n)gai cha(n)gaa kar ma(n)ne ma(n)dhai ma(n)dhaa hoi ||",
+      "hi": "चंगै चंगा करि मंने मंदै मंदा होइ ॥"
+    },
+    {
+      "p": 189,
+      "pn": "ਆਸਕੁ ਏਹੁ ਨ ਆਖੀਐ ਜਿ ਲੇਖੈ ਵਰਤੈ ਸੋਇ ॥੧॥",
+      "en": "aasak eh na aakheeaai j lekhai varatai soi ||1||",
+      "hi": "आसकु एहु न आखीऐ जि लेखै वरतै सोइ ॥१॥"
+    },
+    {
+      "p": 190,
+      "pn": "ਮਹਲਾ ੨ ॥",
+      "en": "mahalaa doojaa ||",
+      "hi": "महला २ ॥",
+      "s": "mahalaa doojaa ||"
+    },
+    {
+      "p": 191,
+      "pn": "ਸਲਾਮੁ ਜਬਾਬੁ ਦੋਵੈ ਕਰੇ ਮੁੰਢਹੁ ਘੁਥਾ ਜਾਇ ॥",
+      "en": "salaam jabaab dhovai kare mu(n)ddahu ghuthaa jai ||",
+      "hi": "सलामु जबाबु दोवै करे मुँढहु घुथा जाइ ॥"
+    },
+    {
+      "p": 191,
+      "pn": "ਨਾਨਕ ਦੋਵੈ ਕੂੜੀਆ ਥਾਇ ਨ ਕਾਈ ਪਾਇ ॥੨॥",
+      "en": "naanak dhovai kooReeaa thai na kaiee pai ||2||",
+      "hi": "नानक दोवै कूड़ीआ थाइ न काई पाइ ॥२॥"
+    },
+    {
+      "p": 192,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 193,
+      "pn": "ਜਿਤੁ ਸੇਵਿਐ ਸੁਖੁ ਪਾਈਐ ਸੋ ਸਾਹਿਬੁ ਸਦਾ ਸਮੑਾਲੀਐ ॥",
+      "en": "jit seviaai sukh paieeaai so saahib sadhaa sam(h)aaleeaai ||",
+      "hi": "जितु सेविऐ सुखु पाईऐ सो साहिबु सदा सम्मालीऐ ॥"
+    },
+    {
+      "p": 193,
+      "pn": "ਜਿਤੁ ਕੀਤਾ ਪਾਈਐ ਆਪਣਾ ਸਾ ਘਾਲ ਬੁਰੀ ਕਿਉ ਘਾਲੀਐ ॥",
+      "en": "jit keetaa paieeaai aapanaa saa ghaal buree kiau ghaaleeaai ||",
+      "hi": "जितु कीता पाईऐ आपणा सा घाल बुरी किउ घालीऐ ॥"
+    },
+    {
+      "p": 193,
+      "pn": "ਮੰਦਾ ਮੂਲਿ ਨ ਕੀਚਈ ਦੇ ਲੰਮੀ ਨਦਰਿ ਨਿਹਾਲੀਐ ॥",
+      "en": "ma(n)dhaa mool na keechiee dhe la(n)mee nadhar nihaaleeaai ||",
+      "hi": "मंदा मूलि न कीचई दे लंमी नदरि निहालीऐ ॥"
+    },
+    {
+      "p": 193,
+      "pn": "ਜਿਉ ਸਾਹਿਬ ਨਾਲਿ ਨ ਹਾਰੀਐ ਤੇਵੇਹਾ ਪਾਸਾ ਢਾਲੀਐ ॥",
+      "en": "jiau saahib naal na haareeaai tevehaa paasaa ddaaleeaai ||",
+      "hi": "जिउ साहिब नालि न हारीऐ तेवेहा पासा ढालीऐ ॥"
+    },
+    {
+      "p": 193,
+      "pn": "ਕਿਛੁ ਲਾਹੇ ਉਪਰਿ ਘਾਲੀਐ ॥੨੧॥",
+      "en": "kichh laahe upar ghaaleeaai ||21||",
+      "hi": "किछु लाहे उपरि घालीऐ ॥२१॥"
+    },
+    {
+      "p": 194,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 195,
+      "pn": "ਜਿਨੀ ਗੁਰਮੁਖਿ ਨਾਮੁ ਧਿਆਇਆ ਤਿਨਾ ਫਿਰਿ ਬਿਘਨੁ ਨ ਹੋਈ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "jinee gurmukh naam dhiaaiaa tinaa fir bighan na hoiee raam raaje ||",
+      "hi": "जिनी गुरमुखि नामु धिआइआ तिना फिरि बिघनु न होई राम राजे ॥"
+    },
+    {
+      "p": 195,
+      "pn": "ਜਿਨੀ ਸਤਿਗੁਰੁ ਪੁਰਖੁ ਮਨਾਇਆ ਤਿਨ ਪੂਜੇ ਸਭੁ ਕੋਈ ॥",
+      "en": "jinee satigur purakh manaiaa tin pooje sabh koiee ||",
+      "hi": "जिनी सतिगुरु पुरखु मनाइआ तिन पूजे सभु कोई ॥"
+    },
+    {
+      "p": 195,
+      "pn": "ਜਿਨੑੀ ਸਤਿਗੁਰੁ ਪਿਆਰਾ ਸੇਵਿਆ ਤਿਨੑਾ ਸੁਖੁ ਸਦ ਹੋਈ ॥",
+      "en": "jin(h)ee satigur piaaraa seviaa tin(h)aa sukh sadh hoiee ||",
+      "hi": "जिन्नी सतिगुरु पिआरा सेविआ तिन्ना सुखु सद होई ॥"
+    },
+    {
+      "p": 195,
+      "pn": "ਜਿਨੑਾ ਨਾਨਕੁ ਸਤਿਗੁਰੁ ਭੇਟਿਆ ਤਿਨੑਾ ਮਿਲਿਆ ਹਰਿ ਸੋਈ ॥੨॥",
+      "en": "jin(h)aa naanak satigur bheTiaa tin(h)aa miliaa har soiee ||2||",
+      "hi": "जिन्ना नानकु सतिगुरु भेटिआ तिन्ना मिलिआ हरि सोई ॥२॥"
+    },
+    {
+      "p": 196,
+      "pn": "ਸਲੋਕੁ ਮਹਲਾ ੨ ॥",
+      "en": "salok mahalaa doojaa ||",
+      "hi": "सलोकु महला २ ॥",
+      "s": "salok mahalaa doojaa ||"
+    },
+    {
+      "p": 197,
+      "pn": "ਚਾਕਰੁ ਲਗੈ ਚਾਕਰੀ ਨਾਲੇ ਗਾਰਬੁ ਵਾਦੁ ॥",
+      "en": "chaakar lagai chaakaree naale gaarab vaadh ||",
+      "hi": "चाकरु लगै चाकरी नाले गारबु वादु ॥"
+    },
+    {
+      "p": 197,
+      "pn": "ਗਲਾ ਕਰੇ ਘਣੇਰੀਆ ਖਸਮ ਨ ਪਾਏ ਸਾਦੁ ॥",
+      "en": "galaa kare ghanereeaa khasam na paae saadh ||",
+      "hi": "गला करे घणेरीआ खसम न पाए सादु ॥"
+    },
+    {
+      "p": 197,
+      "pn": "ਆਪੁ ਗਵਾਇ ਸੇਵਾ ਕਰੇ ਤਾ ਕਿਛੁ ਪਾਏ ਮਾਨੁ ॥",
+      "en": "aap gavai sevaa kare taa kichh paae maan ||",
+      "hi": "आपु गवाइ सेवा करे ता किछु पाए मानु ॥"
+    },
+    {
+      "p": 197,
+      "pn": "ਨਾਨਕ ਜਿਸ ਨੋ ਲਗਾ ਤਿਸੁ ਮਿਲੈ ਲਗਾ ਸੋ ਪਰਵਾਨੁ ॥੧॥",
+      "en": "naanak jis no lagaa tis milai lagaa so paravaan ||1||",
+      "hi": "नानक जिस नो लगा तिसु मिलै लगा सो परवानु ॥१॥"
+    },
+    {
+      "p": 198,
+      "pn": "ਮਹਲਾ ੨ ॥",
+      "en": "mahalaa doojaa ||",
+      "hi": "महला २ ॥",
+      "s": "mahalaa doojaa ||"
+    },
+    {
+      "p": 199,
+      "pn": "ਜੋ ਜੀਇ ਹੋਇ ਸੁ ਉਗਵੈ ਮੁਹ ਕਾ ਕਹਿਆ ਵਾਉ ॥",
+      "en": "jo jeei hoi su ugavai muh kaa kahiaa vaau ||",
+      "hi": "जो जीइ होइ सु उगवै मुह का कहिआ वाउ ॥"
+    },
+    {
+      "p": 199,
+      "pn": "ਬੀਜੇ ਬਿਖੁ ਮੰਗੈ ਅੰਮ੍ਰਿਤੁ ਵੇਖਹੁ ਏਹੁ ਨਿਆਉ ॥੨॥",
+      "en": "beeje bikh ma(n)gai a(n)mrit vekhahu eh niaau ||2||",
+      "hi": "बीजे बिखु मंगै अंमृतु वेखहु एहु निआउ ॥२॥"
+    },
+    {
+      "p": 200,
+      "pn": "ਮਹਲਾ ੨ ॥",
+      "en": "mahalaa doojaa ||",
+      "hi": "महला २ ॥",
+      "s": "mahalaa doojaa ||"
+    },
+    {
+      "p": 201,
+      "pn": "ਨਾਲਿ ਇਆਣੇ ਦੋਸਤੀ ਕਦੇ ਨ ਆਵੈ ਰਾਸਿ ॥",
+      "en": "naal iaane dhosatee kadhe na aavai raas ||",
+      "hi": "नालि इआणे दोसती कदे न आवै रासि ॥"
+    },
+    {
+      "p": 201,
+      "pn": "ਜੇਹਾ ਜਾਣੈ ਤੇਹੋ ਵਰਤੈ ਵੇਖਹੁ ਕੋ ਨਿਰਜਾਸਿ ॥",
+      "en": "jehaa jaanai teho varatai vekhahu ko nirajaas ||",
+      "hi": "जेहा जाणै तेहो वरतै वेखहु को निरजासि ॥"
+    },
+    {
+      "p": 201,
+      "pn": "ਵਸਤੂ ਅੰਦਰਿ ਵਸਤੁ ਸਮਾਵੈ ਦੂਜੀ ਹੋਵੈ ਪਾਸਿ ॥",
+      "en": "vasatoo a(n)dhar vasat samaavai dhoojee hovai paas ||",
+      "hi": "वसतू अंदरि वसतु समावै दूजी होवै पासि ॥"
+    },
+    {
+      "p": 201,
+      "pn": "ਸਾਹਿਬ ਸੇਤੀ ਹੁਕਮੁ ਨ ਚਲੈ ਕਹੀ ਬਣੈ ਅਰਦਾਸਿ ॥",
+      "en": "saahib setee hukam na chalai kahee banai aradhaas ||",
+      "hi": "साहिब सेती हुकमु न चलै कही बणै अरदासि ॥"
+    },
+    {
+      "p": 201,
+      "pn": "ਕੂੜਿ ਕਮਾਣੈ ਕੂੜੋ ਹੋਵੈ ਨਾਨਕ ਸਿਫਤਿ ਵਿਗਾਸਿ ॥੩॥",
+      "en": "kooR kamaanai kooRo hovai naanak sifat vigaas ||3||",
+      "hi": "कूड़ि कमाणै कूड़ो होवै नानक सिफति विगासि ॥३॥"
+    },
+    {
+      "p": 202,
+      "pn": "ਮਹਲਾ ੨ ॥",
+      "en": "mahalaa doojaa ||",
+      "hi": "महला २ ॥",
+      "s": "mahalaa doojaa ||"
+    },
+    {
+      "p": 203,
+      "pn": "ਨਾਲਿ ਇਆਣੇ ਦੋਸਤੀ ਵਡਾਰੂ ਸਿਉ ਨੇਹੁ ॥",
+      "en": "naal iaane dhosatee vaddaaroo siau neh ||",
+      "hi": "नालि इआणे दोसती वडारू सिउ नेहु ॥"
+    },
+    {
+      "p": 203,
+      "pn": "ਪਾਣੀ ਅੰਦਰਿ ਲੀਕ ਜਿਉ ਤਿਸ ਦਾ ਥਾਉ ਨ ਥੇਹੁ ॥੪॥",
+      "en": "paanee a(n)dhar leek jiau tis dhaa thaau na theh ||4||",
+      "hi": "पाणी अंदरि लीक जिउ तिस दा थाउ न थेहु ॥४॥"
+    },
+    {
+      "p": 204,
+      "pn": "ਮਹਲਾ ੨ ॥",
+      "en": "mahalaa doojaa ||",
+      "hi": "महला २ ॥",
+      "s": "mahalaa doojaa ||"
+    },
+    {
+      "p": 205,
+      "pn": "ਹੋਇ ਇਆਣਾ ਕਰੇ ਕੰਮੁ ਆਣਿ ਨ ਸਕੈ ਰਾਸਿ ॥",
+      "en": "hoi iaanaa kare ka(n)m aan na sakai raas ||",
+      "hi": "होइ इआणा करे कंमु आणि न सकै रासि ॥"
+    },
+    {
+      "p": 205,
+      "pn": "ਜੇ ਇਕ ਅਧ ਚੰਗੀ ਕਰੇ ਦੂਜੀ ਭੀ ਵੇਰਾਸਿ ॥੫॥",
+      "en": "je ik adh cha(n)gee kare dhoojee bhee veraas ||5||",
+      "hi": "जे इक अध चंगी करे दूजी भी वेरासि ॥५॥"
+    },
+    {
+      "p": 206,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 207,
+      "pn": "ਚਾਕਰੁ ਲਗੈ ਚਾਕਰੀ ਜੇ ਚਲੈ ਖਸਮੈ ਭਾਇ ॥",
+      "en": "chaakar lagai chaakaree je chalai khasamai bhai ||",
+      "hi": "चाकरु लगै चाकरी जे चलै खसमै भाइ ॥"
+    },
+    {
+      "p": 207,
+      "pn": "ਹੁਰਮਤਿ ਤਿਸ ਨੋ ਅਗਲੀ ਓਹੁ ਵਜਹੁ ਭਿ ਦੂਣਾ ਖਾਇ ॥",
+      "en": "huramat tis no agalee oh vajahu bh dhoonaa khai ||",
+      "hi": "हुरमति तिस नो अगली ओहु वजहु भि दूणा खाइ ॥"
+    },
+    {
+      "p": 207,
+      "pn": "ਖਸਮੈ ਕਰੇ ਬਰਾਬਰੀ ਫਿਰਿ ਗੈਰਤਿ ਅੰਦਰਿ ਪਾਇ ॥",
+      "en": "khasamai kare baraabaree fir gairat a(n)dhar pai ||",
+      "hi": "खसमै करे बराबरी फिरि गैरति अंदरि पाइ ॥"
+    },
+    {
+      "p": 207,
+      "pn": "ਵਜਹੁ ਗਵਾਏ ਅਗਲਾ ਮੁਹੇ ਮੁਹਿ ਪਾਣਾ ਖਾਇ ॥",
+      "en": "vajahu gavaae agalaa muhe muh paanaa khai ||",
+      "hi": "वजहु गवाए अगला मुहे मुहि पाणा खाइ ॥"
+    },
+    {
+      "p": 207,
+      "pn": "ਜਿਸ ਦਾ ਦਿਤਾ ਖਾਵਣਾ ਤਿਸੁ ਕਹੀਐ ਸਾਬਾਸਿ ॥",
+      "en": "jis dhaa dhitaa khaavanaa tis kaheeaai saabaas ||",
+      "hi": "जिस दा दिता खावणा तिसु कहीऐ साबासि ॥"
+    },
+    {
+      "p": 207,
+      "pn": "ਨਾਨਕ ਹੁਕਮੁ ਨ ਚਲਈ ਨਾਲਿ ਖਸਮ ਚਲੈ ਅਰਦਾਸਿ ॥੨੨॥",
+      "en": "naanak hukam na chaliee naal khasam chalai aradhaas ||22||",
+      "hi": "नानक हुकमु न चलई नालि खसम चलै अरदासि ॥२२॥"
+    },
+    {
+      "p": 208,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 209,
+      "pn": "ਜਿਨੑਾ ਅੰਤਰਿ ਗੁਰਮੁਖਿ ਪ੍ਰੀਤਿ ਹੈ ਤਿਨੑ ਹਰਿ ਰਖਣਹਾਰਾ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "jin(h)aa a(n)tar gurmukh preet hai tin(h) har rakhanahaaraa raam raaje ||",
+      "hi": "जिन्ना अंतरि गुरमुखि प्रीति है तिन्न हरि रखणहारा राम राजे ॥"
+    },
+    {
+      "p": 209,
+      "pn": "ਤਿਨੑ ਕੀ ਨਿੰਦਾ ਕੋਈ ਕਿਆ ਕਰੇ ਜਿਨੑ ਹਰਿ ਨਾਮੁ ਪਿਆਰਾ ॥",
+      "en": "tin(h) kee ni(n)dhaa koiee kiaa kare jin(h) har naam piaaraa ||",
+      "hi": "तिन्न की निंदा कोई किआ करे जिन्न हरि नामु पिआरा ॥"
+    },
+    {
+      "p": 209,
+      "pn": "ਜਿਨ ਹਰਿ ਸੇਤੀ ਮਨੁ ਮਾਨਿਆ ਸਭ ਦੁਸਟ ਝਖ ਮਾਰਾ ॥",
+      "en": "jin har setee man maaniaa sabh dhusaT jhakh maaraa ||",
+      "hi": "जिन हरि सेती मनु मानिआ सभ दुसट झख मारा ॥"
+    },
+    {
+      "p": 209,
+      "pn": "ਜਨ ਨਾਨਕ ਨਾਮੁ ਧਿਆਇਆ ਹਰਿ ਰਖਣਹਾਰਾ ॥੩॥",
+      "en": "jan naanak naam dhiaaiaa har rakhanahaaraa ||3||",
+      "hi": "जन नानक नामु धिआइआ हरि रखणहारा ॥३॥"
+    },
+    {
+      "p": 210,
+      "pn": "ਸਲੋਕੁ ਮਹਲਾ ੨ ॥",
+      "en": "salok mahalaa doojaa ||",
+      "hi": "सलोकु महला २ ॥",
+      "s": "salok mahalaa doojaa ||"
+    },
+    {
+      "p": 211,
+      "pn": "ਏਹ ਕਿਨੇਹੀ ਦਾਤਿ ਆਪਸ ਤੇ ਜੋ ਪਾਈਐ ॥",
+      "en": "eh kinehee dhaat aapas te jo paieeaai ||",
+      "hi": "एह किनेही दाति आपस ते जो पाईऐ ॥"
+    },
+    {
+      "p": 211,
+      "pn": "ਨਾਨਕ ਸਾ ਕਰਮਾਤਿ ਸਾਹਿਬ ਤੁਠੈ ਜੋ ਮਿਲੈ ॥੧॥",
+      "en": "naanak saa karamaat saahib tuThai jo milai ||1||",
+      "hi": "नानक सा करमाति साहिब तुठै जो मिलै ॥१॥"
+    },
+    {
+      "p": 212,
+      "pn": "ਮਹਲਾ ੨ ॥",
+      "en": "mahalaa doojaa ||",
+      "hi": "महला २ ॥",
+      "s": "mahalaa doojaa ||"
+    },
+    {
+      "p": 213,
+      "pn": "ਏਹ ਕਿਨੇਹੀ ਚਾਕਰੀ ਜਿਤੁ ਭਉ ਖਸਮ ਨ ਜਾਇ ॥",
+      "en": "eh kinehee chaakaree jit bhau khasam na jai ||",
+      "hi": "एह किनेही चाकरी जितु भउ खसम न जाइ ॥"
+    },
+    {
+      "p": 213,
+      "pn": "ਨਾਨਕ ਸੇਵਕੁ ਕਾਢੀਐ ਜਿ ਸੇਤੀ ਖਸਮ ਸਮਾਇ ॥੨॥",
+      "en": "naanak sevak kaaddeeaai j setee khasam samai ||2||",
+      "hi": "नानक सेवकु काढीऐ जि सेती खसम समाइ ॥२॥"
+    },
+    {
+      "p": 214,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 215,
+      "pn": "ਨਾਨਕ ਅੰਤ ਨ ਜਾਪਨੑੀ ਹਰਿ ਤਾ ਕੇ ਪਾਰਾਵਾਰ ॥",
+      "en": "naanak a(n)t na jaapan(h)ee har taa ke paaraavaar ||",
+      "hi": "नानक अंत न जापन्नी हरि ता के पारावार ॥"
+    },
+    {
+      "p": 215,
+      "pn": "ਆਪਿ ਕਰਾਏ ਸਾਖਤੀ ਫਿਰਿ ਆਪਿ ਕਰਾਏ ਮਾਰ ॥",
+      "en": "aap karaae saakhatee fir aap karaae maar ||",
+      "hi": "आपि कराए साखती फिरि आपि कराए मार ॥"
+    },
+    {
+      "p": 215,
+      "pn": "ਇਕਨੑਾ ਗਲੀ ਜੰਜੀਰੀਆ ਇਕਿ ਤੁਰੀ ਚੜਹਿ ਬਿਸੀਆਰ ॥",
+      "en": "eikan(h)aa galee ja(n)jeereeaa ik turee chaReh biseeaar ||",
+      "hi": "इकन्ना गली जंजीरीआ इकि तुरी चड़हि बिसीआर ॥"
+    },
+    {
+      "p": 215,
+      "pn": "ਆਪਿ ਕਰਾਏ ਕਰੇ ਆਪਿ ਹਉ ਕੈ ਸਿਉ ਕਰੀ ਪੁਕਾਰ ॥",
+      "en": "aap karaae kare aap hau kai siau karee pukaar ||",
+      "hi": "आपि कराए करे आपि हउ कै सिउ करी पुकार ॥"
+    },
+    {
+      "p": 215,
+      "pn": "ਨਾਨਕ ਕਰਣਾ ਜਿਨਿ ਕੀਆ ਫਿਰਿ ਤਿਸ ਹੀ ਕਰਣੀ ਸਾਰ ॥੨੩॥",
+      "en": "naanak karanaa jin keeaa fir tis hee karanee saar ||23||",
+      "hi": "नानक करणा जिनि कीआ फिरि तिस ही करणी सार ॥२३॥"
+    },
+    {
+      "p": 216,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    },
+    {
+      "p": 217,
+      "pn": "ਹਰਿ ਜੁਗੁ ਜੁਗੁ ਭਗਤ ਉਪਾਇਆ ਪੈਜ ਰਖਦਾ ਆਇਆ ਰਾਮ ਰਾਜੇ ॥",
+      "en": "har jug jug bhagat upaiaa paij rakhadhaa aaiaa raam raaje ||",
+      "hi": "हरि जुगु जुगु भगत उपाइआ पैज रखदा आइआ राम राजे ॥"
+    },
+    {
+      "p": 217,
+      "pn": "ਹਰਣਾਖਸੁ ਦੁਸਟੁ ਹਰਿ ਮਾਰਿਆ ਪ੍ਰਹਲਾਦੁ ਤਰਾਇਆ ॥",
+      "en": "haranaakhas dhusaT har maariaa prahalaadh taraiaa ||",
+      "hi": "हरणाखसु दुसटु हरि मारिआ प्रहलादु तराइआ ॥"
+    },
+    {
+      "p": 217,
+      "pn": "ਅਹੰਕਾਰੀਆ ਨਿੰਦਕਾ ਪਿਠਿ ਦੇਇ ਨਾਮਦੇਉ ਮੁਖਿ ਲਾਇਆ ॥",
+      "en": "aha(n)kaareeaa ni(n)dhakaa piTh dhei naamadheau mukh laiaa ||",
+      "hi": "अहंकारीआ निंदका पिठि देइ नामदेउ मुखि लाइआ ॥"
+    },
+    {
+      "p": 217,
+      "pn": "ਜਨ ਨਾਨਕ ਐਸਾ ਹਰਿ ਸੇਵਿਆ ਅੰਤਿ ਲਏ ਛਡਾਇਆ ॥੪॥੧੩॥੨੦॥",
+      "en": "jan naanak aaisaa har seviaa a(n)t le chhaddaiaa ||4||13||20||",
+      "hi": "जन नानक ऐसा हरि सेविआ अंति लए छडाइआ ॥४॥१३॥२०॥"
+    },
+    {
+      "p": 218,
+      "pn": "ਸਲੋਕੁ ਮਃ ੧ ॥",
+      "en": "salok mahalaa pehilaa ||",
+      "hi": "सलोकु म: १ ॥",
+      "s": "salok mahalaa pehilaa ||"
+    },
+    {
+      "p": 219,
+      "pn": "ਆਪੇ ਭਾਂਡੇ ਸਾਜਿਅਨੁ ਆਪੇ ਪੂਰਣੁ ਦੇਇ ॥",
+      "en": "aape bhaa(n)dde saajian aape pooran dhei ||",
+      "hi": "आपे भाँडे साजिअनु आपे पूरणु देइ ॥"
+    },
+    {
+      "p": 219,
+      "pn": "ਇਕਨੑੀ ਦੁਧੁ ਸਮਾਈਐ ਇਕਿ ਚੁਲੑੈ ਰਹਨਿੑ ਚੜੇ ॥",
+      "en": "eikan(h)ee dhudh samaieeaai ik chul(h)ai rahani(h) chaRe ||",
+      "hi": "इकन्नी दुधु समाईऐ इकि चुल्लै रहनि्ि चड़े ॥"
+    },
+    {
+      "p": 219,
+      "pn": "ਇਕਿ ਨਿਹਾਲੀ ਪੈ ਸਵਨਿੑ ਇਕਿ ਉਪਰਿ ਰਹਨਿ ਖੜੇ ॥",
+      "en": "eik nihaalee pai savani(h) ik upar rahan khaRe ||",
+      "hi": "इकि निहाली पै सवनि्ि इकि उपरि रहनि खड़े ॥"
+    },
+    {
+      "p": 219,
+      "pn": "ਤਿਨੑਾ ਸਵਾਰੇ ਨਾਨਕਾ ਜਿਨੑ ਕਉ ਨਦਰਿ ਕਰੇ ॥੧॥",
+      "en": "tin(h)aa savaare naanakaa jin(h) kau nadhar kare ||1||",
+      "hi": "तिन्ना सवारे नानका जिन्न कउ नदरि करे ॥१॥"
+    },
+    {
+      "p": 220,
+      "pn": "ਮਹਲਾ ੨ ॥",
+      "en": "mahalaa doojaa ||",
+      "hi": "महला २ ॥",
+      "s": "mahalaa doojaa ||"
+    },
+    {
+      "p": 221,
+      "pn": "ਆਪੇ ਸਾਜੇ ਕਰੇ ਆਪਿ ਜਾਈ ਭਿ ਰਖੈ ਆਪਿ ॥",
+      "en": "aape saaje kare aap jaiee bh rakhai aap ||",
+      "hi": "आपे साजे करे आपि जाई भि रखै आपि ॥"
+    },
+    {
+      "p": 221,
+      "pn": "ਤਿਸੁ ਵਿਚਿ ਜੰਤ ਉਪਾਇ ਕੈ ਦੇਖੈ ਥਾਪਿ ਉਥਾਪਿ ॥",
+      "en": "tis vich ja(n)t upai kai dhekhai thaap uthaap ||",
+      "hi": "तिसु विचि जंत उपाइ कै देखै थापि उथापि ॥"
+    },
+    {
+      "p": 221,
+      "pn": "ਕਿਸ ਨੋ ਕਹੀਐ ਨਾਨਕਾ ਸਭੁ ਕਿਛੁ ਆਪੇ ਆਪਿ ॥੨॥",
+      "en": "kis no kaheeaai naanakaa sabh kichh aape aap ||2||",
+      "hi": "किस नो कहीऐ नानका सभु किछु आपे आपि ॥२॥"
+    },
+    {
+      "p": 222,
+      "pn": "ਪਉੜੀ ॥",
+      "en": "pauRee ||",
+      "hi": "पउड़ी ॥",
+      "s": "pauRee ||"
+    },
+    {
+      "p": 223,
+      "pn": "ਵਡੇ ਕੀਆ ਵਡਿਆਈਆ ਕਿਛੁ ਕਹਣਾ ਕਹਣੁ ਨ ਜਾਇ ॥",
+      "en": "vadde keeaa vaddiaaieeaa kichh kahanaa kahan na jai ||",
+      "hi": "वडे कीआ वडिआईआ किछु कहणा कहणु न जाइ ॥"
+    },
+    {
+      "p": 223,
+      "pn": "ਸੋ ਕਰਤਾ ਕਾਦਰ ਕਰੀਮੁ ਦੇ ਜੀਆ ਰਿਜਕੁ ਸੰਬਾਹਿ ॥",
+      "en": "so karataa kaadhar kareem dhe jeeaa rijak sa(n)baeh ||",
+      "hi": "सो करता कादर करीमु दे जीआ रिजकु संबाहि ॥"
+    },
+    {
+      "p": 223,
+      "pn": "ਸਾਈ ਕਾਰ ਕਮਾਵਣੀ ਧੁਰਿ ਛੋਡੀ ਤਿੰਨੈ ਪਾਇ ॥",
+      "en": "saiee kaar kamaavanee dhur chhoddee ti(n)nai pai ||",
+      "hi": "साई कार कमावणी धुरि छोडी तिंनै पाइ ॥"
+    },
+    {
+      "p": 223,
+      "pn": "ਨਾਨਕ ਏਕੀ ਬਾਹਰੀ ਹੋਰ ਦੂਜੀ ਨਾਹੀ ਜਾਇ ॥",
+      "en": "naanak ekee baaharee hor dhoojee naahee jai ||",
+      "hi": "नानक एकी बाहरी होर दूजी नाही जाइ ॥"
+    },
+    {
+      "p": 223,
+      "pn": "ਸੋ ਕਰੇ ਜਿ ਤਿਸੈ ਰਜਾਇ ॥੨੪॥੧॥ ਸੁਧੁ",
+      "en": "so kare j tisai rajai ||24||1|| sudhu",
+      "hi": "सो करे जि तिसै रजाइ ॥२४॥१॥ सुधु"
+    },
+    {
+      "p": 224,
+      "pn": "❁",
+      "en": "",
+      "hi": "‚",
+      "s": "❁"
+    }
+  ]
+}
