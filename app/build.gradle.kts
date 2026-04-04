@@ -54,7 +54,13 @@ configurations.all {
 }
 
 dependencies {
-    implementation(libs.oneui.design)
+    implementation(libs.oneui.design) {
+        exclude(group = "com.google.mlkit")
+        exclude(group = "com.google.android.gms")
+        exclude(group = "com.google.firebase")
+        exclude(group = "com.google.android.datatransport")
+        exclude(group = "androidx.camera")
+    }
     implementation(libs.bundles.sesl.androidx)
     implementation(libs.sesl.material)
     implementation(libs.oneui.icons)

@@ -1,4 +1,3 @@
 -keepattributes SourceFile,LineNumberTable
 -renamesourcefileattribute SourceFile
--keep class dev.oneuiproject.oneui.** { *; }
 -keep class ltd.realquick.nitnem.data.model.** { *; }
