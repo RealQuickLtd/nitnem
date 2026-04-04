@@ -12,13 +12,11 @@
     <!-- Bani Screen -->
     <string name="action_decrease_font">Decrease font size</string>
     <string name="action_increase_font">Increase font size</string>
-    <string name="action_back_to_top">Back to top</string>
     <string name="action_enter_fullscreen">Enter fullscreen</string>
     <string name="action_exit_fullscreen">Exit fullscreen</string>
     <string name="action_done">Done</string>
 
     <!-- Auto-scroll -->
-    <string name="auto_scroll_toggle">Auto-scroll</string>
     <string name="auto_scroll_play">Start auto-scroll</string>
     <string name="auto_scroll_pause">Pause auto-scroll</string>
     <string name="scroll_speed_title">Scroll speed</string>
@@ -42,7 +40,6 @@
     <string name="pref_category_advanced">Advanced</string>
 
     <string name="pref_transliteration_title">Transliteration</string>
-    <string name="pref_transliteration_summary">Display language for bani text</string>
     <string name="pref_bani_length_title">Bani length</string>
 
     <string name="pref_center_align_title">Center align</string>
@@ -67,7 +64,6 @@
     <string name="pref_per_bani_font_summary">Remember font size separately for each bani</string>
 
     <!-- About -->
-    <string name="about_title">About</string>
     <string name="about_github">GitHub</string>
     <string name="about_licenses">Open-Source Licenses</string>
     <string name="licenses_title">Open-Source Licenses</string>
