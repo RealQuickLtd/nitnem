@@ -44,6 +44,7 @@ class BaniActivity : AppCompatActivity() {
 
     private var slug: String = ""
     private var isFullscreen = false
+    private var cachedLineHeightPx: Float = 0f
     private var selectedSectionIndex = -1
     private var suppressSectionScroll = false
     private var resumeScrollFraction: Float? = null
@@ -356,6 +357,7 @@ class BaniActivity : AppCompatActivity() {
 
         val scrollFraction = getScrollFraction(getCurrentScrollY())
         prefs.setFontSize(key, newSize)
+        cachedLineHeightPx = 0f
         applyReaderTypography()
 
         binding.recyclerView.post {
@@ -374,11 +376,13 @@ class BaniActivity : AppCompatActivity() {
     }
 
     private fun resolveAutoScrollUnitPx(): Float {
+        if (cachedLineHeightPx > 0f) return cachedLineHeightPx
         for (index in 0 until binding.recyclerView.childCount) {
             val paragraphView = binding.recyclerView.getChildAt(index)
                 .findViewById<View>(R.id.textParagraph)
             if (paragraphView is android.widget.TextView && paragraphView.lineHeight > 0) {
-                return paragraphView.lineHeight.toFloat()
+                cachedLineHeightPx = paragraphView.lineHeight.toFloat()
+                return cachedLineHeightPx
             }
         }
         return TypedValue.applyDimension(
