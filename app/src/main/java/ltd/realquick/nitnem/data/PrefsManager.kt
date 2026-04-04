@@ -17,7 +17,7 @@ class PrefsManager(context: Context) {
 
     val baniLength: BaniLength
         get() = BaniLength.fromPrefValue(
-            prefs.getString(KEY_BANI_LENGTH, BaniLength.MEDIUM.prefValue)
+            prefs.getString(KEY_BANI_LENGTH, BaniLength.LONG.prefValue)
         )
 
     val keepScreenOn: Boolean

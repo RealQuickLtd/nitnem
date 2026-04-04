@@ -24,17 +24,22 @@ data class BaniVerse(
     val paragraphId: Int,
     val section: String? = null,
     val line: Line,
-    val existsShort: Boolean,
-    val existsMedium: Boolean,
-    val existsLong: Boolean,
-    val existsExtraLong: Boolean
+    val existsShort: Boolean?,
+    val existsMedium: Boolean?,
+    val existsLong: Boolean?,
+    val existsExtraLong: Boolean?
 ) {
     fun existsIn(length: BaniLength): Boolean {
+        val short = existsShort ?: true
+        val medium = existsMedium ?: short
+        val long = existsLong ?: medium
+        val extraLong = existsExtraLong ?: long
+
         return when (length) {
-            BaniLength.SHORT -> existsShort
-            BaniLength.MEDIUM -> existsMedium
-            BaniLength.LONG -> existsLong
-            BaniLength.EXTRA_LONG -> existsExtraLong
+            BaniLength.SHORT -> short
+            BaniLength.MEDIUM -> medium
+            BaniLength.LONG -> long
+            BaniLength.EXTRA_LONG -> extraLong
         }
     }
 }

@@ -35,7 +35,6 @@ BANIS = [
     (90, "asa-di-vaar"),
 ]
 
-
 def fetch_bani(bani_id: int) -> dict:
     url = f"{API_BASE}/{bani_id}"
     print(f"  Fetching {url}")
@@ -72,20 +71,26 @@ def transform(raw: dict, slug: str) -> dict:
         if header in (1, 2) and gurmukhi.strip():
             section = en.strip() if en.strip() else gurmukhi.strip()
 
+        exists_short = bool(verse.get("existsSGPC", 1))
+        exists_medium = bool(verse.get("existsMedium", 1))
+        exists_long = bool(verse.get("existsTaksal", 1))
+        exists_extra_long = bool(verse.get("existsBuddhaDal", 1))
+
         entry = {
             "p": para_id,
             "pn": gurmukhi,
             "en": en,
             "hi": hi,
         }
-        if not bool(verse.get("existsSGPC", 1)):
+
+        if not exists_short:
             entry["es"] = False
-        if not bool(verse.get("existsMedium", 1)):
-            entry["em"] = False
-        if not bool(verse.get("existsTaksal", 1)):
-            entry["el"] = False
-        if not bool(verse.get("existsBuddhaDal", 1)):
-            entry["ex"] = False
+        if exists_medium != exists_short:
+            entry["em"] = exists_medium
+        if exists_long != exists_medium:
+            entry["el"] = exists_long
+        if exists_extra_long != exists_long:
+            entry["ex"] = exists_extra_long
         if section:
             entry["s"] = section
         full_verses.append(entry)

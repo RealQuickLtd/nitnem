@@ -83,10 +83,10 @@ class BaniRepository(private val context: Context) {
                     en = vObj.getString("en"),
                     hi = vObj.getString("hi")
                 ),
-                existsShort = vObj.optBoolean("es", true),
-                existsMedium = vObj.optBoolean("em", true),
-                existsLong = vObj.optBoolean("el", true),
-                existsExtraLong = vObj.optBoolean("ex", true)
+                existsShort = vObj.optBooleanOrNull("es"),
+                existsMedium = vObj.optBooleanOrNull("em"),
+                existsLong = vObj.optBooleanOrNull("el"),
+                existsExtraLong = vObj.optBooleanOrNull("ex")
             )
         }
 
@@ -118,4 +118,9 @@ class BaniRepository(private val context: Context) {
         var section: String? = null,
         val lines: MutableList<Line> = mutableListOf()
     )
+}
+
+private fun JSONObject.optBooleanOrNull(key: String): Boolean? {
+    if (!has(key) || isNull(key)) return null
+    return getBoolean(key)
 }

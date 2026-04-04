@@ -16,8 +16,7 @@
       "en": "salok mahalaa pehilaa ||",
       "hi": "सलोक म: १ ॥",
       "es": false,
-      "em": false,
-      "el": false,
+      "ex": true,
       "s": "salok mahalaa pehilaa ||"
     },
     {
@@ -26,8 +25,7 @@
       "en": "dha(n)nu su kaagadh kalam dha(n)n dhan bhaa(n)ddaa dhan mas ||",
       "hi": "धंनु सु कागदु कलम धंनु धनु भाँडा धनु मसु ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 3,
@@ -35,8 +33,7 @@
       "en": "dhan lekhaaree naanakaa jin naam likhaiaa sach ||1||",
       "hi": "धनु लेखारी नानका जिनि नामु लिखाइआ सचु ॥१॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 4,
@@ -44,8 +41,7 @@
       "en": "mahalaa pehilaa ||",
       "hi": "म: १ ॥",
       "es": false,
-      "em": false,
-      "el": false,
+      "ex": true,
       "s": "mahalaa pehilaa ||"
     },
     {
@@ -54,8 +50,7 @@
       "en": "aape paTee kalam aap upar lekh bh too(n) ||",
       "hi": "आपे पटी कलम आपि उपरि लेखु भि तूँ ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 5,
@@ -63,8 +58,7 @@
       "en": "eko kaheeaai naanakaa dhoojaa kaahe koo ||2||",
       "hi": "एको कहीऐ नानका दूजा काहे कू ॥२॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 6,
@@ -72,7 +66,7 @@
       "en": "har jug jug bhagat upaiaa paij rakhadhaa aaiaa raam raaje ||",
       "hi": "हरि जुगु जुगु भगत उपाइआ पैज रखदा आइआ राम राजे ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 6,
@@ -80,7 +74,7 @@
       "en": "haranaakhas dhusaT har maariaa prahalaadh taraiaa ||",
       "hi": "हरणाखसु दुसटु हरि मारिआ प्रहलादु तराइआ ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 6,
@@ -88,7 +82,7 @@
       "en": "aha(n)kaareeaa ni(n)dhakaa piTh dhei naamadheau mukh laiaa ||",
       "hi": "अहंकारीआ निंदका पिठि देइ नामदेउ मुखि लाइआ ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 6,
@@ -96,7 +90,7 @@
       "en": "jan naanak aaisaa har seviaa a(n)t le chhaddaiaa ||4||13||20||",
       "hi": "जन नानक ऐसा हरि सेविआ अंति लए छडाइआ ॥४॥१३॥२०॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 7,
@@ -104,6 +98,7 @@
       "en": "salok mahalaa pehilaa ||",
       "hi": "सलोकु म: १ ॥",
       "es": false,
+      "em": true,
       "s": "salok mahalaa pehilaa ||"
     },
     {
@@ -111,49 +106,56 @@
       "pn": "ਦੁਖੁ ਦਾਰੂ ਸੁਖੁ ਰੋਗੁ ਭਇਆ ਜਾ ਸੁਖੁ ਤਾਮਿ ਨ ਹੋਈ ॥",
       "en": "dhukh dhaaroo sukh rog bhiaa jaa sukh taam na hoiee ||",
       "hi": "दुखु दारू सुखु रोगु भइआ जा सुखु तामि न होई ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 8,
       "pn": "ਤੂੰ ਕਰਤਾ ਕਰਣਾ ਮੈ ਨਾਹੀ ਜਾ ਹਉ ਕਰੀ ਨ ਹੋਈ ॥੧॥",
       "en": "too(n) karataa karanaa mai naahee jaa hau karee na hoiee ||1||",
       "hi": "तूँ करता करणा मै नाही जा हउ करी न होई ॥१॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 9,
       "pn": "ਬਲਿਹਾਰੀ ਕੁਦਰਤਿ ਵਸਿਆ ॥",
       "en": "balihaaree kudharat vasiaa ||",
       "hi": "बलिहारी कुदरति वसिआ ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 9,
       "pn": "ਤੇਰਾ ਅੰਤੁ ਨ ਜਾਈ ਲਖਿਆ ॥੧॥ ਰਹਾਉ ॥",
       "en": "teraa a(n)t na jaiee lakhiaa ||1|| rahaau ||",
       "hi": "तेरा अंतु न जाई लखिआ ॥१॥ रहाउ ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 9,
       "pn": "ਜਾਤਿ ਮਹਿ ਜੋਤਿ ਜੋਤਿ ਮਹਿ ਜਾਤਾ ਅਕਲ ਕਲਾ ਭਰਪੂਰਿ ਰਹਿਆ ॥",
       "en": "jaat meh jot jot meh jaataa akal kalaa bharapoor rahiaa ||",
       "hi": "जाति महि जोति जोति महि जाता अकल कला भरपूरि रहिआ ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 9,
       "pn": "ਤੂੰ ਸਚਾ ਸਾਹਿਬੁ ਸਿਫਤਿ ਸੁਆਲਿੑਉ ਜਿਨਿ ਕੀਤੀ ਸੋ ਪਾਰਿ ਪਇਆ ॥",
       "en": "too(n) sachaa saahib sifat suaali(h)au jin keetee so paar piaa ||",
       "hi": "तूँ सचा साहिबु सिफति सुआलि्िउ जिनि कीती सो पारि पइआ ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 9,
       "pn": "ਕਹੁ ਨਾਨਕ ਕਰਤੇ ਕੀਆ ਬਾਤਾ ਜੋ ਕਿਛੁ ਕਰਣਾ ਸੁ ਕਰਿ ਰਹਿਆ ॥੨॥",
       "en": "kahu naanak karate keeaa baataa jo kichh karanaa su kar rahiaa ||2||",
       "hi": "कहु नानक करते कीआ बाता जो किछु करणा सु करि रहिआ ॥२॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 11,
@@ -1060,8 +1062,7 @@
       "en": "dhoharaa ||",
       "hi": "दोहरा ॥",
       "es": false,
-      "em": false,
-      "el": false,
+      "ex": true,
       "s": "dhoharaa ||"
     },
     {
@@ -1070,8 +1071,7 @@
       "en": "mahaa kaal kee saran je pare su le bachai ||",
       "hi": "महा काल की सरनि जे परे सु लए बचाइ ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 55,
@@ -1079,8 +1079,7 @@
       "en": "aauar na upajaa dhoosar jag bhachhiyo sabhai banai ||366||",
       "hi": "और न उपजा दूसर जग भछियो सभै बनाइ ॥३६६॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 56,
@@ -1088,8 +1087,7 @@
       "en": "jo poojaa asiket kee nit prat karai banai ||",
       "hi": "जो पूजा असिकेतु की नित प्रति करै बनाइ ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 56,
@@ -1097,8 +1095,7 @@
       "en": "tin par apano haath dhai asidhuj let bachai ||367||",
       "hi": "तिन पर अपनो हाथ दै असिधुज लेत बचाइ ॥३६७॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 57,
@@ -1106,7 +1103,7 @@
       "en": "ikOankaar satigur prasaadh ||",
       "hi": "ੴ सतिगुर प्रसादि ॥",
       "es": false,
-      "em": false,
+      "el": true,
       "ex": false,
       "s": "ikOankaar satigur prasaadh ||"
     },
@@ -1116,7 +1113,7 @@
       "en": "sree vaahiguroo jee kee fateh ||",
       "hi": "स्री वाहिगुरू जी की फतह ॥",
       "es": false,
-      "em": false,
+      "el": true,
       "ex": false,
       "s": "sree vaahiguroo jee kee fateh ||"
     },
@@ -1126,7 +1123,7 @@
       "en": "paatishaahee 10 ||",
       "hi": "पातिशाही १० ॥",
       "es": false,
-      "em": false,
+      "el": true,
       "ex": false,
       "s": "paatishaahee 10 ||"
     },
@@ -1136,7 +1133,7 @@
       "en": "chauapiee ||",
       "hi": "चौपई ॥",
       "es": false,
-      "em": false,
+      "el": true,
       "s": "chauapiee ||"
     },
     {
@@ -1145,8 +1142,7 @@
       "en": "dhusaT dhait kachh baat na jaanee ||",
       "hi": "दुसट दैत कछु बात न जानी ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 59,
@@ -1154,8 +1150,7 @@
       "en": "mahaa kaal tan pun ris Thaanee ||",
       "hi": "महा काल तन पुनि रिसि ठानी ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 59,
@@ -1163,8 +1158,7 @@
       "en": "bal apabal apano na bichaaraa ||",
       "hi": "बल अपबल अपनो न बिचारा ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 59,
@@ -1172,8 +1166,7 @@
       "en": "garab Thaan jiy bahur ha(n)kaaraa ||368||",
       "hi": "गरब ठानि जिय बहुरि हंकारा ॥३६८॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 60,
@@ -1181,8 +1174,7 @@
       "en": "re re kaal fool jin jaahu ||",
       "hi": "रे रे काल फूलि जिनि जाहु ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 60,
@@ -1190,8 +1182,7 @@
       "en": "bahur aan sa(n)graam machaahu ||",
       "hi": "बहुरि आनि संग्राम मचाहु ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 60,
@@ -1199,8 +1190,7 @@
       "en": "ek nidhaan karo ran maahee ||",
       "hi": "एक निदान करो रन माही ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 60,
@@ -1208,8 +1198,7 @@
       "en": "kai asidhuj kai dhaanav naahee ||369||",
       "hi": "कै असिधुजि कै दानव नाही ॥३६९॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 61,
@@ -1217,8 +1206,7 @@
       "en": "ek paav taj judh na bhaajaa ||",
       "hi": "एक पाव तजि जुध न भाजा ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 61,
@@ -1226,8 +1214,7 @@
       "en": "mahaaraaj dhaitan kaa raajaa ||",
       "hi": "महाराज दैतन का राजा ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 61,
@@ -1235,8 +1222,7 @@
       "en": "aa(n)tau geedh gagan lai ge ||",
       "hi": "आँतौ गीध गगन लै गए ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 61,
@@ -1244,8 +1230,7 @@
       "en": "baahat bisikh tuoo haTh bhe ||370||",
       "hi": "बाहत बिसिख तऊ हठ भए ॥३७०॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 62,
@@ -1253,8 +1238,7 @@
       "en": "asur amit ran baan chalaae ||",
       "hi": "असुर अमित रन बान चलाए ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 62,
@@ -1262,8 +1246,7 @@
       "en": "nirakh khaRagadhuj kaaT giraae ||",
       "hi": "निरखि खड़गधुज काटि गिराए ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 62,
@@ -1271,8 +1254,7 @@
       "en": "bees sahasr asur par baanaa ||",
       "hi": "बीस सहस्र असुर पर बाना ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 62,
@@ -1280,8 +1262,7 @@
       "en": "sree asidhuj chhaadde bidh naanaa ||371||",
       "hi": "स्री असिधुज छाडे बिधि नाना ॥३७१॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 63,
@@ -1289,8 +1270,7 @@
       "en": "mahaa kaal pun jiy mai kopaa ||",
       "hi": "महा काल पुनि जिय मै कोपा ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 63,
@@ -1298,8 +1278,7 @@
       "en": "dhanukh Ta(n)kor bahur ran ropaa ||",
       "hi": "धनुख टंकोर बहुरि रन रोपा ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 63,
@@ -1307,8 +1286,7 @@
       "en": "ek baan te dhujeh giraayo ||",
       "hi": "एक बान ते धुजहि गिरायो ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 63,
@@ -1316,8 +1294,7 @@
       "en": "dhutiy satr ko sees uddaayo ||372||",
       "hi": "दुतिय सत्रु को सीस उडायो ॥३७२॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 64,
@@ -1325,8 +1302,7 @@
       "en": "dhuhoo(n) bisikh kar dhavai rath chakr ||",
       "hi": "दुहूँ बिसिख करि द्वै रथ चक्र ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 64,
@@ -1334,8 +1310,7 @@
       "en": "kaaT dhe chhin ik mai bakr ||",
       "hi": "काटि दए छिन इक मै बक्र ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 64,
@@ -1343,8 +1318,7 @@
       "en": "chaareh baan chaar hoo(n) baajaa ||",
       "hi": "चारहि बान चार हूँ बाजा ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 64,
@@ -1352,8 +1326,7 @@
       "en": "maar dhe sabh jag ke raajaa ||373||",
       "hi": "मार दए सभ जग के राजा ॥३७३॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 65,
@@ -1361,8 +1334,7 @@
       "en": "bahur asur kaa kaaTas maathaa ||",
       "hi": "बहुरि असुर का काटसि माथा ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 65,
@@ -1370,8 +1342,7 @@
       "en": "sree asiket jagat ke naathaa ||",
       "hi": "स्री असिकेति जगत के नाथा ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 65,
@@ -1379,8 +1350,7 @@
       "en": "dhutiy baan sau dhouoo ar kar ||",
       "hi": "दुतिय बान सौ दोऊ अरि कर ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 65,
@@ -1388,8 +1358,7 @@
       "en": "kaaT dhayo asidhuj nar naahar ||374||",
       "hi": "काटि दयो असिधुज नर नाहर ॥३७४॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 66,
@@ -1397,7 +1366,7 @@
       "en": "pun raachhas kaa kaaTaa seesaa ||",
       "hi": "पुनि राछस का काटा सीसा ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 66,
@@ -1405,7 +1374,7 @@
       "en": "sree asiket jagat ke ieesaa ||",
       "hi": "स्री असिकेतु जगत के ईसा ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 66,
@@ -1413,7 +1382,7 @@
       "en": "puhapan birasaT gagan te bhiee ||",
       "hi": "पुहपन बृसटि गगन ते भई ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 66,
@@ -1421,7 +1390,7 @@
       "en": "sabhahin aan badhaiee dhiee ||375||",
       "hi": "सभहिन आनि बधाई दई ॥३७५॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 67,
@@ -1429,7 +1398,7 @@
       "en": "dha(n)nay dha(n)nay logan ke raajaa ||",
       "hi": "धंन्य धंन्य लोगन के राजा ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 67,
@@ -1437,7 +1406,7 @@
       "en": "dhusaTan dhaeh gareeb nivaajaa ||",
       "hi": "दुसटन दाह गरीब निवाजा ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 67,
@@ -1445,7 +1414,7 @@
       "en": "akhal bhavan ke sirajanahaare ||",
       "hi": "अखल भवन के सिरजनहारे ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 67,
@@ -1453,7 +1422,7 @@
       "en": "dhaas jaan muh leh ubaare ||376||",
       "hi": "दास जानि मुहि लेहु उबारे ॥३७६॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 68,
@@ -2089,7 +2058,7 @@
       "en": "kirapaa karee ham par jagamaataa ||",
       "hi": "कृपा करी हम पर जगमाता ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 97,
@@ -2097,7 +2066,7 @@
       "en": "gra(n)th karaa pooran subharaataa ||",
       "hi": "ग्रंथ करा पूरन सुभराता ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 97,
@@ -2105,7 +2074,7 @@
       "en": "kilabikh sakal dheh ko harataa ||",
       "hi": "किलबिख सकल देह को हरता ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 97,
@@ -2113,7 +2082,7 @@
       "en": "dhusaT dhokhiyan ko chhai karataa ||402||",
       "hi": "दुसट दोखियन को छै करता ॥४०२॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 98,
@@ -2121,7 +2090,7 @@
       "en": "sree asidhuj jab bhe dhayaalaa ||",
       "hi": "स्री असिधुज जब भए दयाला ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 98,
@@ -2129,7 +2098,7 @@
       "en": "pooran karaa gra(n)th tatakaalaa ||",
       "hi": "पूरन करा ग्रंथ ततकाला ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 98,
@@ -2137,7 +2106,7 @@
       "en": "man baachhat fal paavai soiee ||",
       "hi": "मन बाछत फल पावै सोई ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 98,
@@ -2145,7 +2114,7 @@
       "en": "dhookh na tisai biaapat koiee ||403||",
       "hi": "दूख न तिसै बिआपत कोई ॥४०३॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 99,
@@ -2153,7 +2122,7 @@
       "en": "aRil ||",
       "hi": "अड़िल ॥",
       "es": false,
-      "em": false,
+      "el": true,
       "s": "aRil ||"
     },
     {
@@ -2162,7 +2131,7 @@
       "en": "sunai gu(n)g jo yaeh su rasanaa paaviee ||",
       "hi": "सुनै गुँग जो याहि सु रसना पावई ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 100,
@@ -2170,7 +2139,7 @@
       "en": "sunai mooR chit lai chaturataa aaviee ||",
       "hi": "सुनै मूड़ चित लाइ चतुरता आवई ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 100,
@@ -2178,7 +2147,7 @@
       "en": "dhookh dharadh bhau nikaT na tin nar ke rahai ||",
       "hi": "दूख दरद भौ निकट न तिन नर के रहै ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 100,
@@ -2186,7 +2155,7 @@
       "en": "ho jo yaa kee ek baar chauapiee ko kahai ||404||",
       "hi": "हो जो या की एक बार चौपई को कहै ॥४०४॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 101,
@@ -2194,7 +2163,7 @@
       "en": "chauapiee ||",
       "hi": "चौपई ॥",
       "es": false,
-      "em": false,
+      "el": true,
       "s": "chauapiee ||"
     },
     {
@@ -2203,7 +2172,7 @@
       "en": "sa(n)bat satreh sahas bhanijai ||",
       "hi": "संबत सत्रह सहस भणिजै ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 102,
@@ -2211,7 +2180,7 @@
       "en": "aradh sahas fun teen kahijai ||",
       "hi": "अरध सहस फुनि तीनि कहिजै ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 102,
@@ -2219,7 +2188,7 @@
       "en": "bhaadhrav sudhee asaTamee rav vaaraa ||",
       "hi": "भाद्रव सुदी असटमी रवि वारा ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 102,
@@ -2227,7 +2196,7 @@
       "en": "teer satudhrav gra(n)th sudhaaraa ||405||",
       "hi": "तीर सतुद्रव ग्रंथ सुधारा ॥४०५॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 102,
@@ -2235,7 +2204,7 @@
       "en": "eit sree charitr pakhayaane tirayaa charitre ma(n)tree bhoop sa(n)baadhe chaar sau paa(n)ch charitr samaapatam sat subham sat ||405||7558|| afaja(n)oo ||",
       "hi": "इति स्री चरित्र पख्याने तृया चरित्रे मंत्री भूप संबादे चार सौ पाँच चरित्र समापतम सतु सुभम सतु ॥४०५॥७५५८॥ अफजंू ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 103,
@@ -2243,7 +2212,7 @@
       "en": "dhoharaa ||",
       "hi": "दोहरा ॥",
       "es": false,
-      "em": false,
+      "el": true,
       "s": "dhoharaa ||"
     },
     {
@@ -2252,7 +2221,7 @@
       "en": "dhaas jaan kar dhaas par keejai kirapaa apaar ||",
       "hi": "दास जान करि दास परि कीजै कृपा अपार ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 104,
@@ -2260,7 +2229,7 @@
       "en": "aap haath dhai raakh muh man kram bachan bichaar ||433||",
       "hi": "आप हाथ दै राख मुहि मन क्रम बचन बिचारि ॥४३३॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 105,
@@ -2268,7 +2237,7 @@
       "en": "chauapiee ||",
       "hi": "चौपई ॥",
       "es": false,
-      "em": false,
+      "el": true,
       "s": "chauapiee ||"
     },
     {
@@ -2277,7 +2246,7 @@
       "en": "mai na ganeseh piratham manaauoo ||",
       "hi": "मै न गनेसहि पृथम मनाऊ ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 106,
@@ -2285,7 +2254,7 @@
       "en": "kisan bisan kabahoo(n) na dhiaauoo ||",
       "hi": "किसन बिसन कबहूँ न धिआऊ ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 106,
@@ -2293,7 +2262,7 @@
       "en": "kaan sune pahichaan na tin so ||",
       "hi": "कानि सुने पहिचान न तिन सो ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 106,
@@ -2301,7 +2270,7 @@
       "en": "liv laagee moree pag in so ||434||",
       "hi": "लिव लागी मोरी पग इन सो ॥४३४॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 107,
@@ -2309,7 +2278,7 @@
       "en": "mahaakaal rakhavaar hamaaro ||",
       "hi": "महाकाल रखवार हमारो ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 107,
@@ -2317,7 +2286,7 @@
       "en": "mahaa loh mai ki(n)kar thaaro ||",
       "hi": "महा लोह मै किंकर थारो ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 107,
@@ -2325,7 +2294,7 @@
       "en": "apunaa jaan karo rakhavaar ||",
       "hi": "अपुना जानि करो रखवार ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 107,
@@ -2333,7 +2302,7 @@
       "en": "baeh gahe kee laaj bichaar ||435||",
       "hi": "बाह गहे की लाज बिचार ॥४३५॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 108,
@@ -2341,7 +2310,7 @@
       "en": "apunaa jaan mujhai pratipareeaai ||",
       "hi": "अपुना जानि मुझै प्रतिपरीऐ ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 108,
@@ -2349,7 +2318,7 @@
       "en": "chun chun satr hamaare mareeaai ||",
       "hi": "चुनि चुनि सत्र हमारे मरीऐ ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 108,
@@ -2357,7 +2326,7 @@
       "en": "dheg teg jag mai dhouoo chalai ||",
       "hi": "देग तेग जग मै दोऊ चलै ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 108,
@@ -2365,7 +2334,7 @@
       "en": "raakh aap muh aaur na dhalai ||436||",
       "hi": "राखु आपि मुहि अउर न दलै ॥४३६॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 109,
@@ -2373,7 +2342,7 @@
       "en": "tum mam karahu sadhaa pratipaaraa ||",
       "hi": "तुम मम करहु सदा प्रतिपारा ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 109,
@@ -2381,7 +2350,7 @@
       "en": "tum saahib mai dhaas tihaaraa ||",
       "hi": "तुम साहिब मै दास तिहारा ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 109,
@@ -2389,7 +2358,7 @@
       "en": "jaan aapanaa mujhai nivaaj ||",
       "hi": "जानि आपना मुझै निवाज ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 109,
@@ -2397,7 +2366,7 @@
       "en": "aap karo hamare sabh kaaj ||437||",
       "hi": "आपि करो हमरे सभ काज ॥४३७॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 110,
@@ -2405,7 +2374,7 @@
       "en": "tum ho sabh raajan ke raajaa ||",
       "hi": "तुम हो सभ राजन के राजा ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 110,
@@ -2413,7 +2382,7 @@
       "en": "aape aap gareeb nivaajaa ||",
       "hi": "आपे आपु गरीब निवाजा ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 110,
@@ -2421,7 +2390,7 @@
       "en": "dhaas jaan kar kirapaa karahu muh ||",
       "hi": "दास जान करि कृपा करहु मुहि ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 110,
@@ -2429,7 +2398,7 @@
       "en": "haar paraa mai aan dhavaar tuh ||438||",
       "hi": "हारि परा मै आनि दवारि तुहि ॥४३८॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 111,
@@ -2437,7 +2406,7 @@
       "en": "apunaa jaan karo pratipaaraa ||",
       "hi": "अपुना जानि करो प्रतिपारा ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 111,
@@ -2445,7 +2414,7 @@
       "en": "tum saahib mai ki(n)kar thaaraa ||",
       "hi": "तुम साहिबु मै किंकर थारा ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 111,
@@ -2453,7 +2422,7 @@
       "en": "dhaas jaan kai haath ubaaro ||",
       "hi": "दास जानि कै हाथि उबारो ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 111,
@@ -2461,7 +2430,7 @@
       "en": "hamare sabh baireean sa(n)ghaaro ||439||",
       "hi": "हमरे सभ बैरीअन संघारो ॥४३९॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 112,
@@ -2469,7 +2438,7 @@
       "en": "pratham dharo bhagavat ko dhayaanaa ||",
       "hi": "प्रथमि धरो भगवत को ध्याना ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 112,
@@ -2477,7 +2446,7 @@
       "en": "bahur karo kabitaa bidh naanaa ||",
       "hi": "बहुरि करो कबिता बिधि नाना ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 112,
@@ -2485,7 +2454,7 @@
       "en": "kirasan jathaamat charitr uchaaro ||",
       "hi": "कृसन जथामति चरित्र उचारो ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 112,
@@ -2493,7 +2462,7 @@
       "en": "chook hoi kab leh sudhaaro ||440||",
       "hi": "चूक होइ कबि लेहु सुधारो ॥४४०॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 113,
@@ -2501,7 +2470,7 @@
       "en": "kabibaach || dhoharaa ||",
       "hi": "कबिबाच ॥ दोहरा ॥",
       "es": false,
-      "em": false,
+      "el": true,
       "s": "kabibaach || dhoharaa ||"
     },
     {
@@ -2510,7 +2479,7 @@
       "en": "jo nij prabh mo so kahaa so kahiho(n) jag maeh ||",
       "hi": "जो निज प्रभ मो सो कहा सो कहिहों जग माहि ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 114,
@@ -2518,7 +2487,7 @@
       "en": "jo teh prabh ko dhiaai hai a(n)t surag ko jaeh ||59||",
       "hi": "जो तिह प्रभ को धिआइ है अंत सुरग को जाहि ॥५९॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 115,
@@ -2526,7 +2495,7 @@
       "en": "dhoharaa ||",
       "hi": "दोहरा ॥",
       "es": false,
-      "em": false,
+      "el": true,
       "s": "dhoharaa ||"
     },
     {
@@ -2535,7 +2504,7 @@
       "en": "har har jan dhui ek hai bib bichaar kachh naeh ||",
       "hi": "हरि हरि जन दुइ एक है बिब बिचार कछु नाहि ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 116,
@@ -2543,7 +2512,7 @@
       "en": "jal te upaj tara(n)g jiau jal hee bikhai samaeh ||60||",
       "hi": "जल ते उपज तरंग जिउ जल ही बिखै समाहि ॥६०॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 117,
@@ -2551,8 +2520,7 @@
       "en": "dhoharaa ||",
       "hi": "दोहरा ॥",
       "es": false,
-      "em": false,
-      "el": false,
+      "ex": true,
       "s": "dhoharaa ||"
     },
     {
@@ -2561,8 +2529,7 @@
       "en": "bhekh dhikhai jagat ko logan ko bas keen ||",
       "hi": "भेख दिखाइ जगत को लोगन को बसि कीन ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 119,
@@ -2570,8 +2537,7 @@
       "en": "a(n)t kaal kaatee kaTio baas narak mo leen ||56||",
       "hi": "अंति काल काती कटिओ बासु नरक मो लीन ॥५६॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 120,
@@ -2579,8 +2545,7 @@
       "en": "dhoharaa ||",
       "hi": "दोहरा ॥",
       "es": false,
-      "em": false,
-      "el": false,
+      "ex": true,
       "s": "dhoharaa ||"
     },
     {
@@ -2589,8 +2554,7 @@
       "en": "tin bedheean kee kul bikhai pragaTe naanak rai ||",
       "hi": "तिन बेदीअन की कुल बिखै प्रगटे नानक राइ ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 121,
@@ -2598,8 +2562,7 @@
       "en": "sabh si'khan ko sukh dhe jeh teh bhe sahai ||4||",
       "hi": "सभ सिक्खन को सुख दए जह तह भए सहाइ ॥४॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 122,
@@ -2607,8 +2570,7 @@
       "en": "chauapiee ||",
       "hi": "चौपई ॥",
       "es": false,
-      "em": false,
-      "el": false,
+      "ex": true,
       "s": "chauapiee ||"
     },
     {
@@ -2617,8 +2579,7 @@
       "en": "tin ieh kal mo dharam chalaayo ||",
       "hi": "तिन इह कल मो धरमु चलायो ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 123,
@@ -2626,8 +2587,7 @@
       "en": "sabh saadhan ko raahu bataayo ||",
       "hi": "सभ साधन को राहु बतायो ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 123,
@@ -2635,8 +2595,7 @@
       "en": "jo taa(n) ke maarag meh aae ||",
       "hi": "जो ताँ के मारग महि आए ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 123,
@@ -2644,8 +2603,7 @@
       "en": "te kabahoo(n) neh paap sa(n)taae ||5||",
       "hi": "ते कबहूँ नहि पाप संताए ॥५॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 124,
@@ -2653,8 +2611,7 @@
       "en": "je je pa(n)th tavan ke pare ||",
       "hi": "जे जे पंथ तवन के परे ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 124,
@@ -2662,8 +2619,7 @@
       "en": "paap taap tin ke prabh hare ||",
       "hi": "पाप ताप तिन के प्रभ हरे ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 124,
@@ -2671,8 +2627,7 @@
       "en": "dhookh bhookh kabahoo(n) na sa(n)taae ||",
       "hi": "दूख भूख कबहूँ न संताए ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 124,
@@ -2680,8 +2635,7 @@
       "en": "jaal kaal ke beech na aae ||6||",
       "hi": "जाल काल के बीच न आए ॥६॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 125,
@@ -2689,8 +2643,7 @@
       "en": "kabibaach || dhoharaa ||",
       "hi": "कबिबाच ॥ दोहरा ॥",
       "es": false,
-      "em": false,
-      "el": false,
+      "ex": true,
       "s": "kabibaach || dhoharaa ||"
     },
     {
@@ -2699,8 +2652,7 @@
       "en": "Thaadd bhayo mai jor kar bachan kahaa sir niaai ||",
       "hi": "ठाढ भयो मै जोरि कर बचन कहा सिर निआइ ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 126,
@@ -2708,8 +2660,7 @@
       "en": "pa(n)th chalai tab jagat mai jab tum karahu sahai ||30||",
       "hi": "पंथ चलै तब जगत मै जब तुम करहु सहाइ ॥३०॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 127,
@@ -2717,8 +2668,7 @@
       "en": "dhoharaa ||",
       "hi": "दोहरा ॥",
       "es": false,
-      "em": false,
-      "el": false,
+      "ex": true,
       "s": "dhoharaa ||"
     },
     {
@@ -2727,8 +2677,7 @@
       "en": "sun bhoopat yaa jagat mai dhukhee rahat har sa(n)t ||",
       "hi": "सुनि भूपति या जगत मै दुखी रहत हरि संत ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 128,
@@ -2736,8 +2685,7 @@
       "en": "a(n)t lahat hai mukat fal paavat hai bhagava(n)t ||2455||",
       "hi": "अंति लहत है मुकति फल पावत है भगवंत ॥२४५५॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 129,
@@ -2745,8 +2693,7 @@
       "en": "soraThaa ||",
       "hi": "सोरठा ॥",
       "es": false,
-      "em": false,
-      "el": false,
+      "ex": true,
       "s": "soraThaa ||"
     },
     {
@@ -2755,8 +2702,7 @@
       "en": "rudhr bhagat jag maeh sukh ke dhivas sadhaa bharai ||",
       "hi": "रुद्र भगत जग माहि सुख के दिवस सदा भरै ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 130,
@@ -2764,8 +2710,7 @@
       "en": "marai fir aaveh jaeh fal kachh lahai na mukat ko ||2456||",
       "hi": "मरै फिरि आवहि जाहि फलु कछु लहै न मुकति को ॥२४५६॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 131,
@@ -2773,8 +2718,7 @@
       "en": "dhoharaa ||",
       "hi": "दोहरा ॥",
       "es": false,
-      "em": false,
-      "el": false,
+      "ex": true,
       "s": "dhoharaa ||"
     },
     {
@@ -2783,8 +2727,7 @@
       "en": "Theekar for dhilees sir prabh pur keeyaa payaan ||",
       "hi": "ठीकर फोरि दिलीस सिरि प्रभ पुरि कीया पयान ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 132,
@@ -2792,8 +2735,7 @@
       "en": "teg bahaadhar see kriaa karee na kinahoo(n) aan ||15||",
       "hi": "तेग बहादर सी कृआ करी न किनहूँ आन ॥१५॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 133,
@@ -2801,8 +2743,7 @@
       "en": "teg bahaadhar ke chalat bhayo jagat ko sok ||",
       "hi": "तेग बहादर के चलत भयो जगत को सोक ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 133,
@@ -2810,8 +2751,7 @@
       "en": "hai hai hai sabh jag bhayo jai jai jai sur lok ||16||",
       "hi": "है है है सभ जग भयो जै जै जै सुर लोक ॥१६॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 134,
@@ -2819,7 +2759,7 @@
       "en": "dhoharaa ||",
       "hi": "दोहरा ॥",
       "es": false,
-      "em": false,
+      "el": true,
       "s": "dhoharaa ||"
     },
     {
@@ -2828,7 +2768,7 @@
       "en": "jab aais prabh ko bhayo janam dharaa jag aai ||",
       "hi": "जब आइसु प्रभ को भयो जनमु धरा जग आइ ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 135,
@@ -2836,7 +2776,7 @@
       "en": "ab mai kathaa sa(n)chhep te sabahoo(n) kahat sunai ||64||",
       "hi": "अब मै कथा संछेप ते सबहूँ कहत सुनाइ ॥६४॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 136,
@@ -2844,7 +2784,7 @@
       "en": "kabibaach || dhoharaa ||",
       "hi": "कबिबाच ॥ दोहरा ॥",
       "es": false,
-      "em": false,
+      "el": true,
       "ex": false,
       "s": "kabibaach || dhoharaa ||"
     },
@@ -2854,7 +2794,7 @@
       "en": "Thaadd bhayo mai jor kar bachan kahaa sir niaai ||",
       "hi": "ठाढ भयो मै जोरि कर बचन कहा सिर निआइ ॥",
       "es": false,
-      "em": false,
+      "el": true,
       "ex": false
     },
     {
@@ -2863,7 +2803,7 @@
       "en": "pa(n)th chalai tab jagat mai jab tum karahu sahai ||30||",
       "hi": "पंथ चलै तब जगत मै जब तुम करहु सहाइ ॥३०॥",
       "es": false,
-      "em": false,
+      "el": true,
       "ex": false
     },
     {
@@ -2872,7 +2812,7 @@
       "en": "dhoharaa ||",
       "hi": "दोहरा ॥",
       "es": false,
-      "em": false,
+      "el": true,
       "s": "dhoharaa ||"
     },
     {
@@ -2881,7 +2821,7 @@
       "en": "je je tumare dhiaan ko nit uTh dhiaaihai sa(n)t ||",
       "hi": "जे जे तुमरे धिआन को नित उठि धिऐहै संत ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 139,
@@ -2889,7 +2829,7 @@
       "en": "a(n)t lahaige mukat fal paavahige bhagava(n)t ||6||262||",
       "hi": "अंत लहैगे मुकति फलु पावहिगे भगवंत ॥६॥२६२॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 140,
@@ -2897,7 +2837,7 @@
       "en": "dhoharaa ||",
       "hi": "दोहरा ॥",
       "es": false,
-      "em": false,
+      "el": true,
       "s": "dhoharaa ||"
     },
     {
@@ -2906,7 +2846,7 @@
       "en": "kaal purakh kee dheh mo koTik bisan mahes ||",
       "hi": "काल पुरख की देहि मो कोटिक बिसन महेस ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 141,
@@ -2914,7 +2854,7 @@
       "en": "koT i(n)dhr brahamaa kite rav sas kror jales ||1||",
       "hi": "कोटि इंद्र ब्रहमा किते रवि ससि क्रोरि जलेस ॥१॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 142,
@@ -2922,8 +2862,7 @@
       "en": "savaiyaa ||",
       "hi": "सवैया ॥",
       "es": false,
-      "em": false,
-      "el": false,
+      "ex": true,
       "s": "savaiyaa ||"
     },
     {
@@ -2932,8 +2871,7 @@
       "en": "chhatree ko poot hau baaman ko neh kai tap aavat hai ju karo ||",
       "hi": "छत्री को पूत हौ बामन को नहि कै तपु आवत है जु करो ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 143,
@@ -2941,8 +2879,7 @@
       "en": "ar aaur ja(n)jaar jito gireh ko tuh tiaag kahaa chit taa mai dharo ||",
       "hi": "अरु अउर जंजार जितो गृह को तुहि तिआगि कहा चित ता मै धरो ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 143,
@@ -2950,8 +2887,7 @@
       "en": "ab reejh kai dheh vahai ham kau jouoo hau binatee kar jor karo ||",
       "hi": "अब रीझि कै देहु वहै हम कउ जोऊ हउ बिनती कर जोरि करो ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 143,
@@ -2959,8 +2895,7 @@
       "en": "jab aau kee aaudh nidhaan banai at hee ran mai tab joojh maro ||2489||",
       "hi": "जब आउ की अउध निदान बनै अति ही रन मै तब जूझि मरो ॥२४८९॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 144,
@@ -2968,8 +2903,7 @@
       "en": "chaaranee || dhoharaa ||",
       "hi": "चारणी ॥ दोहरा ॥",
       "es": false,
-      "em": false,
-      "el": false,
+      "ex": true,
       "s": "chaaranee || dhoharaa ||"
     },
     {
@@ -2978,8 +2912,7 @@
       "en": "jis no saajan raakhasee dhusaman kavan bichaar ||",
       "hi": "जिस नो साजन राखसी दुसमन कवन बिचार ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 145,
@@ -2987,8 +2920,7 @@
       "en": "chhavai na sakai teh chhaeh kau nihafal jai gavaar ||24||",
       "hi": "छ्वै न सकै तिह छाहि कौ निहफल जाइ गवार ॥२४॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 146,
@@ -2996,8 +2928,7 @@
       "en": "jo saadhoo saranee pare tin ke kavan bichaar ||",
       "hi": "जो साधू सरणी परे तिन के कवन बिचार ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 146,
@@ -3005,8 +2936,7 @@
       "en": "dha(n)t jeebh jim raakh hai dhusaT arisaT sa(n)ghaar ||25||",
       "hi": "दंत जीभ जिम राखि है दुसट अरिसट संघार ॥२५॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 147,
@@ -3014,8 +2944,7 @@
       "en": "dhoharaa ||",
       "hi": "दोहरा ॥",
       "es": false,
-      "em": false,
-      "el": false,
+      "ex": true,
       "s": "dhoharaa ||"
     },
     {
@@ -3024,8 +2953,7 @@
       "en": "satreh sai paitaal meh saavan sudh thit dheep ||",
       "hi": "सत्रह सै पैतालि महि सावन सुदि थिति दीप ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 148,
@@ -3033,8 +2961,7 @@
       "en": "nagar paavaTaa subh karan jamunaa bahai sameep ||2490||",
       "hi": "नगर पावटा सुभ करन जमुना बहै समीप ॥२४९०॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 149,
@@ -3042,8 +2969,7 @@
       "en": "dhasam kathaa bhaagauat kee bhaakhaa karee banai ||",
       "hi": "दसम कथा भागौत की भाखा करी बनाइ ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 149,
@@ -3051,8 +2977,7 @@
       "en": "avar baasanaa naeh prabh dharam judh ke chai ||2491||",
       "hi": "अवर बासना नाहि प्रभ धरम जुध के चाइ ॥२४९१॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 150,
@@ -3060,8 +2985,7 @@
       "en": "savaiyaa ||",
       "hi": "सवैया ॥",
       "es": false,
-      "em": false,
-      "el": false,
+      "ex": true,
       "s": "savaiyaa ||"
     },
     {
@@ -3070,8 +2994,7 @@
       "en": "dha(n)n jeeo teh ko jag mai mukh te har chit mai judh bichaarai ||",
       "hi": "धंनि जीओ तिह को जग मै मुख ते हरि चित मै जुधु बिचारै ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 151,
@@ -3079,8 +3002,7 @@
       "en": "dheh anit na nit rahai jas naav chaRai bhav saagar taarai ||",
       "hi": "देह अनित न नित रहै जसु नाव चड़ै भव सागर तारै ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 151,
@@ -3088,8 +3010,7 @@
       "en": "dheeraj dhaam banai ihai tan budh su dheepak jiau ujeeaarai ||",
       "hi": "धीरज धाम बनाइ इहै तन बुधि सु दीपक जिउ उजीआरै ॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 151,
@@ -3097,8 +3018,7 @@
       "en": "giaaneh kee baddanee manahu haath lai kaatarataa kutavaar buhaarai ||2492||",
       "hi": "गिआनहि की बढनी मनहु हाथ लै कातरता कुतवार बुहारै ॥२४९२॥",
       "es": false,
-      "em": false,
-      "el": false
+      "ex": true
     },
     {
       "p": 152,
@@ -3106,7 +3026,7 @@
       "en": "dhoharaa ||",
       "hi": "दोहरा ॥",
       "es": false,
-      "em": false,
+      "el": true,
       "s": "dhoharaa ||"
     },
     {
@@ -3115,7 +3035,7 @@
       "en": "raam kathaa jug jug aTal sabh koiee bhaakhat net ||",
       "hi": "राम कथा जुग जुग अटल सभ कोई भाखत नेत ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 153,
@@ -3123,7 +3043,7 @@
       "en": "surag baas raghubar karaa sagaree puree samet ||858||",
       "hi": "सुरग बास रघुबर करा सगरी पुरी समेत ॥८५८॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 154,
@@ -3131,7 +3051,7 @@
       "en": "chauapiee ||",
       "hi": "चौपई ॥",
       "es": false,
-      "em": false,
+      "el": true,
       "s": "chauapiee ||"
     },
     {
@@ -3140,7 +3060,7 @@
       "en": "jo ieh kathaa sunai ar gaavai ||",
       "hi": "जो इह कथा सुनै अरु गावै ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 155,
@@ -3148,7 +3068,7 @@
       "en": "dhookh paap teh nikaT na aavai ||",
       "hi": "दूख पाप तिह निकटि न आवै ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 155,
@@ -3156,7 +3076,7 @@
       "en": "bisan bhagat kee e fal hoiee ||",
       "hi": "बिसन भगति की ए फल होई ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 155,
@@ -3164,7 +3084,7 @@
       "en": "aadh bayaadh chhavai sakai na koi ||859||",
       "hi": "आधि बयाधि छ्वै सकै न कोइ ॥८५९॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 156,
@@ -3172,7 +3092,7 @@
       "en": "sa(n)mat sa'treh sahas pachaavan ||",
       "hi": "संमत सत्त्रह सहस पचावन ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 156,
@@ -3180,7 +3100,7 @@
       "en": "haaR vadhee pirathamai sukh dhaavan ||",
       "hi": "हाड़ वदी पृथमै सुख दावन ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 156,
@@ -3188,7 +3108,7 @@
       "en": "tavai prasaadh kar gra(n)th sudhaaraa ||",
       "hi": "त्व प्रसादि करि ग्रंथ सुधारा ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 156,
@@ -3196,7 +3116,7 @@
       "en": "bhool paree lahu leh sudhaaraa ||860||",
       "hi": "भूल परी लहु लेहु सुधारा ॥८६०॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 157,
@@ -3204,7 +3124,7 @@
       "en": "dhoharaa ||",
       "hi": "दोहरा ॥",
       "es": false,
-      "em": false,
+      "el": true,
       "s": "dhoharaa ||"
     },
     {
@@ -3213,7 +3133,7 @@
       "en": "netr tu(n)g ke charan tar satadhra'v teer tara(n)g ||",
       "hi": "नेत्र तुँग के चरन तर सतद्रव्व तीर तरंग ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 158,
@@ -3221,7 +3141,7 @@
       "en": "sree bhagavat pooran keeyo raghubar kathaa prasa(n)g ||861||",
       "hi": "स्री भगवत पूरन कीयो रघुबर कथा प्रसंग ॥८६१॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 159,
@@ -3229,7 +3149,7 @@
       "en": "saadh asaadh jaano nahee baadh subaadh bibaadh ||",
       "hi": "साध असाध जानो नही बाद सुबाद बिबादि ॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 159,
@@ -3237,7 +3157,7 @@
       "en": "gra(n)th sakal pooran keeyo bhagavat kirapaa prasaadh ||862||",
       "hi": "ग्रंथ सकल पूरण कीयो भगवत कृपा प्रसादि ॥८६२॥",
       "es": false,
-      "em": false
+      "el": true
     },
     {
       "p": 160,
@@ -3569,6 +3489,7 @@
       "en": "pauRee ||",
       "hi": "पउड़ी ॥",
       "es": false,
+      "em": true,
       "s": "pauRee ||"
     },
     {
@@ -3576,56 +3497,64 @@
       "pn": "ਤਿਥੈ ਤੂ ਸਮਰਥੁ ਜਿਥੈ ਕੋਇ ਨਾਹਿ ॥",
       "en": "tithai too samarath jithai koi naeh ||",
       "hi": "तिथै तू समरथु जिथै कोइ नाहि ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 178,
       "pn": "ਓਥੈ ਤੇਰੀ ਰਖ ਅਗਨੀ ਉਦਰ ਮਾਹਿ ॥",
       "en": "othai teree rakh aganee udhar maeh ||",
       "hi": "ओथै तेरी रख अगनी उदर माहि ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 178,
       "pn": "ਸੁਣਿ ਕੈ ਜਮ ਕੇ ਦੂਤ ਨਾਇ ਤੇਰੈ ਛਡਿ ਜਾਹਿ ॥",
       "en": "sun kai jam ke dhoot nai terai chhadd jaeh ||",
       "hi": "सुणि कै जम के दूत नाइ तेरै छडि जाहि ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 178,
       "pn": "ਭਉਜਲੁ ਬਿਖਮੁ ਅਸਗਾਹੁ ਗੁਰ ਸਬਦੀ ਪਾਰਿ ਪਾਹਿ ॥",
       "en": "bhaujal bikham asagaahu gur sabadhee paar paeh ||",
       "hi": "भउजलु बिखमु असगाहु गुर सबदी पारि पाहि ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 178,
       "pn": "ਜਿਨ ਕਉ ਲਗੀ ਪਿਆਸ ਅੰਮ੍ਰਿਤੁ ਸੇਇ ਖਾਹਿ ॥",
       "en": "jin kau lagee piaas a(n)mrit sei khaeh ||",
       "hi": "जिन कउ लगी पिआस अंमृतु सेइ खाहि ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 178,
       "pn": "ਕਲਿ ਮਹਿ ਏਹੋ ਪੁੰਨੁ ਗੁਣ ਗੋਵਿੰਦ ਗਾਹਿ ॥",
       "en": "kal meh eho pu(n)n gun govi(n)dh gaeh ||",
       "hi": "कलि महि एहो पुँनु गुण गोविंद गाहि ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 178,
       "pn": "ਸਭਸੈ ਨੋ ਕਿਰਪਾਲੁ ਸਮੑਾਲੇ ਸਾਹਿ ਸਾਹਿ ॥",
       "en": "sabhasai no kirapaal sam(h)aale saeh saeh ||",
       "hi": "सभसै नो किरपालु सम्माले साहि साहि ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 178,
       "pn": "ਬਿਰਥਾ ਕੋਇ ਨ ਜਾਇ ਜਿ ਆਵੈ ਤੁਧੁ ਆਹਿ ॥੯॥",
       "en": "birathaa koi na jai j aavai tudh aaeh ||9||",
       "hi": "बिरथा कोइ न जाइ जि आवै तुधु आहि ॥९॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 179,
@@ -3633,6 +3562,7 @@
       "en": "salok mahalaa panjavaa ||",
       "hi": "सलोकु म: ५ ॥",
       "es": false,
+      "em": true,
       "s": "salok mahalaa panjavaa ||"
     },
     {
@@ -3640,35 +3570,40 @@
       "pn": "ਅੰਤਰਿ ਗੁਰੁ ਆਰਾਧਣਾ ਜਿਹਵਾ ਜਪਿ ਗੁਰ ਨਾਉ ॥",
       "en": "a(n)tar gur aaraadhanaa jihavaa jap gur naau ||",
       "hi": "अंतरि गुरु आराधणा जिहवा जपि गुर नाउ ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 180,
       "pn": "ਨੇਤ੍ਰੀ ਸਤਿਗੁਰੁ ਪੇਖਣਾ ਸ੍ਰਵਣੀ ਸੁਨਣਾ ਗੁਰ ਨਾਉ ॥",
       "en": "netree satigur pekhanaa sravanee sunanaa gur naau ||",
       "hi": "नेत्री सतिगुरु पेखणा स्रवणी सुनणा गुर नाउ ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 180,
       "pn": "ਸਤਿਗੁਰ ਸੇਤੀ ਰਤਿਆ ਦਰਗਹ ਪਾਈਐ ਠਾਉ ॥",
       "en": "satigur setee ratiaa dharageh paieeaai Thaau ||",
       "hi": "सतिगुर सेती रतिआ दरगह पाईऐ ठाउ ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 180,
       "pn": "ਕਹੁ ਨਾਨਕ ਕਿਰਪਾ ਕਰੇ ਜਿਸ ਨੋ ਏਹ ਵਥੁ ਦੇਇ ॥",
       "en": "kahu naanak kirapaa kare jis no eh vath dhei ||",
       "hi": "कहु नानक किरपा करे जिस नो एह वथु देइ ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 180,
       "pn": "ਜਗ ਮਹਿ ਉਤਮ ਕਾਢੀਅਹਿ ਵਿਰਲੇ ਕੇਈ ਕੇਇ ॥੧॥",
       "en": "jag meh utam kaadde'eeh virale keiee kei ||1||",
       "hi": "जग महि उतम काढीअहि विरले केई केइ ॥१॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 181,
@@ -3676,6 +3611,7 @@
       "en": "mahalaa panjavaa ||",
       "hi": "म: ५ ॥",
       "es": false,
+      "em": true,
       "s": "mahalaa panjavaa ||"
     },
     {
@@ -3683,49 +3619,56 @@
       "pn": "ਰਖੇ ਰਖਣਹਾਰਿ ਆਪਿ ਉਬਾਰਿਅਨੁ ॥",
       "en": "rakhe rakhanahaar aap ubaarian ||",
       "hi": "रखे रखणहारि आपि उबारिअनु ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 182,
       "pn": "ਗੁਰ ਕੀ ਪੈਰੀ ਪਾਇ ਕਾਜ ਸਵਾਰਿਅਨੁ ॥",
       "en": "gur kee pairee pai kaaj savaarian ||",
       "hi": "गुर की पैरी पाइ काज सवारिअनु ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 182,
       "pn": "ਹੋਆ ਆਪਿ ਦਇਆਲੁ ਮਨਹੁ ਨ ਵਿਸਾਰਿਅਨੁ ॥",
       "en": "hoaa aap dhiaal manahu na visaarian ||",
       "hi": "होआ आपि दइआलु मनहु न विसारिअनु ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 182,
       "pn": "ਸਾਧ ਜਨਾ ਕੈ ਸੰਗਿ ਭਵਜਲੁ ਤਾਰਿਅਨੁ ॥",
       "en": "saadh janaa kai sa(n)g bhavajal taarian ||",
       "hi": "साध जना कै संगि भवजलु तारिअनु ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 182,
       "pn": "ਸਾਕਤ ਨਿੰਦਕ ਦੁਸਟ ਖਿਨ ਮਾਹਿ ਬਿਦਾਰਿਅਨੁ ॥",
       "en": "saakat ni(n)dhak dhusaT khin maeh bidhaarian ||",
       "hi": "साकत निंदक दुसट खिन माहि बिदारिअनु ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 182,
       "pn": "ਤਿਸੁ ਸਾਹਿਬ ਕੀ ਟੇਕ ਨਾਨਕ ਮਨੈ ਮਾਹਿ ॥",
       "en": "tis saahib kee Tek naanak manai maeh ||",
       "hi": "तिसु साहिब की टेक नानक मनै माहि ॥",
-      "es": false
+      "es": false,
+      "em": true
     },
     {
       "p": 182,
       "pn": "ਜਿਸੁ ਸਿਮਰਤ ਸੁਖੁ ਹੋਇ ਸਗਲੇ ਦੂਖ ਜਾਹਿ ॥੨॥",
       "en": "jis simarat sukh hoi sagale dhookh jaeh ||2||",
       "hi": "जिसु सिमरत सुखु होइ सगले दूख जाहि ॥२॥",
-      "es": false
+      "es": false,
+      "em": true
     }
   ]
 }
