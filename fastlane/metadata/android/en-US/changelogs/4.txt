@@ -1,0 +1,5 @@
+Bug fixes and performance improvements.
+
+- Removed unintended network permissions that were pulled in by a library
+- Cleaned up unused resources
+- Faster auto-scroll on large banis
