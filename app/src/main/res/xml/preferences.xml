@@ -16,7 +16,7 @@
             app:title="@string/pref_bani_length_title"
             app:entries="@array/bani_length_entries"
             app:entryValues="@array/bani_length_values"
-            app:defaultValue="m"
+            app:defaultValue="l"
             app:useSimpleSummaryProvider="true" />
 
         <SwitchPreferenceCompat

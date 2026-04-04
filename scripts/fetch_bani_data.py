@@ -55,6 +55,12 @@ def transform(raw: dict, slug: str) -> dict:
         v = verse.get("verse", {})
         header = verse.get("header", 0)
         para_id = verse.get("paragraph", 0)
+        mangal_position = verse.get("mangalPosition")
+
+        # Match STTM's Sundar Gutka behavior: exclude verses placed "above"
+        # the current shabad header from the normal reading flow.
+        if mangal_position == "above":
+            continue
 
         gurmukhi = v.get("verse", {}).get("unicode", "")
         transliteration = v.get("transliteration", {})

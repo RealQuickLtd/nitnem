@@ -8,7 +8,7 @@ enum class BaniLength(val prefValue: String) {
 
     companion object {
         fun fromPrefValue(value: String?): BaniLength {
-            return entries.firstOrNull { it.prefValue == value } ?: MEDIUM
+            return entries.firstOrNull { it.prefValue == value } ?: LONG
         }
     }
 }
