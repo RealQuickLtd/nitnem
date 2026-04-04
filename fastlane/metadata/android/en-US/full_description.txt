@@ -1,0 +1,20 @@
+Read your daily Nitnem banis anytime, anywhere — no internet needed. All 13 banis are bundled right in the app.
+
+Left off mid-reading? The app remembers where you were and offers to pick up where you stopped.
+
+Includes Japji Sahib, Jaap Sahib, Chaupai Sahib, Rehras Sahib, Kirtan Sohila, Anand Sahib, Sukhmani Sahib, Shabad Hazare, both Tavprasad Savaiye, Asa Di Vaar, Aarti, and Ardas.
+
+Features:
+- Adjustable font size
+- Auto-scroll with speed control
+- Resume reading from where you left off
+- Gurmukhi, English, and Hindi transliteration
+- Sukhmani Sahib Astpadi tabs for quick navigation
+- Center align option
+- Fullscreen mode
+- Keep screen on while reading
+- Per-bani font size and scroll speed
+
+Free, open source, no ads, no tracking. Built with a clean modern interface.
+
+Source code: https://github.com/RealQuickLtd/nitnem
