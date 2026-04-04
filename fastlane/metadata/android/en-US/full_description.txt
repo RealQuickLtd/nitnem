@@ -5,6 +5,7 @@ Left off mid-reading? The app remembers where you were and offers to pick up whe
 Includes Japji Sahib, Jaap Sahib, Chaupai Sahib, Rehras Sahib, Kirtan Sohila, Anand Sahib, Sukhmani Sahib, Shabad Hazare, both Tavprasad Savaiye, Asa Di Vaar, Aarti, and Ardas.
 
 Features:
+
 - Adjustable font size
 - Auto-scroll with speed control
 - Resume reading from where you left off

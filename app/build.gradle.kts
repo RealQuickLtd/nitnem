@@ -40,6 +40,11 @@ android {
         }
     }
 
+    dependenciesInfo {
+        includeInApk = false
+        includeInBundle = false
+    }
+
     buildFeatures {
         buildConfig = true
         viewBinding = true
