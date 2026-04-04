@@ -35,6 +35,11 @@ BANIS = [
     (90, "asa-di-vaar"),
 ]
 
+FORCE_MEDIUM_PARAGRAPHS = {
+    "chaupai-sahib": {42, 43, 44, 45},
+}
+
+
 def fetch_bani(bani_id: int) -> dict:
     url = f"{API_BASE}/{bani_id}"
     print(f"  Fetching {url}")
@@ -75,6 +80,11 @@ def transform(raw: dict, slug: str) -> dict:
         exists_medium = bool(verse.get("existsMedium", 1))
         exists_long = bool(verse.get("existsTaksal", 1))
         exists_extra_long = bool(verse.get("existsBuddhaDal", 1))
+
+        if para_id in FORCE_MEDIUM_PARAGRAPHS.get(slug, set()):
+            exists_medium = True
+            exists_long = True
+            exists_extra_long = True
 
         entry = {
             "p": para_id,
