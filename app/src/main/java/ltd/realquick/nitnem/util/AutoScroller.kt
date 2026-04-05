@@ -104,7 +104,7 @@ class AutoScroller(private val recyclerView: RecyclerView) {
 
     companion object {
         const val DEFAULT_SPEED = 100
-        const val MIN_SPEED = 60
-        const val MAX_SPEED = 160
+        const val MIN_SPEED = 40
+        const val MAX_SPEED = 180
     }
 }

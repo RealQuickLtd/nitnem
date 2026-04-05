@@ -130,7 +130,7 @@ class PrefsManager(context: Context) {
         const val FONT_SIZE_STEP = 1f
 
         const val DEFAULT_SCROLL_SPEED = 100 // percentage of current text line height per second
-        const val MIN_SCROLL_SPEED = 60
-        const val MAX_SCROLL_SPEED = 160
+        const val MIN_SCROLL_SPEED = 40
+        const val MAX_SCROLL_SPEED = 180
     }
 }
