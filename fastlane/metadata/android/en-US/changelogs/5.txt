@@ -1,0 +1,1 @@
+Auto-scroll speed range expanded to 40–180 for more flexibility.
