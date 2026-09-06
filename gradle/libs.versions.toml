@@ -1,25 +1,25 @@
 [versions]
-agp = "8.9.1"
-kotlin = "2.2.0"
+agp = "9.3.2"
+kotlin = "2.4.10"
 
-sesl-core = "1.17.0+1.0.7-sesl8+rev1"
-sesl-coreKtx = "1.17.0+1.0.0-sesl8+rev0"
-sesl-appcompat = "1.7.1+1.0.21-sesl8+rev8"
-sesl-material = "1.12.0+1.0.32-sesl8+rev2"
+sesl-core = "1.19.0+1.0.7-sesl8+rev1"
+sesl-coreKtx = "1.19.0+1.0.0-sesl8+rev1"
+sesl-appcompat = "1.8.0+1.0.21-sesl8+rev2"
+sesl-material = "1.12.0+1.0.32-sesl8+rev3"
 sesl-recyclerview = "1.4.0+1.0.12-sesl8+rev3"
 sesl-preference = "1.2.1+1.0.0-sesl8+rev1"
 sesl-coordinator = "1.3.0+1.0.0-sesl8+rev0"
-sesl-fragment = "1.8.9+1.0.5-sesl8+rev1"
+sesl-fragment = "1.9.0+1.0.5-sesl8+rev1"
 sesl-viewpager2 = "1.1.0+1.0.0-sesl8+rev0"
 sesl-customview = "1.2.0-rc01+1.0.0-sesl8+rev0"
 sesl-drawerlayout = "1.2.0+1.0.0-sesl8+rev0"
-sesl-slidingpanelayout = "1.2.0+1.0.4-sesl8+rev0"
+sesl-slidingpanelayout = "1.2.0+1.0.4-sesl8+rev1"
 sesl-swiperefreshlayout = "1.2.0-alpha01+1.0.0-sesl8+rev0"
 
-oneui-design = "0.9.7+oneui8"
+oneui-design = "0.9.19+oneui8"
 oneui-icons = "1.1.0"
 
-activity = "1.9.3"
+activity = "1.13.0"
 
 [libraries]
 sesl-core = { group = "sesl.androidx.core", name = "core", version.ref = "sesl-core" }
@@ -51,4 +51,7 @@ sesl-androidx = [
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+# Not applied. Declaring it puts KGP on the buildscript classpath, which is what
+# AGP built-in Kotlin compiles with; without it AGP falls back to Kotlin 2.2,
+# which cannot read the 2.4 metadata in oneui-design and kotlin-stdlib.
+kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }

@@ -5,7 +5,7 @@ Sikh daily prayer Android app using One UI style libraries.
 ## Build
 
 ```bash
-# Java 21, Gradle 8.12, GitHub package creds required
+# Java 21, Gradle 9.7.1 (AGP 9.3.2), GitHub package creds required
 gradle assembleDebug
 gradle assembleRelease
 gradle bundleRelease
@@ -17,7 +17,8 @@ python3 scripts/fetch_bani_data.py
 ## Stack
 
 - Kotlin
-- min SDK 26, target/compile SDK 35
+- min SDK 26, target SDK 37, compile SDK 37.1
+- SESL/OneUI require compiling against 37.1+
 - One UI via SESL / tribalfs libraries
 - Offline JSON assets in `app/src/main/assets/banis/`
 

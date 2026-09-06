@@ -72,8 +72,8 @@ class MainActivity : AppCompatActivity() {
             return true
         }
 
-        override fun onSearchModeToggle(searchView: SearchView, visible: Boolean) {
-            if (visible) {
+        override fun onSearchModeToggle(searchView: SearchView, isActive: Boolean) {
+            if (isActive) {
                 searchView.queryHint = getString(R.string.search_hint)
             } else {
                 adapter.filter("")

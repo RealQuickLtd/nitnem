@@ -1,18 +1,18 @@
 plugins {
     alias(libs.plugins.android.application)
-    alias(libs.plugins.kotlin.android)
 }
 
 android {
     namespace = "ltd.realquick.nitnem"
-    compileSdk = 35
+    compileSdk = 37
+    compileSdkMinor = 1
 
     defaultConfig {
         applicationId = "ltd.realquick.nitnem"
         minSdk = 26
-        targetSdk = 35
-        versionCode = 5
-        versionName = "1.0.2"
+        targetSdk = 37
+        versionCode = 6
+        versionName = "1.0.3"
         vectorDrawables.useSupportLibrary = true
     }
 
@@ -53,8 +53,8 @@ android {
 
 configurations.all {
     resolutionStrategy {
-        force("androidx.activity:activity:1.9.3")
-        force("androidx.activity:activity-ktx:1.9.3")
+        force("androidx.activity:activity:1.13.0")
+        force("androidx.activity:activity-ktx:1.13.0")
     }
 }
 
