@@ -1,0 +1,4 @@
+Updated for the latest Android version.
+
+- Upgraded dependencies
+- Under-the-hood improvements
